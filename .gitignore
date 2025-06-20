@@ -2,4 +2,57 @@
 Data/
 log
 models/AnyGPT
-models/Qwen2.5-Omni
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# macOS and system files
+.DS_Store
+
+# Log files
+*.log
+
+# Test output
+htmlcov/
+coverage.xml
+*.cover
+
+# Python distribution/build
+build/
+dist/
+*.egg-info/
+
+# MyPy and Pyright
+.mypy_cache/
+.pyright/
+
+# Pytest cache
+.pytest_cache/
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Database and data files
+*.sqlite3
+*.db
+*.h5
+*.csv
+*.tsv
+*.jsonl
+
+# Ignore specific files
+secret_config.py

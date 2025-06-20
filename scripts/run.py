@@ -6,6 +6,7 @@ import os
 
 PATH_TO_MODELS = {
     'gemini': './models/Genimi/run.py',
+    'qwen2.5_omni': './models/Qwen2.5-Omni/run.py',
 
 }
 
