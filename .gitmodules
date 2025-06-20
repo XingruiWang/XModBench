@@ -1,0 +1,3 @@
+[submodule "models/Qwen2.5-Omni"]
+	path = models/Qwen2.5-Omni
+	url = https://github.com/XingruiWang/qwen2.5-omni
