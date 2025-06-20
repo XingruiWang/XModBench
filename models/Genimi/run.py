@@ -7,6 +7,7 @@ from google.genai import types
 
 from audioBench import AudioBench
 import argparse
+from tqdm import tqdm
 
 
 API = {}
@@ -28,9 +29,13 @@ def get_question(questions, index):
     
     question = instance['question']
     
-    with open(instance['conditions']['input'], "rb") as f:
-        condition_byte = f.read()
     condition_modality = instance['conditions']['modality']
+    
+    if condition_modality != 'Text':
+        with open(instance['conditions']['input'], "rb") as f:
+            condition_byte = f.read()
+    else:
+        condition_byte = instance['conditions']['input']
     
     choices = instance['options']
     choises_type = instance['options']['A']['modality']
@@ -74,6 +79,10 @@ def _run_genimi(instance):
     condition_format_str = modality_to_format.get(condition_modality, "text")
     choices_format_str = modality_to_format.get(choices_type, "text")
     
+    if condition_modality == 'Text':
+        condition_data = condition_byte
+    else:
+        condition_data = types.Part.from_bytes(data=condition_byte, mime_type=condition_format_str)
     choise_data = {}
     
     for choice in choices_bytes:
@@ -82,11 +91,10 @@ def _run_genimi(instance):
         else:
             choise_data[choice] = types.Part.from_bytes(data=choices_bytes[choice], mime_type=choices_format_str),
     
-    
     contents = [
         question,
         f"{condition_modality}:",
-        types.Part.from_bytes(data=condition_byte, mime_type=condition_format_str),
+        condition_data,
         "A:",
         choise_data['A'],
         "B:",
@@ -126,7 +134,7 @@ def run_all_genimi(task_name, questions, sample = 100, save_dir = None):
     
     save_result['results'] = {}
     
-    for i in range(sample):
+    for i in tqdm(range(sample)):
         response = run_genimi(questions, i)
         if response is not None:
             all_count += 1

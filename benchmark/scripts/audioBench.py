@@ -10,7 +10,9 @@ class AudioBench():
                 'vggss_audio_vision': os.path.join(root_dir, '01_perception', 'vggss', 'vggss_audio_bench_questions_audio_vision.json'),
                 'vggss_vision_audio': os.path.join(root_dir, '01_perception', 'vggss', 'vggss_audio_bench_questions_vision_audio.json'),
                 'vggss_audio_text': os.path.join(root_dir, '01_perception', 'vggss', 'vggss_audio_bench_questions_audio_text.json'),
-                'vggss_vision_text': os.path.join(root_dir, '01_perception', 'vggss', 'vggss_audio_bench_questions_vision_text.json')
+                'vggss_vision_text': os.path.join(root_dir, '01_perception', 'vggss', 'vggss_audio_bench_questions_vision_text.json'),
+                'vggss_text_audio': os.path.join(root_dir, '01_perception', 'vggss', 'vggss_audio_bench_questions_text_audio.json'),
+                'vggss_text_vision': os.path.join(root_dir, '01_perception', 'vggss', 'vggss_audio_bench_questions_text_vision.json'),
             }
         }
         
