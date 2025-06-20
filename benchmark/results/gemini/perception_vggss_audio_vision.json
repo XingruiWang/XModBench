@@ -1,0 +1,15 @@
+{
+    "task_name": "perception/vggss_audio_vision",
+    "score": 0,
+    "correct_count": 0,
+    "all_count": 0,
+    "results": {
+        "0": {
+            "question": "Which image is most likely belongs to the object make this sound? Answer the question with A, B, C, or D",
+            "response": null,
+            "correct_answer": "B",
+            "index": 0,
+            "is_correct": false
+        }
+    }
+}

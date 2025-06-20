@@ -1,0 +1,5 @@
+.envs
+Data/
+log
+models/AnyGPT
+models/Qwen2.5-Omni
