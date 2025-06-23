@@ -1,8 +1,8 @@
 {
     "task_name": "perception/vggss_text_vision",
-    "score": 93.4409687184662,
-    "correct_count": 926,
-    "all_count": 991,
+    "score": 88.2,
+    "correct_count": 882,
+    "all_count": 1000,
     "results": {
         "0": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -13,10 +13,10 @@
         },
         "1": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "D",
+            "response": "B",
             "correct_answer": "D",
             "index": 1,
-            "is_correct": true
+            "is_correct": false
         },
         "2": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -48,10 +48,10 @@
         },
         "6": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "A",
+            "response": "No answer found",
             "correct_answer": "A",
             "index": 6,
-            "is_correct": true
+            "is_correct": false
         },
         "7": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -118,10 +118,10 @@
         },
         "16": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "**C**",
+            "response": "C",
             "correct_answer": "C",
             "index": 16,
-            "is_correct": false
+            "is_correct": true
         },
         "17": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -132,31 +132,31 @@
         },
         "18": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "**C**",
+            "response": "No answer found",
             "correct_answer": "C",
             "index": 18,
             "is_correct": false
         },
         "19": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "C",
+            "response": "No answer found",
             "correct_answer": "C",
             "index": 19,
-            "is_correct": true
+            "is_correct": false
         },
         "20": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "A",
+            "response": "No answer found",
             "correct_answer": "A",
             "index": 20,
-            "is_correct": true
+            "is_correct": false
         },
         "21": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "D",
+            "response": "No answer found",
             "correct_answer": "D",
             "index": 21,
-            "is_correct": true
+            "is_correct": false
         },
         "22": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -237,10 +237,10 @@
         },
         "33": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "B",
+            "response": "No answer found",
             "correct_answer": "B",
             "index": 33,
-            "is_correct": true
+            "is_correct": false
         },
         "34": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -349,10 +349,10 @@
         },
         "49": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": null,
+            "response": "A",
             "correct_answer": "A",
             "index": 49,
-            "is_correct": false
+            "is_correct": true
         },
         "50": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -398,10 +398,10 @@
         },
         "56": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "A",
+            "response": "D",
             "correct_answer": "A",
             "index": 56,
-            "is_correct": true
+            "is_correct": false
         },
         "57": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -412,10 +412,10 @@
         },
         "58": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "C",
+            "response": "No answer found",
             "correct_answer": "C",
             "index": 58,
-            "is_correct": true
+            "is_correct": false
         },
         "59": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -447,14 +447,14 @@
         },
         "63": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "C",
+            "response": "No answer found",
             "correct_answer": "C",
             "index": 63,
-            "is_correct": true
+            "is_correct": false
         },
         "64": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "D",
+            "response": "B",
             "correct_answer": "C",
             "index": 64,
             "is_correct": false
@@ -468,10 +468,10 @@
         },
         "66": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "B",
+            "response": "C",
             "correct_answer": "B",
             "index": 66,
-            "is_correct": true
+            "is_correct": false
         },
         "67": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -496,7 +496,7 @@
         },
         "70": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "There is no image of a baby crying. I cannot answer this question.",
+            "response": "No answer found",
             "correct_answer": "A",
             "index": 70,
             "is_correct": false
@@ -545,10 +545,10 @@
         },
         "77": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "A",
+            "response": "No answer found",
             "correct_answer": "A",
             "index": 77,
-            "is_correct": true
+            "is_correct": false
         },
         "78": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -566,17 +566,17 @@
         },
         "80": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "**C**",
+            "response": "C",
             "correct_answer": "C",
             "index": 80,
-            "is_correct": false
+            "is_correct": true
         },
         "81": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "D",
+            "response": "No answer found",
             "correct_answer": "D",
             "index": 81,
-            "is_correct": true
+            "is_correct": false
         },
         "82": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -594,14 +594,14 @@
         },
         "84": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "D",
+            "response": "No answer found",
             "correct_answer": "D",
             "index": 84,
-            "is_correct": true
+            "is_correct": false
         },
         "85": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "C",
+            "response": "No answer found",
             "correct_answer": "B",
             "index": 85,
             "is_correct": false
@@ -622,10 +622,10 @@
         },
         "88": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "D",
+            "response": "No answer found",
             "correct_answer": "D",
             "index": 88,
-            "is_correct": true
+            "is_correct": false
         },
         "89": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -657,10 +657,10 @@
         },
         "93": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "D",
+            "response": "No answer found",
             "correct_answer": "D",
             "index": 93,
-            "is_correct": true
+            "is_correct": false
         },
         "94": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -713,10 +713,10 @@
         },
         "101": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "**C**",
+            "response": "C",
             "correct_answer": "C",
             "index": 101,
-            "is_correct": false
+            "is_correct": true
         },
         "102": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -734,7 +734,7 @@
         },
         "104": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "D",
+            "response": "No answer found",
             "correct_answer": "C",
             "index": 104,
             "is_correct": false
@@ -832,10 +832,10 @@
         },
         "118": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "C",
+            "response": "No answer found",
             "correct_answer": "C",
             "index": 118,
-            "is_correct": true
+            "is_correct": false
         },
         "119": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -853,10 +853,10 @@
         },
         "121": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "A",
+            "response": "B",
             "correct_answer": "A",
             "index": 121,
-            "is_correct": true
+            "is_correct": false
         },
         "122": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -881,10 +881,10 @@
         },
         "125": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "C",
+            "response": "No answer found",
             "correct_answer": "C",
             "index": 125,
-            "is_correct": true
+            "is_correct": false
         },
         "126": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -916,10 +916,10 @@
         },
         "130": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "D",
+            "response": "C",
             "correct_answer": "C",
             "index": 130,
-            "is_correct": false
+            "is_correct": true
         },
         "131": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -951,10 +951,10 @@
         },
         "135": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "C",
+            "response": "B",
             "correct_answer": "B",
             "index": 135,
-            "is_correct": false
+            "is_correct": true
         },
         "136": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -1042,10 +1042,10 @@
         },
         "148": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": null,
+            "response": "B",
             "correct_answer": "B",
             "index": 148,
-            "is_correct": false
+            "is_correct": true
         },
         "149": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -1077,10 +1077,10 @@
         },
         "153": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "I cannot find any image representing \"Fireworks banging\". All of the pictures are too different from the prompt. It is difficult to find the best option. But A has some smoke or a sort of explosion.\n\nA",
+            "response": "A",
             "correct_answer": "A",
             "index": 153,
-            "is_correct": false
+            "is_correct": true
         },
         "154": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -1133,10 +1133,10 @@
         },
         "161": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "C",
+            "response": "No answer found",
             "correct_answer": "C",
             "index": 161,
-            "is_correct": true
+            "is_correct": false
         },
         "162": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -1203,7 +1203,7 @@
         },
         "171": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "The phrase \"Dog growling\" doesn't match any of the provided images. None of the images contains a dog, or any indication of a dog. Since none are a good match, I can't answer with A, B, C, or D. It is not possible to answer this question.",
+            "response": "No answer found",
             "correct_answer": "D",
             "index": 171,
             "is_correct": false
@@ -1224,10 +1224,10 @@
         },
         "174": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "A",
+            "response": "B",
             "correct_answer": "A",
             "index": 174,
-            "is_correct": true
+            "is_correct": false
         },
         "175": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -1238,10 +1238,10 @@
         },
         "176": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "D",
+            "response": "No answer found",
             "correct_answer": "D",
             "index": 176,
-            "is_correct": true
+            "is_correct": false
         },
         "177": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -1252,10 +1252,10 @@
         },
         "178": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "C",
+            "response": "No answer found",
             "correct_answer": "C",
             "index": 178,
-            "is_correct": true
+            "is_correct": false
         },
         "179": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -1266,17 +1266,17 @@
         },
         "180": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "C",
+            "response": "No answer found",
             "correct_answer": "B",
             "index": 180,
             "is_correct": false
         },
         "181": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "D",
+            "response": "No answer found",
             "correct_answer": "D",
             "index": 181,
-            "is_correct": true
+            "is_correct": false
         },
         "182": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -1301,10 +1301,10 @@
         },
         "185": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "A",
+            "response": "B",
             "correct_answer": "B",
             "index": 185,
-            "is_correct": false
+            "is_correct": true
         },
         "186": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -1483,10 +1483,10 @@
         },
         "211": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "D",
+            "response": "No answer found",
             "correct_answer": "D",
             "index": 211,
-            "is_correct": true
+            "is_correct": false
         },
         "212": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -1602,14 +1602,14 @@
         },
         "228": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "C",
+            "response": "No answer found",
             "correct_answer": "C",
             "index": 228,
-            "is_correct": true
+            "is_correct": false
         },
         "229": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "Based on the provided images, none of them directly represent an air horn. Therefore, the image that has some distant relation is B due to the presence of a hose from the vacuum cleaner.\n\nI am revising my answer. None of the images match the text \"Air horn\"\n\nTherefore, the answer is: None.",
+            "response": "No answer found",
             "correct_answer": "D",
             "index": 229,
             "is_correct": false
@@ -1700,10 +1700,10 @@
         },
         "242": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "C",
+            "response": "No answer found",
             "correct_answer": "C",
             "index": 242,
-            "is_correct": true
+            "is_correct": false
         },
         "243": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -1735,10 +1735,10 @@
         },
         "247": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": null,
+            "response": "D",
             "correct_answer": "D",
             "index": 247,
-            "is_correct": false
+            "is_correct": true
         },
         "248": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -1819,10 +1819,10 @@
         },
         "259": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "D",
+            "response": "No answer found",
             "correct_answer": "D",
             "index": 259,
-            "is_correct": true
+            "is_correct": false
         },
         "260": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -1889,10 +1889,10 @@
         },
         "269": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "D",
+            "response": "No answer found",
             "correct_answer": "D",
             "index": 269,
-            "is_correct": true
+            "is_correct": false
         },
         "270": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -1910,7 +1910,7 @@
         },
         "272": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "A",
+            "response": "No answer found",
             "correct_answer": "C",
             "index": 272,
             "is_correct": false
@@ -1945,10 +1945,10 @@
         },
         "277": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "A",
+            "response": "No answer found",
             "correct_answer": "A",
             "index": 277,
-            "is_correct": true
+            "is_correct": false
         },
         "278": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -1973,10 +1973,10 @@
         },
         "281": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "C",
+            "response": "No answer found",
             "correct_answer": "C",
             "index": 281,
-            "is_correct": true
+            "is_correct": false
         },
         "282": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -2092,7 +2092,7 @@
         },
         "298": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "There is no image of a cat. Therefore, there is no correct answer to this question.",
+            "response": "No answer found",
             "correct_answer": "C",
             "index": 298,
             "is_correct": false
@@ -2183,10 +2183,10 @@
         },
         "311": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "D",
+            "response": "No answer found",
             "correct_answer": "D",
             "index": 311,
-            "is_correct": true
+            "is_correct": false
         },
         "312": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -2225,10 +2225,10 @@
         },
         "317": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "A",
+            "response": "No answer found",
             "correct_answer": "A",
             "index": 317,
-            "is_correct": true
+            "is_correct": false
         },
         "318": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -2260,10 +2260,10 @@
         },
         "322": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "A",
+            "response": "No answer found",
             "correct_answer": "A",
             "index": 322,
-            "is_correct": true
+            "is_correct": false
         },
         "323": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -2309,17 +2309,17 @@
         },
         "329": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "C",
+            "response": "No answer found",
             "correct_answer": "C",
             "index": 329,
-            "is_correct": true
+            "is_correct": false
         },
         "330": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "D",
+            "response": "A",
             "correct_answer": "A",
             "index": 330,
-            "is_correct": false
+            "is_correct": true
         },
         "331": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -2330,17 +2330,17 @@
         },
         "332": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "C",
+            "response": "No answer found",
             "correct_answer": "C",
             "index": 332,
-            "is_correct": true
+            "is_correct": false
         },
         "333": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "B",
+            "response": "No answer found",
             "correct_answer": "B",
             "index": 333,
-            "is_correct": true
+            "is_correct": false
         },
         "334": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -2358,7 +2358,7 @@
         },
         "336": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": null,
+            "response": "No answer found",
             "correct_answer": "A",
             "index": 336,
             "is_correct": false
@@ -2414,10 +2414,10 @@
         },
         "344": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "C",
+            "response": "No answer found",
             "correct_answer": "C",
             "index": 344,
-            "is_correct": true
+            "is_correct": false
         },
         "345": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -2442,10 +2442,10 @@
         },
         "348": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "A",
+            "response": "No answer found",
             "correct_answer": "A",
             "index": 348,
-            "is_correct": true
+            "is_correct": false
         },
         "349": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -2456,10 +2456,10 @@
         },
         "350": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "D",
+            "response": "No answer found",
             "correct_answer": "D",
             "index": 350,
-            "is_correct": true
+            "is_correct": false
         },
         "351": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -2484,10 +2484,10 @@
         },
         "354": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "D",
+            "response": "No answer found",
             "correct_answer": "D",
             "index": 354,
-            "is_correct": true
+            "is_correct": false
         },
         "355": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -2498,17 +2498,17 @@
         },
         "356": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "**C**",
+            "response": "C",
             "correct_answer": "C",
             "index": 356,
-            "is_correct": false
+            "is_correct": true
         },
         "357": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "A",
+            "response": "D",
             "correct_answer": "A",
             "index": 357,
-            "is_correct": true
+            "is_correct": false
         },
         "358": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -2540,10 +2540,10 @@
         },
         "362": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "**C**",
+            "response": "C",
             "correct_answer": "C",
             "index": 362,
-            "is_correct": false
+            "is_correct": true
         },
         "363": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -2750,7 +2750,7 @@
         },
         "392": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "None of the images directly depict or relate to the sound of \"cat caterwauling\". However, based on a very loose association:\n\n*   Caterwauling is an unpleasant screeching sound, and saxophones can produce such a sound if played poorly or discordantly.\n\nTherefore, the answer is D.",
+            "response": "No answer found",
             "correct_answer": "B",
             "index": 392,
             "is_correct": false
@@ -2806,10 +2806,10 @@
         },
         "400": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "C",
+            "response": "B",
             "correct_answer": "C",
             "index": 400,
-            "is_correct": true
+            "is_correct": false
         },
         "401": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -2834,10 +2834,10 @@
         },
         "404": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "A",
+            "response": "No answer found",
             "correct_answer": "A",
             "index": 404,
-            "is_correct": true
+            "is_correct": false
         },
         "405": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -2855,10 +2855,10 @@
         },
         "407": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "C",
+            "response": "D",
             "correct_answer": "D",
             "index": 407,
-            "is_correct": false
+            "is_correct": true
         },
         "408": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -2988,10 +2988,10 @@
         },
         "426": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": null,
+            "response": "B",
             "correct_answer": "B",
             "index": 426,
-            "is_correct": false
+            "is_correct": true
         },
         "427": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -3030,10 +3030,10 @@
         },
         "432": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": null,
+            "response": "B",
             "correct_answer": "B",
             "index": 432,
-            "is_correct": false
+            "is_correct": true
         },
         "433": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -3065,7 +3065,7 @@
         },
         "437": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "None of the images show people eating crisps. Therefore, none of the images are likely to belong to the phrase. It is impossible to answer this question.",
+            "response": "No answer found",
             "correct_answer": "C",
             "index": 437,
             "is_correct": false
@@ -3121,7 +3121,7 @@
         },
         "445": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "C",
+            "response": "No answer found",
             "correct_answer": "B",
             "index": 445,
             "is_correct": false
@@ -3303,10 +3303,10 @@
         },
         "471": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "D",
+            "response": "B",
             "correct_answer": "D",
             "index": 471,
-            "is_correct": true
+            "is_correct": false
         },
         "472": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -3331,10 +3331,10 @@
         },
         "475": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "A",
+            "response": "No answer found",
             "correct_answer": "A",
             "index": 475,
-            "is_correct": true
+            "is_correct": false
         },
         "476": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -3464,10 +3464,10 @@
         },
         "494": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "C",
+            "response": "A",
             "correct_answer": "C",
             "index": 494,
-            "is_correct": true
+            "is_correct": false
         },
         "495": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -3499,10 +3499,10 @@
         },
         "499": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "A",
+            "response": "No answer found",
             "correct_answer": "A",
             "index": 499,
-            "is_correct": true
+            "is_correct": false
         },
         "500": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -3576,10 +3576,10 @@
         },
         "510": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "C",
+            "response": "No answer found",
             "correct_answer": "C",
             "index": 510,
-            "is_correct": true
+            "is_correct": false
         },
         "511": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -3709,10 +3709,10 @@
         },
         "529": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "C",
+            "response": "D",
             "correct_answer": "C",
             "index": 529,
-            "is_correct": true
+            "is_correct": false
         },
         "530": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -3730,10 +3730,10 @@
         },
         "532": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "**C**",
+            "response": "C",
             "correct_answer": "C",
             "index": 532,
-            "is_correct": false
+            "is_correct": true
         },
         "533": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -3744,10 +3744,10 @@
         },
         "534": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "A",
+            "response": "No answer found",
             "correct_answer": "A",
             "index": 534,
-            "is_correct": true
+            "is_correct": false
         },
         "535": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -3786,10 +3786,10 @@
         },
         "540": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "A",
+            "response": "No answer found",
             "correct_answer": "A",
             "index": 540,
-            "is_correct": true
+            "is_correct": false
         },
         "541": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -3800,10 +3800,10 @@
         },
         "542": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "A",
+            "response": "No answer found",
             "correct_answer": "A",
             "index": 542,
-            "is_correct": true
+            "is_correct": false
         },
         "543": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -3814,10 +3814,10 @@
         },
         "544": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "C",
+            "response": "B",
             "correct_answer": "B",
             "index": 544,
-            "is_correct": false
+            "is_correct": true
         },
         "545": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -3835,10 +3835,10 @@
         },
         "547": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "D",
+            "response": "No answer found",
             "correct_answer": "D",
             "index": 547,
-            "is_correct": true
+            "is_correct": false
         },
         "548": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -3863,10 +3863,10 @@
         },
         "551": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "C",
+            "response": "No answer found",
             "correct_answer": "C",
             "index": 551,
-            "is_correct": true
+            "is_correct": false
         },
         "552": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -3877,17 +3877,17 @@
         },
         "553": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "None of the images show people belly laughing. It's impossible to definitively choose the \"most likely\" one based on the prompt. I don't recommend any images.",
+            "response": "No answer found",
             "correct_answer": "A",
             "index": 553,
             "is_correct": false
         },
         "554": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "D",
+            "response": "No answer found",
             "correct_answer": "D",
             "index": 554,
-            "is_correct": true
+            "is_correct": false
         },
         "555": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -3933,10 +3933,10 @@
         },
         "561": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "**C**",
+            "response": "C",
             "correct_answer": "C",
             "index": 561,
-            "is_correct": false
+            "is_correct": true
         },
         "562": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -4031,7 +4031,7 @@
         },
         "575": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "There's no image of a snake so the answer is none of the provided images, but if i have to choose one, it would be D.",
+            "response": "No answer found",
             "correct_answer": "A",
             "index": 575,
             "is_correct": false
@@ -4087,7 +4087,7 @@
         },
         "583": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "None of the images depict a bird. Therefore, none of them are a good match for the phrase \"Bird squawking\". I am unable to determine the best answer.",
+            "response": "No answer found",
             "correct_answer": "B",
             "index": 583,
             "is_correct": false
@@ -4192,10 +4192,10 @@
         },
         "598": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "D",
+            "response": "No answer found",
             "correct_answer": "D",
             "index": 598,
-            "is_correct": true
+            "is_correct": false
         },
         "599": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -4241,10 +4241,10 @@
         },
         "605": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "B",
+            "response": "No answer found",
             "correct_answer": "B",
             "index": 605,
-            "is_correct": true
+            "is_correct": false
         },
         "606": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -4262,10 +4262,10 @@
         },
         "608": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "C",
+            "response": "No answer found",
             "correct_answer": "C",
             "index": 608,
-            "is_correct": true
+            "is_correct": false
         },
         "609": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -4297,7 +4297,7 @@
         },
         "613": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "A",
+            "response": "No answer found",
             "correct_answer": "B",
             "index": 613,
             "is_correct": false
@@ -4325,10 +4325,10 @@
         },
         "617": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "B",
+            "response": "No answer found",
             "correct_answer": "B",
             "index": 617,
-            "is_correct": true
+            "is_correct": false
         },
         "618": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -4353,10 +4353,10 @@
         },
         "621": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "None of the images depict someone driving a motorcycle. Therefore, none of them are suitable. It's possible the question is incomplete, or there's an error.",
+            "response": "A",
             "correct_answer": "A",
             "index": 621,
-            "is_correct": false
+            "is_correct": true
         },
         "622": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -4381,17 +4381,17 @@
         },
         "625": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "B",
+            "response": "A",
             "correct_answer": "A",
             "index": 625,
-            "is_correct": false
+            "is_correct": true
         },
         "626": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": null,
+            "response": "D",
             "correct_answer": "D",
             "index": 626,
-            "is_correct": false
+            "is_correct": true
         },
         "627": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -4437,10 +4437,10 @@
         },
         "633": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "A",
+            "response": "No answer found",
             "correct_answer": "A",
             "index": 633,
-            "is_correct": true
+            "is_correct": false
         },
         "634": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -4451,10 +4451,10 @@
         },
         "635": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "C",
+            "response": "No answer found",
             "correct_answer": "C",
             "index": 635,
-            "is_correct": true
+            "is_correct": false
         },
         "636": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -4472,10 +4472,10 @@
         },
         "638": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "**D**",
+            "response": "D",
             "correct_answer": "D",
             "index": 638,
-            "is_correct": false
+            "is_correct": true
         },
         "639": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -4556,10 +4556,10 @@
         },
         "650": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "There is no image that corresponds to the sound a \"snake hissing\". Therefore, the best answer is none of the above. Since I am required to pick between the lettered options, I will choose a letter at random: A",
+            "response": "B",
             "correct_answer": "B",
             "index": 650,
-            "is_correct": false
+            "is_correct": true
         },
         "651": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -4598,10 +4598,10 @@
         },
         "656": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "B",
+            "response": "No answer found",
             "correct_answer": "B",
             "index": 656,
-            "is_correct": true
+            "is_correct": false
         },
         "657": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -4654,10 +4654,10 @@
         },
         "664": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "D",
+            "response": "No answer found",
             "correct_answer": "D",
             "index": 664,
-            "is_correct": true
+            "is_correct": false
         },
         "665": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -4822,7 +4822,7 @@
         },
         "688": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "None of the images show or relate to \"dog baying.\" However, since image A has a lion and lion are similar to dogs, A might be the closest related.\n\nTherefore, the answer is A.",
+            "response": "No answer found",
             "correct_answer": "C",
             "index": 688,
             "is_correct": false
@@ -4843,10 +4843,10 @@
         },
         "691": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "D",
+            "response": "No answer found",
             "correct_answer": "D",
             "index": 691,
-            "is_correct": true
+            "is_correct": false
         },
         "692": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -5039,10 +5039,10 @@
         },
         "719": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "B",
+            "response": "A",
             "correct_answer": "A",
             "index": 719,
-            "is_correct": false
+            "is_correct": true
         },
         "720": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -5438,24 +5438,24 @@
         },
         "776": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": null,
+            "response": "A",
             "correct_answer": "A",
             "index": 776,
-            "is_correct": false
+            "is_correct": true
         },
         "777": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "**C**",
+            "response": "C",
             "correct_answer": "C",
             "index": 777,
-            "is_correct": false
+            "is_correct": true
         },
         "778": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "A",
+            "response": "C",
             "correct_answer": "C",
             "index": 778,
-            "is_correct": false
+            "is_correct": true
         },
         "779": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -5494,17 +5494,17 @@
         },
         "784": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "C",
+            "response": "No answer found",
             "correct_answer": "C",
             "index": 784,
-            "is_correct": true
+            "is_correct": false
         },
         "785": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "It is not possible to determine whether any of the images match the text \"machine gun shooting\" without additional information or visual context in the images. The images do not contain any visual context that would help identify if they match this phrase.",
+            "response": "A",
             "correct_answer": "A",
             "index": 785,
-            "is_correct": false
+            "is_correct": true
         },
         "786": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -5522,7 +5522,7 @@
         },
         "788": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "None of the images are relevant to an airplane, however based on popular naming conventions for toys, the image A of the hair dryer looks somewhat like an airplane, so it is the closest answer.\nA",
+            "response": "No answer found",
             "correct_answer": "D",
             "index": 788,
             "is_correct": false
@@ -5585,10 +5585,10 @@
         },
         "797": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "**C**",
+            "response": "C",
             "correct_answer": "C",
             "index": 797,
-            "is_correct": false
+            "is_correct": true
         },
         "798": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -5613,7 +5613,7 @@
         },
         "801": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "There are no images of anyone playing the accordion. Thus, there is no correct answer.",
+            "response": "No answer found",
             "correct_answer": "A",
             "index": 801,
             "is_correct": false
@@ -5634,10 +5634,10 @@
         },
         "804": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "A",
+            "response": "No answer found",
             "correct_answer": "A",
             "index": 804,
-            "is_correct": true
+            "is_correct": false
         },
         "805": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -5732,10 +5732,10 @@
         },
         "818": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "A",
+            "response": "D",
             "correct_answer": "A",
             "index": 818,
-            "is_correct": true
+            "is_correct": false
         },
         "819": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -5963,17 +5963,17 @@
         },
         "851": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "C",
+            "response": "No answer found",
             "correct_answer": "C",
             "index": 851,
-            "is_correct": true
+            "is_correct": false
         },
         "852": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "A",
+            "response": "No answer found",
             "correct_answer": "A",
             "index": 852,
-            "is_correct": true
+            "is_correct": false
         },
         "853": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -5984,10 +5984,10 @@
         },
         "854": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "D",
+            "response": "C",
             "correct_answer": "D",
             "index": 854,
-            "is_correct": true
+            "is_correct": false
         },
         "855": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -6054,10 +6054,10 @@
         },
         "864": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "C",
+            "response": "D",
             "correct_answer": "C",
             "index": 864,
-            "is_correct": true
+            "is_correct": false
         },
         "865": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -6089,7 +6089,7 @@
         },
         "869": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "There is no image showing or suggesting \"Baby laughter\". Therefore, it is impossible to tell which image is most likely to belong to \"Baby laughter\".",
+            "response": "No answer found",
             "correct_answer": "A",
             "index": 869,
             "is_correct": false
@@ -6124,10 +6124,10 @@
         },
         "874": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "**C**",
+            "response": "C",
             "correct_answer": "C",
             "index": 874,
-            "is_correct": false
+            "is_correct": true
         },
         "875": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -6201,10 +6201,10 @@
         },
         "885": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "C",
+            "response": "No answer found",
             "correct_answer": "C",
             "index": 885,
-            "is_correct": true
+            "is_correct": false
         },
         "886": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -6215,10 +6215,10 @@
         },
         "887": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "D",
+            "response": "No answer found",
             "correct_answer": "D",
             "index": 887,
-            "is_correct": true
+            "is_correct": false
         },
         "888": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -6257,7 +6257,7 @@
         },
         "893": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "None of the images depict people sneezing. Therefore, none of them are a good fit for the phrase. I am unable to determine the most suitable image.",
+            "response": "No answer found",
             "correct_answer": "B",
             "index": 893,
             "is_correct": false
@@ -6376,10 +6376,10 @@
         },
         "910": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "B",
+            "response": "A",
             "correct_answer": "A",
             "index": 910,
-            "is_correct": false
+            "is_correct": true
         },
         "911": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -6390,10 +6390,10 @@
         },
         "912": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": null,
+            "response": "B",
             "correct_answer": "B",
             "index": 912,
-            "is_correct": false
+            "is_correct": true
         },
         "913": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -6488,10 +6488,10 @@
         },
         "926": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "D",
+            "response": "No answer found",
             "correct_answer": "D",
             "index": 926,
-            "is_correct": true
+            "is_correct": false
         },
         "927": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -6530,10 +6530,10 @@
         },
         "932": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "A",
+            "response": "No answer found",
             "correct_answer": "A",
             "index": 932,
-            "is_correct": true
+            "is_correct": false
         },
         "933": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -6628,7 +6628,7 @@
         },
         "946": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "Based on the prompt, none of the provided images are related to the given phrase \"Ice cream truck, ice cream van\". Therefore, none of the given answers (A, B, C, or D) are correct.",
+            "response": "No answer found",
             "correct_answer": "C",
             "index": 946,
             "is_correct": false
@@ -6740,10 +6740,10 @@
         },
         "962": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "D",
+            "response": "No answer found",
             "correct_answer": "D",
             "index": 962,
-            "is_correct": true
+            "is_correct": false
         },
         "963": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -6761,7 +6761,7 @@
         },
         "965": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "Unfortunately, none of the provided images show a goat. I am unable to choose an image that goes with the phrase \"Goat bleating.\"",
+            "response": "No answer found",
             "correct_answer": "A",
             "index": 965,
             "is_correct": false
@@ -6824,10 +6824,10 @@
         },
         "974": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "D",
+            "response": "C",
             "correct_answer": "D",
             "index": 974,
-            "is_correct": true
+            "is_correct": false
         },
         "975": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
@@ -6880,7 +6880,7 @@
         },
         "982": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "None of the images depict a cat caterwauling. Since \"caterwauling\" refers to a cat's screeching or wailing sound, none of the images are relevant. Therefore, this question cannot be answered appropriately.",
+            "response": "No answer found",
             "correct_answer": "B",
             "index": 982,
             "is_correct": false
@@ -6894,7 +6894,7 @@
         },
         "984": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "Based on the text \"Ice cream truck, ice cream van\", none of the images provided are relevant. Therefore, the answer is none of the above. But since I must choose one, I'll go with a random image to provide an answer.\n\n**A**",
+            "response": "C",
             "correct_answer": "D",
             "index": 984,
             "is_correct": false
@@ -6936,17 +6936,17 @@
         },
         "990": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "**C**",
+            "response": "C",
             "correct_answer": "C",
             "index": 990,
-            "is_correct": false
+            "is_correct": true
         },
         "991": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
-            "response": "C",
+            "response": "No answer found",
             "correct_answer": "C",
             "index": 991,
-            "is_correct": true
+            "is_correct": false
         },
         "992": {
             "question": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
