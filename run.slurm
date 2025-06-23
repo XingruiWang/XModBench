@@ -15,7 +15,7 @@ conda activate omni
 export audioBench='/home/xwang378/scratch/2025/AudioBench'
 
 
-######################## Qwen2.5-Omni ########################
+######################## Qwen2.5-Omni; VGGSS ########################
 
 # python $audioBench/scripts/run.py \
 #         --model qwen2.5_omni \
@@ -33,10 +33,50 @@ export audioBench='/home/xwang378/scratch/2025/AudioBench'
 #     --sample 1000
 
 
+# python $audioBench/scripts/run.py \
+#     --model qwen2.5_omni \
+#     --task_name perception/vggss_text_audio \
+#     --sample 1000
+
+# python $audioBench/scripts/run.py \
+#     --model qwen2.5_omni \
+#     --task_name perception/vggss_vision_audio \
+#     --sample 1000
+
 python $audioBench/scripts/run.py \
     --model qwen2.5_omni \
-    --task_name perception/vggss_text_audio \
+    --task_name perception/vggss_audio_vision \
     --sample 1000
 
+######################## Qwen2.5-Omni; SOLOS ########################
 
 
+# python $audioBench/scripts/run.py \
+#     --model qwen2.5_omni \
+#     --task_name perception/solos_vision_audio \
+#     --sample 1000
+
+# python $audioBench/scripts/run.py \
+#     --model qwen2.5_omni \
+#     --task_name perception/solos_audio_vision \
+#     --sample 1000
+
+# python $audioBench/scripts/run.py \
+#     --model qwen2.5_omni \
+#     --task_name perception/solos_vision_text \
+#     --sample 1000
+
+# python $audioBench/scripts/run.py \
+#     --model qwen2.5_omni \
+#     --task_name perception/solos_audio_text \
+#     --sample 1000
+
+# python $audioBench/scripts/run.py \
+#     --model qwen2.5_omni \
+#     --task_name perception/solos_text_vision \
+#     --sample 1000
+
+# python $audioBench/scripts/run.py \
+#     --model qwen2.5_omni \
+#     --task_name perception/solos_text_audio \
+#     --sample 1000

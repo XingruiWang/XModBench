@@ -1,0 +1,78 @@
+{
+    "task_name": "perception/solos_vision_audio",
+    "score": 10.0,
+    "correct_count": 1,
+    "all_count": 10,
+    "results": {
+        "0": {
+            "question": "Which image most likely belongs to the object that make this sound? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 0,
+            "is_correct": true
+        },
+        "1": {
+            "question": "Which image most likely belongs to the object that make this sound? Answer the question with A, B, C, or D",
+            "response": "No answer found",
+            "correct_answer": "A",
+            "index": 1,
+            "is_correct": false
+        },
+        "2": {
+            "question": "Which image most likely belongs to the object that make this sound? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 2,
+            "is_correct": false
+        },
+        "3": {
+            "question": "Which image most likely belongs to the object that make this sound? Answer the question with A, B, C, or D",
+            "response": "No answer found",
+            "correct_answer": "C",
+            "index": 3,
+            "is_correct": false
+        },
+        "4": {
+            "question": "Which image most likely belongs to the object that make this sound? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 4,
+            "is_correct": false
+        },
+        "5": {
+            "question": "Which image most likely belongs to the object that make this sound? Answer the question with A, B, C, or D",
+            "response": "No answer found",
+            "correct_answer": "C",
+            "index": 5,
+            "is_correct": false
+        },
+        "6": {
+            "question": "Which image most likely belongs to the object that make this sound? Answer the question with A, B, C, or D",
+            "response": "No answer found",
+            "correct_answer": "B",
+            "index": 6,
+            "is_correct": false
+        },
+        "7": {
+            "question": "Which image most likely belongs to the object that make this sound? Answer the question with A, B, C, or D",
+            "response": "No answer found",
+            "correct_answer": "C",
+            "index": 7,
+            "is_correct": false
+        },
+        "8": {
+            "question": "Which image most likely belongs to the object that make this sound? Answer the question with A, B, C, or D",
+            "response": "No answer found",
+            "correct_answer": "B",
+            "index": 8,
+            "is_correct": false
+        },
+        "9": {
+            "question": "Which image most likely belongs to the object that make this sound? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 9,
+            "is_correct": false
+        }
+    }
+}
