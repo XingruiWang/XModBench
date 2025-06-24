@@ -8011,7 +8011,7 @@
         "question": "Which sound is most likely made by the object from this image? Answer the question with A, B, C, or D",
         "conditions": {
             "modality": "Image",
-            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/solos_processed/Cello/1X2l_1za1g0.jpg"
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/solos_processed/Cello/1u3yHICR_BU.jpg"
         },
         "options": {
             "A": {
@@ -8020,7 +8020,7 @@
             },
             "B": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/solos_processed/Cello/1X2l_1za1g0.wav"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/solos_processed/Cello/1u3yHICR_BU.wav"
             },
             "C": {
                 "modality": "Audio",
@@ -15226,7 +15226,7 @@
             },
             "C": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/solos_processed/Cello/1X2l_1za1g0.wav"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/solos_processed/Cello/1u3yHICR_BU.wav"
             },
             "D": {
                 "modality": "Audio",

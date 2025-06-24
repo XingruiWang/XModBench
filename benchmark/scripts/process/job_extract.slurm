@@ -8,4 +8,5 @@
 module load conda
 conda activate omni
 
-python generate_solos.py
+# python process_solos.py
+python process_spatial_audio.py

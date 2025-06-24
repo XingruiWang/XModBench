@@ -19,8 +19,12 @@ class AudioBench():
                 'solos_audio_text': os.path.join(root_dir, '01_perception', 'solos', 'solos_audio_bench_questions_audio_text.json'),
                 'solos_text_audio': os.path.join(root_dir, '01_perception', 'solos', 'solos_audio_bench_questions_text_audio.json'),
                 'solos_text_vision': os.path.join(root_dir, '01_perception', 'solos', 'solos_audio_bench_questions_text_vision.json'),
-            
-            
+                'urmp_audio_vision': os.path.join(root_dir, '01_perception', 'URMP', 'URMP_audio_bench_questions_audio_vision.json'),
+                'urmp_vision_audio': os.path.join(root_dir, '01_perception', 'URMP', 'URMP_audio_bench_questions_vision_audio.json'),
+                'urmp_audio_text': os.path.join(root_dir, '01_perception', 'URMP', 'URMP_audio_bench_questions_audio_text.json'),
+                'urmp_text_audio': os.path.join(root_dir, '01_perception', 'URMP', 'URMP_audio_bench_questions_text_audio.json'),
+                'urmp_vision_text': os.path.join(root_dir, '01_perception', 'URMP', 'URMP_audio_bench_questions_vision_text.json'),
+                'urmp_text_vision': os.path.join(root_dir, '01_perception', 'URMP', 'URMP_audio_bench_questions_text_vision.json'),
             }
         }
         

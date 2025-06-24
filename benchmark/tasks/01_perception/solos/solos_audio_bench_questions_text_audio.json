@@ -8020,7 +8020,7 @@
             },
             "B": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/solos_processed/Cello/1X2l_1za1g0.wav"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/solos_processed/Cello/1u3yHICR_BU.wav"
             },
             "C": {
                 "modality": "Audio",
@@ -15226,7 +15226,7 @@
             },
             "C": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/solos_processed/Cello/1X2l_1za1g0.wav"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/solos_processed/Cello/1u3yHICR_BU.wav"
             },
             "D": {
                 "modality": "Audio",

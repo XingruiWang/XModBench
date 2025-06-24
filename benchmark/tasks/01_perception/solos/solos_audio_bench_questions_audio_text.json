@@ -8011,32 +8011,6 @@
         "question": "Which phrase is most likely to describe the sound in this audio? Answer the question with A, B, C, or D.",
         "conditions": {
             "modality": "Audio",
-            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/solos_processed/Cello/1X2l_1za1g0.wav"
-        },
-        "options": {
-            "A": {
-                "modality": "Text",
-                "input": "Flute"
-            },
-            "B": {
-                "modality": "Text",
-                "input": "Cello"
-            },
-            "C": {
-                "modality": "Text",
-                "input": "Horn"
-            },
-            "D": {
-                "modality": "Text",
-                "input": "Saxophone"
-            }
-        },
-        "correct_answer": "B"
-    },
-    {
-        "question": "Which phrase is most likely to describe the sound in this audio? Answer the question with A, B, C, or D.",
-        "conditions": {
-            "modality": "Audio",
             "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/solos_processed/Saxophone/ENa-FK70gMQ.wav"
         },
         "options": {
