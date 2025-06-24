@@ -8011,7 +8011,7 @@
         "question": "Which phrase is most likely to describe the object in this image? Answer the question with A, B, C, or D",
         "conditions": {
             "modality": "Image",
-            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/solos_processed/Cello/1X2l_1za1g0.jpg"
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/solos_processed/Cello/1u3yHICR_BU.jpg"
         },
         "options": {
             "A": {

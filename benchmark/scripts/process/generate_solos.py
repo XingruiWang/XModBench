@@ -17,7 +17,7 @@ def generate_question_audio_vision(audio_choices, audio_paths, correct_answer, f
     correct_audio_sample = audio_paths[ord(correct_answer) - ord('A')]
     
     question = {
-        "question": "Which image most likely belongs to the object that make this sound? Answer the question with A, B, C, or D",
+        "question": "Which image most likely belongs to the objects that make this sound? Answer the question with A, B, C, or D",
         "conditions": {
             "modality": "Audio",
             "input": correct_audio_sample,
@@ -59,7 +59,7 @@ def generate_question_vision_audio(audio_choices, audio_paths, correct_answer, f
         image_path = correct_audio_sample.replace('.wav', '.jpg')  # Use the corresponding image  
 
     question = {
-        "question": "Which sound is most likely made by the object from this image? Answer the question with A, B, C, or D",
+        "question": "Which sound is most likely made by the objects from this image? Answer the question with A, B, C, or D",
         "conditions": {
             "modality": "Image",
             "input": image_path,
@@ -141,6 +141,8 @@ def sample_instances(audio_choices, root_dir, mode='classes'):
                 if audio_files:
                     sampled_file = random.choice(audio_files)
                     all_audio_choices.append(os.path.join(class_dir, sampled_file))
+                else:
+                    print(f"No audio files found in {class_dir}")
     
     elif mode == 'instances':
         all_audio_choices = [os.path.join(root_dir, audio_choice) for audio_choice in audio_choices if audio_choice.endswith('.wav')]
@@ -149,11 +151,12 @@ def sample_instances(audio_choices, root_dir, mode='classes'):
 if __name__ == "__main__":
     random.seed(42)  # For reproducibility
     
-    DATASET_NAME = 'solos'  # or 'vggss'
-    root_dir = "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/solos_processed"
+    DATASET_NAME = 'URMP'  # or 'vggss'
+    root_dir = "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/URMP_processed"
     mode = 'classes' # or instances
+    N = 200
     
-    export_dir = '/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/solos'
+    export_dir = '/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/URMP'
     if mode == 'classes':
         all_choices = os.listdir(root_dir)
     elif mode == 'instances':
@@ -165,8 +168,9 @@ if __name__ == "__main__":
     
     audio_questions = []
     vision_questions = []
-    for i in range(1000):
+    for i in range(N):
         audio_choices = random.sample(all_choices, 4)
+        
         audio_paths = sample_instances(audio_choices, root_dir, mode=mode)
 
         correct_answers = random.choice(['A', 'B', 'C', 'D'])
@@ -181,7 +185,7 @@ if __name__ == "__main__":
         audio_questions.append(question_audio)
         vision_questions.append(question_vision)
 
-    
+    os.makedirs(export_dir, exist_ok=True)
     with open(f"{export_dir}/{DATASET_NAME}_audio_bench_questions_audio_vision.json", "w") as f:
         json.dump(audio_questions, f, indent=4)
     with open(f"{export_dir}/{DATASET_NAME}_audio_bench_questions_vision_audio.json", "w") as f:

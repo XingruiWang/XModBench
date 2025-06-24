@@ -1,0 +1,1408 @@
+{
+    "task_name": "perception/urmp_audio_text",
+    "score": 51.5,
+    "correct_count": 103,
+    "all_count": 200,
+    "results": {
+        "0": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 0,
+            "is_correct": true
+        },
+        "1": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 1,
+            "is_correct": true
+        },
+        "2": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 2,
+            "is_correct": false
+        },
+        "3": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 3,
+            "is_correct": false
+        },
+        "4": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 4,
+            "is_correct": true
+        },
+        "5": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "No answer found",
+            "correct_answer": "C",
+            "index": 5,
+            "is_correct": false
+        },
+        "6": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "No answer found",
+            "correct_answer": "C",
+            "index": 6,
+            "is_correct": false
+        },
+        "7": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 7,
+            "is_correct": true
+        },
+        "8": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "No answer found",
+            "correct_answer": "A",
+            "index": 8,
+            "is_correct": false
+        },
+        "9": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 9,
+            "is_correct": true
+        },
+        "10": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 10,
+            "is_correct": false
+        },
+        "11": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "No answer found",
+            "correct_answer": "B",
+            "index": 11,
+            "is_correct": false
+        },
+        "12": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 12,
+            "is_correct": true
+        },
+        "13": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 13,
+            "is_correct": true
+        },
+        "14": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 14,
+            "is_correct": true
+        },
+        "15": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 15,
+            "is_correct": false
+        },
+        "16": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 16,
+            "is_correct": true
+        },
+        "17": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 17,
+            "is_correct": false
+        },
+        "18": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 18,
+            "is_correct": false
+        },
+        "19": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 19,
+            "is_correct": false
+        },
+        "20": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 20,
+            "is_correct": true
+        },
+        "21": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 21,
+            "is_correct": false
+        },
+        "22": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 22,
+            "is_correct": false
+        },
+        "23": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 23,
+            "is_correct": true
+        },
+        "24": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 24,
+            "is_correct": true
+        },
+        "25": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "No answer found",
+            "correct_answer": "D",
+            "index": 25,
+            "is_correct": false
+        },
+        "26": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "No answer found",
+            "correct_answer": "D",
+            "index": 26,
+            "is_correct": false
+        },
+        "27": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 27,
+            "is_correct": true
+        },
+        "28": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 28,
+            "is_correct": false
+        },
+        "29": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 29,
+            "is_correct": false
+        },
+        "30": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 30,
+            "is_correct": true
+        },
+        "31": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 31,
+            "is_correct": true
+        },
+        "32": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 32,
+            "is_correct": true
+        },
+        "33": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 33,
+            "is_correct": true
+        },
+        "34": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 34,
+            "is_correct": false
+        },
+        "35": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 35,
+            "is_correct": true
+        },
+        "36": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 36,
+            "is_correct": true
+        },
+        "37": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 37,
+            "is_correct": true
+        },
+        "38": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 38,
+            "is_correct": true
+        },
+        "39": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 39,
+            "is_correct": false
+        },
+        "40": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 40,
+            "is_correct": true
+        },
+        "41": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 41,
+            "is_correct": true
+        },
+        "42": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 42,
+            "is_correct": true
+        },
+        "43": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 43,
+            "is_correct": true
+        },
+        "44": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 44,
+            "is_correct": false
+        },
+        "45": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 45,
+            "is_correct": true
+        },
+        "46": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 46,
+            "is_correct": true
+        },
+        "47": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 47,
+            "is_correct": false
+        },
+        "48": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 48,
+            "is_correct": false
+        },
+        "49": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 49,
+            "is_correct": false
+        },
+        "50": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 50,
+            "is_correct": true
+        },
+        "51": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "No answer found",
+            "correct_answer": "A",
+            "index": 51,
+            "is_correct": false
+        },
+        "52": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 52,
+            "is_correct": true
+        },
+        "53": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 53,
+            "is_correct": true
+        },
+        "54": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 54,
+            "is_correct": false
+        },
+        "55": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 55,
+            "is_correct": false
+        },
+        "56": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 56,
+            "is_correct": false
+        },
+        "57": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 57,
+            "is_correct": true
+        },
+        "58": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 58,
+            "is_correct": true
+        },
+        "59": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 59,
+            "is_correct": true
+        },
+        "60": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 60,
+            "is_correct": true
+        },
+        "61": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 61,
+            "is_correct": false
+        },
+        "62": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 62,
+            "is_correct": true
+        },
+        "63": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 63,
+            "is_correct": false
+        },
+        "64": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "No answer found",
+            "correct_answer": "C",
+            "index": 64,
+            "is_correct": false
+        },
+        "65": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 65,
+            "is_correct": true
+        },
+        "66": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 66,
+            "is_correct": true
+        },
+        "67": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 67,
+            "is_correct": false
+        },
+        "68": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "No answer found",
+            "correct_answer": "A",
+            "index": 68,
+            "is_correct": false
+        },
+        "69": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 69,
+            "is_correct": true
+        },
+        "70": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 70,
+            "is_correct": false
+        },
+        "71": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 71,
+            "is_correct": false
+        },
+        "72": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 72,
+            "is_correct": true
+        },
+        "73": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 73,
+            "is_correct": false
+        },
+        "74": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "No answer found",
+            "correct_answer": "D",
+            "index": 74,
+            "is_correct": false
+        },
+        "75": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "No answer found",
+            "correct_answer": "C",
+            "index": 75,
+            "is_correct": false
+        },
+        "76": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 76,
+            "is_correct": false
+        },
+        "77": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 77,
+            "is_correct": true
+        },
+        "78": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 78,
+            "is_correct": true
+        },
+        "79": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 79,
+            "is_correct": true
+        },
+        "80": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 80,
+            "is_correct": false
+        },
+        "81": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 81,
+            "is_correct": true
+        },
+        "82": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 82,
+            "is_correct": false
+        },
+        "83": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 83,
+            "is_correct": false
+        },
+        "84": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 84,
+            "is_correct": false
+        },
+        "85": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 85,
+            "is_correct": false
+        },
+        "86": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "No answer found",
+            "correct_answer": "D",
+            "index": 86,
+            "is_correct": false
+        },
+        "87": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 87,
+            "is_correct": false
+        },
+        "88": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 88,
+            "is_correct": false
+        },
+        "89": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 89,
+            "is_correct": true
+        },
+        "90": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 90,
+            "is_correct": false
+        },
+        "91": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 91,
+            "is_correct": true
+        },
+        "92": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 92,
+            "is_correct": true
+        },
+        "93": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 93,
+            "is_correct": false
+        },
+        "94": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 94,
+            "is_correct": false
+        },
+        "95": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 95,
+            "is_correct": true
+        },
+        "96": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 96,
+            "is_correct": false
+        },
+        "97": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "No answer found",
+            "correct_answer": "D",
+            "index": 97,
+            "is_correct": false
+        },
+        "98": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 98,
+            "is_correct": false
+        },
+        "99": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 99,
+            "is_correct": true
+        },
+        "100": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 100,
+            "is_correct": true
+        },
+        "101": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "No answer found",
+            "correct_answer": "B",
+            "index": 101,
+            "is_correct": false
+        },
+        "102": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 102,
+            "is_correct": false
+        },
+        "103": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 103,
+            "is_correct": true
+        },
+        "104": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 104,
+            "is_correct": true
+        },
+        "105": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 105,
+            "is_correct": true
+        },
+        "106": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 106,
+            "is_correct": true
+        },
+        "107": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 107,
+            "is_correct": false
+        },
+        "108": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 108,
+            "is_correct": true
+        },
+        "109": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 109,
+            "is_correct": false
+        },
+        "110": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 110,
+            "is_correct": true
+        },
+        "111": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 111,
+            "is_correct": true
+        },
+        "112": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "No answer found",
+            "correct_answer": "A",
+            "index": 112,
+            "is_correct": false
+        },
+        "113": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 113,
+            "is_correct": false
+        },
+        "114": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 114,
+            "is_correct": false
+        },
+        "115": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 115,
+            "is_correct": true
+        },
+        "116": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 116,
+            "is_correct": true
+        },
+        "117": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 117,
+            "is_correct": true
+        },
+        "118": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "No answer found",
+            "correct_answer": "D",
+            "index": 118,
+            "is_correct": false
+        },
+        "119": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 119,
+            "is_correct": true
+        },
+        "120": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 120,
+            "is_correct": true
+        },
+        "121": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 121,
+            "is_correct": false
+        },
+        "122": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 122,
+            "is_correct": true
+        },
+        "123": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "No answer found",
+            "correct_answer": "A",
+            "index": 123,
+            "is_correct": false
+        },
+        "124": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 124,
+            "is_correct": true
+        },
+        "125": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 125,
+            "is_correct": false
+        },
+        "126": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 126,
+            "is_correct": true
+        },
+        "127": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 127,
+            "is_correct": true
+        },
+        "128": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "No answer found",
+            "correct_answer": "A",
+            "index": 128,
+            "is_correct": false
+        },
+        "129": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 129,
+            "is_correct": false
+        },
+        "130": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 130,
+            "is_correct": false
+        },
+        "131": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 131,
+            "is_correct": true
+        },
+        "132": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "No answer found",
+            "correct_answer": "C",
+            "index": 132,
+            "is_correct": false
+        },
+        "133": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 133,
+            "is_correct": true
+        },
+        "134": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 134,
+            "is_correct": true
+        },
+        "135": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 135,
+            "is_correct": false
+        },
+        "136": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 136,
+            "is_correct": true
+        },
+        "137": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 137,
+            "is_correct": true
+        },
+        "138": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 138,
+            "is_correct": true
+        },
+        "139": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 139,
+            "is_correct": true
+        },
+        "140": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 140,
+            "is_correct": true
+        },
+        "141": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 141,
+            "is_correct": true
+        },
+        "142": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 142,
+            "is_correct": false
+        },
+        "143": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 143,
+            "is_correct": true
+        },
+        "144": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 144,
+            "is_correct": true
+        },
+        "145": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 145,
+            "is_correct": false
+        },
+        "146": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 146,
+            "is_correct": true
+        },
+        "147": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 147,
+            "is_correct": false
+        },
+        "148": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "No answer found",
+            "correct_answer": "A",
+            "index": 148,
+            "is_correct": false
+        },
+        "149": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 149,
+            "is_correct": false
+        },
+        "150": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 150,
+            "is_correct": true
+        },
+        "151": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 151,
+            "is_correct": true
+        },
+        "152": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 152,
+            "is_correct": false
+        },
+        "153": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 153,
+            "is_correct": true
+        },
+        "154": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "No answer found",
+            "correct_answer": "A",
+            "index": 154,
+            "is_correct": false
+        },
+        "155": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "No answer found",
+            "correct_answer": "A",
+            "index": 155,
+            "is_correct": false
+        },
+        "156": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 156,
+            "is_correct": true
+        },
+        "157": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 157,
+            "is_correct": false
+        },
+        "158": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 158,
+            "is_correct": true
+        },
+        "159": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 159,
+            "is_correct": true
+        },
+        "160": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 160,
+            "is_correct": false
+        },
+        "161": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 161,
+            "is_correct": true
+        },
+        "162": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "No answer found",
+            "correct_answer": "A",
+            "index": 162,
+            "is_correct": false
+        },
+        "163": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 163,
+            "is_correct": true
+        },
+        "164": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 164,
+            "is_correct": true
+        },
+        "165": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 165,
+            "is_correct": false
+        },
+        "166": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "No answer found",
+            "correct_answer": "C",
+            "index": 166,
+            "is_correct": false
+        },
+        "167": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 167,
+            "is_correct": true
+        },
+        "168": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 168,
+            "is_correct": true
+        },
+        "169": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 169,
+            "is_correct": true
+        },
+        "170": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 170,
+            "is_correct": true
+        },
+        "171": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 171,
+            "is_correct": true
+        },
+        "172": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 172,
+            "is_correct": true
+        },
+        "173": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 173,
+            "is_correct": true
+        },
+        "174": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 174,
+            "is_correct": false
+        },
+        "175": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 175,
+            "is_correct": true
+        },
+        "176": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 176,
+            "is_correct": true
+        },
+        "177": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 177,
+            "is_correct": false
+        },
+        "178": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 178,
+            "is_correct": true
+        },
+        "179": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "No answer found",
+            "correct_answer": "A",
+            "index": 179,
+            "is_correct": false
+        },
+        "180": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 180,
+            "is_correct": false
+        },
+        "181": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 181,
+            "is_correct": true
+        },
+        "182": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 182,
+            "is_correct": false
+        },
+        "183": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 183,
+            "is_correct": false
+        },
+        "184": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 184,
+            "is_correct": true
+        },
+        "185": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 185,
+            "is_correct": false
+        },
+        "186": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "No answer found",
+            "correct_answer": "C",
+            "index": 186,
+            "is_correct": false
+        },
+        "187": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 187,
+            "is_correct": false
+        },
+        "188": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 188,
+            "is_correct": true
+        },
+        "189": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 189,
+            "is_correct": true
+        },
+        "190": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 190,
+            "is_correct": true
+        },
+        "191": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 191,
+            "is_correct": true
+        },
+        "192": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 192,
+            "is_correct": false
+        },
+        "193": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 193,
+            "is_correct": false
+        },
+        "194": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 194,
+            "is_correct": false
+        },
+        "195": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 195,
+            "is_correct": false
+        },
+        "196": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 196,
+            "is_correct": false
+        },
+        "197": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 197,
+            "is_correct": false
+        },
+        "198": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 198,
+            "is_correct": true
+        },
+        "199": {
+            "question": "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 199,
+            "is_correct": false
+        }
+    }
+}

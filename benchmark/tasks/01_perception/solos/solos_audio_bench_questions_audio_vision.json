@@ -8011,7 +8011,7 @@
         "question": "Which image most likely belongs to the object that make this sound? Answer the question with A, B, C, or D",
         "conditions": {
             "modality": "Audio",
-            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/solos_processed/Cello/1X2l_1za1g0.wav"
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/solos_processed/Cello/1u3yHICR_BU.wav"
         },
         "options": {
             "A": {
@@ -8020,7 +8020,7 @@
             },
             "B": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/solos_processed/Cello/1X2l_1za1g0.jpg"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/solos_processed/Cello/1u3yHICR_BU.jpg"
             },
             "C": {
                 "modality": "Image",
@@ -15226,7 +15226,7 @@
             },
             "C": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/solos_processed/Cello/1X2l_1za1g0.jpg"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/solos_processed/Cello/1u3yHICR_BU.jpg"
             },
             "D": {
                 "modality": "Image",

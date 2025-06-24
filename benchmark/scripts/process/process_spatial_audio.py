@@ -8,11 +8,13 @@ import subprocess
 from multiprocessing import Pool, cpu_count
 from tqdm import tqdm
 
-root_dir = "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/solos"
-output_dir = "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/solos_processed"
+
+root_dir = '/home/xwang378/scratch/2025/AudioBench/benchmark/Data/URMP'
+
+output_dir = "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/URMP_processed"
 os.makedirs(output_dir, exist_ok=True)
 
-videos_dir = os.path.join(root_dir, "videos")
+videos_dir = root_dir
 
 def extract_middle_frame(video_path, output_path):
     cap = cv2.VideoCapture(video_path)
@@ -46,6 +48,9 @@ def extract_peak_audio_segment(video_path, output_path, sr=16000, window=2.0):
             best_start = start
     peak_audio = mono_audio[best_start:best_start + win_len]
     sf.write(output_path, peak_audio, sr)
+    
+    with open(output_path.replace('.wav', '.txt'), 'w') as f:
+        f.write(f"Sample Rate: {sr}\nWindow Length: {window} seconds\nPeak Start: {best_start/sr:.2f} seconds\n")
 
 def process_one(args):
     video_path, img_out, wav_out = args
@@ -79,3 +84,10 @@ if __name__ == "__main__":
     jobs = collect_jobs()
     with Pool(processes=min(cpu_count(), 8)) as pool: 
         list(tqdm(pool.imap_unordered(process_one, jobs), total=len(jobs)))
+
+
+
+
+
+
+
