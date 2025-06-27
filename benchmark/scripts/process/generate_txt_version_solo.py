@@ -3,7 +3,8 @@ import os
 
 
 # DATRASET_NAME = 'solos'
-DATRASET_NAME = 'URMP'
+# DATRASET_NAME = 'URMP'
+DATRASET_NAME = 'landscapes'
 
 vision_audio = f'/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/{DATRASET_NAME}/{DATRASET_NAME}_audio_bench_questions_vision_audio.json'
 audio_vision = f'/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/{DATRASET_NAME}/{DATRASET_NAME}_audio_bench_questions_audio_vision.json'
@@ -24,7 +25,8 @@ with open(audio_vision, 'r') as f:
     
 
 id2class = {}
-data_root = f'/home/xwang378/scratch/2025/AudioBench/benchmark/Data/{DATRASET_NAME}_processed'
+# data_root = f'/home/xwang378/scratch/2025/AudioBench/benchmark/Data/{DATRASET_NAME}_processed'
+data_root = '/home/xwang378/scratch/2025/AudioBench/benchmark/Data/landscape_audiobench/test_processed'
 
 URMP_id2class = {
     'vn': 'Violin',
@@ -63,13 +65,20 @@ for class_name in os.listdir(data_root):
                 description = make_description([URMP_id2class[obj] for obj in objects_name])
                 
                 id2class[index] = description
+            elif DATRASET_NAME == 'landscapes':
+                objects_name = class_name.split('_')
+                
+                description = ' '.join(objects_name).capitalize()
+                
+                id2class[index] = description
 
 vision_text_data = []
 
 # Process vision to text
 for item in vision_audio_data:
     # item['question'] = "Which phrase is most likely to describe the objects in this image? Answer the question with A, B, C, or D"
-    item['question'] = "Which phrase is most likely to describe this instrument composition in this image? Answer the question with A, B, C, or D"
+    # item['question'] = "Which phrase is most likely to describe this instrument composition in this image? Answer the question with A, B, C, or D"
+    item['question'] = "Which phrase is most likely to describe this scene in this image? Answer the question with A, B, C, or D"
     for option in item['options']:
         index = item['options'][option]["input"] 
         index = index.split('/')[-1].split('.')[0]
@@ -85,7 +94,8 @@ with open(vision_text, 'w') as f:
 # Process audio to text
 for item in audio_vision_data:
     # item['question'] = "Which phrase is most likely to describe the sound in this audio? Answer the question with A, B, C, or D."
-    item['question'] = "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D."
+    # item['question'] = "Which phrase is most likely to describe this instrument composition in this audio? Answer the question with A, B, C, or D."
+    item['question'] = "Which phrase is most likely to describe this scene in this audio? Answer the question with A, B, C, or D."
     for option in item['options']:
         index = item['options'][option]["input"] 
         index = index.split('/')[-1].split('.')[0]
@@ -110,7 +120,8 @@ with open(audio_vision, 'r') as f:
             
 # Process vision to text
 for item in vision_audio_data:
-    item['question'] = "Which audio is most likely to belong to this description of this instrument composition? Answer the question with A, B, C, or D."
+    # item['question'] = "Which audio is most likely to belong to this description of this instrument composition? Answer the question with A, B, C, or D."
+    item['question'] = "Which audio is most likely to belong to this description of this scene? Answer the question with A, B, C, or D."
     item['conditions']['modality'] = 'Text'
     
     index = item['conditions']["input"] 
@@ -123,7 +134,8 @@ with open(text_audio, 'w') as f:
 
 # Process audio to text
 for item in audio_vision_data:
-    item['question'] = "Which image is most likely to belong to this description of this instrument composition? Answer the question with A, B, C, or D."
+    # item['question'] = "Which image is most likely to belong to this description of this instrument composition? Answer the question with A, B, C, or D."
+    item['question'] = "Which image is most likely to belong to this description of this scene? Answer the question with A, B, C, or D."
 
     item['conditions']['modality'] = 'Text'
     index = item['conditions']["input"] 

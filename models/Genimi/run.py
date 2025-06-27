@@ -62,7 +62,7 @@ def get_question(questions, index):
     }
     
 
-def _run_genimi(instance):
+def _run_genimi(instance, args):
     
     modality_to_format = {
         "Image": "image/jpeg",
@@ -105,25 +105,26 @@ def _run_genimi(instance):
         choise_data['D'],
         "Give the letter of the correct answer (A, B, C, or D):"
     ]
-    
+    # print(f"Running model: {args.model}")
     response = client.models.generate_content(
-        model="gemini-2.0-flash",  # or "gemini-2.5-flash"
+        model="gemini-2.5-flash",
+        # model=args.model, # model="gemini-2.0-flash",  # or "gemini-2.5-flash"
         contents=contents
     )
     
     return response.text
 
-def run_genimi(questions, index):
+def run_genimi(questions, index, args):
     instance = get_question(questions, index)
     
     try:
-        response = _run_genimi(instance)
+        response = _run_genimi(instance, args)
         return response
     except Exception as e:
         print(f"Error processing question {index}: {e}")
         return None
     
-def run_all_genimi(task_name, questions, sample = 100, save_dir = None):
+def run_all_genimi(task_name, questions, args, sample = 100, save_dir = None):
     correct_count = 0
     all_count = 0
     save_result = {}
@@ -135,7 +136,7 @@ def run_all_genimi(task_name, questions, sample = 100, save_dir = None):
     save_result['results'] = {}
     
     for i in tqdm(range(sample)):
-        response = run_genimi(questions, i)
+        response = run_genimi(questions, i, args)
         if response is not None:
             all_count += 1
             if response.strip().upper() == questions[i]['correct_answer'].upper():
@@ -174,7 +175,7 @@ def main(args):
     task_path = audiobench(task_name)
     questions = load_questions(task_path)
 
-    run_all_genimi(task_name, questions, sample=args.sample, save_dir=args.save_dir)
+    run_all_genimi(task_name, questions, args, sample=args.sample, save_dir=args.save_dir)
     
 
 if __name__ == "__main__":
@@ -183,6 +184,7 @@ if __name__ == "__main__":
     parser.add_argument('--task_name', help='Name of the task', default='perception/vggss_audio_vision')
     parser.add_argument('--sample', type=int, help='Number of samples to run', default=1)
     parser.add_argument('--save_dir', help='Directory to save results', default='/home/xwang378/scratch/2025/AudioBench/benchmark/results/')
+    parser.add_argument('--model', help='Model to use for generation', default='gemini-2.5-flash')
     args = parser.parse_args()
     main(args)
     

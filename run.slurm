@@ -109,7 +109,39 @@ export audioBench='/home/xwang378/scratch/2025/AudioBench'
 #     --task_name perception/urmp_text_vision \
 #     --sample 200
 
+# python $audioBench/scripts/run.py \
+#     --model qwen2.5_omni \
+#     --task_name perception/urmp_vision_text \
+#     --sample 200
+
+########################## Landscapes ########################
+
+# python $audioBench/scripts/run.py \
+#     --model qwen2.5_omni \
+#     --task_name perception/landscapes_audio_vision \
+#     --sample 500
+
+# python $audioBench/scripts/run.py \
+#     --model qwen2.5_omni \
+#     --task_name perception/landscapes_vision_audio \
+#     --sample 500
+
+# python $audioBench/scripts/run.py \
+#     --model qwen2.5_omni \
+#     --task_name perception/landscapes_audio_text \
+#     --sample 500
+
+# python $audioBench/scripts/run.py \
+#     --model qwen2.5_omni \
+#     --task_name perception/landscapes_text_audio \
+#     --sample 500
+
+# python $audioBench/scripts/run.py \
+#     --model qwen2.5_omni \
+#     --task_name perception/landscapes_text_vision \
+#     --sample 500
+
 python $audioBench/scripts/run.py \
     --model qwen2.5_omni \
-    --task_name perception/urmp_vision_text \
-    --sample 200
+    --task_name perception/landscapes_vision_text \
+    --sample 500
