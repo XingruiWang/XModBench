@@ -4,14 +4,21 @@ import sys
 import os
 
 
-PATH_TO_MODELS = {
-    'gemini': './models/Genimi/run.py',
-    'qwen2.5_omni': './models/Qwen2.5-Omni/run.py',
+def path_to_models(model):
 
-}
+    if model.startswith('gemini'):
+        prefix = 'gemini'
+    else:
+        prefix = model
+    PATH_TO_MODELS = {
+        'gemini': './models/Genimi/run.py',
+        'qwen2.5_omni': './models/Qwen2.5-Omni/run.py',
+    }
+    
+    return PATH_TO_MODELS.get(prefix, None)
 
 def main(args):
-    script_path = PATH_TO_MODELS.get(args.model)
+    script_path = path_to_models(args.model)
     if not script_path:
         raise ValueError(f"Model {args.model} is not defined in PATH_TO_MODELS.")
 

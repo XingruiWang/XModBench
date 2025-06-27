@@ -25,6 +25,12 @@ class AudioBench():
                 'urmp_text_audio': os.path.join(root_dir, '01_perception', 'URMP', 'URMP_audio_bench_questions_text_audio.json'),
                 'urmp_vision_text': os.path.join(root_dir, '01_perception', 'URMP', 'URMP_audio_bench_questions_vision_text.json'),
                 'urmp_text_vision': os.path.join(root_dir, '01_perception', 'URMP', 'URMP_audio_bench_questions_text_vision.json'),
+                'landscapes_audio_vision': os.path.join(root_dir, '01_perception', 'landscapes', 'landscapes_audio_bench_questions_audio_vision.json'),
+                'landscapes_vision_audio': os.path.join(root_dir, '01_perception', 'landscapes', 'landscapes_audio_bench_questions_vision_audio.json'),
+                'landscapes_audio_text': os.path.join(root_dir, '01_perception', 'landscapes', 'landscapes_audio_bench_questions_audio_text.json'),
+                'landscapes_text_audio': os.path.join(root_dir, '01_perception', 'landscapes', 'landscapes_audio_bench_questions_text_audio.json'),
+                'landscapes_vision_text': os.path.join(root_dir, '01_perception', 'landscapes', 'landscapes_audio_bench_questions_vision_text.json'),
+                'landscapes_text_vision': os.path.join(root_dir, '01_perception', 'landscapes', 'landscapes_audio_bench_questions_text_vision.json'),
             }
         }
         
