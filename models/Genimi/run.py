@@ -103,14 +103,27 @@ def _run_genimi(instance, args):
         choise_data['C'],
         "D:",
         choise_data['D'],
-        "Give the letter of the correct answer (A, B, C, or D):"
+        "Give the letter of the correct answer (A, B, C, or D)."
     ]
     # print(f"Running model: {args.model}")
     response = client.models.generate_content(
-        model="gemini-2.5-flash",
+        model="gemini-2.0-flash",
+        # model="gemini-2.5-flash",
         # model=args.model, # model="gemini-2.0-flash",  # or "gemini-2.5-flash"
         contents=contents
     )
+    
+    if response.text.strip().upper() not in ['A', 'B', 'C', 'D']:
+        response = client.models.generate_content(
+            model="gemini-2.0-flash",
+            # model="gemini-2.5-flash",
+            # model=args.model, # model="gemini-2.0-flash",  # or "gemini-2.5-flash"
+            contents = [
+                "The following response answers a multiple-choice question (A, B, C, or D), but includes additional reasoning. "
+                "Please extract only the final answer choice (A, B, C, or D).",
+                response.text
+            ]
+        )
     
     return response.text
 

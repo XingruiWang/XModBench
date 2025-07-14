@@ -1,0 +1,3508 @@
+{
+    "task_name": "spatial/urmp_audio_vision",
+    "score": 23.200000000000003,
+    "correct_count": 116,
+    "all_count": 500,
+    "results": {
+        "0": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 0,
+            "is_correct": false
+        },
+        "1": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 1,
+            "is_correct": true
+        },
+        "2": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 2,
+            "is_correct": true
+        },
+        "3": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 3,
+            "is_correct": false
+        },
+        "4": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 4,
+            "is_correct": false
+        },
+        "5": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 5,
+            "is_correct": false
+        },
+        "6": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 6,
+            "is_correct": false
+        },
+        "7": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 7,
+            "is_correct": false
+        },
+        "8": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 8,
+            "is_correct": false
+        },
+        "9": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 9,
+            "is_correct": false
+        },
+        "10": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 10,
+            "is_correct": false
+        },
+        "11": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 11,
+            "is_correct": false
+        },
+        "12": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 12,
+            "is_correct": false
+        },
+        "13": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 13,
+            "is_correct": false
+        },
+        "14": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 14,
+            "is_correct": false
+        },
+        "15": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 15,
+            "is_correct": false
+        },
+        "16": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 16,
+            "is_correct": false
+        },
+        "17": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 17,
+            "is_correct": false
+        },
+        "18": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 18,
+            "is_correct": false
+        },
+        "19": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 19,
+            "is_correct": false
+        },
+        "20": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 20,
+            "is_correct": false
+        },
+        "21": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 21,
+            "is_correct": false
+        },
+        "22": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 22,
+            "is_correct": false
+        },
+        "23": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 23,
+            "is_correct": false
+        },
+        "24": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 24,
+            "is_correct": false
+        },
+        "25": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 25,
+            "is_correct": false
+        },
+        "26": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 26,
+            "is_correct": false
+        },
+        "27": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 27,
+            "is_correct": false
+        },
+        "28": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 28,
+            "is_correct": false
+        },
+        "29": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 29,
+            "is_correct": false
+        },
+        "30": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 30,
+            "is_correct": false
+        },
+        "31": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 31,
+            "is_correct": false
+        },
+        "32": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 32,
+            "is_correct": false
+        },
+        "33": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 33,
+            "is_correct": false
+        },
+        "34": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 34,
+            "is_correct": false
+        },
+        "35": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 35,
+            "is_correct": false
+        },
+        "36": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 36,
+            "is_correct": false
+        },
+        "37": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 37,
+            "is_correct": false
+        },
+        "38": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 38,
+            "is_correct": false
+        },
+        "39": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 39,
+            "is_correct": false
+        },
+        "40": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 40,
+            "is_correct": false
+        },
+        "41": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 41,
+            "is_correct": false
+        },
+        "42": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 42,
+            "is_correct": false
+        },
+        "43": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 43,
+            "is_correct": false
+        },
+        "44": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 44,
+            "is_correct": false
+        },
+        "45": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 45,
+            "is_correct": false
+        },
+        "46": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 46,
+            "is_correct": false
+        },
+        "47": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 47,
+            "is_correct": false
+        },
+        "48": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 48,
+            "is_correct": false
+        },
+        "49": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 49,
+            "is_correct": false
+        },
+        "50": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 50,
+            "is_correct": true
+        },
+        "51": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 51,
+            "is_correct": true
+        },
+        "52": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 52,
+            "is_correct": false
+        },
+        "53": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 53,
+            "is_correct": false
+        },
+        "54": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 54,
+            "is_correct": false
+        },
+        "55": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 55,
+            "is_correct": true
+        },
+        "56": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 56,
+            "is_correct": false
+        },
+        "57": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 57,
+            "is_correct": true
+        },
+        "58": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 58,
+            "is_correct": false
+        },
+        "59": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 59,
+            "is_correct": false
+        },
+        "60": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 60,
+            "is_correct": false
+        },
+        "61": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 61,
+            "is_correct": true
+        },
+        "62": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 62,
+            "is_correct": true
+        },
+        "63": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 63,
+            "is_correct": true
+        },
+        "64": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 64,
+            "is_correct": true
+        },
+        "65": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 65,
+            "is_correct": true
+        },
+        "66": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 66,
+            "is_correct": false
+        },
+        "67": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 67,
+            "is_correct": false
+        },
+        "68": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 68,
+            "is_correct": false
+        },
+        "69": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 69,
+            "is_correct": false
+        },
+        "70": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 70,
+            "is_correct": false
+        },
+        "71": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 71,
+            "is_correct": false
+        },
+        "72": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 72,
+            "is_correct": false
+        },
+        "73": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 73,
+            "is_correct": false
+        },
+        "74": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 74,
+            "is_correct": true
+        },
+        "75": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 75,
+            "is_correct": false
+        },
+        "76": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 76,
+            "is_correct": true
+        },
+        "77": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 77,
+            "is_correct": true
+        },
+        "78": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 78,
+            "is_correct": false
+        },
+        "79": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 79,
+            "is_correct": false
+        },
+        "80": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 80,
+            "is_correct": false
+        },
+        "81": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 81,
+            "is_correct": true
+        },
+        "82": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 82,
+            "is_correct": false
+        },
+        "83": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 83,
+            "is_correct": false
+        },
+        "84": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 84,
+            "is_correct": true
+        },
+        "85": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 85,
+            "is_correct": true
+        },
+        "86": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 86,
+            "is_correct": false
+        },
+        "87": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 87,
+            "is_correct": false
+        },
+        "88": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 88,
+            "is_correct": false
+        },
+        "89": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 89,
+            "is_correct": false
+        },
+        "90": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 90,
+            "is_correct": true
+        },
+        "91": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 91,
+            "is_correct": false
+        },
+        "92": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 92,
+            "is_correct": false
+        },
+        "93": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 93,
+            "is_correct": false
+        },
+        "94": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 94,
+            "is_correct": true
+        },
+        "95": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 95,
+            "is_correct": false
+        },
+        "96": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 96,
+            "is_correct": false
+        },
+        "97": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 97,
+            "is_correct": false
+        },
+        "98": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 98,
+            "is_correct": true
+        },
+        "99": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 99,
+            "is_correct": false
+        },
+        "100": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 100,
+            "is_correct": false
+        },
+        "101": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 101,
+            "is_correct": false
+        },
+        "102": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 102,
+            "is_correct": false
+        },
+        "103": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 103,
+            "is_correct": true
+        },
+        "104": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 104,
+            "is_correct": false
+        },
+        "105": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 105,
+            "is_correct": false
+        },
+        "106": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 106,
+            "is_correct": false
+        },
+        "107": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 107,
+            "is_correct": false
+        },
+        "108": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 108,
+            "is_correct": false
+        },
+        "109": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 109,
+            "is_correct": false
+        },
+        "110": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 110,
+            "is_correct": false
+        },
+        "111": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 111,
+            "is_correct": false
+        },
+        "112": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 112,
+            "is_correct": false
+        },
+        "113": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 113,
+            "is_correct": false
+        },
+        "114": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 114,
+            "is_correct": true
+        },
+        "115": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 115,
+            "is_correct": false
+        },
+        "116": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 116,
+            "is_correct": false
+        },
+        "117": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 117,
+            "is_correct": false
+        },
+        "118": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 118,
+            "is_correct": false
+        },
+        "119": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 119,
+            "is_correct": false
+        },
+        "120": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 120,
+            "is_correct": false
+        },
+        "121": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 121,
+            "is_correct": false
+        },
+        "122": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 122,
+            "is_correct": false
+        },
+        "123": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 123,
+            "is_correct": true
+        },
+        "124": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 124,
+            "is_correct": false
+        },
+        "125": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 125,
+            "is_correct": true
+        },
+        "126": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 126,
+            "is_correct": false
+        },
+        "127": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 127,
+            "is_correct": false
+        },
+        "128": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 128,
+            "is_correct": false
+        },
+        "129": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 129,
+            "is_correct": false
+        },
+        "130": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 130,
+            "is_correct": true
+        },
+        "131": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 131,
+            "is_correct": false
+        },
+        "132": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 132,
+            "is_correct": false
+        },
+        "133": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 133,
+            "is_correct": false
+        },
+        "134": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 134,
+            "is_correct": true
+        },
+        "135": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 135,
+            "is_correct": true
+        },
+        "136": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 136,
+            "is_correct": false
+        },
+        "137": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 137,
+            "is_correct": false
+        },
+        "138": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 138,
+            "is_correct": true
+        },
+        "139": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 139,
+            "is_correct": true
+        },
+        "140": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 140,
+            "is_correct": false
+        },
+        "141": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 141,
+            "is_correct": false
+        },
+        "142": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 142,
+            "is_correct": true
+        },
+        "143": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 143,
+            "is_correct": false
+        },
+        "144": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 144,
+            "is_correct": false
+        },
+        "145": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 145,
+            "is_correct": false
+        },
+        "146": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 146,
+            "is_correct": false
+        },
+        "147": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 147,
+            "is_correct": false
+        },
+        "148": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 148,
+            "is_correct": false
+        },
+        "149": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 149,
+            "is_correct": true
+        },
+        "150": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 150,
+            "is_correct": false
+        },
+        "151": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 151,
+            "is_correct": false
+        },
+        "152": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 152,
+            "is_correct": false
+        },
+        "153": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 153,
+            "is_correct": false
+        },
+        "154": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 154,
+            "is_correct": false
+        },
+        "155": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 155,
+            "is_correct": false
+        },
+        "156": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 156,
+            "is_correct": false
+        },
+        "157": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 157,
+            "is_correct": false
+        },
+        "158": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 158,
+            "is_correct": false
+        },
+        "159": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 159,
+            "is_correct": false
+        },
+        "160": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 160,
+            "is_correct": false
+        },
+        "161": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 161,
+            "is_correct": false
+        },
+        "162": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 162,
+            "is_correct": false
+        },
+        "163": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 163,
+            "is_correct": false
+        },
+        "164": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 164,
+            "is_correct": false
+        },
+        "165": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 165,
+            "is_correct": false
+        },
+        "166": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 166,
+            "is_correct": false
+        },
+        "167": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 167,
+            "is_correct": false
+        },
+        "168": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 168,
+            "is_correct": true
+        },
+        "169": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 169,
+            "is_correct": false
+        },
+        "170": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 170,
+            "is_correct": true
+        },
+        "171": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 171,
+            "is_correct": false
+        },
+        "172": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 172,
+            "is_correct": true
+        },
+        "173": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 173,
+            "is_correct": false
+        },
+        "174": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 174,
+            "is_correct": true
+        },
+        "175": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 175,
+            "is_correct": true
+        },
+        "176": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 176,
+            "is_correct": true
+        },
+        "177": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 177,
+            "is_correct": true
+        },
+        "178": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 178,
+            "is_correct": false
+        },
+        "179": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 179,
+            "is_correct": false
+        },
+        "180": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 180,
+            "is_correct": false
+        },
+        "181": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 181,
+            "is_correct": true
+        },
+        "182": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 182,
+            "is_correct": false
+        },
+        "183": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 183,
+            "is_correct": false
+        },
+        "184": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 184,
+            "is_correct": false
+        },
+        "185": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 185,
+            "is_correct": false
+        },
+        "186": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 186,
+            "is_correct": false
+        },
+        "187": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 187,
+            "is_correct": false
+        },
+        "188": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 188,
+            "is_correct": false
+        },
+        "189": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 189,
+            "is_correct": false
+        },
+        "190": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 190,
+            "is_correct": false
+        },
+        "191": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 191,
+            "is_correct": false
+        },
+        "192": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 192,
+            "is_correct": false
+        },
+        "193": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 193,
+            "is_correct": false
+        },
+        "194": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 194,
+            "is_correct": false
+        },
+        "195": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 195,
+            "is_correct": false
+        },
+        "196": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 196,
+            "is_correct": true
+        },
+        "197": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 197,
+            "is_correct": false
+        },
+        "198": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 198,
+            "is_correct": false
+        },
+        "199": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 199,
+            "is_correct": true
+        },
+        "200": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 200,
+            "is_correct": false
+        },
+        "201": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 201,
+            "is_correct": false
+        },
+        "202": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 202,
+            "is_correct": false
+        },
+        "203": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 203,
+            "is_correct": false
+        },
+        "204": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 204,
+            "is_correct": false
+        },
+        "205": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 205,
+            "is_correct": false
+        },
+        "206": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 206,
+            "is_correct": false
+        },
+        "207": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 207,
+            "is_correct": false
+        },
+        "208": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 208,
+            "is_correct": false
+        },
+        "209": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 209,
+            "is_correct": false
+        },
+        "210": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 210,
+            "is_correct": false
+        },
+        "211": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 211,
+            "is_correct": false
+        },
+        "212": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 212,
+            "is_correct": false
+        },
+        "213": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 213,
+            "is_correct": false
+        },
+        "214": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 214,
+            "is_correct": false
+        },
+        "215": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 215,
+            "is_correct": false
+        },
+        "216": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 216,
+            "is_correct": false
+        },
+        "217": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 217,
+            "is_correct": false
+        },
+        "218": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 218,
+            "is_correct": false
+        },
+        "219": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 219,
+            "is_correct": true
+        },
+        "220": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 220,
+            "is_correct": true
+        },
+        "221": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 221,
+            "is_correct": false
+        },
+        "222": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 222,
+            "is_correct": true
+        },
+        "223": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 223,
+            "is_correct": false
+        },
+        "224": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 224,
+            "is_correct": false
+        },
+        "225": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 225,
+            "is_correct": true
+        },
+        "226": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 226,
+            "is_correct": false
+        },
+        "227": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 227,
+            "is_correct": false
+        },
+        "228": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 228,
+            "is_correct": false
+        },
+        "229": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 229,
+            "is_correct": false
+        },
+        "230": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 230,
+            "is_correct": false
+        },
+        "231": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 231,
+            "is_correct": false
+        },
+        "232": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 232,
+            "is_correct": false
+        },
+        "233": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 233,
+            "is_correct": false
+        },
+        "234": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 234,
+            "is_correct": false
+        },
+        "235": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 235,
+            "is_correct": false
+        },
+        "236": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 236,
+            "is_correct": false
+        },
+        "237": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 237,
+            "is_correct": true
+        },
+        "238": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 238,
+            "is_correct": false
+        },
+        "239": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 239,
+            "is_correct": false
+        },
+        "240": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 240,
+            "is_correct": false
+        },
+        "241": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 241,
+            "is_correct": true
+        },
+        "242": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 242,
+            "is_correct": false
+        },
+        "243": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 243,
+            "is_correct": true
+        },
+        "244": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 244,
+            "is_correct": false
+        },
+        "245": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 245,
+            "is_correct": true
+        },
+        "246": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 246,
+            "is_correct": false
+        },
+        "247": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 247,
+            "is_correct": true
+        },
+        "248": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 248,
+            "is_correct": true
+        },
+        "249": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 249,
+            "is_correct": false
+        },
+        "250": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 250,
+            "is_correct": false
+        },
+        "251": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 251,
+            "is_correct": false
+        },
+        "252": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 252,
+            "is_correct": false
+        },
+        "253": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 253,
+            "is_correct": false
+        },
+        "254": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 254,
+            "is_correct": false
+        },
+        "255": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 255,
+            "is_correct": false
+        },
+        "256": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 256,
+            "is_correct": false
+        },
+        "257": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 257,
+            "is_correct": false
+        },
+        "258": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 258,
+            "is_correct": false
+        },
+        "259": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 259,
+            "is_correct": false
+        },
+        "260": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 260,
+            "is_correct": false
+        },
+        "261": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 261,
+            "is_correct": true
+        },
+        "262": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 262,
+            "is_correct": true
+        },
+        "263": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 263,
+            "is_correct": false
+        },
+        "264": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 264,
+            "is_correct": false
+        },
+        "265": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 265,
+            "is_correct": false
+        },
+        "266": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 266,
+            "is_correct": false
+        },
+        "267": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 267,
+            "is_correct": false
+        },
+        "268": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 268,
+            "is_correct": false
+        },
+        "269": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 269,
+            "is_correct": true
+        },
+        "270": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 270,
+            "is_correct": true
+        },
+        "271": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 271,
+            "is_correct": false
+        },
+        "272": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 272,
+            "is_correct": false
+        },
+        "273": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 273,
+            "is_correct": false
+        },
+        "274": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 274,
+            "is_correct": false
+        },
+        "275": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 275,
+            "is_correct": false
+        },
+        "276": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 276,
+            "is_correct": false
+        },
+        "277": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 277,
+            "is_correct": true
+        },
+        "278": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 278,
+            "is_correct": false
+        },
+        "279": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 279,
+            "is_correct": false
+        },
+        "280": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 280,
+            "is_correct": false
+        },
+        "281": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 281,
+            "is_correct": true
+        },
+        "282": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 282,
+            "is_correct": true
+        },
+        "283": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 283,
+            "is_correct": false
+        },
+        "284": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 284,
+            "is_correct": true
+        },
+        "285": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 285,
+            "is_correct": false
+        },
+        "286": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 286,
+            "is_correct": false
+        },
+        "287": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 287,
+            "is_correct": false
+        },
+        "288": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 288,
+            "is_correct": true
+        },
+        "289": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 289,
+            "is_correct": false
+        },
+        "290": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 290,
+            "is_correct": false
+        },
+        "291": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 291,
+            "is_correct": false
+        },
+        "292": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 292,
+            "is_correct": false
+        },
+        "293": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 293,
+            "is_correct": false
+        },
+        "294": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 294,
+            "is_correct": false
+        },
+        "295": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 295,
+            "is_correct": true
+        },
+        "296": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 296,
+            "is_correct": false
+        },
+        "297": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 297,
+            "is_correct": false
+        },
+        "298": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 298,
+            "is_correct": false
+        },
+        "299": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 299,
+            "is_correct": false
+        },
+        "300": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 300,
+            "is_correct": true
+        },
+        "301": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 301,
+            "is_correct": false
+        },
+        "302": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 302,
+            "is_correct": true
+        },
+        "303": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 303,
+            "is_correct": true
+        },
+        "304": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 304,
+            "is_correct": false
+        },
+        "305": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 305,
+            "is_correct": true
+        },
+        "306": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 306,
+            "is_correct": false
+        },
+        "307": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 307,
+            "is_correct": false
+        },
+        "308": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 308,
+            "is_correct": true
+        },
+        "309": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 309,
+            "is_correct": false
+        },
+        "310": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 310,
+            "is_correct": false
+        },
+        "311": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 311,
+            "is_correct": false
+        },
+        "312": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 312,
+            "is_correct": false
+        },
+        "313": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 313,
+            "is_correct": false
+        },
+        "314": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 314,
+            "is_correct": true
+        },
+        "315": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 315,
+            "is_correct": false
+        },
+        "316": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 316,
+            "is_correct": false
+        },
+        "317": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 317,
+            "is_correct": false
+        },
+        "318": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 318,
+            "is_correct": false
+        },
+        "319": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 319,
+            "is_correct": false
+        },
+        "320": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 320,
+            "is_correct": false
+        },
+        "321": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 321,
+            "is_correct": false
+        },
+        "322": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 322,
+            "is_correct": true
+        },
+        "323": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 323,
+            "is_correct": false
+        },
+        "324": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 324,
+            "is_correct": false
+        },
+        "325": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 325,
+            "is_correct": false
+        },
+        "326": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 326,
+            "is_correct": true
+        },
+        "327": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 327,
+            "is_correct": false
+        },
+        "328": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 328,
+            "is_correct": false
+        },
+        "329": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 329,
+            "is_correct": true
+        },
+        "330": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 330,
+            "is_correct": false
+        },
+        "331": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 331,
+            "is_correct": false
+        },
+        "332": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 332,
+            "is_correct": true
+        },
+        "333": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 333,
+            "is_correct": false
+        },
+        "334": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 334,
+            "is_correct": false
+        },
+        "335": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 335,
+            "is_correct": false
+        },
+        "336": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 336,
+            "is_correct": false
+        },
+        "337": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 337,
+            "is_correct": true
+        },
+        "338": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 338,
+            "is_correct": false
+        },
+        "339": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 339,
+            "is_correct": false
+        },
+        "340": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 340,
+            "is_correct": false
+        },
+        "341": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 341,
+            "is_correct": false
+        },
+        "342": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 342,
+            "is_correct": true
+        },
+        "343": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 343,
+            "is_correct": false
+        },
+        "344": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 344,
+            "is_correct": false
+        },
+        "345": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 345,
+            "is_correct": false
+        },
+        "346": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 346,
+            "is_correct": false
+        },
+        "347": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 347,
+            "is_correct": false
+        },
+        "348": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 348,
+            "is_correct": true
+        },
+        "349": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 349,
+            "is_correct": false
+        },
+        "350": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 350,
+            "is_correct": false
+        },
+        "351": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 351,
+            "is_correct": true
+        },
+        "352": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 352,
+            "is_correct": false
+        },
+        "353": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 353,
+            "is_correct": true
+        },
+        "354": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 354,
+            "is_correct": false
+        },
+        "355": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 355,
+            "is_correct": false
+        },
+        "356": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 356,
+            "is_correct": true
+        },
+        "357": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 357,
+            "is_correct": false
+        },
+        "358": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 358,
+            "is_correct": true
+        },
+        "359": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 359,
+            "is_correct": false
+        },
+        "360": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 360,
+            "is_correct": false
+        },
+        "361": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 361,
+            "is_correct": false
+        },
+        "362": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 362,
+            "is_correct": true
+        },
+        "363": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 363,
+            "is_correct": true
+        },
+        "364": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 364,
+            "is_correct": false
+        },
+        "365": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 365,
+            "is_correct": true
+        },
+        "366": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 366,
+            "is_correct": true
+        },
+        "367": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 367,
+            "is_correct": true
+        },
+        "368": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 368,
+            "is_correct": false
+        },
+        "369": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 369,
+            "is_correct": false
+        },
+        "370": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 370,
+            "is_correct": true
+        },
+        "371": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 371,
+            "is_correct": false
+        },
+        "372": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 372,
+            "is_correct": true
+        },
+        "373": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 373,
+            "is_correct": false
+        },
+        "374": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 374,
+            "is_correct": false
+        },
+        "375": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 375,
+            "is_correct": false
+        },
+        "376": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 376,
+            "is_correct": true
+        },
+        "377": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 377,
+            "is_correct": false
+        },
+        "378": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 378,
+            "is_correct": true
+        },
+        "379": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 379,
+            "is_correct": true
+        },
+        "380": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 380,
+            "is_correct": false
+        },
+        "381": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 381,
+            "is_correct": false
+        },
+        "382": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 382,
+            "is_correct": false
+        },
+        "383": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 383,
+            "is_correct": true
+        },
+        "384": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 384,
+            "is_correct": false
+        },
+        "385": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 385,
+            "is_correct": false
+        },
+        "386": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 386,
+            "is_correct": false
+        },
+        "387": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 387,
+            "is_correct": false
+        },
+        "388": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 388,
+            "is_correct": false
+        },
+        "389": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 389,
+            "is_correct": false
+        },
+        "390": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 390,
+            "is_correct": false
+        },
+        "391": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 391,
+            "is_correct": true
+        },
+        "392": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 392,
+            "is_correct": false
+        },
+        "393": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 393,
+            "is_correct": false
+        },
+        "394": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 394,
+            "is_correct": false
+        },
+        "395": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 395,
+            "is_correct": false
+        },
+        "396": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 396,
+            "is_correct": false
+        },
+        "397": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 397,
+            "is_correct": false
+        },
+        "398": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 398,
+            "is_correct": false
+        },
+        "399": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 399,
+            "is_correct": false
+        },
+        "400": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 400,
+            "is_correct": false
+        },
+        "401": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 401,
+            "is_correct": true
+        },
+        "402": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 402,
+            "is_correct": true
+        },
+        "403": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 403,
+            "is_correct": false
+        },
+        "404": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 404,
+            "is_correct": false
+        },
+        "405": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 405,
+            "is_correct": false
+        },
+        "406": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 406,
+            "is_correct": false
+        },
+        "407": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 407,
+            "is_correct": false
+        },
+        "408": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 408,
+            "is_correct": false
+        },
+        "409": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 409,
+            "is_correct": false
+        },
+        "410": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 410,
+            "is_correct": false
+        },
+        "411": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 411,
+            "is_correct": false
+        },
+        "412": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 412,
+            "is_correct": false
+        },
+        "413": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 413,
+            "is_correct": false
+        },
+        "414": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 414,
+            "is_correct": false
+        },
+        "415": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 415,
+            "is_correct": true
+        },
+        "416": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 416,
+            "is_correct": false
+        },
+        "417": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 417,
+            "is_correct": false
+        },
+        "418": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 418,
+            "is_correct": false
+        },
+        "419": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 419,
+            "is_correct": false
+        },
+        "420": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 420,
+            "is_correct": false
+        },
+        "421": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 421,
+            "is_correct": true
+        },
+        "422": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 422,
+            "is_correct": false
+        },
+        "423": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 423,
+            "is_correct": false
+        },
+        "424": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 424,
+            "is_correct": true
+        },
+        "425": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 425,
+            "is_correct": false
+        },
+        "426": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 426,
+            "is_correct": false
+        },
+        "427": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 427,
+            "is_correct": false
+        },
+        "428": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 428,
+            "is_correct": true
+        },
+        "429": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 429,
+            "is_correct": false
+        },
+        "430": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 430,
+            "is_correct": false
+        },
+        "431": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 431,
+            "is_correct": false
+        },
+        "432": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 432,
+            "is_correct": false
+        },
+        "433": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 433,
+            "is_correct": false
+        },
+        "434": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 434,
+            "is_correct": false
+        },
+        "435": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 435,
+            "is_correct": false
+        },
+        "436": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 436,
+            "is_correct": false
+        },
+        "437": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 437,
+            "is_correct": false
+        },
+        "438": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 438,
+            "is_correct": false
+        },
+        "439": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 439,
+            "is_correct": false
+        },
+        "440": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 440,
+            "is_correct": true
+        },
+        "441": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 441,
+            "is_correct": false
+        },
+        "442": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 442,
+            "is_correct": false
+        },
+        "443": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 443,
+            "is_correct": false
+        },
+        "444": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 444,
+            "is_correct": false
+        },
+        "445": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 445,
+            "is_correct": true
+        },
+        "446": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 446,
+            "is_correct": false
+        },
+        "447": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 447,
+            "is_correct": false
+        },
+        "448": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 448,
+            "is_correct": false
+        },
+        "449": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 449,
+            "is_correct": false
+        },
+        "450": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 450,
+            "is_correct": false
+        },
+        "451": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 451,
+            "is_correct": false
+        },
+        "452": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 452,
+            "is_correct": false
+        },
+        "453": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 453,
+            "is_correct": false
+        },
+        "454": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 454,
+            "is_correct": false
+        },
+        "455": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 455,
+            "is_correct": false
+        },
+        "456": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 456,
+            "is_correct": true
+        },
+        "457": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 457,
+            "is_correct": false
+        },
+        "458": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 458,
+            "is_correct": true
+        },
+        "459": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 459,
+            "is_correct": true
+        },
+        "460": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 460,
+            "is_correct": false
+        },
+        "461": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 461,
+            "is_correct": true
+        },
+        "462": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 462,
+            "is_correct": true
+        },
+        "463": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 463,
+            "is_correct": false
+        },
+        "464": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 464,
+            "is_correct": false
+        },
+        "465": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 465,
+            "is_correct": false
+        },
+        "466": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 466,
+            "is_correct": true
+        },
+        "467": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 467,
+            "is_correct": false
+        },
+        "468": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 468,
+            "is_correct": false
+        },
+        "469": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 469,
+            "is_correct": true
+        },
+        "470": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 470,
+            "is_correct": true
+        },
+        "471": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 471,
+            "is_correct": true
+        },
+        "472": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 472,
+            "is_correct": false
+        },
+        "473": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 473,
+            "is_correct": false
+        },
+        "474": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 474,
+            "is_correct": false
+        },
+        "475": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 475,
+            "is_correct": false
+        },
+        "476": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 476,
+            "is_correct": false
+        },
+        "477": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 477,
+            "is_correct": true
+        },
+        "478": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 478,
+            "is_correct": false
+        },
+        "479": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 479,
+            "is_correct": false
+        },
+        "480": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 480,
+            "is_correct": true
+        },
+        "481": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 481,
+            "is_correct": false
+        },
+        "482": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 482,
+            "is_correct": false
+        },
+        "483": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 483,
+            "is_correct": true
+        },
+        "484": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 484,
+            "is_correct": false
+        },
+        "485": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 485,
+            "is_correct": true
+        },
+        "486": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 486,
+            "is_correct": true
+        },
+        "487": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 487,
+            "is_correct": false
+        },
+        "488": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 488,
+            "is_correct": true
+        },
+        "489": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 489,
+            "is_correct": true
+        },
+        "490": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 490,
+            "is_correct": false
+        },
+        "491": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 491,
+            "is_correct": false
+        },
+        "492": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 492,
+            "is_correct": false
+        },
+        "493": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 493,
+            "is_correct": true
+        },
+        "494": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 494,
+            "is_correct": true
+        },
+        "495": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 495,
+            "is_correct": false
+        },
+        "496": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 496,
+            "is_correct": false
+        },
+        "497": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 497,
+            "is_correct": false
+        },
+        "498": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 498,
+            "is_correct": false
+        },
+        "499": {
+            "question": "This audio is a stereo recording of several instruments playing from left to right. Which image best represents the correct spatial layout of the scene based on the sound? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 499,
+            "is_correct": false
+        }
+    }
+}
