@@ -73,10 +73,10 @@ export audioBench='/home/xwang378/scratch/2025/AudioBench'
 #     --task_name perception/solos_text_audio \
 #     --sample 1000
 
-python $audioBench/scripts/run.py \
-    --model gemini-2.5-flash \
-    --task_name perception/solos_audio_text \
-    --sample 1000
+# python $audioBench/scripts/run.py \
+#     --model gemini-2.5-flash \
+#     --task_name perception/solos_audio_text \
+#     --sample 1000
 
 ######################## URMP ########################
 
@@ -142,3 +142,122 @@ python $audioBench/scripts/run.py \
 #     --model gemini-2.0-flash \
 #     --task_name perception/landscapes_text_vision \
 #     --sample 500
+
+
+########################## ACR ########################
+
+# python $audioBench/scripts/run.py \
+#     --model gemini-2.0-flash \
+#     --task_name acr/acr_audio_vision \
+#     --sample 1000
+
+# python $audioBench/scripts/run.py \
+#     --model gemini-2.0-flash \
+#     --task_name acr/acr_vision_audio \
+#     --sample 1000
+
+
+# python $audioBench/scripts/run.py \
+#     --model gemini-2.0-flash \
+#     --task_name acr/acr_audio_text \
+#     --sample 1000
+
+
+# python $audioBench/scripts/run.py \
+#     --model gemini-2.0-flash \
+#     --task_name acr/acr_text_audio \
+#     --sample 1000
+
+
+# python $audioBench/scripts/run.py \
+#     --model gemini-2.0-flash \
+#     --task_name acr/acr_vision_text \
+#     --sample 1000
+
+
+
+# python $audioBench/scripts/run.py \
+#     --model gemini-2.0-flash \
+#     --task_name acr/acr_text_vision \
+#     --sample 1000
+
+########################## OCR Hard ########################
+
+
+# python $audioBench/scripts/run.py \
+#     --model gemini-2.0-flash \
+#     --task_name acr/acr_hard_audio_text \
+#     --sample 1000
+
+# python $audioBench/scripts/run.py \
+#     --model gemini-2.0-flash \
+#     --task_name acr/acr_hard_vision_text \
+#     --sample 1000
+
+# python $audioBench/scripts/run.py \
+#     --model gemini-2.0-flash \
+#     --task_name acr/acr_hard_text_audio \
+#     --sample 1000
+
+python $audioBench/scripts/run.py \
+    --model gemini-2.0-flash \
+    --task_name acr/acr_hard_vision_audio \
+    --sample 1000
+
+########################## Spatial ########################
+
+# python $audioBench/scripts/run.py \
+#     --model gemini-2.0-flash \
+#     --task_name spatial/urmp_audio_vision \
+#     --sample 500
+
+
+# python $audioBench/scripts/run.py \
+#     --model gemini-2.0-flash \
+#     --task_name spatial/urmp_vision_audio \
+#     --sample 500
+
+
+# python $audioBench/scripts/run.py \
+#     --model gemini-2.0-flash \
+#     --task_name spatial/urmp_audio_text \
+#     --sample 500
+
+
+# python $audioBench/scripts/run.py \
+#     --model gemini-2.0-flash \
+#     --task_name spatial/urmp_text_audio \
+#     --sample 500
+
+
+# python $audioBench/scripts/run.py \
+#     --model gemini-2.0-flash \
+#     --task_name spatial/urmp_text_vision \
+#     --sample 500
+
+# python $audioBench/scripts/run.py \
+#     --model gemini-2.0-flash \
+#     --task_name spatial/urmp_vision_text \
+#     --sample 500
+
+########################## OCR Translation ########################
+
+# python $audioBench/scripts/run.py \
+#     --model gemini-2.0-flash \
+#     --task_name ocr_translation_Chinese/ocr_translation_audio_text \
+#     --sample 1000
+
+# python $audioBench/scripts/run.py \
+#     --model gemini-2.0-flash \
+#     --task_name ocr_translation_Chinese/ocr_translation_text_audio \
+#     --sample 1000
+
+# python $audioBench/scripts/run.py \
+#     --model gemini-2.0-flash \
+#     --task_name ocr_translation_Chinese/ocr_translation_vision_text \
+#     --sample 1000
+
+# python $audioBench/scripts/run.py \
+#     --model gemini-2.0-flash \
+#     --task_name ocr_translation_Chinese/ocr_translation_text_vision \
+#     --sample 1000
