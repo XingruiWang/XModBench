@@ -28,10 +28,15 @@ export audioBench='/home/xwang378/scratch/2025/AudioBench'
 
 # python $audioBench/scripts/run.py \
 #     --model gemini-2.0-flash \
-#     --task_name spatial/urmp_audio_vision \
+#     --task_name spatial_easy/urmp_vision_text \
+#     --sample 500
+
+# python $audioBench/scripts/run.py \
+#     --model gemini-2.0-flash \
+#     --task_name acr/acr_hard_text_audio  \
 #     --sample 100
 
 python $audioBench/scripts/run.py \
-    --model gemini-2.0-flash \
-    --task_name acr/acr_hard_text_audio  \
-    --sample 100
+    --model qwen2.5_omni \
+    --task_name acr_translation_Chinese_hard/ocr_translation_audio_text \
+    --sample -1
