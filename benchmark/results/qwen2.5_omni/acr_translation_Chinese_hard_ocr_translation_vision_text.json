@@ -1,0 +1,15 @@
+{
+    "task_name": "acr_translation_Chinese_hard/ocr_translation_vision_text",
+    "score": 100.0,
+    "correct_count": 1,
+    "all_count": 1,
+    "results": {
+        "0": {
+            "question": "Which text most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 0,
+            "is_correct": true
+        }
+    }
+}

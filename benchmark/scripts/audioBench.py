@@ -41,6 +41,14 @@ class AudioBench():
                 'urmp_vision_text': os.path.join(root_dir, '02_spatial', 'urmp', 'urmp_audio_bench_questions_vision_text.json'),
                 'urmp_text_vision': os.path.join(root_dir, '02_spatial', 'urmp', 'urmp_audio_bench_questions_text_vision.json'),
             },
+            'spatial_easy': {
+                'urmp_audio_vision': os.path.join(root_dir, '02_spatial', 'urmp_easy', 'urmp_audio_bench_questions_audio_vision.json'),
+                'urmp_vision_audio': os.path.join(root_dir, '02_spatial', 'urmp_easy', 'urmp_audio_bench_questions_vision_audio.json'),
+                'urmp_audio_text': os.path.join(root_dir, '02_spatial', 'urmp_easy', 'urmp_audio_bench_questions_audio_text.json'),
+                'urmp_text_audio': os.path.join(root_dir, '02_spatial', 'urmp_easy', 'urmp_audio_bench_questions_text_audio.json'),
+                'urmp_vision_text': os.path.join(root_dir, '02_spatial', 'urmp_easy', 'urmp_audio_bench_questions_vision_text.json'),
+                'urmp_text_vision': os.path.join(root_dir, '02_spatial', 'urmp_easy', 'urmp_audio_bench_questions_text_vision.json'),
+            },
             'acr': {
                 'acr_audio_vision': os.path.join(root_dir, '03_ocr', 'acr', 'acr_audio_bench_questions_audio_vision.json'),
                 'acr_vision_audio': os.path.join(root_dir, '03_ocr', 'acr', 'acr_audio_bench_que tions_audio_text.json'),
@@ -60,6 +68,12 @@ class AudioBench():
                 'ocr_translation_text_audio': os.path.join(root_dir, '03_ocr_translation', 'acr_Chinese', 'acr_audio_bench_questions_text_audio.json'),
                 'ocr_translation_vision_text': os.path.join(root_dir, '03_ocr_translation', 'acr_Chinese', 'acr_audio_bench_questions_vision_text.json'),
                 'ocr_translation_text_vision': os.path.join(root_dir, '03_ocr_translation', 'acr_Chinese', 'acr_audio_bench_questions_text_vision.json'),
+            },
+            'acr_translation_Chinese_hard': {
+                'ocr_translation_audio_text': os.path.join(root_dir, '03_ocr_translation_hard', 'acr_Chinese', 'acr_audio_bench_questions_audio_text.json'),
+                'ocr_translation_text_audio': os.path.join(root_dir, '03_ocr_translation_hard', 'acr_Chinese', 'acr_audio_bench_questions_text_audio.json'),
+                'ocr_translation_vision_text': os.path.join(root_dir, '03_ocr_translation_hard', 'acr_Chinese', 'acr_audio_bench_questions_vision_text.json'),
+                'ocr_translation_vision_audio': os.path.join(root_dir, '03_ocr_translation_hard', 'acr_Chinese', 'acr_audio_bench_questions_vision_audio.json'),
             }
         }
         

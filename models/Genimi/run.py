@@ -115,7 +115,7 @@ def _run_genimi(instance, args):
     
     if response.text.strip().upper() not in ['A', 'B', 'C', 'D']:
         response = client.models.generate_content(
-            model="gemini-2.0-flash",
+            model="gemini-2.0-flash-lite",
             # model="gemini-2.5-flash",
             # model=args.model, # model="gemini-2.0-flash",  # or "gemini-2.5-flash"
             contents = [
@@ -148,6 +148,10 @@ def run_all_genimi(task_name, questions, args, sample = 100, save_dir = None):
     
     save_result['results'] = {}
     
+    if sample > len(questions):
+        print(f"Sample is greater than the number of questions, setting sample to {len(questions)}")
+        sample = len(questions)
+        
     for i in tqdm(range(sample)):
         response = run_genimi(questions, i, args)
         if response is not None:
@@ -180,7 +184,6 @@ def run_all_genimi(task_name, questions, args, sample = 100, save_dir = None):
     print(f"Results saved to {save_path}")
 
 def main(args):
-
 
     audiobench = AudioBench(root_dir=args.root_dir)
 

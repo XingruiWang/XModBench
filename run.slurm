@@ -211,16 +211,16 @@ export audioBench='/home/xwang378/scratch/2025/AudioBench'
 #     --sample 500
 
 
-python $audioBench/scripts/run.py \
-    --model qwen2.5_omni \
-    --task_name spatial/urmp_vision_text \
-    --sample 500
+# python $audioBench/scripts/run.py \
+#     --model qwen2.5_omni \
+#     --task_name spatial/urmp_vision_text \
+#     --sample 500
 
 
-python $audioBench/scripts/run.py \
-    --model qwen2.5_omni \
-    --task_name spatial/urmp_text_vision \
-    --sample 500
+# python $audioBench/scripts/run.py \
+#     --model qwen2.5_omni \
+#     --task_name spatial/urmp_text_vision \
+#     --sample 500
 
 ########################## OCR Translation ########################
 
@@ -243,6 +243,54 @@ python $audioBench/scripts/run.py \
 #     --model qwen2.5_omni \
 #     --task_name ocr_translation_Chinese/ocr_translation_vision_text \
 #     --sample 500
+
+########################## ACR Hard ########################
+
+python $audioBench/scripts/run.py \
+    --model qwen2.5_omni \
+    --task_name acr/acr_hard_audio_text \
+    --sample -1
+
+# python $audioBench/scripts/run.py \
+#     --model qwen2.5_omni \
+#     --task_name acr/acr_hard_vision_text \
+#     --sample -1
+
+# python $audioBench/scripts/run.py \
+#     --model qwen2.5_omni \
+#     --task_name acr/acr_hard_text_audio \
+#     --sample -1
+
+# python $audioBench/scripts/run.py \
+#     --model qwen2.5_omni \
+#     --task_name acr/acr_hard_vision_audio \
+#     --sample -1
+
+########################## OCR Translation Hard ########################
+
+# python $audioBench/scripts/run.py \
+#     --model qwen2.5_omni \
+#     --task_name acr_translation_Chinese_hard/ocr_translation_text_audio \
+#     --sample -1
+
+# python $audioBench/scripts/run.py \
+#     --model qwen2.5_omni \
+#     --task_name acr_translation_Chinese_hard/ocr_translation_vision_text \
+#     --sample -1
+
+# python $audioBench/scripts/run.py \
+#     --model qwen2.5_omni \
+#     --task_name acr_translation_Chinese_hard/ocr_translation_vision_audio \
+#     --sample -1
+
+# python $audioBench/scripts/run.py \
+#     --model qwen2.5_omni \
+#     --task_name acr_translation_Chinese_hard/ocr_translation_audio_text \
+#     --sample -1
+
+
+
+
 
 
 

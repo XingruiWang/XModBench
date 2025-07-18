@@ -1,104 +1,104 @@
 {
-    "task_name": "spatial/urmp_vision_text",
-    "score": 90.46653144016227,
-    "correct_count": 446,
-    "all_count": 493,
+    "task_name": "spatial_easy/urmp_vision_text",
+    "score": 89.46236559139786,
+    "correct_count": 416,
+    "all_count": 465,
     "results": {
         "0": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "A",
+            "correct_answer": "A",
             "index": 0,
             "is_correct": true
         },
         "1": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "B",
+            "correct_answer": "B",
             "index": 1,
             "is_correct": true
         },
         "2": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": null,
-            "correct_answer": "A",
+            "response": "B",
+            "correct_answer": "B",
             "index": 2,
-            "is_correct": false
+            "is_correct": true
         },
         "3": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "A",
+            "response": "B",
+            "correct_answer": "B",
             "index": 3,
-            "is_correct": false
+            "is_correct": true
         },
         "4": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "B",
+            "correct_answer": "B",
             "index": 4,
             "is_correct": true
         },
         "5": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "A",
+            "correct_answer": "A",
             "index": 5,
             "is_correct": true
         },
         "6": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "C",
+            "correct_answer": "C",
             "index": 6,
             "is_correct": true
         },
         "7": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "D",
+            "correct_answer": "D",
             "index": 7,
             "is_correct": true
         },
         "8": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "A",
+            "correct_answer": "A",
             "index": 8,
             "is_correct": true
         },
         "9": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
+            "response": "A",
             "correct_answer": "C",
             "index": 9,
-            "is_correct": true
+            "is_correct": false
         },
         "10": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
             "response": "A",
-            "correct_answer": "A",
+            "correct_answer": "C",
             "index": 10,
-            "is_correct": true
+            "is_correct": false
         },
         "11": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": null,
-            "correct_answer": "C",
+            "response": "B",
+            "correct_answer": "D",
             "index": 11,
             "is_correct": false
         },
         "12": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "D",
+            "correct_answer": "D",
             "index": 12,
             "is_correct": true
         },
         "13": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "C",
+            "correct_answer": "C",
             "index": 13,
             "is_correct": true
         },
@@ -111,22 +111,22 @@
         },
         "15": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "C",
+            "correct_answer": "C",
             "index": 15,
             "is_correct": true
         },
         "16": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": null,
-            "correct_answer": "C",
+            "response": "A",
+            "correct_answer": "A",
             "index": 16,
-            "is_correct": false
+            "is_correct": true
         },
         "17": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "C",
+            "correct_answer": "C",
             "index": 17,
             "is_correct": true
         },
@@ -139,94 +139,94 @@
         },
         "19": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "B",
+            "correct_answer": "B",
             "index": 19,
             "is_correct": true
         },
         "20": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
+            "response": "A",
             "correct_answer": "D",
             "index": 20,
-            "is_correct": true
+            "is_correct": false
         },
         "21": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "B",
+            "correct_answer": "B",
             "index": 21,
             "is_correct": true
         },
         "22": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "A",
+            "correct_answer": "A",
             "index": 22,
             "is_correct": true
         },
         "23": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
+            "response": "C",
             "correct_answer": "D",
             "index": 23,
-            "is_correct": true
+            "is_correct": false
         },
         "24": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "D",
+            "correct_answer": "D",
             "index": 24,
             "is_correct": true
         },
         "25": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
+            "response": "B",
             "correct_answer": "A",
             "index": 25,
-            "is_correct": true
+            "is_correct": false
         },
         "26": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "B",
+            "correct_answer": "B",
             "index": 26,
             "is_correct": true
         },
         "27": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "A",
+            "correct_answer": "A",
             "index": 27,
             "is_correct": true
         },
         "28": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
             "response": "A",
-            "correct_answer": "A",
+            "correct_answer": "C",
             "index": 28,
-            "is_correct": true
+            "is_correct": false
         },
         "29": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "C",
+            "correct_answer": "C",
             "index": 29,
             "is_correct": true
         },
         "30": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
             "response": "A",
-            "correct_answer": "C",
+            "correct_answer": "A",
             "index": 30,
-            "is_correct": false
+            "is_correct": true
         },
         "31": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "C",
+            "response": "A",
+            "correct_answer": "A",
             "index": 31,
-            "is_correct": false
+            "is_correct": true
         },
         "32": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
@@ -237,71 +237,71 @@
         },
         "33": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "D",
+            "correct_answer": "D",
             "index": 33,
             "is_correct": true
         },
         "34": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "D",
+            "correct_answer": "D",
             "index": 34,
             "is_correct": true
         },
         "35": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "D",
+            "correct_answer": "D",
             "index": 35,
             "is_correct": true
         },
         "36": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "B",
+            "correct_answer": "B",
             "index": 36,
             "is_correct": true
         },
         "37": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "A",
+            "correct_answer": "A",
             "index": 37,
             "is_correct": true
         },
         "38": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "A",
+            "correct_answer": "A",
             "index": 38,
             "is_correct": true
         },
         "39": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "B",
+            "correct_answer": "B",
             "index": 39,
             "is_correct": true
         },
         "40": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "C",
+            "correct_answer": "C",
             "index": 40,
             "is_correct": true
         },
         "41": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "C",
+            "correct_answer": "C",
             "index": 41,
             "is_correct": true
         },
         "42": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "D",
+            "correct_answer": "D",
             "index": 42,
             "is_correct": true
         },
@@ -314,136 +314,136 @@
         },
         "44": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "B",
+            "correct_answer": "B",
             "index": 44,
             "is_correct": true
         },
         "45": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "B",
+            "correct_answer": "B",
             "index": 45,
             "is_correct": true
         },
         "46": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "B",
+            "correct_answer": "B",
             "index": 46,
             "is_correct": true
         },
         "47": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "A",
+            "correct_answer": "A",
             "index": 47,
             "is_correct": true
         },
         "48": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "B",
+            "correct_answer": "B",
             "index": 48,
             "is_correct": true
         },
         "49": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "A",
+            "correct_answer": "A",
             "index": 49,
             "is_correct": true
         },
         "50": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "B",
+            "correct_answer": "B",
             "index": 50,
             "is_correct": true
         },
         "51": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "A",
+            "response": "B",
+            "correct_answer": "B",
             "index": 51,
-            "is_correct": false
+            "is_correct": true
         },
         "52": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "A",
+            "correct_answer": "A",
             "index": 52,
             "is_correct": true
         },
         "53": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "A",
+            "correct_answer": "A",
             "index": 53,
             "is_correct": true
         },
         "54": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "A",
+            "correct_answer": "A",
             "index": 54,
             "is_correct": true
         },
         "55": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "B",
+            "correct_answer": "B",
             "index": 55,
             "is_correct": true
         },
         "56": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "A",
+            "correct_answer": "A",
             "index": 56,
             "is_correct": true
         },
         "57": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
+            "response": "C",
             "correct_answer": "B",
             "index": 57,
-            "is_correct": true
+            "is_correct": false
         },
         "58": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": null,
-            "correct_answer": "A",
+            "response": "C",
+            "correct_answer": "D",
             "index": 58,
             "is_correct": false
         },
         "59": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "A",
+            "correct_answer": "A",
             "index": 59,
             "is_correct": true
         },
         "60": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
+            "response": "D",
             "correct_answer": "C",
             "index": 60,
-            "is_correct": true
+            "is_correct": false
         },
         "61": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "C",
+            "correct_answer": "C",
             "index": 61,
             "is_correct": true
         },
         "62": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "D",
+            "correct_answer": "C",
             "index": 62,
-            "is_correct": true
+            "is_correct": false
         },
         "63": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
@@ -454,87 +454,87 @@
         },
         "64": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
+            "response": "B",
             "correct_answer": "A",
             "index": 64,
-            "is_correct": true
+            "is_correct": false
         },
         "65": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "C",
+            "correct_answer": "C",
             "index": 65,
             "is_correct": true
         },
         "66": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
             "response": "D",
-            "correct_answer": "A",
+            "correct_answer": "D",
             "index": 66,
-            "is_correct": false
+            "is_correct": true
         },
         "67": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "B",
+            "correct_answer": "B",
             "index": 67,
             "is_correct": true
         },
         "68": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "B",
+            "correct_answer": "B",
             "index": 68,
             "is_correct": true
         },
         "69": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "C",
+            "response": "D",
+            "correct_answer": "D",
             "index": 69,
-            "is_correct": false
+            "is_correct": true
         },
         "70": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "D",
+            "correct_answer": "D",
             "index": 70,
             "is_correct": true
         },
         "71": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "A",
+            "correct_answer": "A",
             "index": 71,
             "is_correct": true
         },
         "72": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "B",
+            "response": "C",
+            "correct_answer": "C",
             "index": 72,
-            "is_correct": false
+            "is_correct": true
         },
         "73": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
             "response": "B",
-            "correct_answer": "D",
+            "correct_answer": "B",
             "index": 73,
-            "is_correct": false
+            "is_correct": true
         },
         "74": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
+            "response": "A",
             "correct_answer": "A",
             "index": 74,
-            "is_correct": false
+            "is_correct": true
         },
         "75": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
             "response": "A",
-            "correct_answer": "D",
+            "correct_answer": "A",
             "index": 75,
-            "is_correct": false
+            "is_correct": true
         },
         "76": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
@@ -545,43 +545,43 @@
         },
         "77": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "A",
+            "correct_answer": "A",
             "index": 77,
             "is_correct": true
         },
         "78": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "C",
+            "correct_answer": "C",
             "index": 78,
             "is_correct": true
         },
         "79": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "A",
+            "correct_answer": "A",
             "index": 79,
             "is_correct": true
         },
         "80": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "C",
+            "correct_answer": "C",
             "index": 80,
             "is_correct": true
         },
         "81": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "D",
+            "correct_answer": "D",
             "index": 81,
             "is_correct": true
         },
         "82": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "D",
+            "correct_answer": "D",
             "index": 82,
             "is_correct": true
         },
@@ -601,15 +601,15 @@
         },
         "85": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "C",
+            "correct_answer": "C",
             "index": 85,
             "is_correct": true
         },
         "86": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "C",
+            "correct_answer": "C",
             "index": 86,
             "is_correct": true
         },
@@ -622,15 +622,15 @@
         },
         "88": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "B",
+            "correct_answer": "B",
             "index": 88,
             "is_correct": true
         },
         "89": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "A",
+            "correct_answer": "A",
             "index": 89,
             "is_correct": true
         },
@@ -643,15 +643,15 @@
         },
         "91": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "C",
+            "correct_answer": "C",
             "index": 91,
             "is_correct": true
         },
         "92": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "A",
+            "correct_answer": "A",
             "index": 92,
             "is_correct": true
         },
@@ -664,8 +664,8 @@
         },
         "94": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "C",
+            "correct_answer": "C",
             "index": 94,
             "is_correct": true
         },
@@ -678,8 +678,8 @@
         },
         "96": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "B",
+            "correct_answer": "B",
             "index": 96,
             "is_correct": true
         },
@@ -692,22 +692,22 @@
         },
         "98": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "D",
+            "correct_answer": "D",
             "index": 98,
             "is_correct": true
         },
         "99": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "A",
+            "correct_answer": "A",
             "index": 99,
             "is_correct": true
         },
         "100": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "B",
+            "correct_answer": "B",
             "index": 100,
             "is_correct": true
         },
@@ -720,10 +720,10 @@
         },
         "102": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
+            "response": "B",
             "correct_answer": "D",
             "index": 102,
-            "is_correct": true
+            "is_correct": false
         },
         "103": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
@@ -734,57 +734,57 @@
         },
         "104": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "A",
+            "correct_answer": "D",
             "index": 104,
-            "is_correct": true
+            "is_correct": false
         },
         "105": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "A",
+            "correct_answer": "A",
             "index": 105,
             "is_correct": true
         },
         "106": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "A",
+            "correct_answer": "C",
             "index": 106,
-            "is_correct": true
+            "is_correct": false
         },
         "107": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
+            "response": "A",
             "correct_answer": "C",
             "index": 107,
-            "is_correct": true
+            "is_correct": false
         },
         "108": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "A",
+            "correct_answer": "A",
             "index": 108,
             "is_correct": true
         },
         "109": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "C",
+            "correct_answer": "C",
             "index": 109,
             "is_correct": true
         },
         "110": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "C",
+            "correct_answer": "C",
             "index": 110,
             "is_correct": true
         },
         "111": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "B",
+            "correct_answer": "B",
             "index": 111,
             "is_correct": true
         },
@@ -797,8 +797,8 @@
         },
         "113": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "D",
+            "correct_answer": "D",
             "index": 113,
             "is_correct": true
         },
@@ -811,29 +811,29 @@
         },
         "115": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "C",
+            "correct_answer": "C",
             "index": 115,
             "is_correct": true
         },
         "116": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "C",
+            "correct_answer": "C",
             "index": 116,
             "is_correct": true
         },
         "117": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "B",
+            "correct_answer": "B",
             "index": 117,
             "is_correct": true
         },
         "118": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "A",
+            "correct_answer": "A",
             "index": 118,
             "is_correct": true
         },
@@ -853,36 +853,36 @@
         },
         "121": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "B",
+            "correct_answer": "B",
             "index": 121,
             "is_correct": true
         },
         "122": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "A",
+            "correct_answer": "A",
             "index": 122,
             "is_correct": true
         },
         "123": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "B",
+            "correct_answer": "B",
             "index": 123,
             "is_correct": true
         },
         "124": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "D",
+            "correct_answer": "B",
             "index": 124,
-            "is_correct": true
+            "is_correct": false
         },
         "125": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "D",
+            "correct_answer": "D",
             "index": 125,
             "is_correct": true
         },
@@ -895,29 +895,29 @@
         },
         "127": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "B",
+            "correct_answer": "B",
             "index": 127,
             "is_correct": true
         },
         "128": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "C",
+            "correct_answer": "C",
             "index": 128,
             "is_correct": true
         },
         "129": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "B",
+            "correct_answer": "B",
             "index": 129,
             "is_correct": true
         },
         "130": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "A",
+            "correct_answer": "A",
             "index": 130,
             "is_correct": true
         },
@@ -937,8 +937,8 @@
         },
         "133": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "D",
+            "correct_answer": "D",
             "index": 133,
             "is_correct": true
         },
@@ -951,15 +951,15 @@
         },
         "135": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "D",
+            "correct_answer": "D",
             "index": 135,
             "is_correct": true
         },
         "136": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "B",
+            "correct_answer": "B",
             "index": 136,
             "is_correct": true
         },
@@ -986,29 +986,29 @@
         },
         "140": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "D",
+            "correct_answer": "D",
             "index": 140,
             "is_correct": true
         },
         "141": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "A",
+            "correct_answer": "A",
             "index": 141,
             "is_correct": true
         },
         "142": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "D",
+            "correct_answer": "D",
             "index": 142,
             "is_correct": true
         },
         "143": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "A",
+            "correct_answer": "A",
             "index": 143,
             "is_correct": true
         },
@@ -1028,8 +1028,8 @@
         },
         "146": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "D",
+            "correct_answer": "D",
             "index": 146,
             "is_correct": true
         },
@@ -1042,85 +1042,85 @@
         },
         "148": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "C",
+            "correct_answer": "C",
             "index": 148,
             "is_correct": true
         },
         "149": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "B",
+            "correct_answer": "B",
             "index": 149,
             "is_correct": true
         },
         "150": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "B",
+            "correct_answer": "B",
             "index": 150,
             "is_correct": true
         },
         "151": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "C",
+            "correct_answer": "C",
             "index": 151,
             "is_correct": true
         },
         "152": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "A",
+            "correct_answer": "A",
             "index": 152,
             "is_correct": true
         },
         "153": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "A",
+            "correct_answer": "A",
             "index": 153,
             "is_correct": true
         },
         "154": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "B",
+            "correct_answer": "B",
             "index": 154,
             "is_correct": true
         },
         "155": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "B",
+            "response": "D",
+            "correct_answer": "D",
             "index": 155,
-            "is_correct": false
+            "is_correct": true
         },
         "156": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "B",
+            "correct_answer": "B",
             "index": 156,
             "is_correct": true
         },
         "157": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "A",
+            "correct_answer": "A",
             "index": 157,
             "is_correct": true
         },
         "158": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "A",
+            "correct_answer": "A",
             "index": 158,
             "is_correct": true
         },
         "159": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "D",
+            "correct_answer": "D",
             "index": 159,
             "is_correct": true
         },
@@ -1140,29 +1140,29 @@
         },
         "162": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "D",
+            "response": "C",
+            "correct_answer": "C",
             "index": 162,
-            "is_correct": false
+            "is_correct": true
         },
         "163": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "C",
+            "correct_answer": "C",
             "index": 163,
             "is_correct": true
         },
         "164": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "B",
+            "response": "A",
+            "correct_answer": "A",
             "index": 164,
-            "is_correct": false
+            "is_correct": true
         },
         "165": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "C",
+            "correct_answer": "C",
             "index": 165,
             "is_correct": true
         },
@@ -1175,38 +1175,38 @@
         },
         "167": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "C",
+            "correct_answer": "C",
             "index": 167,
             "is_correct": true
         },
         "168": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
             "response": "D",
-            "correct_answer": "C",
+            "correct_answer": "A",
             "index": 168,
             "is_correct": false
         },
         "169": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "B",
+            "correct_answer": "B",
             "index": 169,
             "is_correct": true
         },
         "170": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "A",
+            "response": "D",
+            "correct_answer": "D",
             "index": 170,
-            "is_correct": false
+            "is_correct": true
         },
         "171": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "B",
+            "response": "A",
+            "correct_answer": "A",
             "index": 171,
-            "is_correct": false
+            "is_correct": true
         },
         "172": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
@@ -1217,43 +1217,43 @@
         },
         "173": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "B",
+            "response": "C",
+            "correct_answer": "A",
             "index": 173,
             "is_correct": false
         },
         "174": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "A",
+            "response": "B",
+            "correct_answer": "B",
             "index": 174,
-            "is_correct": false
+            "is_correct": true
         },
         "175": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
+            "response": "A",
             "correct_answer": "A",
             "index": 175,
-            "is_correct": false
+            "is_correct": true
         },
         "176": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
+            "response": "D",
             "correct_answer": "D",
             "index": 176,
-            "is_correct": false
+            "is_correct": true
         },
         "177": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "D",
+            "correct_answer": "D",
             "index": 177,
             "is_correct": true
         },
         "178": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "A",
+            "correct_answer": "A",
             "index": 178,
             "is_correct": true
         },
@@ -1266,15 +1266,15 @@
         },
         "180": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "D",
+            "correct_answer": "D",
             "index": 180,
             "is_correct": true
         },
         "181": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "C",
+            "correct_answer": "C",
             "index": 181,
             "is_correct": true
         },
@@ -1288,9 +1288,9 @@
         "183": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
             "response": "D",
-            "correct_answer": "D",
+            "correct_answer": "A",
             "index": 183,
-            "is_correct": true
+            "is_correct": false
         },
         "184": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
@@ -1301,8 +1301,8 @@
         },
         "185": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "D",
+            "correct_answer": "D",
             "index": 185,
             "is_correct": true
         },
@@ -1315,22 +1315,22 @@
         },
         "187": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "D",
+            "correct_answer": "D",
             "index": 187,
             "is_correct": true
         },
         "188": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "A",
+            "correct_answer": "A",
             "index": 188,
             "is_correct": true
         },
         "189": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "C",
+            "correct_answer": "C",
             "index": 189,
             "is_correct": true
         },
@@ -1357,22 +1357,22 @@
         },
         "193": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "C",
+            "correct_answer": "C",
             "index": 193,
             "is_correct": true
         },
         "194": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "C",
+            "correct_answer": "C",
             "index": 194,
             "is_correct": true
         },
         "195": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "D",
+            "correct_answer": "D",
             "index": 195,
             "is_correct": true
         },
@@ -1385,99 +1385,99 @@
         },
         "197": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "D",
+            "correct_answer": "D",
             "index": 197,
             "is_correct": true
         },
         "198": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "D",
+            "correct_answer": "D",
             "index": 198,
             "is_correct": true
         },
         "199": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "B",
+            "correct_answer": "B",
             "index": 199,
             "is_correct": true
         },
         "200": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "D",
+            "correct_answer": "D",
             "index": 200,
             "is_correct": true
         },
         "201": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "C",
+            "correct_answer": "C",
             "index": 201,
             "is_correct": true
         },
         "202": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "B",
+            "correct_answer": "B",
             "index": 202,
             "is_correct": true
         },
         "203": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "B",
+            "correct_answer": "B",
             "index": 203,
             "is_correct": true
         },
         "204": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "B",
+            "correct_answer": "B",
             "index": 204,
             "is_correct": true
         },
         "205": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "D",
+            "correct_answer": "D",
             "index": 205,
             "is_correct": true
         },
         "206": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "D",
+            "correct_answer": "D",
             "index": 206,
             "is_correct": true
         },
         "207": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "C",
+            "correct_answer": "C",
             "index": 207,
             "is_correct": true
         },
         "208": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "B",
+            "correct_answer": "B",
             "index": 208,
             "is_correct": true
         },
         "209": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "A",
+            "correct_answer": "A",
             "index": 209,
             "is_correct": true
         },
         "210": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "A",
+            "correct_answer": "A",
             "index": 210,
             "is_correct": true
         },
@@ -1490,8 +1490,8 @@
         },
         "212": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "B",
+            "correct_answer": "B",
             "index": 212,
             "is_correct": true
         },
@@ -1511,50 +1511,50 @@
         },
         "215": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "A",
+            "response": "D",
+            "correct_answer": "D",
             "index": 215,
-            "is_correct": false
+            "is_correct": true
         },
         "216": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "A",
+            "correct_answer": "A",
             "index": 216,
             "is_correct": true
         },
         "217": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "D",
+            "correct_answer": "D",
             "index": 217,
             "is_correct": true
         },
         "218": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "D",
+            "response": "C",
+            "correct_answer": "C",
             "index": 218,
-            "is_correct": false
+            "is_correct": true
         },
         "219": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "B",
+            "correct_answer": "B",
             "index": 219,
             "is_correct": true
         },
         "220": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
             "response": "D",
-            "correct_answer": "C",
+            "correct_answer": "D",
             "index": 220,
-            "is_correct": false
+            "is_correct": true
         },
         "221": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "A",
+            "correct_answer": "A",
             "index": 221,
             "is_correct": true
         },
@@ -1574,66 +1574,66 @@
         },
         "224": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "D",
+            "correct_answer": "D",
             "index": 224,
             "is_correct": true
         },
         "225": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "A",
+            "correct_answer": "A",
             "index": 225,
             "is_correct": true
         },
         "226": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "D",
+            "response": "B",
+            "correct_answer": "B",
             "index": 226,
-            "is_correct": false
+            "is_correct": true
         },
         "227": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
+            "response": "B",
             "correct_answer": "B",
             "index": 227,
-            "is_correct": false
+            "is_correct": true
         },
         "228": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "D",
+            "correct_answer": "B",
             "index": 228,
-            "is_correct": true
+            "is_correct": false
         },
         "229": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
+            "response": "D",
             "correct_answer": "D",
             "index": 229,
-            "is_correct": false
+            "is_correct": true
         },
         "230": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "B",
+            "correct_answer": "B",
             "index": 230,
             "is_correct": true
         },
         "231": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "C",
+            "response": "D",
+            "correct_answer": "D",
             "index": 231,
-            "is_correct": false
+            "is_correct": true
         },
         "232": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
             "response": "B",
-            "correct_answer": "D",
+            "correct_answer": "B",
             "index": 232,
-            "is_correct": false
+            "is_correct": true
         },
         "233": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
@@ -1645,23 +1645,23 @@
         "234": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
             "response": "B",
-            "correct_answer": "C",
+            "correct_answer": "B",
             "index": 234,
-            "is_correct": false
+            "is_correct": true
         },
         "235": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
             "response": "D",
-            "correct_answer": "D",
+            "correct_answer": "C",
             "index": 235,
-            "is_correct": true
+            "is_correct": false
         },
         "236": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
             "response": "B",
-            "correct_answer": "B",
+            "correct_answer": "D",
             "index": 236,
-            "is_correct": true
+            "is_correct": false
         },
         "237": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
@@ -1672,36 +1672,36 @@
         },
         "238": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "C",
+            "correct_answer": "C",
             "index": 238,
             "is_correct": true
         },
         "239": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "C",
+            "correct_answer": "C",
             "index": 239,
             "is_correct": true
         },
         "240": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "D",
+            "correct_answer": "D",
             "index": 240,
             "is_correct": true
         },
         "241": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "C",
+            "correct_answer": "C",
             "index": 241,
             "is_correct": true
         },
         "242": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "C",
+            "correct_answer": "C",
             "index": 242,
             "is_correct": true
         },
@@ -1714,8 +1714,8 @@
         },
         "244": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "B",
+            "correct_answer": "B",
             "index": 244,
             "is_correct": true
         },
@@ -1728,8 +1728,8 @@
         },
         "246": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "A",
+            "correct_answer": "A",
             "index": 246,
             "is_correct": true
         },
@@ -1742,8 +1742,8 @@
         },
         "248": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "C",
+            "correct_answer": "C",
             "index": 248,
             "is_correct": true
         },
@@ -1756,8 +1756,8 @@
         },
         "250": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "B",
+            "correct_answer": "B",
             "index": 250,
             "is_correct": true
         },
@@ -1791,8 +1791,8 @@
         },
         "255": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "C",
+            "correct_answer": "C",
             "index": 255,
             "is_correct": true
         },
@@ -1805,52 +1805,52 @@
         },
         "257": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "A",
+            "correct_answer": "A",
             "index": 257,
             "is_correct": true
         },
         "258": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "B",
+            "correct_answer": "A",
             "index": 258,
-            "is_correct": true
+            "is_correct": false
         },
         "259": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "D",
+            "correct_answer": "D",
             "index": 259,
             "is_correct": true
         },
         "260": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "B",
+            "correct_answer": "B",
             "index": 260,
             "is_correct": true
         },
         "261": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "C",
+            "correct_answer": "C",
             "index": 261,
             "is_correct": true
         },
         "262": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "D",
+            "correct_answer": "D",
             "index": 262,
             "is_correct": true
         },
         "263": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
             "response": "C",
-            "correct_answer": "C",
+            "correct_answer": "A",
             "index": 263,
-            "is_correct": true
+            "is_correct": false
         },
         "264": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
@@ -1861,8 +1861,8 @@
         },
         "265": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "A",
+            "correct_answer": "A",
             "index": 265,
             "is_correct": true
         },
@@ -1882,50 +1882,50 @@
         },
         "268": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "D",
+            "correct_answer": "D",
             "index": 268,
             "is_correct": true
         },
         "269": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "D",
+            "correct_answer": "D",
             "index": 269,
             "is_correct": true
         },
         "270": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "B",
+            "correct_answer": "B",
             "index": 270,
             "is_correct": true
         },
         "271": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "D",
+            "correct_answer": "D",
             "index": 271,
             "is_correct": true
         },
         "272": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "C",
+            "correct_answer": "C",
             "index": 272,
             "is_correct": true
         },
         "273": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "D",
+            "response": "B",
+            "correct_answer": "A",
             "index": 273,
             "is_correct": false
         },
         "274": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "C",
+            "correct_answer": "C",
             "index": 274,
             "is_correct": true
         },
@@ -1939,44 +1939,44 @@
         "276": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
             "response": "C",
-            "correct_answer": "D",
+            "correct_answer": "C",
             "index": 276,
-            "is_correct": false
+            "is_correct": true
         },
         "277": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "D",
+            "correct_answer": "D",
             "index": 277,
             "is_correct": true
         },
         "278": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
+            "response": "B",
             "correct_answer": "B",
             "index": 278,
-            "is_correct": false
+            "is_correct": true
         },
         "279": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
             "response": "C",
-            "correct_answer": "D",
+            "correct_answer": "A",
             "index": 279,
             "is_correct": false
         },
         "280": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "A",
+            "correct_answer": "A",
             "index": 280,
             "is_correct": true
         },
         "281": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
             "response": "B",
-            "correct_answer": "B",
+            "correct_answer": "D",
             "index": 281,
-            "is_correct": true
+            "is_correct": false
         },
         "282": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
@@ -1987,8 +1987,8 @@
         },
         "283": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "D",
+            "correct_answer": "D",
             "index": 283,
             "is_correct": true
         },
@@ -2001,85 +2001,85 @@
         },
         "285": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "B",
+            "correct_answer": "B",
             "index": 285,
             "is_correct": true
         },
         "286": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "C",
+            "correct_answer": "B",
             "index": 286,
-            "is_correct": true
+            "is_correct": false
         },
         "287": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "B",
+            "correct_answer": "B",
             "index": 287,
             "is_correct": true
         },
         "288": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
             "response": "B",
-            "correct_answer": "B",
+            "correct_answer": "D",
             "index": 288,
-            "is_correct": true
+            "is_correct": false
         },
         "289": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "D",
+            "correct_answer": "C",
             "index": 289,
-            "is_correct": true
+            "is_correct": false
         },
         "290": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "A",
+            "correct_answer": "A",
             "index": 290,
             "is_correct": true
         },
         "291": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "D",
+            "correct_answer": "D",
             "index": 291,
             "is_correct": true
         },
         "292": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "B",
+            "correct_answer": "B",
             "index": 292,
             "is_correct": true
         },
         "293": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "B",
+            "correct_answer": "B",
             "index": 293,
             "is_correct": true
         },
         "294": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "A",
+            "correct_answer": "A",
             "index": 294,
             "is_correct": true
         },
         "295": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "D",
+            "correct_answer": "D",
             "index": 295,
             "is_correct": true
         },
         "296": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "D",
+            "correct_answer": "D",
             "index": 296,
             "is_correct": true
         },
@@ -2099,36 +2099,36 @@
         },
         "299": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "B",
+            "correct_answer": "B",
             "index": 299,
             "is_correct": true
         },
         "300": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "B",
+            "correct_answer": "B",
             "index": 300,
             "is_correct": true
         },
         "301": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
+            "response": "D",
             "correct_answer": "D",
             "index": 301,
-            "is_correct": false
+            "is_correct": true
         },
         "302": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "D",
+            "correct_answer": "D",
             "index": 302,
             "is_correct": true
         },
         "303": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "C",
+            "correct_answer": "C",
             "index": 303,
             "is_correct": true
         },
@@ -2148,22 +2148,22 @@
         },
         "306": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "C",
+            "correct_answer": "C",
             "index": 306,
             "is_correct": true
         },
         "307": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "C",
+            "correct_answer": "C",
             "index": 307,
             "is_correct": true
         },
         "308": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "C",
+            "correct_answer": "C",
             "index": 308,
             "is_correct": true
         },
@@ -2176,8 +2176,8 @@
         },
         "310": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "A",
+            "correct_answer": "A",
             "index": 310,
             "is_correct": true
         },
@@ -2190,8 +2190,8 @@
         },
         "312": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "D",
+            "correct_answer": "D",
             "index": 312,
             "is_correct": true
         },
@@ -2218,50 +2218,50 @@
         },
         "316": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
+            "response": "D",
             "correct_answer": "D",
             "index": 316,
-            "is_correct": false
+            "is_correct": true
         },
         "317": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "D",
+            "correct_answer": "D",
             "index": 317,
             "is_correct": true
         },
         "318": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": null,
-            "correct_answer": "B",
+            "response": "A",
+            "correct_answer": "A",
             "index": 318,
-            "is_correct": false
+            "is_correct": true
         },
         "319": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "A",
+            "correct_answer": "A",
             "index": 319,
             "is_correct": true
         },
         "320": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "B",
+            "correct_answer": "B",
             "index": 320,
             "is_correct": true
         },
         "321": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "B",
+            "correct_answer": "B",
             "index": 321,
             "is_correct": true
         },
         "322": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "B",
+            "correct_answer": "B",
             "index": 322,
             "is_correct": true
         },
@@ -2274,15 +2274,15 @@
         },
         "324": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "B",
+            "correct_answer": "B",
             "index": 324,
             "is_correct": true
         },
         "325": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "D",
+            "correct_answer": "D",
             "index": 325,
             "is_correct": true
         },
@@ -2295,85 +2295,85 @@
         },
         "327": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "B",
+            "correct_answer": "B",
             "index": 327,
             "is_correct": true
         },
         "328": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "B",
+            "correct_answer": "B",
             "index": 328,
             "is_correct": true
         },
         "329": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "D",
+            "correct_answer": "D",
             "index": 329,
             "is_correct": true
         },
         "330": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "C",
+            "correct_answer": "C",
             "index": 330,
             "is_correct": true
         },
         "331": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
             "response": "D",
-            "correct_answer": "D",
+            "correct_answer": "A",
             "index": 331,
-            "is_correct": true
+            "is_correct": false
         },
         "332": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "A",
+            "correct_answer": "A",
             "index": 332,
             "is_correct": true
         },
         "333": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "D",
+            "correct_answer": "A",
             "index": 333,
-            "is_correct": true
+            "is_correct": false
         },
         "334": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "C",
+            "correct_answer": "C",
             "index": 334,
             "is_correct": true
         },
         "335": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "C",
+            "correct_answer": "C",
             "index": 335,
             "is_correct": true
         },
         "336": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "A",
+            "correct_answer": "A",
             "index": 336,
             "is_correct": true
         },
         "337": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "B",
+            "correct_answer": "B",
             "index": 337,
             "is_correct": true
         },
         "338": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "A",
+            "correct_answer": "A",
             "index": 338,
             "is_correct": true
         },
@@ -2386,15 +2386,15 @@
         },
         "340": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "B",
+            "response": "C",
+            "correct_answer": "C",
             "index": 340,
-            "is_correct": false
+            "is_correct": true
         },
         "341": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "C",
+            "correct_answer": "C",
             "index": 341,
             "is_correct": true
         },
@@ -2407,71 +2407,71 @@
         },
         "343": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "B",
+            "correct_answer": "B",
             "index": 343,
             "is_correct": true
         },
         "344": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
+            "response": "B",
             "correct_answer": "B",
             "index": 344,
-            "is_correct": false
+            "is_correct": true
         },
         "345": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "D",
+            "correct_answer": "D",
             "index": 345,
             "is_correct": true
         },
         "346": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "A",
+            "correct_answer": "A",
             "index": 346,
             "is_correct": true
         },
         "347": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "D",
+            "correct_answer": "D",
             "index": 347,
             "is_correct": true
         },
         "348": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "D",
+            "correct_answer": "D",
             "index": 348,
             "is_correct": true
         },
         "349": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "C",
+            "correct_answer": "A",
             "index": 349,
-            "is_correct": true
+            "is_correct": false
         },
         "350": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "A",
+            "correct_answer": "A",
             "index": 350,
             "is_correct": true
         },
         "351": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "D",
+            "correct_answer": "D",
             "index": 351,
             "is_correct": true
         },
         "352": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "B",
+            "correct_answer": "B",
             "index": 352,
             "is_correct": true
         },
@@ -2484,24 +2484,24 @@
         },
         "354": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "A",
+            "correct_answer": "A",
             "index": 354,
             "is_correct": true
         },
         "355": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "C",
+            "response": "D",
+            "correct_answer": "D",
             "index": 355,
-            "is_correct": false
+            "is_correct": true
         },
         "356": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "A",
+            "response": "B",
+            "correct_answer": "B",
             "index": 356,
-            "is_correct": false
+            "is_correct": true
         },
         "357": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
@@ -2519,8 +2519,8 @@
         },
         "359": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "C",
+            "correct_answer": "C",
             "index": 359,
             "is_correct": true
         },
@@ -2533,15 +2533,15 @@
         },
         "361": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": null,
-            "correct_answer": "C",
+            "response": "B",
+            "correct_answer": "B",
             "index": 361,
-            "is_correct": false
+            "is_correct": true
         },
         "362": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "D",
+            "correct_answer": "D",
             "index": 362,
             "is_correct": true
         },
@@ -2554,59 +2554,59 @@
         },
         "364": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "D",
+            "correct_answer": "D",
             "index": 364,
             "is_correct": true
         },
         "365": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "D",
+            "response": "B",
+            "correct_answer": "B",
             "index": 365,
-            "is_correct": false
+            "is_correct": true
         },
         "366": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "A",
+            "response": "C",
+            "correct_answer": "C",
             "index": 366,
-            "is_correct": false
+            "is_correct": true
         },
         "367": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
+            "response": "D",
             "correct_answer": "D",
             "index": 367,
-            "is_correct": false
+            "is_correct": true
         },
         "368": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "D",
+            "correct_answer": "D",
             "index": 368,
             "is_correct": true
         },
         "369": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "C",
+            "correct_answer": "C",
             "index": 369,
             "is_correct": true
         },
         "370": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "C",
+            "correct_answer": "C",
             "index": 370,
             "is_correct": true
         },
         "371": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
             "response": "C",
-            "correct_answer": "D",
+            "correct_answer": "C",
             "index": 371,
-            "is_correct": false
+            "is_correct": true
         },
         "372": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
@@ -2617,64 +2617,64 @@
         },
         "373": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "D",
+            "correct_answer": "D",
             "index": 373,
             "is_correct": true
         },
         "374": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "D",
+            "correct_answer": "D",
             "index": 374,
             "is_correct": true
         },
         "375": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "A",
+            "correct_answer": "A",
             "index": 375,
             "is_correct": true
         },
         "376": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "D",
+            "correct_answer": "D",
             "index": 376,
             "is_correct": true
         },
         "377": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "A",
+            "correct_answer": "A",
             "index": 377,
             "is_correct": true
         },
         "378": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "C",
+            "correct_answer": "C",
             "index": 378,
             "is_correct": true
         },
         "379": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "D",
+            "correct_answer": "D",
             "index": 379,
             "is_correct": true
         },
         "380": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "D",
+            "correct_answer": "D",
             "index": 380,
             "is_correct": true
         },
         "381": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "A",
+            "correct_answer": "A",
             "index": 381,
             "is_correct": true
         },
@@ -2688,42 +2688,42 @@
         "383": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
             "response": "D",
-            "correct_answer": "B",
+            "correct_answer": "D",
             "index": 383,
-            "is_correct": false
+            "is_correct": true
         },
         "384": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "C",
+            "correct_answer": "C",
             "index": 384,
             "is_correct": true
         },
         "385": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "C",
+            "correct_answer": "C",
             "index": 385,
             "is_correct": true
         },
         "386": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "B",
+            "correct_answer": "B",
             "index": 386,
             "is_correct": true
         },
         "387": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
             "response": "D",
-            "correct_answer": "D",
+            "correct_answer": "A",
             "index": 387,
-            "is_correct": true
+            "is_correct": false
         },
         "388": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "C",
+            "correct_answer": "C",
             "index": 388,
             "is_correct": true
         },
@@ -2737,35 +2737,35 @@
         "390": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
             "response": "D",
-            "correct_answer": "D",
+            "correct_answer": "C",
             "index": 390,
-            "is_correct": true
+            "is_correct": false
         },
         "391": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "B",
+            "correct_answer": "C",
             "index": 391,
-            "is_correct": true
+            "is_correct": false
         },
         "392": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
             "response": "B",
-            "correct_answer": "B",
+            "correct_answer": "D",
             "index": 392,
-            "is_correct": true
+            "is_correct": false
         },
         "393": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "B",
+            "correct_answer": "B",
             "index": 393,
             "is_correct": true
         },
         "394": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "C",
+            "correct_answer": "C",
             "index": 394,
             "is_correct": true
         },
@@ -2778,36 +2778,36 @@
         },
         "396": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "B",
+            "correct_answer": "B",
             "index": 396,
             "is_correct": true
         },
         "397": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "C",
+            "correct_answer": "C",
             "index": 397,
             "is_correct": true
         },
         "398": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "C",
+            "correct_answer": "C",
             "index": 398,
             "is_correct": true
         },
         "399": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "C",
+            "correct_answer": "C",
             "index": 399,
             "is_correct": true
         },
         "400": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "A",
+            "correct_answer": "A",
             "index": 400,
             "is_correct": true
         },
@@ -2827,8 +2827,8 @@
         },
         "403": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "C",
+            "correct_answer": "C",
             "index": 403,
             "is_correct": true
         },
@@ -2841,22 +2841,22 @@
         },
         "405": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "B",
+            "correct_answer": "B",
             "index": 405,
             "is_correct": true
         },
         "406": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "B",
+            "correct_answer": "B",
             "index": 406,
             "is_correct": true
         },
         "407": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "C",
+            "correct_answer": "C",
             "index": 407,
             "is_correct": true
         },
@@ -2869,59 +2869,59 @@
         },
         "409": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "B",
+            "correct_answer": "B",
             "index": 409,
             "is_correct": true
         },
         "410": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "B",
+            "correct_answer": "B",
             "index": 410,
             "is_correct": true
         },
         "411": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "D",
+            "correct_answer": "D",
             "index": 411,
             "is_correct": true
         },
         "412": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "A",
+            "correct_answer": "A",
             "index": 412,
             "is_correct": true
         },
         "413": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "B",
+            "correct_answer": "B",
             "index": 413,
             "is_correct": true
         },
         "414": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "D",
+            "correct_answer": "D",
             "index": 414,
             "is_correct": true
         },
         "415": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
+            "response": "B",
             "correct_answer": "A",
             "index": 415,
-            "is_correct": true
+            "is_correct": false
         },
         "416": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
             "response": "B",
-            "correct_answer": "B",
+            "correct_answer": "C",
             "index": 416,
-            "is_correct": true
+            "is_correct": false
         },
         "417": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
@@ -2932,38 +2932,38 @@
         },
         "418": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "D",
+            "correct_answer": "D",
             "index": 418,
             "is_correct": true
         },
         "419": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "D",
+            "correct_answer": "D",
             "index": 419,
             "is_correct": true
         },
         "420": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "D",
+            "correct_answer": "D",
             "index": 420,
             "is_correct": true
         },
         "421": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "D",
+            "correct_answer": "D",
             "index": 421,
             "is_correct": true
         },
         "422": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "**D**",
-            "correct_answer": "D",
+            "response": "C",
+            "correct_answer": "C",
             "index": 422,
-            "is_correct": false
+            "is_correct": true
         },
         "423": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
@@ -2974,24 +2974,24 @@
         },
         "424": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "D",
+            "correct_answer": "D",
             "index": 424,
             "is_correct": true
         },
         "425": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "C",
+            "correct_answer": "C",
             "index": 425,
             "is_correct": true
         },
         "426": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "B",
+            "correct_answer": "C",
             "index": 426,
-            "is_correct": true
+            "is_correct": false
         },
         "427": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
@@ -3002,50 +3002,50 @@
         },
         "428": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "B",
+            "correct_answer": "B",
             "index": 428,
             "is_correct": true
         },
         "429": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "B",
+            "correct_answer": "B",
             "index": 429,
             "is_correct": true
         },
         "430": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "A",
+            "correct_answer": "A",
             "index": 430,
             "is_correct": true
         },
         "431": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
             "response": "B",
-            "correct_answer": "B",
+            "correct_answer": "C",
             "index": 431,
-            "is_correct": true
+            "is_correct": false
         },
         "432": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "C",
+            "correct_answer": "C",
             "index": 432,
             "is_correct": true
         },
         "433": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "D",
+            "correct_answer": "D",
             "index": 433,
             "is_correct": true
         },
         "434": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "C",
+            "correct_answer": "C",
             "index": 434,
             "is_correct": true
         },
@@ -3058,78 +3058,78 @@
         },
         "436": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "B",
+            "correct_answer": "B",
             "index": 436,
             "is_correct": true
         },
         "437": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "B",
+            "correct_answer": "B",
             "index": 437,
             "is_correct": true
         },
         "438": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "D",
+            "correct_answer": "D",
             "index": 438,
             "is_correct": true
         },
         "439": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "D",
+            "correct_answer": "D",
             "index": 439,
             "is_correct": true
         },
         "440": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "D",
+            "correct_answer": "A",
             "index": 440,
-            "is_correct": true
+            "is_correct": false
         },
         "441": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "D",
+            "correct_answer": "B",
             "index": 441,
-            "is_correct": true
+            "is_correct": false
         },
         "442": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
             "response": "A",
-            "correct_answer": "A",
+            "correct_answer": "C",
             "index": 442,
-            "is_correct": true
+            "is_correct": false
         },
         "443": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "D",
+            "correct_answer": "D",
             "index": 443,
             "is_correct": true
         },
         "444": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "B",
+            "correct_answer": "B",
             "index": 444,
             "is_correct": true
         },
         "445": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "B",
+            "correct_answer": "B",
             "index": 445,
             "is_correct": true
         },
         "446": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "A",
+            "correct_answer": "A",
             "index": 446,
             "is_correct": true
         },
@@ -3142,8 +3142,8 @@
         },
         "448": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "B",
+            "correct_answer": "B",
             "index": 448,
             "is_correct": true
         },
@@ -3156,24 +3156,24 @@
         },
         "450": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
+            "response": "A",
             "correct_answer": "D",
             "index": 450,
-            "is_correct": true
+            "is_correct": false
         },
         "451": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "C",
+            "correct_answer": "C",
             "index": 451,
             "is_correct": true
         },
         "452": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "D",
+            "correct_answer": "B",
             "index": 452,
-            "is_correct": true
+            "is_correct": false
         },
         "453": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
@@ -3185,323 +3185,78 @@
         "454": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
             "response": "C",
-            "correct_answer": "C",
+            "correct_answer": "A",
             "index": 454,
-            "is_correct": true
+            "is_correct": false
         },
         "455": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "D",
+            "correct_answer": "D",
             "index": 455,
             "is_correct": true
         },
         "456": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
+            "response": "D",
+            "correct_answer": "C",
             "index": 456,
-            "is_correct": true
+            "is_correct": false
         },
         "457": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "B",
+            "correct_answer": "B",
             "index": 457,
             "is_correct": true
         },
         "458": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "B",
+            "correct_answer": "B",
             "index": 458,
             "is_correct": true
         },
         "459": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "B",
+            "correct_answer": "B",
             "index": 459,
             "is_correct": true
         },
         "460": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
+            "response": "A",
+            "correct_answer": "A",
             "index": 460,
             "is_correct": true
         },
         "461": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "B",
+            "correct_answer": "B",
             "index": 461,
             "is_correct": true
         },
         "462": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "B",
+            "response": "D",
+            "correct_answer": "D",
             "index": 462,
-            "is_correct": false
+            "is_correct": true
         },
         "463": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
+            "response": "A",
+            "correct_answer": "A",
             "index": 463,
             "is_correct": true
         },
         "464": {
             "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
+            "response": "A",
+            "correct_answer": "A",
             "index": 464,
-            "is_correct": true
-        },
-        "465": {
-            "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
-            "index": 465,
-            "is_correct": true
-        },
-        "466": {
-            "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
-            "index": 466,
-            "is_correct": true
-        },
-        "467": {
-            "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
-            "index": 467,
-            "is_correct": true
-        },
-        "468": {
-            "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "C",
-            "index": 468,
-            "is_correct": false
-        },
-        "469": {
-            "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
-            "index": 469,
-            "is_correct": true
-        },
-        "470": {
-            "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
-            "index": 470,
-            "is_correct": true
-        },
-        "471": {
-            "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
-            "index": 471,
-            "is_correct": true
-        },
-        "472": {
-            "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": null,
-            "correct_answer": "A",
-            "index": 472,
-            "is_correct": false
-        },
-        "473": {
-            "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
-            "index": 473,
-            "is_correct": true
-        },
-        "474": {
-            "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
-            "index": 474,
-            "is_correct": true
-        },
-        "475": {
-            "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
-            "index": 475,
-            "is_correct": true
-        },
-        "476": {
-            "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
-            "index": 476,
-            "is_correct": true
-        },
-        "477": {
-            "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
-            "index": 477,
-            "is_correct": true
-        },
-        "478": {
-            "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
-            "index": 478,
-            "is_correct": true
-        },
-        "479": {
-            "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
-            "index": 479,
-            "is_correct": true
-        },
-        "480": {
-            "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
-            "index": 480,
-            "is_correct": true
-        },
-        "481": {
-            "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
-            "index": 481,
-            "is_correct": true
-        },
-        "482": {
-            "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
-            "index": 482,
-            "is_correct": true
-        },
-        "483": {
-            "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
-            "index": 483,
-            "is_correct": true
-        },
-        "484": {
-            "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
-            "index": 484,
-            "is_correct": true
-        },
-        "485": {
-            "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
-            "index": 485,
-            "is_correct": true
-        },
-        "486": {
-            "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
-            "index": 486,
-            "is_correct": true
-        },
-        "487": {
-            "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
-            "index": 487,
-            "is_correct": true
-        },
-        "488": {
-            "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
-            "index": 488,
-            "is_correct": true
-        },
-        "489": {
-            "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
-            "index": 489,
-            "is_correct": true
-        },
-        "490": {
-            "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
-            "index": 490,
-            "is_correct": true
-        },
-        "491": {
-            "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
-            "index": 491,
-            "is_correct": true
-        },
-        "492": {
-            "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
-            "index": 492,
-            "is_correct": true
-        },
-        "493": {
-            "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "A",
-            "correct_answer": "A",
-            "index": 493,
-            "is_correct": true
-        },
-        "494": {
-            "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
-            "index": 494,
-            "is_correct": true
-        },
-        "495": {
-            "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
-            "index": 495,
-            "is_correct": true
-        },
-        "496": {
-            "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
-            "index": 496,
-            "is_correct": true
-        },
-        "497": {
-            "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "D",
-            "correct_answer": "D",
-            "index": 497,
-            "is_correct": true
-        },
-        "498": {
-            "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "C",
-            "correct_answer": "C",
-            "index": 498,
-            "is_correct": true
-        },
-        "499": {
-            "question": "The image below shows several instruments arranged from left to right. Which text description best corresponds to this spatial arrangement? Choose A, B, C, or D.",
-            "response": "B",
-            "correct_answer": "B",
-            "index": 499,
             "is_correct": true
         }
     }
