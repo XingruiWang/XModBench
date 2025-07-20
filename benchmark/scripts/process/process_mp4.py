@@ -3,16 +3,21 @@ import cv2
 import librosa
 import numpy as np
 import soundfile as sf
-from moviepy import VideoFileClip
+from moviepy.editor import VideoFileClip
 import subprocess
 from multiprocessing import Pool, cpu_count
 from tqdm import tqdm
 
 root_dir = "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/solos"
 output_dir = "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/solos_processed"
+
+root_dir = "/dockerx/local/data/Landscapes/landscape/train"
+output_dir = "/dockerx/local/data/Landscapes/landscape/train_processed"
+
 os.makedirs(output_dir, exist_ok=True)
 
-videos_dir = os.path.join(root_dir, "videos")
+# videos_dir = os.path.join(root_dir, "videos")
+videos_dir = root_dir
 
 def extract_middle_frame(video_path, output_path):
     cap = cv2.VideoCapture(video_path)

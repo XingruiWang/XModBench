@@ -3,23 +3,30 @@ import cv2
 import json
 import subprocess
 
-Vgg_root = "/home/vdd/scratch/2025/AudioBench/benchmark/Data/ExtremeCountixAV/VGG_Sound_Dataset"
-extreme_label = "/home/vdd/scratch/2025/AudioBench/benchmark/Data/ExtremeCountixAV/extreme_label.csv"
-output_root = "/home/vdd/scratch/2025/AudioBench/benchmark/Data/ExtremeCountixAV/Cropped_Videos"
+Vgg_root = "/dockerx/local/data/VGGSound/scratch/shared/beegfs/hchen/train_data/VGGSound_final/video"
+extreme_label = "/dockerx/share/AudioBench/benchmark/scripts/process/ExtremeLabels.csv"
+output_root = "/dockerx/share/AudioBench/Cropped_Videos"
 os.makedirs(output_root, exist_ok=True)
 
 # 读取标签文件
 videos = {}
 with open(extreme_label, "r") as f:
     for line in f:
-        youtube_id, repetition_start_frame, repetition_end_frame, start_crop_frame, end_crop_frame, number_of_repetitions, action_class = line.strip().split()
+        if line.startswith("youtube_id"):
+            continue
+        try:
+            youtube_id, repetition_start_frame, repetition_end_frame, start_crop_frame, end_crop_frame, number_of_repetitions, action_class = line.strip().split(',')
+        except ValueError:
+            youtube_id, repetition_start_frame, repetition_end_frame, start_crop_frame, end_crop_frame, number_of_repetitions = line.strip().split(',')
+            action_class = "unknown"
+
         videos[youtube_id] = {
             "youtube_id": youtube_id,
             "repetition_start_frame": int(repetition_start_frame),
             "repetition_end_frame": int(repetition_end_frame),
             "start_crop_frame": int(start_crop_frame),
             "end_crop_frame": int(end_crop_frame),
-            "number_of_repetitions": int(number_of_repetitions),
+            "number_of_repetitions": int(float(number_of_repetitions)),
             "action_class": action_class
         }
 
@@ -30,7 +37,7 @@ for video_id in videos:
     matched_files = [f for f in os.listdir(Vgg_root) if f.startswith(video_id)]
     
     if not matched_files:
-        print(f"Video {video_id} not found!")
+        # print(f"Video {video_id} not found!")
         continue
 
     video_path = os.path.join(Vgg_root, matched_files[0])
@@ -69,11 +76,26 @@ for video_id in videos:
     out.release()
     print(f"Cropped video saved: {output_path}")
     
-    with open(os.path.join(output_root, f"{video_id}.json"), "w") as f:
-        json.dump(video_info, f)
+    # with open(os.path.join(output_root, f"{video_id}.json"), "w") as f:
+    #     json.dump(video_info, f)
         
-    # save_audio
-    subprocess.run([
-        "ffmpeg", "-y", "-i", output_path,
-        "-vn", "-acodec", "pcm_s16le", "-ar", "16000", "-ac", "1", output_path.replace(".mp4", ".wav")
-    ])
+    # # save_audio
+    # # Step 1: Extract audio from original video
+    # audio_path = os.path.join(output_root, f"{video_id}_audio.wav")
+    # extract_audio_cmd = [
+    #     "ffmpeg", "-y", "-i", video_path, "-vn", "-acodec", "pcm_s16le", audio_path
+    # ]
+    # subprocess.run(extract_audio_cmd, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+
+    # # Step 2: Trim audio to match the cropped frame segment
+    # start_time_sec = int(start_frame) / fps
+    # duration_sec = (int(end_frame) - int(start_frame)) / fps
+    # trimmed_audio_path = os.path.join(output_root, f"{video_id}_audio.wav")
+
+    # trim_audio_cmd = [
+    #     "ffmpeg", "-y", "-i", audio_path,
+    #     "-ss", str(start_time_sec),
+    #     "-t", str(duration_sec),
+    #     trimmed_audio_path
+    # ]
+    # subprocess.run(trim_audio_cmd, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
