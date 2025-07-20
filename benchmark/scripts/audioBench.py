@@ -74,6 +74,12 @@ class AudioBench():
                 'ocr_translation_text_audio': os.path.join(root_dir, '03_ocr_translation_hard', 'acr_Chinese', 'acr_audio_bench_questions_text_audio.json'),
                 'ocr_translation_vision_text': os.path.join(root_dir, '03_ocr_translation_hard', 'acr_Chinese', 'acr_audio_bench_questions_vision_text.json'),
                 'ocr_translation_vision_audio': os.path.join(root_dir, '03_ocr_translation_hard', 'acr_Chinese', 'acr_audio_bench_questions_vision_audio.json'),
+            },
+            'count': {
+                'countixav_audio_text': os.path.join(root_dir, '04_count', 'countixav', 'countixav_audio_bench_questions_audio_text.json'),
+                'countixav_text_audio': os.path.join(root_dir, '04_count', 'countixav', 'countixav_audio_bench_questions_text_audio.json'),
+                # 'countixav_audio_vision': os.path.join(root_dir, '04_count', 'countixav', 'countixav_audio_bench_questions_audio_vision.json'),
+                # 'countixav_vision_audio': os.path.join(root_dir, '04_count', 'countixav', 'countixav_audio_bench_questions_vision_audio.json'),
             }
         }
         
