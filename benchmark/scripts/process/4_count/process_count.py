@@ -224,7 +224,7 @@ def generate_question_audio_text(text_choices, audio_paths, correct_answer):
     
     question = {
         "question": (
-            "Listen carefully to the audio clip—focus on how many repetitions of the action are in the audio. "
+            "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. "
             "Which text best describes the number of repetitions? "
             "Choose A, B, C, or D."
         ),
@@ -235,19 +235,19 @@ def generate_question_audio_text(text_choices, audio_paths, correct_answer):
         "options": {
             "A": {
                 "modality": "Text",
-                "input": text_choices[0],
+                "input": f"{text_choices[0]} times",
             },
             "B": {
                 "modality": "Text",
-                "input": text_choices[1],
+                "input": f"{text_choices[1]} times",
             },
             "C": {
                 "modality": "Text",
-                "input": text_choices[2],
+                "input": f"{text_choices[2]} times",
             },
             "D": {
                 "modality": "Text",
-                "input": text_choices[3],
+                "input": f"{text_choices[3]} times",
             }
         },
         "correct_answer": correct_answer,
@@ -271,7 +271,7 @@ def generate_question_text_audio(text_choices, audio_paths, correct_answer):
         ),
         "conditions": {
             "modality": "Text",
-            "input": correct_text,
+            "input": f"{correct_text} times",
         },
         "options": {
             "A": {
@@ -301,7 +301,7 @@ if __name__ == "__main__":
     DATASET_NAME = 'countixav'  # or 'vggss'
     OBJECT_NAME = 'action'
     # DATASET_NAME = 'URMP'  # or 'vggss'
-    root_dir = "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremeCountixAV/Cropped_Videos"
+    root_dir = "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV"
     mode = 'instances' # or instances
     N = 500
     
@@ -310,9 +310,13 @@ if __name__ == "__main__":
         all_choices = os.listdir(root_dir)
     elif mode == 'instances':
         all_choices = os.listdir(root_dir)
-        all_choices = [audio_name.split(".")[0] for audio_name in all_choices if audio_name.endswith('.wav')]   
+        
+        all_choices = [audio_name.split(".wav")[0] for audio_name in all_choices if audio_name.endswith('.wav')]   
+        # all_choices = [audio_name for audio_name in all_choices if audio_name.endswith('.00')]   
 
-    print(f"Total valid audio choices: {len(all_choices)}")
+    all_choices = [choice for choice in all_choices if os.path.exists(os.path.join(root_dir, f"{choice}.json"))]
+
+    
     
     all_info = {}
     for video_id in all_choices:
@@ -325,31 +329,37 @@ if __name__ == "__main__":
     audio_text_questions = []
     text_audio_questions = []
     
+    sorted_all_repetitions = sorted(all_info.keys())
+    
+    print(f"Total valid audio choices: {len(all_choices)}")
+    
     for video_id in all_choices:
         video_info = json.load(open(os.path.join(root_dir, f"{video_id}.json")))
         number_of_repetitions = video_info["number_of_repetitions"]
         
-        if number_of_repetitions == 1:
-            random_add = random.sample([+1, +2, +3, +4], 3)
-        elif number_of_repetitions == 2:
-            random_add = random.sample([-1, +1, +2, +3], 2)
-        else:
-            random_add = random.sample([-1, -2, +1, +2], 1)
+        index_of_repetitions = sorted_all_repetitions.index(number_of_repetitions)
         
+        choice_range = 10
+        start_index = max(0, index_of_repetitions - choice_range)
+        end_index = min(len(sorted_all_repetitions), index_of_repetitions + choice_range)
         
+        candidate_choices = [i-index_of_repetitions for i in range(start_index, end_index, 2) if i != index_of_repetitions]
+        random_add = random.sample(candidate_choices, 3)
+        
+
         random_add = random_add + [0]
         random_add = random.sample(random_add, 4)
         correct_answer = ['A', 'B', 'C', 'D'][random_add.index(0)]
         
         audio_choices = []
         text_choices = []
-        
+        # import ipdb; ipdb.set_trace()
         for add in random_add:
-            text_choices.append(add+number_of_repetitions)
+            text_choices.append(sorted_all_repetitions[index_of_repetitions+add])
             if add == 0:
                 audio_choices.append(video_id)
             else:
-                number_of_repetitions_choice = number_of_repetitions + add
+                number_of_repetitions_choice = sorted_all_repetitions[index_of_repetitions+add]
                 if number_of_repetitions_choice in all_info:
                     video_ids_repetition = all_info[number_of_repetitions_choice]
                     video_id_choice = random.choice(video_ids_repetition)

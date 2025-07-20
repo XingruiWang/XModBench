@@ -1,0 +1,1513 @@
+{
+    "task_name": "count/countixav_audio_text",
+    "score": 17.674418604651162,
+    "correct_count": 38,
+    "all_count": 215,
+    "results": {
+        "0": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 0,
+            "is_correct": false
+        },
+        "1": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:12 timesB:8 timesC:2 timesD:10 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nI'm sorry, I can't listen to the audio clip. But if you tell me what the action is and how many times it's repeated, I can help you figure out which text best describes it. So, can you describe the action and the number of repetitions?",
+            "correct_answer": "B",
+            "index": 1,
+            "is_correct": false
+        },
+        "2": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:24 timesB:33 timesC:20 timesD:27 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nIt's D. So, what do you think about the audio? Did you find it easy to count the repetitions?",
+            "correct_answer": "A",
+            "index": 2,
+            "is_correct": false
+        },
+        "3": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 3,
+            "is_correct": true
+        },
+        "4": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 4,
+            "is_correct": true
+        },
+        "5": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:10 timesB:12 timesC:6 timesD:3 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nI'm sorry, I can't listen to the audio clip. But if you can tell me what the action is, I might be able to help you figure out the number of repetitions. So, can you describe the action in the audio?",
+            "correct_answer": "D",
+            "index": 5,
+            "is_correct": false
+        },
+        "6": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:30 timesB:13 timesC:21 timesD:17 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nI'm sorry, I can't listen to the audio clip. But if you can tell me how many repetitions there are, I can help you figure out which text best describes it. So, can you count the repetitions for me?",
+            "correct_answer": "C",
+            "index": 6,
+            "is_correct": false
+        },
+        "7": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 7,
+            "is_correct": false
+        },
+        "8": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:14 timesB:10 timesC:12 timesD:8 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nI'm sorry, I can't listen to the audio clip. But if you tell me what the audio clip is about, I might be able to help you figure out the number of repetitions. So, can you describe the audio clip to me?",
+            "correct_answer": "C",
+            "index": 8,
+            "is_correct": false
+        },
+        "9": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 9,
+            "is_correct": true
+        },
+        "10": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 10,
+            "is_correct": false
+        },
+        "11": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 11,
+            "is_correct": true
+        },
+        "12": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:10 timesB:3 timesC:8 timesD:12 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nI'm sorry, but I can't listen to audio clips. You could try describing the audio to me, and then I can help you figure out the number of repetitions. So, what does the audio sound like?",
+            "correct_answer": "B",
+            "index": 12,
+            "is_correct": false
+        },
+        "13": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 13,
+            "is_correct": true
+        },
+        "14": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 14,
+            "is_correct": false
+        },
+        "15": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 15,
+            "is_correct": false
+        },
+        "16": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:10 timesB:4 timesC:14 timesD:2 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nIt's C. So, there are 14 repetitions in the audio. If you have any other questions about this or anything else, feel free to let me know.",
+            "correct_answer": "A",
+            "index": 16,
+            "is_correct": false
+        },
+        "17": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:14 timesB:4 timesC:9 timesD:18 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nIt's C. So, there are 9 repetitions in the audio. If you have any other questions about this or anything else, feel free to let me know.",
+            "correct_answer": "C",
+            "index": 17,
+            "is_correct": false
+        },
+        "18": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 18,
+            "is_correct": false
+        },
+        "19": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:2 timesB:6 timesC:14 timesD:4 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nThe correct answer is C. If you have any other questions or need further explanation, feel free to ask.",
+            "correct_answer": "B",
+            "index": 19,
+            "is_correct": false
+        },
+        "20": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:2 timesB:10 timesC:4 timesD:8 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nIt's C. So, there are 4 repetitions in the audio. If you have any other questions about this or anything else, feel free to let me know.",
+            "correct_answer": "A",
+            "index": 20,
+            "is_correct": false
+        },
+        "21": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:6 timesB:10 timesC:8 timesD:14 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nI'm sorry, I can't listen to the audio clip. But if you can tell me how many repetitions there are, I can help you choose the right answer. So, how many repetitions are there?",
+            "correct_answer": "A",
+            "index": 21,
+            "is_correct": false
+        },
+        "22": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:15 timesB:25 timesC:23 timesD:30 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nI'm sorry, I can't listen to the audio clip. But if you can tell me how many repetitions there are, I can help you choose the right answer. So, how many repetitions are there?",
+            "correct_answer": "C",
+            "index": 22,
+            "is_correct": false
+        },
+        "23": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 23,
+            "is_correct": false
+        },
+        "24": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:6 timesB:14 timesC:4 timesD:10 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nThe correct answer is C. If you have any other questions or need further clarification, feel free to ask.",
+            "correct_answer": "A",
+            "index": 24,
+            "is_correct": false
+        },
+        "25": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 25,
+            "is_correct": false
+        },
+        "26": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 26,
+            "is_correct": true
+        },
+        "27": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 27,
+            "is_correct": false
+        },
+        "28": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 28,
+            "is_correct": false
+        },
+        "29": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 29,
+            "is_correct": false
+        },
+        "30": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 30,
+            "is_correct": true
+        },
+        "31": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 31,
+            "is_correct": false
+        },
+        "32": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 32,
+            "is_correct": false
+        },
+        "33": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 33,
+            "is_correct": false
+        },
+        "34": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 34,
+            "is_correct": false
+        },
+        "35": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 35,
+            "is_correct": false
+        },
+        "36": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 36,
+            "is_correct": true
+        },
+        "37": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 37,
+            "is_correct": false
+        },
+        "38": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:14 timesB:9 timesC:12 timesD:16 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nIt's C. So, what do you think about the audio? Did you find it easy to count the repetitions?",
+            "correct_answer": "B",
+            "index": 38,
+            "is_correct": false
+        },
+        "39": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 39,
+            "is_correct": false
+        },
+        "40": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 40,
+            "is_correct": false
+        },
+        "41": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 41,
+            "is_correct": true
+        },
+        "42": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 42,
+            "is_correct": false
+        },
+        "43": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:6 timesB:8 timesC:10 timesD:2 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nI'm sorry, I can't listen to the audio clip. But if you can tell me what the action is, I might be able to help you figure out the number of repetitions. So, can you describe the action in the audio?",
+            "correct_answer": "D",
+            "index": 43,
+            "is_correct": false
+        },
+        "44": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:10 timesB:8 timesC:6 timesD:12 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nI'm sorry, I can't listen to the audio clip. But if you can tell me what the action is and how many times it's repeated, I can help you figure out which text best describes it. So, can you describe the action and the number of repetitions?",
+            "correct_answer": "C",
+            "index": 44,
+            "is_correct": false
+        },
+        "45": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:4 timesB:14 timesC:12 timesD:5 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nThe correct answer is B. So, there are 14 repetitions in the audio. If you have any other questions or need further explanation, feel free to ask.",
+            "correct_answer": "D",
+            "index": 45,
+            "is_correct": false
+        },
+        "46": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:12 timesB:8 timesC:14 timesD:18 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nThe correct answer is C. If you have any other questions or need further explanation, feel free to ask.",
+            "correct_answer": "A",
+            "index": 46,
+            "is_correct": false
+        },
+        "47": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 47,
+            "is_correct": true
+        },
+        "48": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:2 timesB:4 timesC:8 timesD:3 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nIt's D. So, what do you think about the audio? Did you find it easy to count the repetitions?",
+            "correct_answer": "D",
+            "index": 48,
+            "is_correct": false
+        },
+        "49": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 49,
+            "is_correct": true
+        },
+        "50": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:18 timesB:24 timesC:29 timesD:33 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nI'm sorry, I can't listen to the audio clip. But if you can tell me how many repetitions there are, I can help you figure out which text best describes it. So, can you count the repetitions for me?",
+            "correct_answer": "C",
+            "index": 50,
+            "is_correct": false
+        },
+        "51": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:22 timesB:29 timesC:14 timesD:31 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nI'm sorry, I can't listen to the audio clip. But if you can tell me how many repetitions there are, I can help you figure out which text best describes the number of repetitions. So, can you tell me how many repetitions are in the audio?",
+            "correct_answer": "A",
+            "index": 51,
+            "is_correct": false
+        },
+        "52": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 52,
+            "is_correct": true
+        },
+        "53": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:29 timesB:20 timesC:22 timesD:42 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nI'm sorry, I can't listen to the audio clip. But if you can tell me what the audio clip is about, I might be able to help you figure out the number of repetitions. So, can you describe the audio clip to me?",
+            "correct_answer": "A",
+            "index": 53,
+            "is_correct": false
+        },
+        "54": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 54,
+            "is_correct": false
+        },
+        "55": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:2 timesB:12 timesC:3 timesD:8 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nI'm sorry, I can't listen to the audio clip. But if you tell me what the action is and how many times it repeats, I can help you figure out the answer. So, can you describe the action in the audio?",
+            "correct_answer": "C",
+            "index": 55,
+            "is_correct": false
+        },
+        "56": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:4 timesB:10 timesC:2 timesD:6 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nIt's D. So, what do you think about the audio? Did you find it easy to count the repetitions?",
+            "correct_answer": "C",
+            "index": 56,
+            "is_correct": false
+        },
+        "57": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:4 timesB:10 timesC:14 timesD:8 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nIt's C. So, the text that best describes the number of repetitions is \"14 times\". If you have any other questions or need more help, feel free to let me know.",
+            "correct_answer": "D",
+            "index": 57,
+            "is_correct": false
+        },
+        "58": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:27 timesB:49 timesC:24 timesD:33 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nThe correct answer is B. If you have any other questions or need further clarification, feel free to ask.",
+            "correct_answer": "D",
+            "index": 58,
+            "is_correct": false
+        },
+        "59": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 59,
+            "is_correct": false
+        },
+        "60": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:4 timesB:3 timesC:10 timesD:2 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nI'm sorry, I can't listen to the audio clip. But if you can tell me what the action is in the audio, I might be able to help you figure out the number of repetitions. So, can you describe the action?",
+            "correct_answer": "B",
+            "index": 60,
+            "is_correct": false
+        },
+        "61": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 61,
+            "is_correct": false
+        },
+        "62": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 62,
+            "is_correct": true
+        },
+        "63": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 63,
+            "is_correct": false
+        },
+        "64": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 64,
+            "is_correct": false
+        },
+        "65": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 65,
+            "is_correct": false
+        },
+        "66": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 66,
+            "is_correct": false
+        },
+        "67": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 67,
+            "is_correct": false
+        },
+        "68": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 68,
+            "is_correct": true
+        },
+        "69": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 69,
+            "is_correct": false
+        },
+        "70": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 70,
+            "is_correct": false
+        },
+        "71": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 71,
+            "is_correct": false
+        },
+        "72": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 72,
+            "is_correct": false
+        },
+        "73": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:16 timesB:4 timesC:14 timesD:7 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nIt's C. So, the text that best describes the number of repetitions is \"14 times\". If you have any other questions or need more help, feel free to let me know.",
+            "correct_answer": "D",
+            "index": 73,
+            "is_correct": false
+        },
+        "74": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 74,
+            "is_correct": false
+        },
+        "75": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:3 timesB:8 timesC:6 timesD:10 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nI'm sorry, I can't listen to the audio clip. But if you tell me what the audio clip is about, I might be able to help you figure out the number of repetitions. So, can you describe the audio clip to me?",
+            "correct_answer": "A",
+            "index": 75,
+            "is_correct": false
+        },
+        "76": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 76,
+            "is_correct": false
+        },
+        "77": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 77,
+            "is_correct": false
+        },
+        "78": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 78,
+            "is_correct": false
+        },
+        "79": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 79,
+            "is_correct": true
+        },
+        "80": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:11 timesB:13 timesC:3 timesD:19 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nIt's D. So, what do you think about the audio? Did you find it easy to count the repetitions?",
+            "correct_answer": "B",
+            "index": 80,
+            "is_correct": false
+        },
+        "81": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 81,
+            "is_correct": false
+        },
+        "82": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:21 timesB:17 timesC:11 timesD:7 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nI'm not sure which audio clip you're referring to. You need to provide the audio clip so I can listen to it and count the repetitions. Please share the audio clip again.",
+            "correct_answer": "B",
+            "index": 82,
+            "is_correct": false
+        },
+        "83": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 83,
+            "is_correct": true
+        },
+        "84": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:6 timesB:10 timesC:2 timesD:8 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nI'm sorry, I can't listen to the audio clip. But if you can tell me what the action is, I might be able to help you figure out the number of repetitions. So, can you describe the action in the audio?",
+            "correct_answer": "C",
+            "index": 84,
+            "is_correct": false
+        },
+        "85": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 85,
+            "is_correct": false
+        },
+        "86": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:14 timesB:5 timesC:6 timesD:8 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nIt's D. So, what do you think about the audio? Did you find it easy to count the repetitions?",
+            "correct_answer": "B",
+            "index": 86,
+            "is_correct": false
+        },
+        "87": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:9 timesB:12 timesC:16 timesD:10 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nIt's C. So, there are 16 repetitions in the audio. If you have any other questions about this or anything else, feel free to let me know.",
+            "correct_answer": "A",
+            "index": 87,
+            "is_correct": false
+        },
+        "88": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 88,
+            "is_correct": true
+        },
+        "89": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 89,
+            "is_correct": false
+        },
+        "90": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 90,
+            "is_correct": false
+        },
+        "91": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 91,
+            "is_correct": false
+        },
+        "92": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 92,
+            "is_correct": false
+        },
+        "93": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:23 timesB:32 timesC:28 timesD:25 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nI'm sorry, I can't listen to the audio clip. But if you tell me how many repetitions there are, I can help you figure out which text best describes it. So, can you tell me the number of repetitions?",
+            "correct_answer": "C",
+            "index": 93,
+            "is_correct": false
+        },
+        "94": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 94,
+            "is_correct": true
+        },
+        "95": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 95,
+            "is_correct": false
+        },
+        "96": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 96,
+            "is_correct": false
+        },
+        "97": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:7 timesB:12 timesC:14 timesD:2 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nIt's C. So, what do you think about the audio? Did you find it interesting?",
+            "correct_answer": "A",
+            "index": 97,
+            "is_correct": false
+        },
+        "98": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 98,
+            "is_correct": false
+        },
+        "99": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:43 timesB:32 timesC:40 timesD:50 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nIt's C. So, what do you think about the audio? Did you find it interesting?",
+            "correct_answer": "C",
+            "index": 99,
+            "is_correct": false
+        },
+        "100": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:14 timesB:2 timesC:7 timesD:12 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nI'm sorry, I can't listen to the audio clip. But if you can tell me what the action is, I might be able to help you figure out the number of repetitions. So, can you describe the action in the audio?",
+            "correct_answer": "C",
+            "index": 100,
+            "is_correct": false
+        },
+        "101": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 101,
+            "is_correct": false
+        },
+        "102": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 102,
+            "is_correct": false
+        },
+        "103": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:27 timesB:31 timesC:24 timesD:20 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nI'm not sure which audio clip you're referring to. You need to provide the audio clip so I can listen to it and count the repetitions. Please share the audio clip again.",
+            "correct_answer": "C",
+            "index": 103,
+            "is_correct": false
+        },
+        "104": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:6 timesB:7 timesC:8 timesD:4 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nI'm sorry, I can't listen to the audio clip. But if you can tell me how many repetitions there are, I can help you choose the right answer. So, how many repetitions are there?",
+            "correct_answer": "B",
+            "index": 104,
+            "is_correct": false
+        },
+        "105": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 105,
+            "is_correct": false
+        },
+        "106": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 106,
+            "is_correct": true
+        },
+        "107": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:12 timesB:6 timesC:4 timesD:3 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nIt's D. So, what do you think about the audio? Did you find it easy to count the repetitions?",
+            "correct_answer": "D",
+            "index": 107,
+            "is_correct": false
+        },
+        "108": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 108,
+            "is_correct": false
+        },
+        "109": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 109,
+            "is_correct": false
+        },
+        "110": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 110,
+            "is_correct": false
+        },
+        "111": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 111,
+            "is_correct": true
+        },
+        "112": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 112,
+            "is_correct": true
+        },
+        "113": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:2 timesB:4 timesC:14 timesD:5 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nThe correct answer is D. So, there are 5 repetitions of the action in the audio. If you have any other questions or need further explanation, feel free to ask.",
+            "correct_answer": "D",
+            "index": 113,
+            "is_correct": false
+        },
+        "114": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 114,
+            "is_correct": false
+        },
+        "115": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 115,
+            "is_correct": true
+        },
+        "116": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:12 timesB:14 timesC:6 timesD:8 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nIt's D. So, what do you think about the audio? Did you find it easy to count the repetitions?",
+            "correct_answer": "D",
+            "index": 116,
+            "is_correct": false
+        },
+        "117": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:4 timesB:10 timesC:14 timesD:18 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nI'm sorry, I can't listen to the audio clip. But if you can tell me how many repetitions there are, I can help you choose the right answer. So, how many repetitions are there?",
+            "correct_answer": "B",
+            "index": 117,
+            "is_correct": false
+        },
+        "118": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 118,
+            "is_correct": false
+        },
+        "119": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:10 timesB:20 timesC:16 timesD:12 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nIt's C. So, what do you think about the audio? Did you find it easy to count the repetitions?",
+            "correct_answer": "D",
+            "index": 119,
+            "is_correct": false
+        },
+        "120": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 120,
+            "is_correct": true
+        },
+        "121": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 121,
+            "is_correct": false
+        },
+        "122": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:6 timesB:8 timesC:14 timesD:12 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nI'm sorry, I can't listen to the audio clip. But if you can tell me what the action is in the audio, I might be able to help you figure out the number of repetitions. So, can you describe the action?",
+            "correct_answer": "A",
+            "index": 122,
+            "is_correct": false
+        },
+        "123": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 123,
+            "is_correct": false
+        },
+        "124": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:10 timesB:6 timesC:5 timesD:4 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nIt's B. So, what do you think about the audio? Did you find it easy to count the repetitions?",
+            "correct_answer": "C",
+            "index": 124,
+            "is_correct": false
+        },
+        "125": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:15 timesB:7 timesC:11 timesD:21 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nIt's C. So, what do you think about the audio? Did you find it easy to count the repetitions?",
+            "correct_answer": "A",
+            "index": 125,
+            "is_correct": false
+        },
+        "126": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:16 timesB:8 timesC:10 timesD:20 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nI'm sorry, I can't listen to the audio clip. But if you can tell me how many repetitions there are, I can help you figure out which text best describes it. So, can you count the repetitions for me?",
+            "correct_answer": "A",
+            "index": 126,
+            "is_correct": false
+        },
+        "127": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 127,
+            "is_correct": false
+        },
+        "128": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:2 timesB:10 timesC:4 timesD:8 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nThe correct answer is C. If you have any other questions or need further explanation, feel free to ask.",
+            "correct_answer": "A",
+            "index": 128,
+            "is_correct": false
+        },
+        "129": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:4 timesB:2 timesC:12 timesD:6 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nIt's D. So, what do you think about the audio? Did you find it easy to count the repetitions?",
+            "correct_answer": "A",
+            "index": 129,
+            "is_correct": false
+        },
+        "130": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:14 timesB:18 timesC:12 timesD:10 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nIt's B. So, the correct answer is B. If you have any other questions or need more help, feel free to let me know.",
+            "correct_answer": "A",
+            "index": 130,
+            "is_correct": false
+        },
+        "131": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:10 timesB:7 timesC:14 timesD:6 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nIt's C. So, there are 14 repetitions in the audio. If you have any other questions or need more help, feel free to let me know.",
+            "correct_answer": "B",
+            "index": 131,
+            "is_correct": false
+        },
+        "132": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 132,
+            "is_correct": false
+        },
+        "133": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:12 timesB:5 timesC:10 timesD:6 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nI'm sorry, I can't listen to the audio clip. But if you can tell me how many repetitions there are, I can help you choose the right answer. So, how many repetitions are there?",
+            "correct_answer": "B",
+            "index": 133,
+            "is_correct": false
+        },
+        "134": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:25 timesB:32 timesC:28 timesD:23 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nI'm sorry, I can't listen to the audio clip. But if you can tell me how many repetitions there are, I can help you choose the right answer. So, how many repetitions are there?",
+            "correct_answer": "A",
+            "index": 134,
+            "is_correct": false
+        },
+        "135": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 135,
+            "is_correct": false
+        },
+        "136": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 136,
+            "is_correct": false
+        },
+        "137": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 137,
+            "is_correct": false
+        },
+        "138": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 138,
+            "is_correct": false
+        },
+        "139": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 139,
+            "is_correct": false
+        },
+        "140": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 140,
+            "is_correct": true
+        },
+        "141": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:6 timesB:2 timesC:4 timesD:8 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nThe correct answer is C. So, there are 4 repetitions in the audio. If you have any other questions or need more help, feel free to let me know.",
+            "correct_answer": "C",
+            "index": 141,
+            "is_correct": false
+        },
+        "142": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 142,
+            "is_correct": true
+        },
+        "143": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 143,
+            "is_correct": false
+        },
+        "144": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 144,
+            "is_correct": false
+        },
+        "145": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:2 timesB:4 timesC:8 timesD:6 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nIt's D. So, what do you think about the audio? Did you find it easy to count the repetitions?",
+            "correct_answer": "A",
+            "index": 145,
+            "is_correct": false
+        },
+        "146": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:5 timesB:14 timesC:10 timesD:12 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nIt's D. So, what do you think about the audio? Did you find it interesting?",
+            "correct_answer": "A",
+            "index": 146,
+            "is_correct": false
+        },
+        "147": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 147,
+            "is_correct": false
+        },
+        "148": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 148,
+            "is_correct": false
+        },
+        "149": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 149,
+            "is_correct": false
+        },
+        "150": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:22 timesB:29 timesC:20 timesD:33 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nI'm sorry, I can't listen to the audio clip. But if you can tell me how many repetitions there are, I can help you choose the right answer. So, can you count the repetitions for me?",
+            "correct_answer": "B",
+            "index": 150,
+            "is_correct": false
+        },
+        "151": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 151,
+            "is_correct": true
+        },
+        "152": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:6 timesB:18 timesC:24 timesD:16 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nI'm sorry, I can't listen to the audio clip. But if you can tell me what the action is in the audio, I might be able to help you figure out the number of repetitions. So, can you describe the action?",
+            "correct_answer": "D",
+            "index": 152,
+            "is_correct": false
+        },
+        "153": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:24 timesB:22 timesC:29 timesD:20 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nI'm sorry, I can't listen to the audio clip. But if you can tell me how many repetitions there are, I can help you figure out which text best describes it. So, can you count the repetitions for me?",
+            "correct_answer": "C",
+            "index": 153,
+            "is_correct": false
+        },
+        "154": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 154,
+            "is_correct": false
+        },
+        "155": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:5 timesB:8 timesC:6 timesD:10 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nI'm sorry, I can't listen to the audio clip. But if you can tell me how many times the action is repeated in the audio, I can help you choose the correct answer. So, can you give me that information?",
+            "correct_answer": "A",
+            "index": 155,
+            "is_correct": false
+        },
+        "156": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 156,
+            "is_correct": false
+        },
+        "157": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:31 timesB:20 timesC:29 timesD:33 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nThe correct answer is C. If you have any other questions or need further clarification, feel free to ask.",
+            "correct_answer": "A",
+            "index": 157,
+            "is_correct": false
+        },
+        "158": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 158,
+            "is_correct": false
+        },
+        "159": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:33 timesB:24 timesC:31 timesD:38 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nThe correct answer is C. If you have any other questions or need further clarification, feel free to ask.",
+            "correct_answer": "D",
+            "index": 159,
+            "is_correct": false
+        },
+        "160": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:19 timesB:17 timesC:15 timesD:7 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nThe correct answer is B. So, there are 17 repetitions in the audio. If you have any other questions or need further explanation, feel free to ask.",
+            "correct_answer": "C",
+            "index": 160,
+            "is_correct": false
+        },
+        "161": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 161,
+            "is_correct": true
+        },
+        "162": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:4 timesB:2 timesC:5 timesD:6 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nIt's D. So, there are 6 repetitions in the audio. If you have any other questions about this or anything else, feel free to let me know.",
+            "correct_answer": "C",
+            "index": 162,
+            "is_correct": false
+        },
+        "163": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 163,
+            "is_correct": false
+        },
+        "164": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:3 timesB:10 timesC:4 timesD:6 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nIt's D. So, what do you think about the audio? Did you find it interesting?",
+            "correct_answer": "A",
+            "index": 164,
+            "is_correct": false
+        },
+        "165": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:2 timesB:14 timesC:8 timesD:7 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nI can't listen to the audio clip you mentioned. But if you tell me what the audio clip is about, I can help you figure out the number of repetitions and choose the right answer. So, go ahead and describe the audio clip to me.",
+            "correct_answer": "D",
+            "index": 165,
+            "is_correct": false
+        },
+        "166": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 166,
+            "is_correct": true
+        },
+        "167": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:3 timesB:8 timesC:6 timesD:4 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nI'm sorry, I can't listen to the audio clip. But if you tell me what the action is and how many times it's repeated, I can help you figure out which text best describes it. So, can you describe the action and the number of repetitions?",
+            "correct_answer": "A",
+            "index": 167,
+            "is_correct": false
+        },
+        "168": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:4 timesB:6 timesC:3 timesD:2 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nIt's B. So, there are 6 repetitions in the audio. If you have any other questions about this or anything else, feel free to let me know.",
+            "correct_answer": "C",
+            "index": 168,
+            "is_correct": false
+        },
+        "169": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:15 timesB:17 timesC:7 timesD:23 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nI'm sorry, I can't listen to the audio clip. But if you tell me how many repetitions there are, I can help you choose the right answer. So, can you count the repetitions for me?",
+            "correct_answer": "B",
+            "index": 169,
+            "is_correct": false
+        },
+        "170": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:42 timesB:33 timesC:31 timesD:54 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nIt's C. So, the text that best describes the number of repetitions is C: 31 times. If you have any other questions or need more help, feel free to let me know.",
+            "correct_answer": "A",
+            "index": 170,
+            "is_correct": false
+        },
+        "171": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:6 timesB:12 timesC:8 timesD:3 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nI'm sorry, I can't listen to the audio clip. But if you can tell me what the action is in the audio, I might be able to help you figure out the number of repetitions.",
+            "correct_answer": "D",
+            "index": 171,
+            "is_correct": false
+        },
+        "172": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:22 timesB:14 timesC:12 timesD:8 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nI'm sorry, I can't listen to the audio clip. But if you can tell me what the action is in the audio, I can help you figure out the number of repetitions. So, what's the action?",
+            "correct_answer": "B",
+            "index": 172,
+            "is_correct": false
+        },
+        "173": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 173,
+            "is_correct": true
+        },
+        "174": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 174,
+            "is_correct": true
+        },
+        "175": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:10 timesB:8 timesC:6 timesD:2 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nI'm sorry, I can't listen to the audio clip. But if you tell me what the audio clip is about, I might be able to help you figure out the number of repetitions. So, can you describe the audio clip to me?",
+            "correct_answer": "D",
+            "index": 175,
+            "is_correct": false
+        },
+        "176": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:4 timesB:2 timesC:3 timesD:8 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nThe answer is D. If you have any other questions or need further clarification, feel free to ask.",
+            "correct_answer": "C",
+            "index": 176,
+            "is_correct": false
+        },
+        "177": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 177,
+            "is_correct": false
+        },
+        "178": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:8 timesB:12 timesC:10 timesD:6 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nIt's B. So, the text that best describes the number of repetitions is B: 12 times. If you have any other questions or need more help, feel free to let me know.",
+            "correct_answer": "D",
+            "index": 178,
+            "is_correct": false
+        },
+        "179": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 179,
+            "is_correct": true
+        },
+        "180": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:6 timesB:3 timesC:4 timesD:10 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nIt's C. So, there are 4 repetitions in the audio. If you have any other questions or need more help, feel free to let me know.",
+            "correct_answer": "B",
+            "index": 180,
+            "is_correct": false
+        },
+        "181": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:12 timesB:16 timesC:18 timesD:11 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nI'm sorry, I can't listen to the audio clip. But if you tell me what the audio clip is about, I might be able to help you figure out the answer. So, can you describe the audio clip to me?",
+            "correct_answer": "D",
+            "index": 181,
+            "is_correct": false
+        },
+        "182": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:43 timesB:50 timesC:40 timesD:32 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nI'm sorry, I can't listen to the audio clip. But if you can tell me what the action is in the audio, I might be able to help you figure out the number of repetitions.",
+            "correct_answer": "B",
+            "index": 182,
+            "is_correct": false
+        },
+        "183": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:21 timesB:13 timesC:7 timesD:17 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nI'm sorry, I can't listen to the audio clip. But if you tell me what the audio clip sounds like, I can help you figure out the number of repetitions and then choose the correct answer. So, can you describe the audio to me?",
+            "correct_answer": "B",
+            "index": 183,
+            "is_correct": false
+        },
+        "184": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:30 timesB:21 timesC:28 timesD:15 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nI'm sorry, I can't listen to the audio clip. But if you can tell me how many repetitions there are, I can help you choose the right answer. So, can you count the repetitions for me?",
+            "correct_answer": "B",
+            "index": 184,
+            "is_correct": false
+        },
+        "185": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:8 timesB:20 timesC:14 timesD:12 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nThe correct answer is C. If you have any other questions or need further clarification, feel free to ask.",
+            "correct_answer": "C",
+            "index": 185,
+            "is_correct": false
+        },
+        "186": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 186,
+            "is_correct": true
+        },
+        "187": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 187,
+            "is_correct": true
+        },
+        "188": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:24 timesB:18 timesC:20 timesD:14 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nThe correct answer is D. If you have any other questions or need further explanation, feel free to ask.",
+            "correct_answer": "A",
+            "index": 188,
+            "is_correct": false
+        },
+        "189": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:18 timesB:9 timesC:12 timesD:8 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nI'm sorry, I can't listen to the audio clip. But if you can tell me what the action is, I might be able to help you figure out the number of repetitions. So, can you describe the action in the audio?",
+            "correct_answer": "B",
+            "index": 189,
+            "is_correct": false
+        },
+        "190": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 190,
+            "is_correct": false
+        },
+        "191": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 191,
+            "is_correct": false
+        },
+        "192": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 192,
+            "is_correct": false
+        },
+        "193": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 193,
+            "is_correct": true
+        },
+        "194": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 194,
+            "is_correct": false
+        },
+        "195": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 195,
+            "is_correct": false
+        },
+        "196": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 196,
+            "is_correct": false
+        },
+        "197": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:21 timesB:19 timesC:15 timesD:17 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nI'm sorry, I can't listen to the audio clip. But if you tell me what the audio clip is about, I might be able to help you figure out the number of repetitions. So, can you describe the audio clip to me?",
+            "correct_answer": "A",
+            "index": 197,
+            "is_correct": false
+        },
+        "198": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 198,
+            "is_correct": false
+        },
+        "199": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:19 timesB:13 timesC:11 timesD:17 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nThe correct answer is C. If you have any other questions or need further clarification, feel free to ask.",
+            "correct_answer": "B",
+            "index": 199,
+            "is_correct": false
+        },
+        "200": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 200,
+            "is_correct": true
+        },
+        "201": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 201,
+            "is_correct": false
+        },
+        "202": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 202,
+            "is_correct": false
+        },
+        "203": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 203,
+            "is_correct": false
+        },
+        "204": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:10 timesB:7 timesC:8 timesD:6 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nI'm sorry, I can't listen to the audio clip. But if you can tell me how many repetitions there are, I can help you choose the right answer. So, how many repetitions are there?",
+            "correct_answer": "B",
+            "index": 204,
+            "is_correct": false
+        },
+        "205": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 205,
+            "is_correct": false
+        },
+        "206": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 206,
+            "is_correct": true
+        },
+        "207": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 207,
+            "is_correct": true
+        },
+        "208": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:31 timesB:33 timesC:24 timesD:22 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nThe correct answer is B. So, there are 33 repetitions in the audio. If you have any other questions or need further explanation, feel free to ask.",
+            "correct_answer": "C",
+            "index": 208,
+            "is_correct": false
+        },
+        "209": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 209,
+            "is_correct": false
+        },
+        "210": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:20 timesB:14 timesC:10 timesD:18 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nI'm sorry, I can't listen to the audio clip. But if you can tell me what the action is in the audio, I might be able to help you figure out the number of repetitions. So, can you describe the action?",
+            "correct_answer": "B",
+            "index": 210,
+            "is_correct": false
+        },
+        "211": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 211,
+            "is_correct": false
+        },
+        "212": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 212,
+            "is_correct": true
+        },
+        "213": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 213,
+            "is_correct": false
+        },
+        "214": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nListen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.Audio:A:49 timesB:29 timesC:31 timesD:42 timesGive the letter of the correct answer (A, B, C, or D).\nassistant\nIt's D. So, what do you think about the audio? Did you find it interesting?",
+            "correct_answer": "D",
+            "index": 214,
+            "is_correct": false
+        }
+    }
+}
