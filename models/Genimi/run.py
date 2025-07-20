@@ -151,6 +151,8 @@ def run_all_genimi(task_name, questions, args, sample = 100, save_dir = None):
     if sample > len(questions):
         print(f"Sample is greater than the number of questions, setting sample to {len(questions)}")
         sample = len(questions)
+    if sample == -1:
+        sample = len(questions)
         
     for i in tqdm(range(sample)):
         response = run_genimi(questions, i, args)

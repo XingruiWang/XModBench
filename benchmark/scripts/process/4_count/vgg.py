@@ -29,7 +29,7 @@ with open(extreme_label, "r") as f:
             "number_of_repetitions": int(float(number_of_repetitions)),
             "action_class": action_class
         }
-
+        
 # 遍历视频
 for video_id in videos:
     video_info = videos[video_id]
