@@ -8,20 +8,7 @@ extreme_label = "/home/vdd/scratch/2025/AudioBench/benchmark/Data/ExtremeCountix
 output_root = "/home/vdd/scratch/2025/AudioBench/benchmark/Data/ExtremeCountixAV/Cropped_Videos"
 os.makedirs(output_root, exist_ok=True)
 
-# 读取标签文件
-videos = {}
-with open(extreme_label, "r") as f:
-    for line in f:
-        youtube_id, repetition_start_frame, repetition_end_frame, start_crop_frame, end_crop_frame, number_of_repetitions, action_class = line.strip().split()
-        videos[youtube_id] = {
-            "youtube_id": youtube_id,
-            "repetition_start_frame": int(repetition_start_frame),
-            "repetition_end_frame": int(repetition_end_frame),
-            "start_crop_frame": int(start_crop_frame),
-            "end_crop_frame": int(end_crop_frame),
-            "number_of_repetitions": int(number_of_repetitions),
-            "action_class": action_class
-        }
+# 读取标签文件 
 
 # 遍历视频
 for video_id in videos:
