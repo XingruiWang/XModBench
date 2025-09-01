@@ -1,0 +1,20 @@
+{
+  "question": "Which image shows the correct view direction for the water tap, faucet sound?",
+  "correct_answer": 2,
+  "view_azimuths": [
+    0,
+    90,
+    180,
+    270
+  ],
+  "event_info": {
+    "class": "Water tap, faucet",
+    "timestamp": 30.1,
+    "azimuth": 172,
+    "elevation": -12,
+    "distance": 287,
+    "original_azimuth": 172,
+    "mapped_direction": 180,
+    "correct_answer_direction": 180
+  }
+}

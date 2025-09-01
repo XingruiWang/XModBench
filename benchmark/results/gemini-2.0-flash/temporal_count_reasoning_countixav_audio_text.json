@@ -1,0 +1,1513 @@
+{
+    "task_name": "temporal_count_reasoning/countixav_audio_text",
+    "score": 42.10526315789473,
+    "correct_count": 88,
+    "all_count": 209,
+    "results": {
+        "0": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 1) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 0,
+            "is_correct": true
+        },
+        "1": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 1,
+            "is_correct": true
+        },
+        "2": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 2,
+            "is_correct": true
+        },
+        "3": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count + 2) * 4). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 3,
+            "is_correct": true
+        },
+        "4": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 1) * 4). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 4,
+            "is_correct": false
+        },
+        "5": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 2) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 5,
+            "is_correct": false
+        },
+        "6": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 3). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 6,
+            "is_correct": true
+        },
+        "7": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count + 2) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 7,
+            "is_correct": true
+        },
+        "8": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 2) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 8,
+            "is_correct": true
+        },
+        "9": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (((repetition count - 2) * 4) - 121). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "Not available in the current selection (A, B, C, or D).",
+            "correct_answer": "C",
+            "index": 9,
+            "is_correct": false
+        },
+        "10": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count + 2) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 10,
+            "is_correct": false
+        },
+        "11": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 4). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 11,
+            "is_correct": false
+        },
+        "12": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 2) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 12,
+            "is_correct": false
+        },
+        "13": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 1) * 3). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 13,
+            "is_correct": false
+        },
+        "14": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count + 3) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 14,
+            "is_correct": false
+        },
+        "15": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 2) * 3). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 15,
+            "is_correct": false
+        },
+        "16": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 1) * 4). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 16,
+            "is_correct": true
+        },
+        "17": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": null,
+            "correct_answer": "A",
+            "index": 17,
+            "is_correct": false
+        },
+        "18": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count + 2) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 18,
+            "is_correct": false
+        },
+        "19": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 19,
+            "is_correct": false
+        },
+        "20": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count * 4) - 78). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 20,
+            "is_correct": true
+        },
+        "21": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 21,
+            "is_correct": true
+        },
+        "22": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count + 2) * 3). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 22,
+            "is_correct": false
+        },
+        "23": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 23,
+            "is_correct": false
+        },
+        "24": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (((repetition count - 1) * 2) - 41). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 24,
+            "is_correct": true
+        },
+        "25": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count + 1) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 25,
+            "is_correct": false
+        },
+        "26": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 3) * 4). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 26,
+            "is_correct": true
+        },
+        "27": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 1) * 4). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 27,
+            "is_correct": false
+        },
+        "28": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 2) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 28,
+            "is_correct": false
+        },
+        "29": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 2) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 29,
+            "is_correct": false
+        },
+        "30": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count + 3) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 30,
+            "is_correct": false
+        },
+        "31": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 4). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 31,
+            "is_correct": true
+        },
+        "32": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 32,
+            "is_correct": false
+        },
+        "33": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 3) * 4). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 33,
+            "is_correct": true
+        },
+        "34": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count + 1) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 34,
+            "is_correct": true
+        },
+        "35": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 1) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 35,
+            "is_correct": false
+        },
+        "36": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 2) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 36,
+            "is_correct": false
+        },
+        "37": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 37,
+            "is_correct": true
+        },
+        "38": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 1) * 4). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": null,
+            "correct_answer": "B",
+            "index": 38,
+            "is_correct": false
+        },
+        "39": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 2) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 39,
+            "is_correct": false
+        },
+        "40": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count + 3) * 4). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": null,
+            "correct_answer": "C",
+            "index": 40,
+            "is_correct": false
+        },
+        "41": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count + 2) * 3). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 41,
+            "is_correct": true
+        },
+        "42": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": null,
+            "correct_answer": "C",
+            "index": 42,
+            "is_correct": false
+        },
+        "43": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 2) * 4). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 43,
+            "is_correct": true
+        },
+        "44": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 3). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 44,
+            "is_correct": true
+        },
+        "45": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 3). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 45,
+            "is_correct": true
+        },
+        "46": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 3) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 46,
+            "is_correct": true
+        },
+        "47": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 2) * 3). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 47,
+            "is_correct": true
+        },
+        "48": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 48,
+            "is_correct": false
+        },
+        "49": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count + 1) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 49,
+            "is_correct": true
+        },
+        "50": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 3). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 50,
+            "is_correct": false
+        },
+        "51": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count + 1) * 3). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 51,
+            "is_correct": true
+        },
+        "52": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 3). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 52,
+            "is_correct": true
+        },
+        "53": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count + 1) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 53,
+            "is_correct": false
+        },
+        "54": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 3). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 54,
+            "is_correct": true
+        },
+        "55": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count + 1) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 55,
+            "is_correct": true
+        },
+        "56": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 3) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 56,
+            "is_correct": false
+        },
+        "57": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 1) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 57,
+            "is_correct": false
+        },
+        "58": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 2) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 58,
+            "is_correct": false
+        },
+        "59": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count + 2) * 4). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 59,
+            "is_correct": true
+        },
+        "60": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 2) * 4). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 60,
+            "is_correct": false
+        },
+        "61": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count * 4) - 94). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 61,
+            "is_correct": false
+        },
+        "62": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 2) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 62,
+            "is_correct": false
+        },
+        "63": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 63,
+            "is_correct": false
+        },
+        "64": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 3) * 3). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 64,
+            "is_correct": true
+        },
+        "65": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count + 1) * 3). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 65,
+            "is_correct": false
+        },
+        "66": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 3) * 3). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 66,
+            "is_correct": false
+        },
+        "67": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (((repetition count - 1) * 4) - 152). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 67,
+            "is_correct": false
+        },
+        "68": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 2) * 4). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 68,
+            "is_correct": false
+        },
+        "69": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 2) * 3). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 69,
+            "is_correct": true
+        },
+        "70": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count + 1) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 70,
+            "is_correct": false
+        },
+        "71": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count + 3) * 3). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 71,
+            "is_correct": false
+        },
+        "72": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count + 3) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 72,
+            "is_correct": false
+        },
+        "73": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 4). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 73,
+            "is_correct": true
+        },
+        "74": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 2) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 74,
+            "is_correct": false
+        },
+        "75": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 4). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 75,
+            "is_correct": true
+        },
+        "76": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 1) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 76,
+            "is_correct": false
+        },
+        "77": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count + 2) * 4). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 77,
+            "is_correct": true
+        },
+        "78": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 3). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 78,
+            "is_correct": true
+        },
+        "79": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count + 1) * 3). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 79,
+            "is_correct": false
+        },
+        "80": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 2) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 80,
+            "is_correct": false
+        },
+        "81": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 2) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 81,
+            "is_correct": false
+        },
+        "82": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 1) * 4). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 82,
+            "is_correct": false
+        },
+        "83": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 1) * 4). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 83,
+            "is_correct": false
+        },
+        "84": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count + 2) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 84,
+            "is_correct": false
+        },
+        "85": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (((repetition count + 2) * 2) - 54). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 85,
+            "is_correct": false
+        },
+        "86": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count + 2) * 3). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 86,
+            "is_correct": false
+        },
+        "87": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count + 3) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 87,
+            "is_correct": false
+        },
+        "88": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 3) * 4). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 88,
+            "is_correct": true
+        },
+        "89": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 4). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 89,
+            "is_correct": false
+        },
+        "90": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 3). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 90,
+            "is_correct": true
+        },
+        "91": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count + 3) * 3). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 91,
+            "is_correct": true
+        },
+        "92": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (((repetition count + 3) * 2) - 54). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "I am unable to determine the answer.",
+            "correct_answer": "D",
+            "index": 92,
+            "is_correct": false
+        },
+        "93": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 2) * 4). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 93,
+            "is_correct": false
+        },
+        "94": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 94,
+            "is_correct": false
+        },
+        "95": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count + 2) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 95,
+            "is_correct": false
+        },
+        "96": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 1) * 3). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 96,
+            "is_correct": true
+        },
+        "97": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count + 1) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 97,
+            "is_correct": false
+        },
+        "98": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 3) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 98,
+            "is_correct": false
+        },
+        "99": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 3). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 99,
+            "is_correct": false
+        },
+        "100": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 3) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 100,
+            "is_correct": false
+        },
+        "101": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 3) * 3). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 101,
+            "is_correct": false
+        },
+        "102": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 102,
+            "is_correct": true
+        },
+        "103": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count + 2) * 4). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 103,
+            "is_correct": false
+        },
+        "104": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 104,
+            "is_correct": false
+        },
+        "105": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count * 2) - 51). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 105,
+            "is_correct": false
+        },
+        "106": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 3). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 106,
+            "is_correct": true
+        },
+        "107": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 107,
+            "is_correct": false
+        },
+        "108": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count + 3) * 4). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 108,
+            "is_correct": false
+        },
+        "109": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count * 3) - 71). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 109,
+            "is_correct": false
+        },
+        "110": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 110,
+            "is_correct": false
+        },
+        "111": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 2) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 111,
+            "is_correct": true
+        },
+        "112": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 112,
+            "is_correct": true
+        },
+        "113": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 2) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 113,
+            "is_correct": false
+        },
+        "114": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 1) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 114,
+            "is_correct": false
+        },
+        "115": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count + 3) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 115,
+            "is_correct": false
+        },
+        "116": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count + 1) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 116,
+            "is_correct": true
+        },
+        "117": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 3) * 3). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 117,
+            "is_correct": false
+        },
+        "118": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 118,
+            "is_correct": false
+        },
+        "119": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 1) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 119,
+            "is_correct": false
+        },
+        "120": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 120,
+            "is_correct": false
+        },
+        "121": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 121,
+            "is_correct": true
+        },
+        "122": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count + 3) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 122,
+            "is_correct": false
+        },
+        "123": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 1) * 4). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 123,
+            "is_correct": false
+        },
+        "124": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count + 1) * 3). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 124,
+            "is_correct": true
+        },
+        "125": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 1) * 3). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "I am ready. Please provide the audio.",
+            "correct_answer": "D",
+            "index": 125,
+            "is_correct": false
+        },
+        "126": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count + 1) * 4). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 126,
+            "is_correct": true
+        },
+        "127": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 3). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 127,
+            "is_correct": false
+        },
+        "128": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count + 1) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 128,
+            "is_correct": false
+        },
+        "129": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 1) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 129,
+            "is_correct": false
+        },
+        "130": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 130,
+            "is_correct": true
+        },
+        "131": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 131,
+            "is_correct": true
+        },
+        "132": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 132,
+            "is_correct": true
+        },
+        "133": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count * 3) - 60). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 133,
+            "is_correct": false
+        },
+        "134": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 4). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 134,
+            "is_correct": true
+        },
+        "135": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 3) * 4). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 135,
+            "is_correct": false
+        },
+        "136": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count + 1) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 136,
+            "is_correct": false
+        },
+        "137": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count + 3) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 137,
+            "is_correct": false
+        },
+        "138": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 1) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 138,
+            "is_correct": true
+        },
+        "139": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 139,
+            "is_correct": true
+        },
+        "140": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 3) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 140,
+            "is_correct": true
+        },
+        "141": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 3). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 141,
+            "is_correct": true
+        },
+        "142": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (((repetition count - 3) * 2) - 93). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 142,
+            "is_correct": true
+        },
+        "143": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 1) * 4). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 143,
+            "is_correct": false
+        },
+        "144": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 3) * 3). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 144,
+            "is_correct": true
+        },
+        "145": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 1) * 3). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 145,
+            "is_correct": false
+        },
+        "146": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 146,
+            "is_correct": false
+        },
+        "147": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 147,
+            "is_correct": true
+        },
+        "148": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 3) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": null,
+            "correct_answer": "A",
+            "index": 148,
+            "is_correct": false
+        },
+        "149": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 3). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 149,
+            "is_correct": true
+        },
+        "150": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 1) * 3). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 150,
+            "is_correct": true
+        },
+        "151": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": null,
+            "correct_answer": "C",
+            "index": 151,
+            "is_correct": false
+        },
+        "152": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 3) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 152,
+            "is_correct": false
+        },
+        "153": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 1) * 4). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 153,
+            "is_correct": false
+        },
+        "154": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 154,
+            "is_correct": true
+        },
+        "155": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 1) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 155,
+            "is_correct": false
+        },
+        "156": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 1) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 156,
+            "is_correct": false
+        },
+        "157": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count + 2) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 157,
+            "is_correct": true
+        },
+        "158": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count + 1) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 158,
+            "is_correct": false
+        },
+        "159": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 3) * 3). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 159,
+            "is_correct": false
+        },
+        "160": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 3) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 160,
+            "is_correct": false
+        },
+        "161": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 1) * 3). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 161,
+            "is_correct": true
+        },
+        "162": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 1) * 4). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 162,
+            "is_correct": false
+        },
+        "163": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 3). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 163,
+            "is_correct": true
+        },
+        "164": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count + 3) * 3). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 164,
+            "is_correct": false
+        },
+        "165": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count + 1) * 3). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 165,
+            "is_correct": false
+        },
+        "166": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 3). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 166,
+            "is_correct": true
+        },
+        "167": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 4). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 167,
+            "is_correct": true
+        },
+        "168": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count + 1) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 168,
+            "is_correct": false
+        },
+        "169": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 2) * 3). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 169,
+            "is_correct": false
+        },
+        "170": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 1) * 4). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 170,
+            "is_correct": true
+        },
+        "171": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 2) * 3). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 171,
+            "is_correct": false
+        },
+        "172": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (((repetition count + 1) * 3) - 85). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "There is no answer choice provided.",
+            "correct_answer": "D",
+            "index": 172,
+            "is_correct": false
+        },
+        "173": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count + 2) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 173,
+            "is_correct": true
+        },
+        "174": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 174,
+            "is_correct": true
+        },
+        "175": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 3) * 4). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "I am unable to provide the answer.",
+            "correct_answer": "D",
+            "index": 175,
+            "is_correct": false
+        },
+        "176": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 2) * 3). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 176,
+            "is_correct": false
+        },
+        "177": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 3) * 3). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 177,
+            "is_correct": false
+        },
+        "178": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 1) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 178,
+            "is_correct": false
+        },
+        "179": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 1) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 179,
+            "is_correct": true
+        },
+        "180": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 4). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 180,
+            "is_correct": true
+        },
+        "181": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 2) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 181,
+            "is_correct": false
+        },
+        "182": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 2) * 3). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 182,
+            "is_correct": false
+        },
+        "183": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count + 2) * 3). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 183,
+            "is_correct": false
+        },
+        "184": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 3). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 184,
+            "is_correct": true
+        },
+        "185": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (((repetition count + 3) * 2) - 92). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 185,
+            "is_correct": false
+        },
+        "186": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 4). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 186,
+            "is_correct": true
+        },
+        "187": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count + 3) * 4). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 187,
+            "is_correct": true
+        },
+        "188": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 1) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 188,
+            "is_correct": false
+        },
+        "189": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count + 1) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 189,
+            "is_correct": false
+        },
+        "190": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 190,
+            "is_correct": true
+        },
+        "191": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 2) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 191,
+            "is_correct": true
+        },
+        "192": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 4). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 192,
+            "is_correct": false
+        },
+        "193": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count + 3) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 193,
+            "is_correct": true
+        },
+        "194": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 1) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 194,
+            "is_correct": true
+        },
+        "195": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 3) * 4). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 195,
+            "is_correct": true
+        },
+        "196": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count + 3) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 196,
+            "is_correct": true
+        },
+        "197": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count + 1) * 3). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 197,
+            "is_correct": true
+        },
+        "198": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 3). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 198,
+            "is_correct": false
+        },
+        "199": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 2) * 3). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 199,
+            "is_correct": true
+        },
+        "200": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count + 1) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 200,
+            "is_correct": false
+        },
+        "201": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 2) * 4). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 201,
+            "is_correct": false
+        },
+        "202": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 2) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 202,
+            "is_correct": false
+        },
+        "203": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count + 2) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 203,
+            "is_correct": true
+        },
+        "204": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 3) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 204,
+            "is_correct": false
+        },
+        "205": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count + 1) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 205,
+            "is_correct": true
+        },
+        "206": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 206,
+            "is_correct": false
+        },
+        "207": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 1) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 207,
+            "is_correct": true
+        },
+        "208": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 1) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 208,
+            "is_correct": true
+        },
+        "209": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count + 1) * 4). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 209,
+            "is_correct": false
+        },
+        "210": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 2) * 3). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 210,
+            "is_correct": false
+        },
+        "211": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 3) * 2). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 211,
+            "is_correct": false
+        },
+        "212": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count + 1) * 4). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 212,
+            "is_correct": true
+        },
+        "213": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: (repetition count * 4). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 213,
+            "is_correct": true
+        },
+        "214": {
+            "question": "Listen carefully to the audio clip and count how many times the action is repeated. Then apply the following formula to compute the final answer: ((repetition count - 1) * 3). Which text best describes the resulting number? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 214,
+            "is_correct": true
+        }
+    }
+}

@@ -81,6 +81,10 @@ def _run_genimi(instance, args):
     
     if condition_modality == 'Text':
         condition_data = condition_byte
+    elif condition_modality == 'Video':
+        condition_data = types.Part(
+                inline_data=types.Blob(data=condition_byte, mime_type='video/mp4')
+            ),
     else:
         condition_data = types.Part.from_bytes(data=condition_byte, mime_type=condition_format_str)
     choise_data = {}
@@ -88,44 +92,97 @@ def _run_genimi(instance, args):
     for choice in choices_bytes:
         if choices_type == 'Text':
             choise_data[choice] = choices_bytes[choice]
+        elif choices_type == 'Video':
+            choise_data[choice] = types.Part(
+                inline_data=types.Blob(data=choices_bytes[choice], mime_type='video/mp4')
+            ),
         else:
             choise_data[choice] = types.Part.from_bytes(data=choices_bytes[choice], mime_type=choices_format_str),
-    
-    contents = [
-        question,
-        f"{condition_modality}:",
-        condition_data,
-        "A:",
-        choise_data['A'],
-        "B:",
-        choise_data['B'],
-        "C:",
-        choise_data['C'],
-        "D:",
-        choise_data['D'],
-        "Give the letter of the correct answer (A, B, C, or D)."
-    ]
-    # print(f"Running model: {args.model}")
-    response = client.models.generate_content(
-        model="gemini-2.0-flash",
-        # model="gemini-2.5-flash",
-        # model=args.model, # model="gemini-2.0-flash",  # or "gemini-2.5-flash"
-        contents=contents
-    )
-    
-    if response.text.strip().upper() not in ['A', 'B', 'C', 'D']:
+    if not args.reason:
+        contents = [
+            question,
+            f"{condition_modality}:",
+            condition_data,
+            "A:",
+            choise_data['A'],
+            "B:",
+            choise_data['B'],
+            "C:",
+            choise_data['C'],
+            "D:",
+            choise_data['D'],
+            "Give the letter of the correct answer (A, B, C, or D)."
+        ]
+        
+        # print(f"Running model: {args.model}")
         response = client.models.generate_content(
-            model="gemini-2.0-flash-lite",
+            model="gemini-2.0-flash",
             # model="gemini-2.5-flash",
             # model=args.model, # model="gemini-2.0-flash",  # or "gemini-2.5-flash"
-            contents = [
-                "The following response answers a multiple-choice question (A, B, C, or D), but includes additional reasoning. "
-                "Please extract only the final answer choice (A, B, C, or D).",
-                response.text
-            ]
+            contents=contents
         )
-    
-    return response.text
+        
+        if response.text.strip().upper() not in ['A', 'B', 'C', 'D']:
+            print(f"Response is not a valid answer: {response.text.strip()}. Re-running with reasoning extraction.")
+            response = client.models.generate_content(
+                model="gemini-2.0-flash-lite",
+                # model="gemini-2.5-flash",
+                # model=args.model, # model="gemini-2.0-flash",  # or "gemini-2.5-flash"
+                contents = [
+                    "The following response answers a multiple-choice question (A, B, C, or D), but includes additional reasoning. "
+                    "Please extract only the final answer choice (A, B, C, or D).",
+                    response.text
+                ]
+            )
+        return response.text
+    else:
+        contents = [
+            question,
+            f"{condition_modality}:",
+            condition_data,
+            "A:",
+            choise_data['A'],
+            "B:",
+            choise_data['B'],
+            "C:",
+            choise_data['C'],
+            "D:",
+            choise_data['D'],
+            'Please provide a detailed reasoning and then give the letter of the correct answer (A, B, C, or D) in a json format like this: {\"answer\": \"A\", \"reasoning\": \"...\"}.'
+        ]
+        
+        # print(f"Running model: {args.model}")
+        response = client.models.generate_content(
+            model="gemini-2.0-flash",
+            # model="gemini-2.5-flash",
+            # model=args.model, # model="gemini-2.0-flash",  # or "gemini-2.5-flash"
+            contents=contents
+        )
+        
+        try:
+            output = eval(response.text.strip())
+            answer = output.get('answer', '').strip().upper()
+            reasoning = output.get('reasoning', '').strip()
+        
+        except Exception as e:
+            print(f"Response is not a valid answer: {response.text.strip()}. Re-running with reasoning extraction.")
+            response = client.models.generate_content(
+                model="gemini-2.0-flash-lite",
+                # model="gemini-2.5-flash",
+                # model=args.model, # model="gemini-2.0-flash",  # or "gemini-2.5-flash"
+                contents = [
+                    "For the following response, extract the final answer choice (A, B, C, or D) and the reasoning into a json format like this: {\"answer\": \"A\", \"reasoning\": \"...\"}.",
+                    response.text
+                ]
+            )  
+            output = eval(response.text.strip())
+            answer = output.get('answer', '').strip().upper()
+            reasoning = output.get('reasoning', '').strip()
+
+        return {
+            'answer': answer,
+            'reasoning': reasoning
+        }
 
 def run_genimi(questions, index, args):
     instance = get_question(questions, index)
@@ -158,6 +215,10 @@ def run_all_genimi(task_name, questions, args, sample = 100, save_dir = None):
         response = run_genimi(questions, i, args)
         if response is not None:
             all_count += 1
+            reasoning = ''
+            if isinstance(response, dict):
+                reasoning = response.get('reasoning', '').strip()
+                response = response.get('answer', '').strip()
             if response.strip().upper() == questions[i]['correct_answer'].upper():
                 correct_count += 1
                 is_correct = True
@@ -169,6 +230,7 @@ def run_all_genimi(task_name, questions, args, sample = 100, save_dir = None):
         save_result['results'][i] = {
             "question": questions[i]['question'],
             "response": response.strip() if response else None,
+            'reasoning': reasoning,
             "correct_answer": questions[i]['correct_answer'],
             "index": i,
             "is_correct": is_correct if response else False
@@ -178,7 +240,10 @@ def run_all_genimi(task_name, questions, args, sample = 100, save_dir = None):
     save_result['correct_count'] = correct_count
     save_result['all_count'] = all_count
     
-    save_path = f"{save_dir}/{task_name.replace('/', '_')}.json"
+    if args.reason:
+        save_path = f"{save_dir}/{task_name.replace('/', '_')}_reason.json"
+    else:
+        save_path = f"{save_dir}/{task_name.replace('/', '_')}.json"
     os.makedirs(os.path.dirname(save_path), exist_ok=True)
     with open(save_path, "w") as f:
         json.dump(save_result, f, indent=4)
@@ -203,6 +268,7 @@ if __name__ == "__main__":
     parser.add_argument('--sample', type=int, help='Number of samples to run', default=1)
     parser.add_argument('--save_dir', help='Directory to save results', default='/home/xwang378/scratch/2025/AudioBench/benchmark/results/')
     parser.add_argument('--model', help='Model to use for generation', default='gemini-2.5-flash')
+    parser.add_argument('--reason', type=bool, default=False, help='Whether to run the reason script')
     args = parser.parse_args()
     main(args)
     

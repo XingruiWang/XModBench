@@ -183,8 +183,6 @@ export audioBench='/home/xwang378/scratch/2025/AudioBench'
 #     --task_name acr/acr_text_vision \
 #     --sample 1000
 
-
-
 ########################## Spatial ########################
 
 # python $audioBench/scripts/run.py \
@@ -246,10 +244,10 @@ export audioBench='/home/xwang378/scratch/2025/AudioBench'
 
 ########################## ACR Hard ########################
 
-python $audioBench/scripts/run.py \
-    --model qwen2.5_omni \
-    --task_name acr/acr_hard_audio_text \
-    --sample -1
+# python $audioBench/scripts/run.py \
+#     --model qwen2.5_omni \
+#     --task_name acr/acr_hard_audio_text \
+#     --sample -1
 
 # python $audioBench/scripts/run.py \
 #     --model qwen2.5_omni \
@@ -290,7 +288,132 @@ python $audioBench/scripts/run.py \
 
 
 
+################ Temporal Order ################ 
+# python $audioBench/scripts/run.py \
+#     --model qwen2.5_omni \
+#     --task_name temporal_order/vggss_order_audio_text \
+#     --sample 500
 
+# python $audioBench/scripts/run.py \
+#     --model qwen2.5_omni \
+#     --task_name temporal_order/vggss_order_text_audio \
+#     --sample 500
+
+# python $audioBench/scripts/run.py \
+#     --model qwen2.5_omni \
+#     --task_name temporal_order/vggss_order_vision_text \
+#     --sample 500
+
+# python $audioBench/scripts/run.py \
+#     --model qwen2.5_omni \
+#     --task_name temporal_order/vggss_order_text_vision \
+#     --sample 500
+
+# python $audioBench/scripts/run.py \
+#     --model qwen2.5_omni \
+#     --task_name temporal_order/vggss_order_vision_audio \
+#     --sample 500
+
+python $audioBench/scripts/run.py \
+    --model qwen2.5_omni \
+    --task_name temporal_order/vggss_order_audio_vision \
+    --sample 49
+
+# ############### Spatial Outdoor ################
+
+# python $audioBench/scripts/run.py \
+#     --model qwen2.5_omni \
+#     --task_name spatial_outdoor/urbansas_audio_vision \
+#     --sample 98
+
+# python $audioBench/scripts/run.py \
+#     --model qwen2.5_omni \
+#     --task_name spatial_outdoor/urbansas_vision_audio \
+#     --sample 98
+
+# python $audioBench/scripts/run.py \
+#     --model qwen2.5_omni \
+#     --task_name spatial_outdoor/urbansas_audio_text \
+#     --sample 98
+
+# python $audioBench/scripts/run.py \
+#     --model qwen2.5_omni \
+#     --task_name spatial_outdoor/urbansas_text_audio \
+#     --sample 98
+
+# python $audioBench/scripts/run.py \
+#     --model qwen2.5_omni \
+#     --task_name spatial_outdoor/urbansas_vision_text \
+#     --sample 98
+
+# python $audioBench/scripts/run.py \
+#     --model qwen2.5_omni \
+#     --task_name spatial_outdoor/urbansas_text_vision \
+#     --sample 98
+
+
+########################## Count ########################
+
+# python $audioBench/scripts/run.py \
+#     --model qwen2.5_omni \
+#     --task_name temporal_count/countixav_audio_text \
+#     --sample 47
+
+# python $audioBench/scripts/run.py \
+#     --model qwen2.5_omni \
+#     --task_name temporal_count/countixav_text_audio \
+#     --sample 47
+
+# python $audioBench/scripts/run.py \
+#     --model qwen2.5_omni \
+#     --task_name temporal_count/countixav_vision_text \
+#     --sample 47
+
+# python $audioBench/scripts/run.py \
+#     --model qwen2.5_omni \
+#     --task_name temporal_count/countixav_text_vision \
+#     --sample 47
+
+# python $audioBench/scripts/run.py \
+#     --model qwen2.5_omni \
+#     --task_name temporal_count/countixav_audio_vision \
+#     --sample 47
+
+# python $audioBench/scripts/run.py \
+#     --model qwen2.5_omni \
+#     --task_name temporal_count/countixav_vision_audio \
+#     --sample 47
+
+########################### Count Reasoning ########################
+# python $audioBench/scripts/run.py \
+#     --model qwen2.5_omni \
+#     --task_name temporal_count_reasoning/countixav_vision_audio \
+#     --sample 47
+
+# python $audioBench/scripts/run.py \
+#     --model qwen2.5_omni \
+#     --task_name temporal_count_reasoning/countixav_audio_vision \
+#     --sample 47
+
+# python $audioBench/scripts/run.py \
+#     --model qwen2.5_omni \
+#     --task_name temporal_count_reasoning/countixav_vision_text \
+#     --sample 47
+
+# python $audioBench/scripts/run.py \
+#     --model qwen2.5_omni \
+#     --task_name temporal_count_reasoning/countixav_text_vision \
+#     --sample 47
+
+# python $audioBench/scripts/run.py \
+#     --model qwen2.5_omni \
+#     --task_name temporal_count_reasoning/countixav_text_audio \
+#     --sample 47
+
+# python $audioBench/scripts/run.py \
+#     --model qwen2.5_omni \
+#     --task_name temporal_count_reasoning/countixav_audio_text \
+#     --sample 47
 
 
 

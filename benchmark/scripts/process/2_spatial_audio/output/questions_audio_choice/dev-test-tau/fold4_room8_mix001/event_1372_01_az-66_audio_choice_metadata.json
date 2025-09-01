@@ -1,0 +1,27 @@
+{
+  "question_type": "audio_choice",
+  "question": "You are provided with a 360\u00b0 panoramic video showing the scene from a specific viewing direction (forward direction is in the middle of the image). You will also hear several spatial audio clips, each representing the same male speech sound but from different listening orientations. Which audio clip matches the spatial perspective of the given video view?",
+  "correct_answer": 3,
+  "input_video_path": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/STARSS23/video_dev/dev-test-tau/fold4_room8_mix001.mp4",
+  "input_video_rotation": 0,
+  "choice_audio_paths": [
+    "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/STARSS23/foa_dev/dev-test-tau/fold4_room8_mix001.wav",
+    "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/STARSS23/foa_dev/dev-test-tau/fold4_room8_mix001.wav",
+    "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/STARSS23/foa_dev/dev-test-tau/fold4_room8_mix001.wav",
+    "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/STARSS23/foa_dev/dev-test-tau/fold4_room8_mix001.wav"
+  ],
+  "choice_audio_rotations": [
+    90,
+    180,
+    270,
+    0
+  ],
+  "event_info": {
+    "class": "Male speech",
+    "timestamp": 137.2,
+    "azimuth": -66,
+    "elevation": -8,
+    "distance": 201,
+    "original_azimuth": -66
+  }
+}

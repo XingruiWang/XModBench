@@ -1,0 +1,33 @@
+{
+    "dataset": "emotion_classification",
+    "total_emotions": 6,
+    "valid_emotions": [
+        "sad",
+        "angry",
+        "happy",
+        "neutral",
+        "fear",
+        "disgust"
+    ],
+    "questions_per_emotion": 100,
+    "total_questions_per_combination": 600,
+    "emotion_stats": {
+        "sad": 100,
+        "angry": 100,
+        "happy": 100,
+        "neutral": 100,
+        "fear": 100,
+        "disgust": 100
+    },
+    "combinations": [
+        "audio_vision",
+        "vision_audio",
+        "vision_text",
+        "text_vision",
+        "text_audio",
+        "audio_text"
+    ],
+    "task_type": "emotion_matching_across_modalities",
+    "face_dataset_source": "face-expression-recognition-dataset/validation",
+    "audio_dataset_source": "TESS_Toronto_emotional_speech_set_data"
+}

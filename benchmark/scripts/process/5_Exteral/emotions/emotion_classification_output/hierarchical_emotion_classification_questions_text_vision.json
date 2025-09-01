@@ -1,0 +1,1598 @@
+[
+    {
+        "question": "Based on the emotion 'Positive - Joy', which facial expression best represents this emotion? Answer with A, B, C, or D",
+        "target_emotion": "joy",
+        "target_category": "positive",
+        "conditions": {
+            "modality": "Text",
+            "input": "Positive - Joy"
+        },
+        "options": {
+            "A": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/anger/dia22_utt10.mp4",
+                "emotion": "anger",
+                "category": "negative"
+            },
+            "B": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia52_utt6.mp4",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "C": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/surprise/dia120_utt12.mp4",
+                "emotion": "surprise",
+                "category": "negative"
+            },
+            "D": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia108_utt9.mp4",
+                "emotion": "joy",
+                "category": "positive"
+            }
+        },
+        "correct_answer": "D",
+        "correct_emotion": "joy",
+        "correct_category": "positive"
+    },
+    {
+        "question": "Based on the emotion 'Positive - Joy', which facial expression best represents this emotion? Answer with A, B, C, or D",
+        "target_emotion": "joy",
+        "target_category": "positive",
+        "conditions": {
+            "modality": "Text",
+            "input": "Positive - Joy"
+        },
+        "options": {
+            "A": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/sadness/dia22_utt6.mp4",
+                "emotion": "sadness",
+                "category": "negative"
+            },
+            "B": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia96_utt16.mp4",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "C": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia46_utt1.mp4",
+                "emotion": "joy",
+                "category": "positive"
+            },
+            "D": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/anger/dia127_utt0.mp4",
+                "emotion": "anger",
+                "category": "negative"
+            }
+        },
+        "correct_answer": "C",
+        "correct_emotion": "joy",
+        "correct_category": "positive"
+    },
+    {
+        "question": "Based on the emotion 'Positive - Joy', which facial expression best represents this emotion? Answer with A, B, C, or D",
+        "target_emotion": "joy",
+        "target_category": "positive",
+        "conditions": {
+            "modality": "Text",
+            "input": "Positive - Joy"
+        },
+        "options": {
+            "A": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/disgust/dia17_utt4.mp4",
+                "emotion": "disgust",
+                "category": "negative"
+            },
+            "B": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/sadness/dia184_utt7.mp4",
+                "emotion": "sadness",
+                "category": "negative"
+            },
+            "C": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia31_utt0.mp4",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "D": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia76_utt18.mp4",
+                "emotion": "joy",
+                "category": "positive"
+            }
+        },
+        "correct_answer": "D",
+        "correct_emotion": "joy",
+        "correct_category": "positive"
+    },
+    {
+        "question": "Based on the emotion 'Positive - Joy', which facial expression best represents this emotion? Answer with A, B, C, or D",
+        "target_emotion": "joy",
+        "target_category": "positive",
+        "conditions": {
+            "modality": "Text",
+            "input": "Positive - Joy"
+        },
+        "options": {
+            "A": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia9_utt1.mp4",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "B": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia112_utt20.mp4",
+                "emotion": "joy",
+                "category": "positive"
+            },
+            "C": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/anger/dia123_utt4.mp4",
+                "emotion": "anger",
+                "category": "negative"
+            },
+            "D": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/fear/dia143_utt5.mp4",
+                "emotion": "fear",
+                "category": "negative"
+            }
+        },
+        "correct_answer": "B",
+        "correct_emotion": "joy",
+        "correct_category": "positive"
+    },
+    {
+        "question": "Based on the emotion 'Positive - Joy', which facial expression best represents this emotion? Answer with A, B, C, or D",
+        "target_emotion": "joy",
+        "target_category": "positive",
+        "conditions": {
+            "modality": "Text",
+            "input": "Positive - Joy"
+        },
+        "options": {
+            "A": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia133_utt4.mp4",
+                "emotion": "joy",
+                "category": "positive"
+            },
+            "B": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia16_utt0.mp4",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "C": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/anger/dia98_utt3.mp4",
+                "emotion": "anger",
+                "category": "negative"
+            },
+            "D": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/surprise/dia133_utt13.mp4",
+                "emotion": "surprise",
+                "category": "negative"
+            }
+        },
+        "correct_answer": "A",
+        "correct_emotion": "joy",
+        "correct_category": "positive"
+    },
+    {
+        "question": "Based on the emotion 'Positive - Joy', which facial expression best represents this emotion? Answer with A, B, C, or D",
+        "target_emotion": "joy",
+        "target_category": "positive",
+        "conditions": {
+            "modality": "Text",
+            "input": "Positive - Joy"
+        },
+        "options": {
+            "A": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/disgust/dia70_utt9.mp4",
+                "emotion": "disgust",
+                "category": "negative"
+            },
+            "B": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/anger/dia4_utt7.mp4",
+                "emotion": "anger",
+                "category": "negative"
+            },
+            "C": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia146_utt0.mp4",
+                "emotion": "joy",
+                "category": "positive"
+            },
+            "D": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia44_utt1.mp4",
+                "emotion": "neutral",
+                "category": "neutral"
+            }
+        },
+        "correct_answer": "C",
+        "correct_emotion": "joy",
+        "correct_category": "positive"
+    },
+    {
+        "question": "Based on the emotion 'Positive - Surprise', which facial expression best represents this emotion? Answer with A, B, C, or D",
+        "target_emotion": "surprise",
+        "target_category": "positive",
+        "conditions": {
+            "modality": "Text",
+            "input": "Positive - Surprise"
+        },
+        "options": {
+            "A": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/anger/dia25_utt10.mp4",
+                "emotion": "anger",
+                "category": "negative"
+            },
+            "B": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia124_utt8.mp4",
+                "emotion": "surprise",
+                "category": "positive"
+            },
+            "C": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia10_utt1.mp4",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "D": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/surprise/dia169_utt5.mp4",
+                "emotion": "surprise",
+                "category": "negative"
+            }
+        },
+        "correct_answer": "B",
+        "correct_emotion": "surprise",
+        "correct_category": "positive"
+    },
+    {
+        "question": "Based on the emotion 'Positive - Surprise', which facial expression best represents this emotion? Answer with A, B, C, or D",
+        "target_emotion": "surprise",
+        "target_category": "positive",
+        "conditions": {
+            "modality": "Text",
+            "input": "Positive - Surprise"
+        },
+        "options": {
+            "A": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia130_utt8.mp4",
+                "emotion": "surprise",
+                "category": "positive"
+            },
+            "B": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/sadness/dia140_utt8.mp4",
+                "emotion": "sadness",
+                "category": "negative"
+            },
+            "C": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/fear/dia182_utt4.mp4",
+                "emotion": "fear",
+                "category": "negative"
+            },
+            "D": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia25_utt11.mp4",
+                "emotion": "neutral",
+                "category": "neutral"
+            }
+        },
+        "correct_answer": "A",
+        "correct_emotion": "surprise",
+        "correct_category": "positive"
+    },
+    {
+        "question": "Based on the emotion 'Positive - Surprise', which facial expression best represents this emotion? Answer with A, B, C, or D",
+        "target_emotion": "surprise",
+        "target_category": "positive",
+        "conditions": {
+            "modality": "Text",
+            "input": "Positive - Surprise"
+        },
+        "options": {
+            "A": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/fear/dia119_utt5.mp4",
+                "emotion": "fear",
+                "category": "negative"
+            },
+            "B": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia29_utt4.mp4",
+                "emotion": "surprise",
+                "category": "positive"
+            },
+            "C": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/surprise/dia165_utt2.mp4",
+                "emotion": "surprise",
+                "category": "negative"
+            },
+            "D": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia69_utt2.mp4",
+                "emotion": "neutral",
+                "category": "neutral"
+            }
+        },
+        "correct_answer": "B",
+        "correct_emotion": "surprise",
+        "correct_category": "positive"
+    },
+    {
+        "question": "Based on the emotion 'Positive - Surprise', which facial expression best represents this emotion? Answer with A, B, C, or D",
+        "target_emotion": "surprise",
+        "target_category": "positive",
+        "conditions": {
+            "modality": "Text",
+            "input": "Positive - Surprise"
+        },
+        "options": {
+            "A": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/fear/dia133_utt15.mp4",
+                "emotion": "fear",
+                "category": "negative"
+            },
+            "B": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia47_utt4.mp4",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "C": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/sadness/dia125_utt21.mp4",
+                "emotion": "sadness",
+                "category": "negative"
+            },
+            "D": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia71_utt5.mp4",
+                "emotion": "surprise",
+                "category": "positive"
+            }
+        },
+        "correct_answer": "D",
+        "correct_emotion": "surprise",
+        "correct_category": "positive"
+    },
+    {
+        "question": "Based on the emotion 'Positive - Surprise', which facial expression best represents this emotion? Answer with A, B, C, or D",
+        "target_emotion": "surprise",
+        "target_category": "positive",
+        "conditions": {
+            "modality": "Text",
+            "input": "Positive - Surprise"
+        },
+        "options": {
+            "A": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/fear/dia17_utt16.mp4",
+                "emotion": "fear",
+                "category": "negative"
+            },
+            "B": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia124_utt11.mp4",
+                "emotion": "surprise",
+                "category": "positive"
+            },
+            "C": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/surprise/dia102_utt2.mp4",
+                "emotion": "surprise",
+                "category": "negative"
+            },
+            "D": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia190_utt1.mp4",
+                "emotion": "neutral",
+                "category": "neutral"
+            }
+        },
+        "correct_answer": "B",
+        "correct_emotion": "surprise",
+        "correct_category": "positive"
+    },
+    {
+        "question": "Based on the emotion 'Positive - Surprise', which facial expression best represents this emotion? Answer with A, B, C, or D",
+        "target_emotion": "surprise",
+        "target_category": "positive",
+        "conditions": {
+            "modality": "Text",
+            "input": "Positive - Surprise"
+        },
+        "options": {
+            "A": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/anger/dia17_utt9.mp4",
+                "emotion": "anger",
+                "category": "negative"
+            },
+            "B": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/surprise/dia169_utt4.mp4",
+                "emotion": "surprise",
+                "category": "negative"
+            },
+            "C": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia111_utt14.mp4",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "D": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia96_utt12.mp4",
+                "emotion": "surprise",
+                "category": "positive"
+            }
+        },
+        "correct_answer": "D",
+        "correct_emotion": "surprise",
+        "correct_category": "positive"
+    },
+    {
+        "question": "Based on the emotion 'Negative - Anger', which facial expression best represents this emotion? Answer with A, B, C, or D",
+        "target_emotion": "anger",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Text",
+            "input": "Negative - Anger"
+        },
+        "options": {
+            "A": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia165_utt1.mp4",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "B": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/anger/dia175_utt20.mp4",
+                "emotion": "anger",
+                "category": "negative"
+            },
+            "C": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia133_utt4.mp4",
+                "emotion": "joy",
+                "category": "positive"
+            },
+            "D": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia34_utt3.mp4",
+                "emotion": "surprise",
+                "category": "positive"
+            }
+        },
+        "correct_answer": "B",
+        "correct_emotion": "anger",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Based on the emotion 'Negative - Anger', which facial expression best represents this emotion? Answer with A, B, C, or D",
+        "target_emotion": "anger",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Text",
+            "input": "Negative - Anger"
+        },
+        "options": {
+            "A": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia70_utt19.mp4",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "B": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia95_utt13.mp4",
+                "emotion": "joy",
+                "category": "positive"
+            },
+            "C": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/anger/dia108_utt3.mp4",
+                "emotion": "anger",
+                "category": "negative"
+            },
+            "D": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia145_utt9.mp4",
+                "emotion": "surprise",
+                "category": "positive"
+            }
+        },
+        "correct_answer": "C",
+        "correct_emotion": "anger",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Based on the emotion 'Negative - Anger', which facial expression best represents this emotion? Answer with A, B, C, or D",
+        "target_emotion": "anger",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Text",
+            "input": "Negative - Anger"
+        },
+        "options": {
+            "A": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia96_utt12.mp4",
+                "emotion": "surprise",
+                "category": "positive"
+            },
+            "B": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia68_utt12.mp4",
+                "emotion": "joy",
+                "category": "positive"
+            },
+            "C": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/anger/dia70_utt12.mp4",
+                "emotion": "anger",
+                "category": "negative"
+            },
+            "D": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia177_utt1.mp4",
+                "emotion": "neutral",
+                "category": "neutral"
+            }
+        },
+        "correct_answer": "C",
+        "correct_emotion": "anger",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Based on the emotion 'Negative - Anger', which facial expression best represents this emotion? Answer with A, B, C, or D",
+        "target_emotion": "anger",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Text",
+            "input": "Negative - Anger"
+        },
+        "options": {
+            "A": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/anger/dia70_utt11.mp4",
+                "emotion": "anger",
+                "category": "negative"
+            },
+            "B": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia130_utt8.mp4",
+                "emotion": "surprise",
+                "category": "positive"
+            },
+            "C": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia135_utt5.mp4",
+                "emotion": "joy",
+                "category": "positive"
+            },
+            "D": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia115_utt1.mp4",
+                "emotion": "neutral",
+                "category": "neutral"
+            }
+        },
+        "correct_answer": "A",
+        "correct_emotion": "anger",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Based on the emotion 'Negative - Anger', which facial expression best represents this emotion? Answer with A, B, C, or D",
+        "target_emotion": "anger",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Text",
+            "input": "Negative - Anger"
+        },
+        "options": {
+            "A": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia49_utt14.mp4",
+                "emotion": "joy",
+                "category": "positive"
+            },
+            "B": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia4_utt2.mp4",
+                "emotion": "surprise",
+                "category": "positive"
+            },
+            "C": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia170_utt2.mp4",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "D": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/anger/dia144_utt10.mp4",
+                "emotion": "anger",
+                "category": "negative"
+            }
+        },
+        "correct_answer": "D",
+        "correct_emotion": "anger",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Based on the emotion 'Negative - Anger', which facial expression best represents this emotion? Answer with A, B, C, or D",
+        "target_emotion": "anger",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Text",
+            "input": "Negative - Anger"
+        },
+        "options": {
+            "A": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia107_utt11.mp4",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "B": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia38_utt0.mp4",
+                "emotion": "joy",
+                "category": "positive"
+            },
+            "C": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/anger/dia169_utt9.mp4",
+                "emotion": "anger",
+                "category": "negative"
+            },
+            "D": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia191_utt8.mp4",
+                "emotion": "surprise",
+                "category": "positive"
+            }
+        },
+        "correct_answer": "C",
+        "correct_emotion": "anger",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Based on the emotion 'Negative - Surprise', which facial expression best represents this emotion? Answer with A, B, C, or D",
+        "target_emotion": "surprise",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Text",
+            "input": "Negative - Surprise"
+        },
+        "options": {
+            "A": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia108_utt6.mp4",
+                "emotion": "joy",
+                "category": "positive"
+            },
+            "B": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia97_utt10.mp4",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "C": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/surprise/dia132_utt19.mp4",
+                "emotion": "surprise",
+                "category": "negative"
+            },
+            "D": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia4_utt2.mp4",
+                "emotion": "surprise",
+                "category": "positive"
+            }
+        },
+        "correct_answer": "C",
+        "correct_emotion": "surprise",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Based on the emotion 'Negative - Surprise', which facial expression best represents this emotion? Answer with A, B, C, or D",
+        "target_emotion": "surprise",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Text",
+            "input": "Negative - Surprise"
+        },
+        "options": {
+            "A": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia76_utt8.mp4",
+                "emotion": "surprise",
+                "category": "positive"
+            },
+            "B": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/surprise/dia85_utt1.mp4",
+                "emotion": "surprise",
+                "category": "negative"
+            },
+            "C": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia57_utt4.mp4",
+                "emotion": "joy",
+                "category": "positive"
+            },
+            "D": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia5_utt1.mp4",
+                "emotion": "neutral",
+                "category": "neutral"
+            }
+        },
+        "correct_answer": "B",
+        "correct_emotion": "surprise",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Based on the emotion 'Negative - Surprise', which facial expression best represents this emotion? Answer with A, B, C, or D",
+        "target_emotion": "surprise",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Text",
+            "input": "Negative - Surprise"
+        },
+        "options": {
+            "A": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia130_utt2.mp4",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "B": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia22_utt9.mp4",
+                "emotion": "surprise",
+                "category": "positive"
+            },
+            "C": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia154_utt7.mp4",
+                "emotion": "joy",
+                "category": "positive"
+            },
+            "D": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/surprise/dia85_utt1.mp4",
+                "emotion": "surprise",
+                "category": "negative"
+            }
+        },
+        "correct_answer": "D",
+        "correct_emotion": "surprise",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Based on the emotion 'Negative - Surprise', which facial expression best represents this emotion? Answer with A, B, C, or D",
+        "target_emotion": "surprise",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Text",
+            "input": "Negative - Surprise"
+        },
+        "options": {
+            "A": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia131_utt2.mp4",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "B": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia29_utt4.mp4",
+                "emotion": "surprise",
+                "category": "positive"
+            },
+            "C": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia109_utt1.mp4",
+                "emotion": "joy",
+                "category": "positive"
+            },
+            "D": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/surprise/dia192_utt9.mp4",
+                "emotion": "surprise",
+                "category": "negative"
+            }
+        },
+        "correct_answer": "D",
+        "correct_emotion": "surprise",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Based on the emotion 'Negative - Surprise', which facial expression best represents this emotion? Answer with A, B, C, or D",
+        "target_emotion": "surprise",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Text",
+            "input": "Negative - Surprise"
+        },
+        "options": {
+            "A": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia118_utt10.mp4",
+                "emotion": "surprise",
+                "category": "positive"
+            },
+            "B": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/surprise/dia184_utt9.mp4",
+                "emotion": "surprise",
+                "category": "negative"
+            },
+            "C": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia191_utt7.mp4",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "D": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia135_utt5.mp4",
+                "emotion": "joy",
+                "category": "positive"
+            }
+        },
+        "correct_answer": "B",
+        "correct_emotion": "surprise",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Based on the emotion 'Negative - Surprise', which facial expression best represents this emotion? Answer with A, B, C, or D",
+        "target_emotion": "surprise",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Text",
+            "input": "Negative - Surprise"
+        },
+        "options": {
+            "A": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia4_utt0.mp4",
+                "emotion": "surprise",
+                "category": "positive"
+            },
+            "B": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/surprise/dia178_utt9.mp4",
+                "emotion": "surprise",
+                "category": "negative"
+            },
+            "C": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia132_utt3.mp4",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "D": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia135_utt5.mp4",
+                "emotion": "joy",
+                "category": "positive"
+            }
+        },
+        "correct_answer": "B",
+        "correct_emotion": "surprise",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Based on the emotion 'Negative - Disgust', which facial expression best represents this emotion? Answer with A, B, C, or D",
+        "target_emotion": "disgust",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Text",
+            "input": "Negative - Disgust"
+        },
+        "options": {
+            "A": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia184_utt10.mp4",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "B": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia118_utt10.mp4",
+                "emotion": "surprise",
+                "category": "positive"
+            },
+            "C": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia51_utt1.mp4",
+                "emotion": "joy",
+                "category": "positive"
+            },
+            "D": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/disgust/dia130_utt1.mp4",
+                "emotion": "disgust",
+                "category": "negative"
+            }
+        },
+        "correct_answer": "D",
+        "correct_emotion": "disgust",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Based on the emotion 'Negative - Disgust', which facial expression best represents this emotion? Answer with A, B, C, or D",
+        "target_emotion": "disgust",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Text",
+            "input": "Negative - Disgust"
+        },
+        "options": {
+            "A": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia108_utt8.mp4",
+                "emotion": "surprise",
+                "category": "positive"
+            },
+            "B": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia20_utt1.mp4",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "C": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia92_utt0.mp4",
+                "emotion": "joy",
+                "category": "positive"
+            },
+            "D": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/disgust/dia30_utt5.mp4",
+                "emotion": "disgust",
+                "category": "negative"
+            }
+        },
+        "correct_answer": "D",
+        "correct_emotion": "disgust",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Based on the emotion 'Negative - Disgust', which facial expression best represents this emotion? Answer with A, B, C, or D",
+        "target_emotion": "disgust",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Text",
+            "input": "Negative - Disgust"
+        },
+        "options": {
+            "A": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia76_utt2.mp4",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "B": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia30_utt1.mp4",
+                "emotion": "joy",
+                "category": "positive"
+            },
+            "C": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia145_utt1.mp4",
+                "emotion": "surprise",
+                "category": "positive"
+            },
+            "D": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/disgust/dia30_utt5.mp4",
+                "emotion": "disgust",
+                "category": "negative"
+            }
+        },
+        "correct_answer": "D",
+        "correct_emotion": "disgust",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Based on the emotion 'Negative - Disgust', which facial expression best represents this emotion? Answer with A, B, C, or D",
+        "target_emotion": "disgust",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Text",
+            "input": "Negative - Disgust"
+        },
+        "options": {
+            "A": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia27_utt0.mp4",
+                "emotion": "joy",
+                "category": "positive"
+            },
+            "B": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia13_utt3.mp4",
+                "emotion": "surprise",
+                "category": "positive"
+            },
+            "C": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia15_utt3.mp4",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "D": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/disgust/dia41_utt6.mp4",
+                "emotion": "disgust",
+                "category": "negative"
+            }
+        },
+        "correct_answer": "D",
+        "correct_emotion": "disgust",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Based on the emotion 'Negative - Disgust', which facial expression best represents this emotion? Answer with A, B, C, or D",
+        "target_emotion": "disgust",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Text",
+            "input": "Negative - Disgust"
+        },
+        "options": {
+            "A": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia58_utt7.mp4",
+                "emotion": "surprise",
+                "category": "positive"
+            },
+            "B": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia80_utt5.mp4",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "C": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia121_utt0.mp4",
+                "emotion": "joy",
+                "category": "positive"
+            },
+            "D": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/disgust/dia123_utt9.mp4",
+                "emotion": "disgust",
+                "category": "negative"
+            }
+        },
+        "correct_answer": "D",
+        "correct_emotion": "disgust",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Based on the emotion 'Negative - Disgust', which facial expression best represents this emotion? Answer with A, B, C, or D",
+        "target_emotion": "disgust",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Text",
+            "input": "Negative - Disgust"
+        },
+        "options": {
+            "A": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/disgust/dia34_utt6.mp4",
+                "emotion": "disgust",
+                "category": "negative"
+            },
+            "B": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia81_utt0.mp4",
+                "emotion": "joy",
+                "category": "positive"
+            },
+            "C": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia184_utt13.mp4",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "D": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia42_utt5.mp4",
+                "emotion": "surprise",
+                "category": "positive"
+            }
+        },
+        "correct_answer": "A",
+        "correct_emotion": "disgust",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Based on the emotion 'Negative - Fear', which facial expression best represents this emotion? Answer with A, B, C, or D",
+        "target_emotion": "fear",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Text",
+            "input": "Negative - Fear"
+        },
+        "options": {
+            "A": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/fear/dia126_utt4.mp4",
+                "emotion": "fear",
+                "category": "negative"
+            },
+            "B": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia127_utt5.mp4",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "C": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia139_utt7.mp4",
+                "emotion": "surprise",
+                "category": "positive"
+            },
+            "D": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia76_utt18.mp4",
+                "emotion": "joy",
+                "category": "positive"
+            }
+        },
+        "correct_answer": "A",
+        "correct_emotion": "fear",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Based on the emotion 'Negative - Fear', which facial expression best represents this emotion? Answer with A, B, C, or D",
+        "target_emotion": "fear",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Text",
+            "input": "Negative - Fear"
+        },
+        "options": {
+            "A": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia22_utt12.mp4",
+                "emotion": "joy",
+                "category": "positive"
+            },
+            "B": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/fear/dia100_utt14.mp4",
+                "emotion": "fear",
+                "category": "negative"
+            },
+            "C": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia195_utt5.mp4",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "D": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia45_utt3.mp4",
+                "emotion": "surprise",
+                "category": "positive"
+            }
+        },
+        "correct_answer": "B",
+        "correct_emotion": "fear",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Based on the emotion 'Negative - Fear', which facial expression best represents this emotion? Answer with A, B, C, or D",
+        "target_emotion": "fear",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Text",
+            "input": "Negative - Fear"
+        },
+        "options": {
+            "A": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia184_utt1.mp4",
+                "emotion": "surprise",
+                "category": "positive"
+            },
+            "B": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia175_utt5.mp4",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "C": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/fear/dia143_utt5.mp4",
+                "emotion": "fear",
+                "category": "negative"
+            },
+            "D": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia57_utt1.mp4",
+                "emotion": "joy",
+                "category": "positive"
+            }
+        },
+        "correct_answer": "C",
+        "correct_emotion": "fear",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Based on the emotion 'Negative - Fear', which facial expression best represents this emotion? Answer with A, B, C, or D",
+        "target_emotion": "fear",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Text",
+            "input": "Negative - Fear"
+        },
+        "options": {
+            "A": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/fear/dia3_utt1.mp4",
+                "emotion": "fear",
+                "category": "negative"
+            },
+            "B": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia113_utt12.mp4",
+                "emotion": "surprise",
+                "category": "positive"
+            },
+            "C": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia162_utt0.mp4",
+                "emotion": "joy",
+                "category": "positive"
+            },
+            "D": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia76_utt7.mp4",
+                "emotion": "neutral",
+                "category": "neutral"
+            }
+        },
+        "correct_answer": "A",
+        "correct_emotion": "fear",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Based on the emotion 'Negative - Fear', which facial expression best represents this emotion? Answer with A, B, C, or D",
+        "target_emotion": "fear",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Text",
+            "input": "Negative - Fear"
+        },
+        "options": {
+            "A": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/fear/dia37_utt3.mp4",
+                "emotion": "fear",
+                "category": "negative"
+            },
+            "B": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia60_utt3.mp4",
+                "emotion": "surprise",
+                "category": "positive"
+            },
+            "C": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia11_utt2.mp4",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "D": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia60_utt2.mp4",
+                "emotion": "joy",
+                "category": "positive"
+            }
+        },
+        "correct_answer": "A",
+        "correct_emotion": "fear",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Based on the emotion 'Negative - Fear', which facial expression best represents this emotion? Answer with A, B, C, or D",
+        "target_emotion": "fear",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Text",
+            "input": "Negative - Fear"
+        },
+        "options": {
+            "A": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia99_utt8.mp4",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "B": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia110_utt3.mp4",
+                "emotion": "surprise",
+                "category": "positive"
+            },
+            "C": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/fear/dia182_utt3.mp4",
+                "emotion": "fear",
+                "category": "negative"
+            },
+            "D": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia189_utt1.mp4",
+                "emotion": "joy",
+                "category": "positive"
+            }
+        },
+        "correct_answer": "C",
+        "correct_emotion": "fear",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Based on the emotion 'Negative - Sadness', which facial expression best represents this emotion? Answer with A, B, C, or D",
+        "target_emotion": "sadness",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Text",
+            "input": "Negative - Sadness"
+        },
+        "options": {
+            "A": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/sadness/dia163_utt6.mp4",
+                "emotion": "sadness",
+                "category": "negative"
+            },
+            "B": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia98_utt2.mp4",
+                "emotion": "surprise",
+                "category": "positive"
+            },
+            "C": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia103_utt0.mp4",
+                "emotion": "joy",
+                "category": "positive"
+            },
+            "D": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia112_utt21.mp4",
+                "emotion": "neutral",
+                "category": "neutral"
+            }
+        },
+        "correct_answer": "A",
+        "correct_emotion": "sadness",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Based on the emotion 'Negative - Sadness', which facial expression best represents this emotion? Answer with A, B, C, or D",
+        "target_emotion": "sadness",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Text",
+            "input": "Negative - Sadness"
+        },
+        "options": {
+            "A": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia186_utt1.mp4",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "B": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia95_utt7.mp4",
+                "emotion": "joy",
+                "category": "positive"
+            },
+            "C": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/sadness/dia174_utt15.mp4",
+                "emotion": "sadness",
+                "category": "negative"
+            },
+            "D": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia72_utt16.mp4",
+                "emotion": "surprise",
+                "category": "positive"
+            }
+        },
+        "correct_answer": "C",
+        "correct_emotion": "sadness",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Based on the emotion 'Negative - Sadness', which facial expression best represents this emotion? Answer with A, B, C, or D",
+        "target_emotion": "sadness",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Text",
+            "input": "Negative - Sadness"
+        },
+        "options": {
+            "A": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia29_utt3.mp4",
+                "emotion": "surprise",
+                "category": "positive"
+            },
+            "B": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia97_utt7.mp4",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "C": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/sadness/dia25_utt2.mp4",
+                "emotion": "sadness",
+                "category": "negative"
+            },
+            "D": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia189_utt3.mp4",
+                "emotion": "joy",
+                "category": "positive"
+            }
+        },
+        "correct_answer": "C",
+        "correct_emotion": "sadness",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Based on the emotion 'Negative - Sadness', which facial expression best represents this emotion? Answer with A, B, C, or D",
+        "target_emotion": "sadness",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Text",
+            "input": "Negative - Sadness"
+        },
+        "options": {
+            "A": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia171_utt7.mp4",
+                "emotion": "joy",
+                "category": "positive"
+            },
+            "B": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia96_utt13.mp4",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "C": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia96_utt12.mp4",
+                "emotion": "surprise",
+                "category": "positive"
+            },
+            "D": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/sadness/dia60_utt4.mp4",
+                "emotion": "sadness",
+                "category": "negative"
+            }
+        },
+        "correct_answer": "D",
+        "correct_emotion": "sadness",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Based on the emotion 'Negative - Sadness', which facial expression best represents this emotion? Answer with A, B, C, or D",
+        "target_emotion": "sadness",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Text",
+            "input": "Negative - Sadness"
+        },
+        "options": {
+            "A": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia156_utt0.mp4",
+                "emotion": "joy",
+                "category": "positive"
+            },
+            "B": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia30_utt4.mp4",
+                "emotion": "surprise",
+                "category": "positive"
+            },
+            "C": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/sadness/dia163_utt2.mp4",
+                "emotion": "sadness",
+                "category": "negative"
+            },
+            "D": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia107_utt9.mp4",
+                "emotion": "neutral",
+                "category": "neutral"
+            }
+        },
+        "correct_answer": "C",
+        "correct_emotion": "sadness",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Based on the emotion 'Negative - Sadness', which facial expression best represents this emotion? Answer with A, B, C, or D",
+        "target_emotion": "sadness",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Text",
+            "input": "Negative - Sadness"
+        },
+        "options": {
+            "A": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia121_utt4.mp4",
+                "emotion": "joy",
+                "category": "positive"
+            },
+            "B": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia189_utt9.mp4",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "C": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/sadness/dia125_utt20.mp4",
+                "emotion": "sadness",
+                "category": "negative"
+            },
+            "D": {
+                "modality": "Video",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia71_utt3.mp4",
+                "emotion": "surprise",
+                "category": "positive"
+            }
+        },
+        "correct_answer": "C",
+        "correct_emotion": "sadness",
+        "correct_category": "negative"
+    }
+]

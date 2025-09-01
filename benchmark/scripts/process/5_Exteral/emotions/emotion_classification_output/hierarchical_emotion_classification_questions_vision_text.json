@@ -1,0 +1,1388 @@
+[
+    {
+        "question": "Look at this facial expression. Which emotion does this face show? Answer with A, B, C, or D",
+        "target_emotion": "joy",
+        "target_category": "positive",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia108_utt9.mp4",
+            "emotion": "joy",
+            "category": "positive",
+            "source": "positive_joy"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Negative - Anger"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Negative - Surprise"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            }
+        },
+        "correct_answer": "D",
+        "correct_emotion": "joy",
+        "correct_category": "positive"
+    },
+    {
+        "question": "Look at this facial expression. Which emotion does this face show? Answer with A, B, C, or D",
+        "target_emotion": "joy",
+        "target_category": "positive",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia46_utt1.mp4",
+            "emotion": "joy",
+            "category": "positive",
+            "source": "positive_joy"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Negative - Sadness"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Negative - Anger"
+            }
+        },
+        "correct_answer": "C",
+        "correct_emotion": "joy",
+        "correct_category": "positive"
+    },
+    {
+        "question": "Look at this facial expression. Which emotion does this face show? Answer with A, B, C, or D",
+        "target_emotion": "joy",
+        "target_category": "positive",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia76_utt18.mp4",
+            "emotion": "joy",
+            "category": "positive",
+            "source": "positive_joy"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Negative - Disgust"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Negative - Sadness"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            }
+        },
+        "correct_answer": "D",
+        "correct_emotion": "joy",
+        "correct_category": "positive"
+    },
+    {
+        "question": "Look at this facial expression. Which emotion does this face show? Answer with A, B, C, or D",
+        "target_emotion": "joy",
+        "target_category": "positive",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia112_utt20.mp4",
+            "emotion": "joy",
+            "category": "positive",
+            "source": "positive_joy"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Negative - Anger"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Negative - Fear"
+            }
+        },
+        "correct_answer": "B",
+        "correct_emotion": "joy",
+        "correct_category": "positive"
+    },
+    {
+        "question": "Look at this facial expression. Which emotion does this face show? Answer with A, B, C, or D",
+        "target_emotion": "joy",
+        "target_category": "positive",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia133_utt4.mp4",
+            "emotion": "joy",
+            "category": "positive",
+            "source": "positive_joy"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Negative - Anger"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Negative - Surprise"
+            }
+        },
+        "correct_answer": "A",
+        "correct_emotion": "joy",
+        "correct_category": "positive"
+    },
+    {
+        "question": "Look at this facial expression. Which emotion does this face show? Answer with A, B, C, or D",
+        "target_emotion": "joy",
+        "target_category": "positive",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia146_utt0.mp4",
+            "emotion": "joy",
+            "category": "positive",
+            "source": "positive_joy"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Negative - Disgust"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Negative - Anger"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            }
+        },
+        "correct_answer": "C",
+        "correct_emotion": "joy",
+        "correct_category": "positive"
+    },
+    {
+        "question": "Look at this facial expression. Which emotion does this face show? Answer with A, B, C, or D",
+        "target_emotion": "surprise",
+        "target_category": "positive",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia124_utt8.mp4",
+            "emotion": "surprise",
+            "category": "positive",
+            "source": "positive_surprise"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Negative - Anger"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Negative - Surprise"
+            }
+        },
+        "correct_answer": "B",
+        "correct_emotion": "surprise",
+        "correct_category": "positive"
+    },
+    {
+        "question": "Look at this facial expression. Which emotion does this face show? Answer with A, B, C, or D",
+        "target_emotion": "surprise",
+        "target_category": "positive",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia130_utt8.mp4",
+            "emotion": "surprise",
+            "category": "positive",
+            "source": "positive_surprise"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Negative - Sadness"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Negative - Fear"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            }
+        },
+        "correct_answer": "A",
+        "correct_emotion": "surprise",
+        "correct_category": "positive"
+    },
+    {
+        "question": "Look at this facial expression. Which emotion does this face show? Answer with A, B, C, or D",
+        "target_emotion": "surprise",
+        "target_category": "positive",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia29_utt4.mp4",
+            "emotion": "surprise",
+            "category": "positive",
+            "source": "positive_surprise"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Negative - Fear"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Negative - Surprise"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            }
+        },
+        "correct_answer": "B",
+        "correct_emotion": "surprise",
+        "correct_category": "positive"
+    },
+    {
+        "question": "Look at this facial expression. Which emotion does this face show? Answer with A, B, C, or D",
+        "target_emotion": "surprise",
+        "target_category": "positive",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia71_utt5.mp4",
+            "emotion": "surprise",
+            "category": "positive",
+            "source": "positive_surprise"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Negative - Fear"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Negative - Sadness"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            }
+        },
+        "correct_answer": "D",
+        "correct_emotion": "surprise",
+        "correct_category": "positive"
+    },
+    {
+        "question": "Look at this facial expression. Which emotion does this face show? Answer with A, B, C, or D",
+        "target_emotion": "surprise",
+        "target_category": "positive",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia124_utt11.mp4",
+            "emotion": "surprise",
+            "category": "positive",
+            "source": "positive_surprise"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Negative - Fear"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Negative - Surprise"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            }
+        },
+        "correct_answer": "B",
+        "correct_emotion": "surprise",
+        "correct_category": "positive"
+    },
+    {
+        "question": "Look at this facial expression. Which emotion does this face show? Answer with A, B, C, or D",
+        "target_emotion": "surprise",
+        "target_category": "positive",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia96_utt12.mp4",
+            "emotion": "surprise",
+            "category": "positive",
+            "source": "positive_surprise"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Negative - Anger"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Negative - Surprise"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            }
+        },
+        "correct_answer": "D",
+        "correct_emotion": "surprise",
+        "correct_category": "positive"
+    },
+    {
+        "question": "Look at this facial expression. Which emotion does this face show? Answer with A, B, C, or D",
+        "target_emotion": "anger",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/anger/dia175_utt20.mp4",
+            "emotion": "anger",
+            "category": "negative",
+            "source": "negative_anger"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Negative - Anger"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            }
+        },
+        "correct_answer": "B",
+        "correct_emotion": "anger",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Look at this facial expression. Which emotion does this face show? Answer with A, B, C, or D",
+        "target_emotion": "anger",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/anger/dia108_utt3.mp4",
+            "emotion": "anger",
+            "category": "negative",
+            "source": "negative_anger"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Negative - Anger"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            }
+        },
+        "correct_answer": "C",
+        "correct_emotion": "anger",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Look at this facial expression. Which emotion does this face show? Answer with A, B, C, or D",
+        "target_emotion": "anger",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/anger/dia70_utt12.mp4",
+            "emotion": "anger",
+            "category": "negative",
+            "source": "negative_anger"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Negative - Anger"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            }
+        },
+        "correct_answer": "C",
+        "correct_emotion": "anger",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Look at this facial expression. Which emotion does this face show? Answer with A, B, C, or D",
+        "target_emotion": "anger",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/anger/dia70_utt11.mp4",
+            "emotion": "anger",
+            "category": "negative",
+            "source": "negative_anger"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Negative - Anger"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            }
+        },
+        "correct_answer": "A",
+        "correct_emotion": "anger",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Look at this facial expression. Which emotion does this face show? Answer with A, B, C, or D",
+        "target_emotion": "anger",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/anger/dia144_utt10.mp4",
+            "emotion": "anger",
+            "category": "negative",
+            "source": "negative_anger"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Negative - Anger"
+            }
+        },
+        "correct_answer": "D",
+        "correct_emotion": "anger",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Look at this facial expression. Which emotion does this face show? Answer with A, B, C, or D",
+        "target_emotion": "anger",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/anger/dia169_utt9.mp4",
+            "emotion": "anger",
+            "category": "negative",
+            "source": "negative_anger"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Negative - Anger"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            }
+        },
+        "correct_answer": "C",
+        "correct_emotion": "anger",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Look at this facial expression. Which emotion does this face show? Answer with A, B, C, or D",
+        "target_emotion": "surprise",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/surprise/dia132_utt19.mp4",
+            "emotion": "surprise",
+            "category": "negative",
+            "source": "negative_surprise"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Negative - Surprise"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            }
+        },
+        "correct_answer": "C",
+        "correct_emotion": "surprise",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Look at this facial expression. Which emotion does this face show? Answer with A, B, C, or D",
+        "target_emotion": "surprise",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/surprise/dia85_utt1.mp4",
+            "emotion": "surprise",
+            "category": "negative",
+            "source": "negative_surprise"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Negative - Surprise"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            }
+        },
+        "correct_answer": "B",
+        "correct_emotion": "surprise",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Look at this facial expression. Which emotion does this face show? Answer with A, B, C, or D",
+        "target_emotion": "surprise",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/surprise/dia85_utt1.mp4",
+            "emotion": "surprise",
+            "category": "negative",
+            "source": "negative_surprise"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Negative - Surprise"
+            }
+        },
+        "correct_answer": "D",
+        "correct_emotion": "surprise",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Look at this facial expression. Which emotion does this face show? Answer with A, B, C, or D",
+        "target_emotion": "surprise",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/surprise/dia192_utt9.mp4",
+            "emotion": "surprise",
+            "category": "negative",
+            "source": "negative_surprise"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Negative - Surprise"
+            }
+        },
+        "correct_answer": "D",
+        "correct_emotion": "surprise",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Look at this facial expression. Which emotion does this face show? Answer with A, B, C, or D",
+        "target_emotion": "surprise",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/surprise/dia184_utt9.mp4",
+            "emotion": "surprise",
+            "category": "negative",
+            "source": "negative_surprise"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Negative - Surprise"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            }
+        },
+        "correct_answer": "B",
+        "correct_emotion": "surprise",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Look at this facial expression. Which emotion does this face show? Answer with A, B, C, or D",
+        "target_emotion": "surprise",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/surprise/dia178_utt9.mp4",
+            "emotion": "surprise",
+            "category": "negative",
+            "source": "negative_surprise"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Negative - Surprise"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            }
+        },
+        "correct_answer": "B",
+        "correct_emotion": "surprise",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Look at this facial expression. Which emotion does this face show? Answer with A, B, C, or D",
+        "target_emotion": "disgust",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/disgust/dia130_utt1.mp4",
+            "emotion": "disgust",
+            "category": "negative",
+            "source": "negative_disgust"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Negative - Disgust"
+            }
+        },
+        "correct_answer": "D",
+        "correct_emotion": "disgust",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Look at this facial expression. Which emotion does this face show? Answer with A, B, C, or D",
+        "target_emotion": "disgust",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/disgust/dia30_utt5.mp4",
+            "emotion": "disgust",
+            "category": "negative",
+            "source": "negative_disgust"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Negative - Disgust"
+            }
+        },
+        "correct_answer": "D",
+        "correct_emotion": "disgust",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Look at this facial expression. Which emotion does this face show? Answer with A, B, C, or D",
+        "target_emotion": "disgust",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/disgust/dia30_utt5.mp4",
+            "emotion": "disgust",
+            "category": "negative",
+            "source": "negative_disgust"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Negative - Disgust"
+            }
+        },
+        "correct_answer": "D",
+        "correct_emotion": "disgust",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Look at this facial expression. Which emotion does this face show? Answer with A, B, C, or D",
+        "target_emotion": "disgust",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/disgust/dia41_utt6.mp4",
+            "emotion": "disgust",
+            "category": "negative",
+            "source": "negative_disgust"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Negative - Disgust"
+            }
+        },
+        "correct_answer": "D",
+        "correct_emotion": "disgust",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Look at this facial expression. Which emotion does this face show? Answer with A, B, C, or D",
+        "target_emotion": "disgust",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/disgust/dia123_utt9.mp4",
+            "emotion": "disgust",
+            "category": "negative",
+            "source": "negative_disgust"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Negative - Disgust"
+            }
+        },
+        "correct_answer": "D",
+        "correct_emotion": "disgust",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Look at this facial expression. Which emotion does this face show? Answer with A, B, C, or D",
+        "target_emotion": "disgust",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/disgust/dia34_utt6.mp4",
+            "emotion": "disgust",
+            "category": "negative",
+            "source": "negative_disgust"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Negative - Disgust"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            }
+        },
+        "correct_answer": "A",
+        "correct_emotion": "disgust",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Look at this facial expression. Which emotion does this face show? Answer with A, B, C, or D",
+        "target_emotion": "fear",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/fear/dia126_utt4.mp4",
+            "emotion": "fear",
+            "category": "negative",
+            "source": "negative_fear"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Negative - Fear"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            }
+        },
+        "correct_answer": "A",
+        "correct_emotion": "fear",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Look at this facial expression. Which emotion does this face show? Answer with A, B, C, or D",
+        "target_emotion": "fear",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/fear/dia100_utt14.mp4",
+            "emotion": "fear",
+            "category": "negative",
+            "source": "negative_fear"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Negative - Fear"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            }
+        },
+        "correct_answer": "B",
+        "correct_emotion": "fear",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Look at this facial expression. Which emotion does this face show? Answer with A, B, C, or D",
+        "target_emotion": "fear",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/fear/dia143_utt5.mp4",
+            "emotion": "fear",
+            "category": "negative",
+            "source": "negative_fear"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Negative - Fear"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            }
+        },
+        "correct_answer": "C",
+        "correct_emotion": "fear",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Look at this facial expression. Which emotion does this face show? Answer with A, B, C, or D",
+        "target_emotion": "fear",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/fear/dia3_utt1.mp4",
+            "emotion": "fear",
+            "category": "negative",
+            "source": "negative_fear"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Negative - Fear"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            }
+        },
+        "correct_answer": "A",
+        "correct_emotion": "fear",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Look at this facial expression. Which emotion does this face show? Answer with A, B, C, or D",
+        "target_emotion": "fear",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/fear/dia37_utt3.mp4",
+            "emotion": "fear",
+            "category": "negative",
+            "source": "negative_fear"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Negative - Fear"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            }
+        },
+        "correct_answer": "A",
+        "correct_emotion": "fear",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Look at this facial expression. Which emotion does this face show? Answer with A, B, C, or D",
+        "target_emotion": "fear",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/fear/dia182_utt3.mp4",
+            "emotion": "fear",
+            "category": "negative",
+            "source": "negative_fear"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Negative - Fear"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            }
+        },
+        "correct_answer": "C",
+        "correct_emotion": "fear",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Look at this facial expression. Which emotion does this face show? Answer with A, B, C, or D",
+        "target_emotion": "sadness",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/sadness/dia163_utt6.mp4",
+            "emotion": "sadness",
+            "category": "negative",
+            "source": "negative_sadness"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Negative - Sadness"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            }
+        },
+        "correct_answer": "A",
+        "correct_emotion": "sadness",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Look at this facial expression. Which emotion does this face show? Answer with A, B, C, or D",
+        "target_emotion": "sadness",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/sadness/dia174_utt15.mp4",
+            "emotion": "sadness",
+            "category": "negative",
+            "source": "negative_sadness"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Negative - Sadness"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            }
+        },
+        "correct_answer": "C",
+        "correct_emotion": "sadness",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Look at this facial expression. Which emotion does this face show? Answer with A, B, C, or D",
+        "target_emotion": "sadness",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/sadness/dia25_utt2.mp4",
+            "emotion": "sadness",
+            "category": "negative",
+            "source": "negative_sadness"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Negative - Sadness"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            }
+        },
+        "correct_answer": "C",
+        "correct_emotion": "sadness",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Look at this facial expression. Which emotion does this face show? Answer with A, B, C, or D",
+        "target_emotion": "sadness",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/sadness/dia60_utt4.mp4",
+            "emotion": "sadness",
+            "category": "negative",
+            "source": "negative_sadness"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Negative - Sadness"
+            }
+        },
+        "correct_answer": "D",
+        "correct_emotion": "sadness",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Look at this facial expression. Which emotion does this face show? Answer with A, B, C, or D",
+        "target_emotion": "sadness",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/sadness/dia163_utt2.mp4",
+            "emotion": "sadness",
+            "category": "negative",
+            "source": "negative_sadness"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Negative - Sadness"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            }
+        },
+        "correct_answer": "C",
+        "correct_emotion": "sadness",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Look at this facial expression. Which emotion does this face show? Answer with A, B, C, or D",
+        "target_emotion": "sadness",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/sadness/dia125_utt20.mp4",
+            "emotion": "sadness",
+            "category": "negative",
+            "source": "negative_sadness"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Negative - Sadness"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            }
+        },
+        "correct_answer": "C",
+        "correct_emotion": "sadness",
+        "correct_category": "negative"
+    }
+]

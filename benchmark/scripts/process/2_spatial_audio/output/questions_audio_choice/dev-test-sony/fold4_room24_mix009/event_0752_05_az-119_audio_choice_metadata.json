@@ -1,0 +1,27 @@
+{
+  "question_type": "audio_choice",
+  "question": "You are provided with a 360\u00b0 panoramic video showing the scene from a specific viewing direction (forward direction is in the middle of the image). You will also hear several spatial audio clips, each representing the same domestic sounds sound but from different listening orientations. Which audio clip matches the spatial perspective of the given video view?",
+  "correct_answer": 0,
+  "input_video_path": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/STARSS23/video_dev/dev-test-sony/fold4_room24_mix009.mp4",
+  "input_video_rotation": 0,
+  "choice_audio_paths": [
+    "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/STARSS23/foa_dev/dev-test-sony/fold4_room24_mix009.wav",
+    "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/STARSS23/foa_dev/dev-test-sony/fold4_room24_mix009.wav",
+    "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/STARSS23/foa_dev/dev-test-sony/fold4_room24_mix009.wav",
+    "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/STARSS23/foa_dev/dev-test-sony/fold4_room24_mix009.wav"
+  ],
+  "choice_audio_rotations": [
+    0,
+    270,
+    180,
+    90
+  ],
+  "event_info": {
+    "class": "Domestic sounds",
+    "timestamp": 75.2,
+    "azimuth": -119,
+    "elevation": -29,
+    "distance": 164,
+    "original_azimuth": -119
+  }
+}

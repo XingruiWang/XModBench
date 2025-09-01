@@ -1,0 +1,725 @@
+{
+  "extraction_info": {
+    "clip_duration": "30 seconds",
+    "audio_format": "WAV",
+    "sample_rate": "22050 Hz",
+    "channels": "mono",
+    "features": "dialogue_optimized",
+    "processing": "speech_frequency_filtered",
+    "dialogue_detection": "advanced"
+  },
+  "clips": [
+    {
+      "movie_id": 1007734,
+      "movie_title": "Nobody 2",
+      "source_video": "trailer_videos/movie_1007734_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1007734_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1010581,
+      "movie_title": "My Fault",
+      "source_video": "trailer_videos/movie_1010581_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1010581_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1011477,
+      "movie_title": "Karate Kid: Legends",
+      "source_video": "trailer_videos/movie_1011477_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1011477_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1022787,
+      "movie_title": "Elio",
+      "source_video": "trailer_videos/movie_1022787_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1022787_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1022789,
+      "movie_title": "Inside Out 2",
+      "source_video": "trailer_videos/movie_1022789_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1022789_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1035259,
+      "movie_title": "The Naked Gun",
+      "source_video": "trailer_videos/movie_1035259_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1035259_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1058537,
+      "movie_title": "Angels Fallen: Warriors of Peace",
+      "source_video": "trailer_videos/movie_1058537_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1058537_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1061474,
+      "movie_title": "Superman",
+      "source_video": "trailer_videos/movie_1061474_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1061474_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1071585,
+      "movie_title": "M3GAN 2.0",
+      "source_video": "trailer_videos/movie_1071585_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1071585_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1078605,
+      "movie_title": "Weapons",
+      "source_video": "trailer_videos/movie_1078605_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1078605_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1087192,
+      "movie_title": "How to Train Your Dragon",
+      "source_video": "trailer_videos/movie_1087192_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1087192_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1087891,
+      "movie_title": "The Amateur",
+      "source_video": "trailer_videos/movie_1087891_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1087891_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1100988,
+      "movie_title": "28 Years Later",
+      "source_video": "trailer_videos/movie_1100988_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1100988_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1106289,
+      "movie_title": "The Pickup",
+      "source_video": "trailer_videos/movie_1106289_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1106289_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1119878,
+      "movie_title": "Ice Road: Vengeance",
+      "source_video": "trailer_videos/movie_1119878_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1119878_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1124619,
+      "movie_title": "Bride Hard",
+      "source_video": "trailer_videos/movie_1124619_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1124619_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1125257,
+      "movie_title": "Freakier Friday",
+      "source_video": "trailer_videos/movie_1125257_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1125257_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1136867,
+      "movie_title": "Materialists",
+      "source_video": "trailer_videos/movie_1136867_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1136867_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1151031,
+      "movie_title": "Bring Her Back",
+      "source_video": "trailer_videos/movie_1151031_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1151031_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1155281,
+      "movie_title": "Creation of the Gods II: Demon Force",
+      "source_video": "trailer_videos/movie_1155281_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1155281_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1156593,
+      "movie_title": "Your Fault",
+      "source_video": "trailer_videos/movie_1156593_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1156593_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1175942,
+      "movie_title": "The Bad Guys 2",
+      "source_video": "trailer_videos/movie_1175942_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1175942_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1181540,
+      "movie_title": "Guns Up",
+      "source_video": "trailer_videos/movie_1181540_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1181540_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1185528,
+      "movie_title": "Legends of the Condor Heroes: The Gallants",
+      "source_video": "trailer_videos/movie_1185528_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1185528_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1188423,
+      "movie_title": "Site",
+      "source_video": "trailer_videos/movie_1188423_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1188423_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1195631,
+      "movie_title": "William Tell",
+      "source_video": "trailer_videos/movie_1195631_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1195631_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1197306,
+      "movie_title": "A Working Man",
+      "source_video": "trailer_videos/movie_1197306_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1197306_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1205656,
+      "movie_title": "Hallow Road",
+      "source_video": "trailer_videos/movie_1205656_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1205656_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1227003,
+      "movie_title": "Shadow of God",
+      "source_video": "trailer_videos/movie_1227003_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1227003_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1233413,
+      "movie_title": "Sinners",
+      "source_video": "trailer_videos/movie_1233413_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1233413_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1234821,
+      "movie_title": "Jurassic World Rebirth",
+      "source_video": "trailer_videos/movie_1234821_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1234821_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1241470,
+      "movie_title": "Osiris",
+      "source_video": "trailer_videos/movie_1241470_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1241470_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1241982,
+      "movie_title": "Moana 2",
+      "source_video": "trailer_videos/movie_1241982_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1241982_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1254624,
+      "movie_title": "Night Always Comes",
+      "source_video": "trailer_videos/movie_1254624_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1254624_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1263256,
+      "movie_title": "Happy Gilmore 2",
+      "source_video": "trailer_videos/movie_1263256_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1263256_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1278950,
+      "movie_title": "The Ritual",
+      "source_video": "trailer_videos/movie_1278950_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1278950_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1280461,
+      "movie_title": "Dirty Ice Cream",
+      "source_video": "trailer_videos/movie_1280461_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1280461_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1285247,
+      "movie_title": "Murder Company",
+      "source_video": "trailer_videos/movie_1285247_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1285247_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1285965,
+      "movie_title": "Dangerous Animals",
+      "source_video": "trailer_videos/movie_1285965_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1285965_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1300116,
+      "movie_title": "Fall for Me",
+      "source_video": "trailer_videos/movie_1300116_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1300116_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1307078,
+      "movie_title": "My Oxford Year",
+      "source_video": "trailer_videos/movie_1307078_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1307078_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1311031,
+      "movie_title": "Demon Slayer: Kimetsu no Yaiba Infinity Castle",
+      "source_video": "trailer_videos/movie_1311031_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1311031_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1312946,
+      "movie_title": "The Map That Leads to You",
+      "source_video": "trailer_videos/movie_1312946_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1312946_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1315986,
+      "movie_title": "Man with No Past",
+      "source_video": "trailer_videos/movie_1315986_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1315986_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1319895,
+      "movie_title": "Hostile Takeover",
+      "source_video": "trailer_videos/movie_1319895_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1319895_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1326106,
+      "movie_title": "Kaiju No. 8: Mission Recon",
+      "source_video": "trailer_videos/movie_1326106_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1326106_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1339166,
+      "movie_title": "Shaman",
+      "source_video": "trailer_videos/movie_1339166_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1339166_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 13499,
+      "movie_title": "Yours, Mine & Ours",
+      "source_video": "trailer_videos/movie_13499_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_13499_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1365103,
+      "movie_title": "Marriage Unplugged",
+      "source_video": "trailer_videos/movie_1365103_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1365103_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1374534,
+      "movie_title": "Almost Cops",
+      "source_video": "trailer_videos/movie_1374534_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1374534_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1382406,
+      "movie_title": "Striking Rescue",
+      "source_video": "trailer_videos/movie_1382406_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1382406_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1393382,
+      "movie_title": "Popeye's Revenge",
+      "source_video": "trailer_videos/movie_1393382_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1393382_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1403735,
+      "movie_title": "Laila",
+      "source_video": "trailer_videos/movie_1403735_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1403735_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1419406,
+      "movie_title": "The Shadow's Edge",
+      "source_video": "trailer_videos/movie_1419406_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1419406_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1429739,
+      "movie_title": "Gold Rush Gang",
+      "source_video": "trailer_videos/movie_1429739_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1429739_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1443260,
+      "movie_title": "Rob1n",
+      "source_video": "trailer_videos/movie_1443260_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1443260_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1452176,
+      "movie_title": "Abraham's Boys",
+      "source_video": "trailer_videos/movie_1452176_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1452176_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1470086,
+      "movie_title": "Ligaw",
+      "source_video": "trailer_videos/movie_1470086_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1470086_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1471345,
+      "movie_title": "Homo Argentum",
+      "source_video": "trailer_videos/movie_1471345_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1471345_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1477114,
+      "movie_title": "Sorority",
+      "source_video": "trailer_videos/movie_1477114_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1477114_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 1484453,
+      "movie_title": "Snoopy Presents: A Summer Musical",
+      "source_video": "trailer_videos/movie_1484453_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_1484453_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 157336,
+      "movie_title": "Interstellar",
+      "source_video": "trailer_videos/movie_157336_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_157336_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 533535,
+      "movie_title": "Deadpool & Wolverine",
+      "source_video": "trailer_videos/movie_533535_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_533535_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 541671,
+      "movie_title": "Ballerina",
+      "source_video": "trailer_videos/movie_541671_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_541671_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 552524,
+      "movie_title": "Lilo & Stitch",
+      "source_video": "trailer_videos/movie_552524_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_552524_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 574475,
+      "movie_title": "Final Destination Bloodlines",
+      "source_video": "trailer_videos/movie_574475_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_574475_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 575264,
+      "movie_title": "Mission: Impossible - Dead Reckoning Part One",
+      "source_video": "trailer_videos/movie_575264_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_575264_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 575265,
+      "movie_title": "Mission: Impossible - The Final Reckoning",
+      "source_video": "trailer_videos/movie_575265_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_575265_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 615453,
+      "movie_title": "Ne Zha",
+      "source_video": "trailer_videos/movie_615453_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_615453_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 617126,
+      "movie_title": "The Fantastic 4: First Steps",
+      "source_video": "trailer_videos/movie_617126_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_617126_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 626332,
+      "movie_title": "Flamin' Hot",
+      "source_video": "trailer_videos/movie_626332_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_626332_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 648878,
+      "movie_title": "Eddington",
+      "source_video": "trailer_videos/movie_648878_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_648878_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 715253,
+      "movie_title": "Phantom",
+      "source_video": "trailer_videos/movie_715253_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_715253_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 7451,
+      "movie_title": "xXx",
+      "source_video": "trailer_videos/movie_7451_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_7451_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 749170,
+      "movie_title": "Heads of State",
+      "source_video": "trailer_videos/movie_749170_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_749170_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 755898,
+      "movie_title": "War of the Worlds",
+      "source_video": "trailer_videos/movie_755898_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_755898_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 803796,
+      "movie_title": "KPop Demon Hunters",
+      "source_video": "trailer_videos/movie_803796_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_803796_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 846422,
+      "movie_title": "The Old Guard 2",
+      "source_video": "trailer_videos/movie_846422_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_846422_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 86767,
+      "movie_title": "The First Time",
+      "source_video": "trailer_videos/movie_86767_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_86767_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 870028,
+      "movie_title": "The Accountant²",
+      "source_video": "trailer_videos/movie_870028_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_870028_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 911430,
+      "movie_title": "F1",
+      "source_video": "trailer_videos/movie_911430_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_911430_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 936108,
+      "movie_title": "Smurfs",
+      "source_video": "trailer_videos/movie_936108_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_936108_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 939243,
+      "movie_title": "Sonic the Hedgehog 3",
+      "source_video": "trailer_videos/movie_939243_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_939243_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 950387,
+      "movie_title": "A Minecraft Movie",
+      "source_video": "trailer_videos/movie_950387_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_950387_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 950396,
+      "movie_title": "The Gorge",
+      "source_video": "trailer_videos/movie_950396_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_950396_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 980477,
+      "movie_title": "Ne Zha 2",
+      "source_video": "trailer_videos/movie_980477_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_980477_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 986056,
+      "movie_title": "Thunderbolts*",
+      "source_video": "trailer_videos/movie_986056_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_986056_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 986206,
+      "movie_title": "Night Carnage",
+      "source_video": "trailer_videos/movie_986206_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_986206_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    },
+    {
+      "movie_id": 993234,
+      "movie_title": "Borders of Love",
+      "source_video": "trailer_videos/movie_993234_trailer_0.mp4",
+      "dialogue_clip_path": "dialogue_clips/movie_993234_trailer_0.wav",
+      "duration": "30s",
+      "optimization": "dialogue_focused"
+    }
+  ]
+}

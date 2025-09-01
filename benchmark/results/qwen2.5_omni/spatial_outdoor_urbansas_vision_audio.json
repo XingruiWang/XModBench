@@ -1,0 +1,694 @@
+{
+    "task_name": "spatial_outdoor/urbansas_vision_audio",
+    "score": 36.734693877551024,
+    "correct_count": 36,
+    "all_count": 98,
+    "results": {
+        "0": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 0,
+            "is_correct": true
+        },
+        "1": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 1,
+            "is_correct": true
+        },
+        "2": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 2,
+            "is_correct": true
+        },
+        "3": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nCarefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.Image:A:B:C:D:Give the letter of the correct answer (A, B, C, or D).\nassistant\nHmm, let's see. Based on the vehicle's position and motion direction in the image sequence, I'd say the best match for the expected sound is A. What do you think?",
+            "correct_answer": "B",
+            "index": 3,
+            "is_correct": false
+        },
+        "4": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 4,
+            "is_correct": true
+        },
+        "5": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 5,
+            "is_correct": false
+        },
+        "6": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 6,
+            "is_correct": false
+        },
+        "7": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 7,
+            "is_correct": true
+        },
+        "8": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 8,
+            "is_correct": true
+        },
+        "9": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 9,
+            "is_correct": true
+        },
+        "10": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 10,
+            "is_correct": true
+        },
+        "11": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 11,
+            "is_correct": false
+        },
+        "12": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 12,
+            "is_correct": true
+        },
+        "13": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 13,
+            "is_correct": false
+        },
+        "14": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 14,
+            "is_correct": false
+        },
+        "15": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 15,
+            "is_correct": false
+        },
+        "16": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 16,
+            "is_correct": false
+        },
+        "17": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 17,
+            "is_correct": true
+        },
+        "18": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 18,
+            "is_correct": false
+        },
+        "19": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nCarefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.Image:A:B:C:D:Give the letter of the correct answer (A, B, C, or D).\nassistant\nHmm, let's see. Based on the vehicle's position and motion direction in the image sequence, I'd say the best match for the expected sound is A. What do you think?",
+            "correct_answer": "D",
+            "index": 19,
+            "is_correct": false
+        },
+        "20": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 20,
+            "is_correct": false
+        },
+        "21": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 21,
+            "is_correct": true
+        },
+        "22": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 22,
+            "is_correct": false
+        },
+        "23": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 23,
+            "is_correct": false
+        },
+        "24": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 24,
+            "is_correct": false
+        },
+        "25": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 25,
+            "is_correct": false
+        },
+        "26": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 26,
+            "is_correct": false
+        },
+        "27": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 27,
+            "is_correct": false
+        },
+        "28": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 28,
+            "is_correct": true
+        },
+        "29": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 29,
+            "is_correct": true
+        },
+        "30": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 30,
+            "is_correct": true
+        },
+        "31": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 31,
+            "is_correct": false
+        },
+        "32": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 32,
+            "is_correct": true
+        },
+        "33": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 33,
+            "is_correct": false
+        },
+        "34": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 34,
+            "is_correct": true
+        },
+        "35": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 35,
+            "is_correct": false
+        },
+        "36": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 36,
+            "is_correct": true
+        },
+        "37": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 37,
+            "is_correct": false
+        },
+        "38": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 38,
+            "is_correct": true
+        },
+        "39": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 39,
+            "is_correct": false
+        },
+        "40": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 40,
+            "is_correct": false
+        },
+        "41": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 41,
+            "is_correct": false
+        },
+        "42": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 42,
+            "is_correct": false
+        },
+        "43": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 43,
+            "is_correct": false
+        },
+        "44": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 44,
+            "is_correct": true
+        },
+        "45": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nCarefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.Image:A:B:C:D:Give the letter of the correct answer (A, B, C, or D).\nassistant\nHmm, let's see. Based on the vehicle's position and motion direction in the image sequence, I'd say the best match for the expected sound is A. What do you think?",
+            "correct_answer": "A",
+            "index": 45,
+            "is_correct": false
+        },
+        "46": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nCarefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.Image:A:B:C:D:Give the letter of the correct answer (A, B, C, or D).\nassistant\nHmm, let's see. Based on the vehicle's position and motion direction in the image sequence, I'd say the best match for the expected sound is D. What do you think?",
+            "correct_answer": "D",
+            "index": 46,
+            "is_correct": false
+        },
+        "47": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 47,
+            "is_correct": true
+        },
+        "48": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nCarefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.Image:A:B:C:D:Give the letter of the correct answer (A, B, C, or D).\nassistant\nHmm, let's see. Based on the vehicle's position and motion direction in the image sequence, I'd say the best match for the expected sound is C. What do you think?",
+            "correct_answer": "A",
+            "index": 48,
+            "is_correct": false
+        },
+        "49": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 49,
+            "is_correct": false
+        },
+        "50": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 50,
+            "is_correct": false
+        },
+        "51": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 51,
+            "is_correct": false
+        },
+        "52": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 52,
+            "is_correct": false
+        },
+        "53": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 53,
+            "is_correct": false
+        },
+        "54": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 54,
+            "is_correct": false
+        },
+        "55": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 55,
+            "is_correct": false
+        },
+        "56": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 56,
+            "is_correct": false
+        },
+        "57": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nCarefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.Image:A:B:C:D:Give the letter of the correct answer (A, B, C, or D).\nassistant\nHmm, let's see. Based on the vehicle's position and motion direction in the image sequence, I'd say the best match for the expected sound is C. What do you think?",
+            "correct_answer": "D",
+            "index": 57,
+            "is_correct": false
+        },
+        "58": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 58,
+            "is_correct": false
+        },
+        "59": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 59,
+            "is_correct": true
+        },
+        "60": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 60,
+            "is_correct": false
+        },
+        "61": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 61,
+            "is_correct": true
+        },
+        "62": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 62,
+            "is_correct": false
+        },
+        "63": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 63,
+            "is_correct": false
+        },
+        "64": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 64,
+            "is_correct": true
+        },
+        "65": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 65,
+            "is_correct": false
+        },
+        "66": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 66,
+            "is_correct": true
+        },
+        "67": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 67,
+            "is_correct": false
+        },
+        "68": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 68,
+            "is_correct": false
+        },
+        "69": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 69,
+            "is_correct": true
+        },
+        "70": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 70,
+            "is_correct": false
+        },
+        "71": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 71,
+            "is_correct": false
+        },
+        "72": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 72,
+            "is_correct": true
+        },
+        "73": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 73,
+            "is_correct": false
+        },
+        "74": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 74,
+            "is_correct": true
+        },
+        "75": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 75,
+            "is_correct": true
+        },
+        "76": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 76,
+            "is_correct": false
+        },
+        "77": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 77,
+            "is_correct": false
+        },
+        "78": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 78,
+            "is_correct": false
+        },
+        "79": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 79,
+            "is_correct": true
+        },
+        "80": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 80,
+            "is_correct": true
+        },
+        "81": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 81,
+            "is_correct": true
+        },
+        "82": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nCarefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.Image:A:B:C:D:Give the letter of the correct answer (A, B, C, or D).\nassistant\nHmm, let's see. Based on the vehicle's position and motion direction in the image sequence, I'd say the best match for the expected sound is D. What do you think?",
+            "correct_answer": "A",
+            "index": 82,
+            "is_correct": false
+        },
+        "83": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 83,
+            "is_correct": true
+        },
+        "84": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 84,
+            "is_correct": false
+        },
+        "85": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 85,
+            "is_correct": false
+        },
+        "86": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 86,
+            "is_correct": true
+        },
+        "87": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 87,
+            "is_correct": false
+        },
+        "88": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 88,
+            "is_correct": false
+        },
+        "89": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 89,
+            "is_correct": false
+        },
+        "90": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 90,
+            "is_correct": true
+        },
+        "91": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 91,
+            "is_correct": false
+        },
+        "92": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 92,
+            "is_correct": false
+        },
+        "93": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 93,
+            "is_correct": false
+        },
+        "94": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 94,
+            "is_correct": false
+        },
+        "95": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 95,
+            "is_correct": true
+        },
+        "96": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 96,
+            "is_correct": false
+        },
+        "97": {
+            "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 97,
+            "is_correct": true
+        }
+    }
+}

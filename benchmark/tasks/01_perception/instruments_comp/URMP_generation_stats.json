@@ -1,0 +1,44 @@
+{
+    "dataset": "URMP",
+    "object_name": "instruments composition",
+    "sampling_mode": "classes",
+    "frame_in_folder": false,
+    "total_choices_available": 44,
+    "questions_requested": 500,
+    "questions_generated": 500,
+    "combinations": [
+        "audio_vision",
+        "vision_audio",
+        "vision_text",
+        "text_vision",
+        "text_audio",
+        "audio_text"
+    ],
+    "instrument_mapping": {
+        "vn": "Violin",
+        "vc": "Cello",
+        "va": "Viola",
+        "fl": "Flute",
+        "cl": "Clarinet",
+        "tpt": "Trumpet",
+        "sax": "Saxophone",
+        "tbn": "Trombone",
+        "tba": "Tuba",
+        "ob": "Oboe",
+        "hn": "French Horn",
+        "db": "Double Bass",
+        "bn": "Bassoon"
+    },
+    "choices_sample": [
+        "43_Chorale_tpt_tpt_hn_tbn_tba",
+        "22_Rejouissance_sax_tbn_tba",
+        "05_Entertainer_tpt_tpt",
+        "29_Fugue_fl_fl_ob_cl",
+        "03_Dance_fl_cl",
+        "04_Allegro_fl_fl",
+        "23_Rejouissance_cl_sax_tba",
+        "41_Miserere_fl_fl_ob_sax_bn",
+        "25_Pirates_vn_vn_va_sax",
+        "33_Elise_tpt_tpt_hn_tbn"
+    ]
+}

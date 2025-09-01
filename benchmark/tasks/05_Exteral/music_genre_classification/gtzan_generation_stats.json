@@ -1,0 +1,41 @@
+{
+    "dataset": "gtzan",
+    "total_genres": 10,
+    "valid_genres": [
+        "hiphop",
+        "reggae",
+        "pop",
+        "jazz",
+        "rock",
+        "disco",
+        "country",
+        "blues",
+        "metal",
+        "classical"
+    ],
+    "questions_per_genre": 100,
+    "total_questions_per_combination": 1000,
+    "genre_stats": {
+        "hiphop": 100,
+        "reggae": 100,
+        "pop": 100,
+        "jazz": 100,
+        "rock": 100,
+        "disco": 100,
+        "country": 100,
+        "blues": 100,
+        "metal": 100,
+        "classical": 100
+    },
+    "combinations": [
+        "audio_vision",
+        "vision_audio",
+        "vision_text",
+        "text_vision",
+        "text_audio",
+        "audio_text"
+    ],
+    "processed_audio_duration": 10,
+    "audio_processing_method": "highest_energy_segment",
+    "task_type": "genre_matching_across_modalities"
+}

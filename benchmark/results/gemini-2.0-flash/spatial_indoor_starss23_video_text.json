@@ -1,0 +1,784 @@
+{
+    "task_name": "spatial_indoor/starss23_video_text",
+    "score": 22.68041237113402,
+    "correct_count": 22,
+    "all_count": 97,
+    "results": {
+        "0": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 0,
+            "is_correct": false
+        },
+        "1": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 1,
+            "is_correct": false
+        },
+        "2": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 2,
+            "is_correct": true
+        },
+        "3": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 3,
+            "is_correct": false
+        },
+        "4": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 4,
+            "is_correct": true
+        },
+        "5": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 5,
+            "is_correct": false
+        },
+        "6": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 6,
+            "is_correct": false
+        },
+        "7": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 7,
+            "is_correct": false
+        },
+        "8": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 8,
+            "is_correct": false
+        },
+        "9": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 9,
+            "is_correct": false
+        },
+        "10": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 10,
+            "is_correct": false
+        },
+        "11": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 11,
+            "is_correct": false
+        },
+        "12": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 12,
+            "is_correct": true
+        },
+        "13": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 13,
+            "is_correct": false
+        },
+        "14": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 14,
+            "is_correct": true
+        },
+        "15": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 15,
+            "is_correct": true
+        },
+        "16": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "**A**",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 16,
+            "is_correct": false
+        },
+        "17": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "I do not have enough information.",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 17,
+            "is_correct": false
+        },
+        "18": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 18,
+            "is_correct": false
+        },
+        "19": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 19,
+            "is_correct": false
+        },
+        "20": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 20,
+            "is_correct": false
+        },
+        "21": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 21,
+            "is_correct": true
+        },
+        "22": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 22,
+            "is_correct": false
+        },
+        "23": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 23,
+            "is_correct": false
+        },
+        "24": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "I am unable to answer the question.",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 24,
+            "is_correct": false
+        },
+        "25": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 25,
+            "is_correct": false
+        },
+        "26": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 26,
+            "is_correct": false
+        },
+        "27": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 27,
+            "is_correct": false
+        },
+        "28": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 28,
+            "is_correct": false
+        },
+        "29": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 29,
+            "is_correct": true
+        },
+        "30": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 30,
+            "is_correct": false
+        },
+        "31": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 31,
+            "is_correct": false
+        },
+        "32": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "I am sorry, but my instructions say to extract the final answer choice. Since the given text indicates that none of the choices (A, B, C, or D) can be chosen, I cannot provide a valid answer.",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 32,
+            "is_correct": false
+        },
+        "33": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 33,
+            "is_correct": false
+        },
+        "34": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 34,
+            "is_correct": false
+        },
+        "35": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 35,
+            "is_correct": false
+        },
+        "36": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 36,
+            "is_correct": false
+        },
+        "37": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 37,
+            "is_correct": false
+        },
+        "38": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 38,
+            "is_correct": true
+        },
+        "39": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 39,
+            "is_correct": true
+        },
+        "40": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 40,
+            "is_correct": false
+        },
+        "41": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 41,
+            "is_correct": false
+        },
+        "42": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 42,
+            "is_correct": false
+        },
+        "43": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 43,
+            "is_correct": false
+        },
+        "44": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 44,
+            "is_correct": true
+        },
+        "45": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "I am unable to determine the correct response.",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 45,
+            "is_correct": false
+        },
+        "46": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 46,
+            "is_correct": true
+        },
+        "47": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 47,
+            "is_correct": true
+        },
+        "48": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 48,
+            "is_correct": true
+        },
+        "49": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 49,
+            "is_correct": false
+        },
+        "50": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 50,
+            "is_correct": true
+        },
+        "51": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 51,
+            "is_correct": false
+        },
+        "52": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 52,
+            "is_correct": true
+        },
+        "53": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 53,
+            "is_correct": true
+        },
+        "54": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 54,
+            "is_correct": false
+        },
+        "55": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 55,
+            "is_correct": true
+        },
+        "56": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 56,
+            "is_correct": false
+        },
+        "57": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 57,
+            "is_correct": true
+        },
+        "58": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 58,
+            "is_correct": true
+        },
+        "59": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 59,
+            "is_correct": false
+        },
+        "60": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 60,
+            "is_correct": false
+        },
+        "61": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 61,
+            "is_correct": false
+        },
+        "62": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 62,
+            "is_correct": false
+        },
+        "63": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 63,
+            "is_correct": false
+        },
+        "64": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 64,
+            "is_correct": false
+        },
+        "65": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 65,
+            "is_correct": true
+        },
+        "66": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 66,
+            "is_correct": false
+        },
+        "67": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "I am sorry, I cannot answer this question as I do not have access to the video.",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 67,
+            "is_correct": false
+        },
+        "68": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 68,
+            "is_correct": false
+        },
+        "69": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 69,
+            "is_correct": false
+        },
+        "70": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "**C**",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 70,
+            "is_correct": false
+        },
+        "71": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 71,
+            "is_correct": false
+        },
+        "72": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 72,
+            "is_correct": false
+        },
+        "73": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 73,
+            "is_correct": false
+        },
+        "74": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 74,
+            "is_correct": false
+        },
+        "75": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 75,
+            "is_correct": false
+        },
+        "76": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 76,
+            "is_correct": false
+        },
+        "77": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 77,
+            "is_correct": true
+        },
+        "78": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 78,
+            "is_correct": false
+        },
+        "79": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 79,
+            "is_correct": false
+        },
+        "80": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 80,
+            "is_correct": true
+        },
+        "81": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "I am unable to answer this question.",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 81,
+            "is_correct": false
+        },
+        "82": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "Okay, I understand. Since I can't analyze audio, I can't provide the requested answer choice.",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 82,
+            "is_correct": false
+        },
+        "83": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 83,
+            "is_correct": false
+        },
+        "84": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "Cannot be determined",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 84,
+            "is_correct": false
+        },
+        "85": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 85,
+            "is_correct": false
+        },
+        "86": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 86,
+            "is_correct": false
+        },
+        "87": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 87,
+            "is_correct": false
+        },
+        "88": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 88,
+            "is_correct": false
+        },
+        "89": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 89,
+            "is_correct": false
+        },
+        "90": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 90,
+            "is_correct": false
+        },
+        "91": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 91,
+            "is_correct": false
+        },
+        "92": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 92,
+            "is_correct": false
+        },
+        "93": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 93,
+            "is_correct": false
+        },
+        "94": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 94,
+            "is_correct": false
+        },
+        "95": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "**A**",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 95,
+            "is_correct": false
+        },
+        "96": {
+            "question": "Watch this 360 degree video view. The forward viewing direction is at the center of the video. Based on the video perspective, which text description best matches where you would expect to hear a sound coming from? Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 96,
+            "is_correct": false
+        }
+    }
+}

@@ -1,0 +1,88 @@
+{
+    "task_name": "temporal_count/countixav_audio_text",
+    "score": 30.0,
+    "correct_count": 3,
+    "all_count": 10,
+    "results": {
+        "0": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "I listened to the audio clip multiple times and counted the distinct clicking or ticking sounds. I counted 14 distinct and closely spaced sounds that seemed to represent repetitions of a single action.",
+            "correct_answer": "C",
+            "index": 0,
+            "is_correct": false
+        },
+        "1": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "I listened to the audio clip and counted the distinct sounds of what seems like something hitting or impacting another object. I clearly heard this sound four times.",
+            "correct_answer": "B",
+            "index": 1,
+            "is_correct": false
+        },
+        "2": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "Based on the audio, I hear a distinct action (a cough) repeated four times. Therefore, the best description is '4 times'.",
+            "correct_answer": "C",
+            "index": 2,
+            "is_correct": false
+        },
+        "3": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "Based on the audio clip, I hear the distinct scratching sound four separate times.",
+            "correct_answer": "C",
+            "index": 3,
+            "is_correct": true
+        },
+        "4": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "The audio clip appears to have the sound of someone either rowing or paddling a boat. There are two distinct instances of this sound.",
+            "correct_answer": "A",
+            "index": 4,
+            "is_correct": false
+        },
+        "5": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "Based on the audio clip, I can hear approximately 6 distinct sounds that sound like a ball being hit. Therefore, the answer that best describes the number of repetitions is 6 times.",
+            "correct_answer": "B",
+            "index": 5,
+            "is_correct": false
+        },
+        "6": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "I carefully listened to the audio clip. The sound of the action (likely a footstep or stomp) is clearly audible and repeats 4 distinct times. Therefore, the best description of the number of repetitions is 4 times.",
+            "correct_answer": "C",
+            "index": 6,
+            "is_correct": true
+        },
+        "7": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "The audio clearly repeats a sound a total of 6 times. After someone says the first word they repeat a sound and it is repeated six times in total.",
+            "correct_answer": "A",
+            "index": 7,
+            "is_correct": false
+        },
+        "8": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "I listened to the audio clip and counted the clear, distinct sounds of a bouncing ball. There were 8 repetitions of the bounce sound.",
+            "correct_answer": "C",
+            "index": 8,
+            "is_correct": false
+        },
+        "9": {
+            "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "Based on the audio, I clearly heard the action repeated only twice.",
+            "correct_answer": "C",
+            "index": 9,
+            "is_correct": true
+        }
+    }
+}

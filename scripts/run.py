@@ -22,17 +22,30 @@ def main(args):
     if not script_path:
         raise ValueError(f"Model {args.model} is not defined in PATH_TO_MODELS.")
 
-    subprocess_args = [
-        sys.executable,
-        script_path,
-        '--task_name', args.task_name,
-        '--root_dir', args.root_dir,
-        '--sample', str(args.sample),
-        '--save_dir', os.path.join(args.save_dir, args.model)
-    ]
-    
-    subprocess.run(subprocess_args, check=True)
-    
+    if not args.reason:
+        subprocess_args = [
+            sys.executable,
+            script_path,
+            '--task_name', args.task_name,
+            '--root_dir', args.root_dir,
+            '--sample', str(args.sample),
+            '--save_dir', os.path.join(args.save_dir, args.model)
+        ]
+        
+        subprocess.run(subprocess_args, check=True)
+        
+    else:
+        subprocess_args = [
+            sys.executable,
+            script_path,
+            '--task_name', args.task_name,
+            '--root_dir', args.root_dir,
+            '--sample', str(args.sample),
+            '--save_dir', os.path.join(args.save_dir, args.model),
+            '--reason', 'True'
+        ]
+        
+        subprocess.run(subprocess_args, check=True)
     
 
 if __name__ == '__main__':
@@ -42,6 +55,6 @@ if __name__ == '__main__':
     parser.add_argument('--task_name', help='Name of the task to run', required=True)
     parser.add_argument('--sample', type=int, default=1, help='Number of samples to process')
     parser.add_argument('--save_dir', help='Directory to save results', default='/home/xwang378/scratch/2025/AudioBench/benchmark/results/')
-    
+    parser.add_argument('--reason', type=bool, default=False, help='Whether to run the reason script')
     args = parser.parse_args()
     main(args)

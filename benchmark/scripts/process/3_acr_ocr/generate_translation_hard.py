@@ -8,7 +8,7 @@ import json
 # ==================== 1. Main function: Load model and answer one question ====================
 
 
-def generate_question_audio_vision(audio_paths, correct_answer, frame_in_folder=True, object_name='objects'):
+def generate_question_audio_vision(audio_paths, correct_answer, frame_in_folder=True, object_name='objects', language='Chinese'):
     
     if frame_in_folder:
         image_frames_folders = [audio_sample.replace('.wav', '_frames') for audio_sample in audio_paths]
@@ -16,10 +16,10 @@ def generate_question_audio_vision(audio_paths, correct_answer, frame_in_folder=
     else:
         image_paths = [audio_sample.replace('.wav', '.png') for audio_sample in audio_paths] 
            
-    correct_audio_sample = audio_paths[ord(correct_answer) - ord('A')]
+    correct_audio_sample = audio_paths[ord(correct_answer) - ord('A')].replace('trans_hard', 'audio').replace('/original', '')
     
     question = {
-        "question": f"Which image most likely written the same text as spoken in this audio? Answer the question with A, B, C, or D",
+        "question": f"Which image most likely shows the {language} translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
         "conditions": {
             "modality": "Audio",
             "input": correct_audio_sample,
@@ -55,14 +55,14 @@ def generate_question_audio_vision(audio_paths, correct_answer, frame_in_folder=
 
 def generate_question_vision_audio( audio_paths, correct_answer, frame_in_folder=True, object_name='objects', language='Chinese'):
     
-    correct_audio_sample = audio_paths[ord(correct_answer) - ord('A')]
+    correct_audio_sample = audio_paths[ord(correct_answer) - ord('A')].replace('trans_hard', 'audio').replace('/original', '')
     
     # image_frames_folder = correct_audio_sample.replace('.wav', '_frames')
     # image_path = os.path.join(image_frames_folder, os.listdir(image_frames_folder)[0])  # Use the first frame as the image
-    image_path = correct_audio_sample.replace('trans_hard', 'audio').replace('/original', '').replace('.wav', '.png') # Use the corresponding image  
+    image_path = correct_audio_sample.replace('.wav', '.png') # Use the corresponding image  
 
     question = {
-        "question": f"Which audio most likely spoken the {language} translation of the text in this image? Answer the question with A, B, C, or D",
+        "question": f"Which audio most likely speaks the {language} translation of the text in this image? Answer the question with A, B, C, or D",
         "conditions": {
             "modality": "Image",
             "input": image_path,
@@ -101,12 +101,12 @@ def read_text(path):
     
 def generate_question_vision_text(choices_paths, correct_answer, frame_in_folder=True, language='Chinese'):
 
-    correct_audio_path = choices_paths[ord(correct_answer) - ord('A')] # Use the corresponding image  
+    correct_audio_path = choices_paths[ord(correct_answer) - ord('A')].replace('trans_hard', 'audio').replace('/original', '') # Use the corresponding image  
 
-    image_path =  correct_audio_path.replace('trans_hard', 'audio').replace('/original', '').replace('.wav', '.png')
+    image_path =  correct_audio_path.replace('.wav', '.png')
 
     question = {
-        "question": f"Which text most likely the {language} translation of the text in this image? Answer the question with A, B, C, or D",
+        "question": f"Which text is most likely the {language} translation of the text in this image? Answer the question with A, B, C, or D",
         "conditions": {
             "modality": "Image",
             "input": image_path,
@@ -147,14 +147,13 @@ def generate_question_text_vision(choices_paths, correct_answer, frame_in_folder
     Given a text, ask which image most likely contains the same content.
     """
     
-    correct_text_path = choices_paths[ord(correct_answer) - ord('A')].replace('.wav', '.txt')
-    
+    correct_text_path = choices_paths[ord(correct_answer) - ord('A')].replace('trans_hard', 'audio').replace('/original', '').replace('.wav', '.txt')
     question = {
-        "question": f"Which image most likely contains the English translation of this {language} text? Answer the question with A, B, C, or D",
+        "question": f"Which image most likely contains the {language} translation of this English text? Answer the question with A, B, C, or D",
         "conditions": {
             "modality": "Text",
-            "input": read_text(correct_text_path.replace('audio', f'translation_text/{language}')),
-            "text": read_text(correct_text_path.replace('audio', f'translation_text/{language}'))
+            "input": read_text(correct_text_path),
+            "text": read_text(correct_text_path)
         },
         "options": {
             "A": {
@@ -188,35 +187,35 @@ def generate_question_audio_text(choices_paths, correct_answer, frame_in_folder=
     Generate a question from audio to text.
     Given an audio, ask which text most likely contains the same content.
     """
-    correct_audio_path = choices_paths[ord(correct_answer) - ord('A')]
+    correct_audio_path = choices_paths[ord(correct_answer) - ord('A')].replace('trans_hard', 'audio').replace('/original', '')
     
     question = {
         "question": f"Which text most likely contains the {language} translation of the content in this audio? Answer the question with A, B, C, or D",
         "conditions": {
             "modality": "Audio",
-            "input": correct_audio_path.replace('trans_hard', 'audio').replace('/original', ''),
-            "text": read_text(correct_audio_path.replace('trans_hard', 'audio').replace('/original', '').replace('.wav', '.txt'))
+            "input": correct_audio_path,
+            "text": read_text(correct_audio_path.replace('.wav', '.txt'))
         },
         "options": {
             "A": {
                 "modality": "Text",
-                "input": read_text(choices_paths[0].replace('.wav', '.txt').replace('audio', f'translation_text/{language}')),
-                "text": read_text(choices_paths[0].replace('.wav', '.txt').replace('audio', f'translation_text/{language}'))
+                "input": read_text(choices_paths[0].replace('.wav', '.txt')),
+                "text": read_text(choices_paths[0].replace('.wav', '.txt'))
             },
             "B": {
                 "modality": "Text",
-                "input": read_text(choices_paths[1].replace('.wav', '.txt').replace('audio', f'translation_text/{language}')),
-                "text": read_text(choices_paths[1].replace('.wav', '.txt').replace('audio', f'translation_text/{language}'))
+                "input": read_text(choices_paths[1].replace('.wav', '.txt')),
+                "text": read_text(choices_paths[1].replace('.wav', '.txt'))
             },
             "C": {
                 "modality": "Text",
-                "input": read_text(choices_paths[2].replace('.wav', '.txt').replace('audio', f'translation_text/{language}')),
-                "text": read_text(choices_paths[2].replace('.wav', '.txt').replace('audio', f'translation_text/{language}'))
+                "input": read_text(choices_paths[2].replace('.wav', '.txt')),
+                "text": read_text(choices_paths[2].replace('.wav', '.txt'))
             },
             "D": {
                 "modality": "Text",
-                "input": read_text(choices_paths[3].replace('.wav', '.txt').replace('audio', f'translation_text/{language}')),
-                "text": read_text(choices_paths[3].replace('.wav', '.txt').replace('audio', f'translation_text/{language}'))
+                "input": read_text(choices_paths[3].replace('.wav', '.txt')),
+                "text": read_text(choices_paths[3].replace('.wav', '.txt'))
             }
         },
         "correct_answer": correct_answer
@@ -229,14 +228,14 @@ def generate_question_text_audio(choices_paths, correct_answer, frame_in_folder=
     Generate a question from text to audio.
     Given a text, ask which audio most likely contains the same content.
     """
-    correct_audio_path = choices_paths[ord(correct_answer) - ord('A')]
+    correct_audio_path = choices_paths[ord(correct_answer) - ord('A')].replace('trans_hard', 'audio').replace('/original', '')
     
     question = {
         "question": f"Which audio most likely contains the {language} translation of this English text? Answer the question with A, B, C, or D",
         "conditions": {
             "modality": "Text",
-            "input": read_text(correct_audio_path.replace('trans_hard', 'audio').replace('/original', '').replace('.wav', '.txt')),
-            "text": read_text(correct_audio_path.replace('trans_hard', 'audio').replace('/original', '').replace('.wav', '.txt'))
+            "input": read_text(correct_audio_path.replace('.wav', '.txt')),
+            "text": read_text(correct_audio_path.replace('.wav', '.txt'))
         },
         "options": {
             "A": {
@@ -300,21 +299,28 @@ if __name__ == "__main__":
     LANGUAGE = 'Chinese'
 
     # DATASET_NAME = 'URMP'  # or 'vggss'
-    root_dir = "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/rendertext/trans_hard"
+    root_dir = "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard"
     mode = 'instances' # or instances
     N = 1000
     
-    export_dir = f'/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/03_ocr_translation_hard/{DATASET_NAME}_{LANGUAGE}' 
+    low_txt = 'low_trans_hard.txt'
+    low_quality = []
+    with open(low_txt, 'r') as f:
+        for line in f:
+            low_quality.append(line.strip())
+    
+    export_dir = f'/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/03_speech/translation'
 
     all_choices = []
     for instance in os.listdir(root_dir):
+        if instance in low_quality:
+            continue
         all_wav_files = [f for f in os.listdir(os.path.join(root_dir, instance)) if f.endswith('.wav')]
         all_txt_files = [f for f in os.listdir(os.path.join(root_dir, instance)) if f.endswith('.txt')]
-        
-        if len(all_wav_files) != 4 or len(all_txt_files) != 4:
-            print(f"Skipping {instance} because it has {len(all_wav_files)} wav files and {len(all_txt_files)} txt files")
+        all_image_files = [f for f in os.listdir(os.path.join(root_dir, instance)) if f.endswith('.png')]
+        if len(all_wav_files) < 4 or len(all_txt_files) <4 or len(all_image_files) < 4:
+            print(f"Skipping {instance} because it has {len(all_wav_files)} wav files and {len(all_txt_files)} txt files and {len(all_image_files)} image files")
             continue
-        
         else:
             all_choices.append(os.path.join(root_dir, instance))
         
@@ -333,7 +339,7 @@ if __name__ == "__main__":
         
         audio_paths = []
         for audio_instance in os.listdir(audio_instances):
-            if audio_instance.endswith('.wav'):
+            if audio_instance.endswith('.wav') and 'choice_3' not in audio_instance:
                 audio_paths.append(os.path.join(audio_instances, audio_instance))
         audio_paths = sorted(audio_paths)
         
@@ -347,14 +353,14 @@ if __name__ == "__main__":
         question_vision_audio = \
             generate_question_vision_audio(audio_paths, correct_answers, frame_in_folder=False, language=LANGUAGE)
         
-        # question_audio_vision = \
-        #     generate_question_audio_vision( audio_paths, correct_answers, frame_in_folder=False,  object_name=OBJECT_NAME)
+        question_audio_vision = \
+            generate_question_audio_vision( audio_paths, correct_answers, frame_in_folder=False,  object_name=OBJECT_NAME)
             
         question_vision_text = \
             generate_question_vision_text(audio_paths, correct_answers, frame_in_folder=False, language=LANGUAGE)
         
-        # question_text_vision = \
-        #     generate_question_text_vision(audio_paths, correct_answers, frame_in_folder=False, language=LANGUAGE)
+        question_text_vision = \
+            generate_question_text_vision(audio_paths, correct_answers, frame_in_folder=False, language=LANGUAGE)
         
         question_text_audio = \
             generate_question_text_audio(audio_paths, correct_answers, frame_in_folder=False, language=LANGUAGE)
@@ -363,22 +369,22 @@ if __name__ == "__main__":
             generate_question_audio_text(audio_paths, correct_answers, frame_in_folder=False, language=LANGUAGE)
         
         vision_audio_questions.append(question_vision_audio)
-        # audio_vision_questions.append(question_audio_vision)
+        audio_vision_questions.append(question_audio_vision)
         vision_text_questions.append(question_vision_text)
-        # text_vision_questions.append(question_text_vision)
+        text_vision_questions.append(question_text_vision)
         text_audio_questions.append(question_text_audio)
         audio_text_questions.append(question_audio_text)
 
     os.makedirs(export_dir, exist_ok=True)
 
-    # with open(f"{export_dir}/{DATASET_NAME}_audio_bench_questions_audio_vision.json", "w") as f:
-    #     json.dump(audio_vision_questions, f, indent=4)
+    with open(f"{export_dir}/{DATASET_NAME}_audio_bench_questions_audio_vision.json", "w") as f:
+        json.dump(audio_vision_questions, f, indent=4)
     with open(f"{export_dir}/{DATASET_NAME}_audio_bench_questions_vision_audio.json", "w") as f:
         json.dump(vision_audio_questions, f, indent=4, ensure_ascii=False)
     with open(f"{export_dir}/{DATASET_NAME}_audio_bench_questions_vision_text.json", "w") as f:
         json.dump(vision_text_questions, f, indent=4, ensure_ascii=False)
-    # with open(f"{export_dir}/{DATASET_NAME}_audio_bench_questions_text_vision.json", "w") as f:
-    #     json.dump(text_vision_questions, f, indent=4, ensure_ascii=False)
+    with open(f"{export_dir}/{DATASET_NAME}_audio_bench_questions_text_vision.json", "w") as f:
+        json.dump(text_vision_questions, f, indent=4, ensure_ascii=False)
     with open(f"{export_dir}/{DATASET_NAME}_audio_bench_questions_text_audio.json", "w") as f:
         json.dump(text_audio_questions, f, indent=4, ensure_ascii=False)
     with open(f"{export_dir}/{DATASET_NAME}_audio_bench_questions_audio_text.json", "w") as f:
