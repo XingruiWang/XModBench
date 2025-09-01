@@ -8,6 +8,7 @@ scripts/FluxText/
 *.png
 *.mp4
 *.wav
+*.webm
 *.jpg
 
 # Byte-compiled / optimized / DLL files
