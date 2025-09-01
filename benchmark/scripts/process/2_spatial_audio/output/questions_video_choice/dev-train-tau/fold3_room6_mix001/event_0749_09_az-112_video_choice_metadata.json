@@ -1,0 +1,27 @@
+{
+  "question_type": "video_choice",
+  "question": "In the given 360\u00b0 panoramic video, several candidate views are shown, each representing a different viewing direction. The forward direction of each view corresponds to the middle of the image. You will also be provided with a spatial audio clip in which a musical instrument sound can be heard from a specific direction within the same 3D space. Which candidate video view has its viewing direction aligned with the direction from which the sound is coming?",
+  "correct_answer": 1,
+  "input_audio_path": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/STARSS23/foa_dev/dev-train-tau/fold3_room6_mix001.wav",
+  "choice_video_paths": [
+    "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/STARSS23/video_dev/dev-train-tau/fold3_room6_mix001.mp4",
+    "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/STARSS23/video_dev/dev-train-tau/fold3_room6_mix001.mp4",
+    "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/STARSS23/video_dev/dev-train-tau/fold3_room6_mix001.mp4",
+    "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/STARSS23/video_dev/dev-train-tau/fold3_room6_mix001.mp4"
+  ],
+  "choice_video_rotations": [
+    270,
+    0,
+    180,
+    90
+  ],
+  "event_info": {
+    "class": "Musical instrument",
+    "timestamp": 74.9,
+    "azimuth": -112,
+    "elevation": -15,
+    "distance": 219,
+    "original_azimuth": -112,
+    "correct_center_azimuth": 0
+  }
+}

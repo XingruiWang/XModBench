@@ -1,0 +1,1030 @@
+{
+    "task_name": "temporal_count/countixav_vision_text",
+    "score": 45.51724137931035,
+    "correct_count": 66,
+    "all_count": 145,
+    "results": {
+        "0": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 0,
+            "is_correct": false
+        },
+        "1": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 1,
+            "is_correct": false
+        },
+        "2": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 2,
+            "is_correct": false
+        },
+        "3": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 3,
+            "is_correct": true
+        },
+        "4": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 4,
+            "is_correct": true
+        },
+        "5": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 5,
+            "is_correct": false
+        },
+        "6": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 6,
+            "is_correct": true
+        },
+        "7": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 7,
+            "is_correct": false
+        },
+        "8": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 8,
+            "is_correct": true
+        },
+        "9": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 9,
+            "is_correct": false
+        },
+        "10": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 10,
+            "is_correct": false
+        },
+        "11": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 11,
+            "is_correct": false
+        },
+        "12": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 12,
+            "is_correct": false
+        },
+        "13": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 13,
+            "is_correct": true
+        },
+        "14": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 14,
+            "is_correct": false
+        },
+        "15": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 15,
+            "is_correct": true
+        },
+        "16": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 16,
+            "is_correct": true
+        },
+        "17": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 17,
+            "is_correct": false
+        },
+        "18": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 18,
+            "is_correct": false
+        },
+        "19": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 19,
+            "is_correct": false
+        },
+        "20": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 20,
+            "is_correct": false
+        },
+        "21": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 21,
+            "is_correct": false
+        },
+        "22": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 22,
+            "is_correct": true
+        },
+        "23": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 23,
+            "is_correct": false
+        },
+        "24": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 24,
+            "is_correct": false
+        },
+        "25": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 25,
+            "is_correct": true
+        },
+        "26": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 26,
+            "is_correct": false
+        },
+        "27": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 27,
+            "is_correct": false
+        },
+        "28": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 28,
+            "is_correct": true
+        },
+        "29": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 29,
+            "is_correct": false
+        },
+        "30": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 30,
+            "is_correct": true
+        },
+        "31": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 31,
+            "is_correct": false
+        },
+        "32": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 32,
+            "is_correct": false
+        },
+        "33": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 33,
+            "is_correct": true
+        },
+        "34": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 34,
+            "is_correct": false
+        },
+        "35": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 35,
+            "is_correct": true
+        },
+        "36": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 36,
+            "is_correct": false
+        },
+        "37": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 37,
+            "is_correct": false
+        },
+        "38": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 38,
+            "is_correct": false
+        },
+        "39": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 39,
+            "is_correct": false
+        },
+        "40": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 40,
+            "is_correct": false
+        },
+        "41": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 41,
+            "is_correct": false
+        },
+        "42": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 42,
+            "is_correct": false
+        },
+        "43": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 43,
+            "is_correct": true
+        },
+        "44": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 44,
+            "is_correct": true
+        },
+        "45": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 45,
+            "is_correct": false
+        },
+        "46": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 46,
+            "is_correct": false
+        },
+        "47": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 47,
+            "is_correct": true
+        },
+        "48": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 48,
+            "is_correct": false
+        },
+        "49": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 49,
+            "is_correct": true
+        },
+        "50": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 50,
+            "is_correct": false
+        },
+        "51": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 51,
+            "is_correct": true
+        },
+        "52": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 52,
+            "is_correct": false
+        },
+        "53": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 53,
+            "is_correct": true
+        },
+        "54": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 54,
+            "is_correct": false
+        },
+        "55": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 55,
+            "is_correct": true
+        },
+        "56": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 56,
+            "is_correct": true
+        },
+        "57": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 57,
+            "is_correct": false
+        },
+        "58": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 58,
+            "is_correct": true
+        },
+        "59": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 59,
+            "is_correct": true
+        },
+        "60": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 60,
+            "is_correct": false
+        },
+        "61": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 61,
+            "is_correct": false
+        },
+        "62": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 62,
+            "is_correct": true
+        },
+        "63": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 63,
+            "is_correct": true
+        },
+        "64": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 64,
+            "is_correct": true
+        },
+        "65": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 65,
+            "is_correct": true
+        },
+        "66": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 66,
+            "is_correct": false
+        },
+        "67": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 67,
+            "is_correct": false
+        },
+        "68": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 68,
+            "is_correct": false
+        },
+        "69": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 69,
+            "is_correct": false
+        },
+        "70": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 70,
+            "is_correct": true
+        },
+        "71": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 71,
+            "is_correct": false
+        },
+        "72": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 72,
+            "is_correct": false
+        },
+        "73": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 73,
+            "is_correct": true
+        },
+        "74": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 74,
+            "is_correct": true
+        },
+        "75": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 75,
+            "is_correct": true
+        },
+        "76": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 76,
+            "is_correct": true
+        },
+        "77": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 77,
+            "is_correct": false
+        },
+        "78": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 78,
+            "is_correct": false
+        },
+        "79": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 79,
+            "is_correct": false
+        },
+        "80": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 80,
+            "is_correct": true
+        },
+        "81": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 81,
+            "is_correct": false
+        },
+        "82": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 82,
+            "is_correct": true
+        },
+        "83": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 83,
+            "is_correct": true
+        },
+        "84": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 84,
+            "is_correct": true
+        },
+        "85": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 85,
+            "is_correct": true
+        },
+        "86": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 86,
+            "is_correct": false
+        },
+        "87": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 87,
+            "is_correct": true
+        },
+        "88": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 88,
+            "is_correct": false
+        },
+        "89": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 89,
+            "is_correct": true
+        },
+        "90": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 90,
+            "is_correct": false
+        },
+        "91": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 91,
+            "is_correct": true
+        },
+        "92": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 92,
+            "is_correct": true
+        },
+        "93": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 93,
+            "is_correct": true
+        },
+        "94": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": null,
+            "correct_answer": "C",
+            "index": 94,
+            "is_correct": false
+        },
+        "95": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 95,
+            "is_correct": false
+        },
+        "96": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 96,
+            "is_correct": false
+        },
+        "97": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 97,
+            "is_correct": true
+        },
+        "98": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 98,
+            "is_correct": true
+        },
+        "99": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 99,
+            "is_correct": false
+        },
+        "100": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 100,
+            "is_correct": true
+        },
+        "101": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 101,
+            "is_correct": false
+        },
+        "102": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 102,
+            "is_correct": true
+        },
+        "103": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 103,
+            "is_correct": false
+        },
+        "104": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 104,
+            "is_correct": true
+        },
+        "105": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 105,
+            "is_correct": true
+        },
+        "106": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 106,
+            "is_correct": true
+        },
+        "107": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 107,
+            "is_correct": true
+        },
+        "108": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 108,
+            "is_correct": true
+        },
+        "109": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 109,
+            "is_correct": true
+        },
+        "110": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 110,
+            "is_correct": false
+        },
+        "111": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 111,
+            "is_correct": false
+        },
+        "112": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 112,
+            "is_correct": false
+        },
+        "113": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 113,
+            "is_correct": false
+        },
+        "114": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 114,
+            "is_correct": true
+        },
+        "115": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 115,
+            "is_correct": true
+        },
+        "116": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 116,
+            "is_correct": false
+        },
+        "117": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 117,
+            "is_correct": true
+        },
+        "118": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 118,
+            "is_correct": true
+        },
+        "119": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 119,
+            "is_correct": false
+        },
+        "120": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 120,
+            "is_correct": false
+        },
+        "121": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 121,
+            "is_correct": false
+        },
+        "122": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 122,
+            "is_correct": false
+        },
+        "123": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 123,
+            "is_correct": false
+        },
+        "124": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 124,
+            "is_correct": true
+        },
+        "125": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 125,
+            "is_correct": true
+        },
+        "126": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 126,
+            "is_correct": false
+        },
+        "127": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 127,
+            "is_correct": true
+        },
+        "128": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 128,
+            "is_correct": false
+        },
+        "129": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 129,
+            "is_correct": true
+        },
+        "130": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 130,
+            "is_correct": false
+        },
+        "131": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 131,
+            "is_correct": true
+        },
+        "132": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 132,
+            "is_correct": false
+        },
+        "133": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 133,
+            "is_correct": true
+        },
+        "134": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 134,
+            "is_correct": false
+        },
+        "135": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 135,
+            "is_correct": true
+        },
+        "136": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 136,
+            "is_correct": false
+        },
+        "137": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 137,
+            "is_correct": false
+        },
+        "138": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 138,
+            "is_correct": false
+        },
+        "139": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 139,
+            "is_correct": true
+        },
+        "140": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 140,
+            "is_correct": false
+        },
+        "141": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 141,
+            "is_correct": false
+        },
+        "142": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 142,
+            "is_correct": true
+        },
+        "143": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 143,
+            "is_correct": false
+        },
+        "144": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 144,
+            "is_correct": true
+        },
+        "145": {
+            "question": "Given the frequency spectrum image representing repeated actions, which text correctly describes the number of repetitions? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 145,
+            "is_correct": false
+        }
+    }
+}

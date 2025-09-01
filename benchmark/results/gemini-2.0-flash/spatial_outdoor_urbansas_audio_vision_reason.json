@@ -1,0 +1,88 @@
+{
+    "task_name": "spatial_outdoor/urbansas_audio_vision",
+    "score": 60.0,
+    "correct_count": 6,
+    "all_count": 10,
+    "results": {
+        "0": {
+            "question": "Based on the spatial audio clip, try to imagine what the urban scene looks like\u2014consider which direction the sound is coming from and how close the vehicle gets. Then select the image that best matches the expected position and type of vehicle. Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "The audio clip features a car passing by at close proximity, suggesting a street scene at night. Image B portrays a car at night.",
+            "correct_answer": "B",
+            "index": 0,
+            "is_correct": true
+        },
+        "1": {
+            "question": "Based on the spatial audio clip, try to imagine what the urban scene looks like\u2014consider which direction the sound is coming from and how close the vehicle gets. Then select the image that best matches the expected position and type of vehicle. Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "The audio clip features the sound of a car approaching and passing by on what sounds like a paved road. The sound suggests the vehicle passes fairly close to the listener, and has a distinct traffic sound. Image A depicts a car on a road at night, approaching the camera at a relatively close distance, which aligns well with the sound cues provided. The other images do not have cars on the road, or have cars that are too far away to match the audio.",
+            "correct_answer": "A",
+            "index": 1,
+            "is_correct": true
+        },
+        "2": {
+            "question": "Based on the spatial audio clip, try to imagine what the urban scene looks like\u2014consider which direction the sound is coming from and how close the vehicle gets. Then select the image that best matches the expected position and type of vehicle. Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "The audio clip features a vehicle approaching, then passing at high speed. In addition, there is what sounds like a taxi, which indicates a car rather than truck. Based on the sound and type of vehicle in the audio, option B best represents the scene.",
+            "correct_answer": "B",
+            "index": 2,
+            "is_correct": true
+        },
+        "3": {
+            "question": "Based on the spatial audio clip, try to imagine what the urban scene looks like\u2014consider which direction the sound is coming from and how close the vehicle gets. Then select the image that best matches the expected position and type of vehicle. Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "The audio clip clearly indicates the sound of a vehicle, specifically a motorcycle or scooter, approaching closely. The images are all of city locations, but the crowds of pedestrians, taxis, and cars in image B best match the expected source and path of the audio in an urban enviroment.",
+            "correct_answer": "B",
+            "index": 3,
+            "is_correct": true
+        },
+        "4": {
+            "question": "Based on the spatial audio clip, try to imagine what the urban scene looks like\u2014consider which direction the sound is coming from and how close the vehicle gets. Then select the image that best matches the expected position and type of vehicle. Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "The audio clip suggests a vehicle passing by fairly closely. The sound has a distinct urban feel with the ambience of a city. Image C features a vehicle passing by a pavement with a visible city background, making it the most fitting image. Images A and B does depict a car but the scene does not fit the audio and lacks an urban feel. Image D does not accurately represent the sound in the environment.",
+            "correct_answer": "B",
+            "index": 4,
+            "is_correct": false
+        },
+        "5": {
+            "question": "Based on the spatial audio clip, try to imagine what the urban scene looks like\u2014consider which direction the sound is coming from and how close the vehicle gets. Then select the image that best matches the expected position and type of vehicle. Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "The audio clip suggests a vehicle passing by in an urban environment. Image B shows a street scene with cars moving, which corresponds with the sound in the clip. The other images do not represent moving vehicles; instead, they show parked cars (A and D) or a street at night with pedestrians (C).",
+            "correct_answer": "C",
+            "index": 5,
+            "is_correct": false
+        },
+        "6": {
+            "question": "Based on the spatial audio clip, try to imagine what the urban scene looks like\u2014consider which direction the sound is coming from and how close the vehicle gets. Then select the image that best matches the expected position and type of vehicle. Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "The audio clip has a distinct car pass-by sound. Given the proximity and clarity of the engine noise, it suggests a vehicle passing nearby on a road. The urban setting, with sounds reflecting off buildings, further points to a street scene. Thus, A has vehicles on a road near what could be a building or city, making it most logical.",
+            "correct_answer": "A",
+            "index": 6,
+            "is_correct": true
+        },
+        "7": {
+            "question": "Based on the spatial audio clip, try to imagine what the urban scene looks like\u2014consider which direction the sound is coming from and how close the vehicle gets. Then select the image that best matches the expected position and type of vehicle. Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "The audio suggests a car is passing by on a street with some trees and buildings in the background. The car sounds like it is on a city street and passes relatively close by. Based on the other images, A, is more consistent with the audio sounds. The sounds of the car moving with city sounds.",
+            "correct_answer": "D",
+            "index": 7,
+            "is_correct": false
+        },
+        "8": {
+            "question": "Based on the spatial audio clip, try to imagine what the urban scene looks like\u2014consider which direction the sound is coming from and how close the vehicle gets. Then select the image that best matches the expected position and type of vehicle. Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "The audio clip indicates a vehicle, likely a car or taxi, passing by. The sound suggests a fairly close proximity. Option A shows a daytime urban street scene with a taxi, which aligns well with the audio. Options B depicts a pedestrian crossing, which doesn't match vehicle passing sound. Option C shows a similar street scene but features a pickup. Option D presents a night scene with taxis but lacks the daytime ambiance.",
+            "correct_answer": "D",
+            "index": 8,
+            "is_correct": false
+        },
+        "9": {
+            "question": "Based on the spatial audio clip, try to imagine what the urban scene looks like\u2014consider which direction the sound is coming from and how close the vehicle gets. Then select the image that best matches the expected position and type of vehicle. Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "The sound of a car horn suggests an urban setting with cars on a road nearby. Image A shows a night scene with cars and street lights, which aligns with the auditory perception of vehicles in an urban environment. The sound gets closer, indicating that a car is in the immediate vicinity. Thus, Image A is the most appropriate match.",
+            "correct_answer": "A",
+            "index": 9,
+            "is_correct": true
+        }
+    }
+}

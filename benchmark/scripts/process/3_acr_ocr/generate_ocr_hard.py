@@ -7,50 +7,102 @@ import json
 # ==================== 1. Main function: Load model and answer one question ====================
 
 
-# def generate_question_audio_vision(audio_paths, correct_answer, frame_in_folder=True, object_name='objects'):
+def generate_question_audio_vision(choices_paths, correct_answer, frame_in_folder=True, object_name='objects'):
+    """
+    Generate a question from audio to vision/image.
+    Given an audio, ask which image most likely contains the same text content.
+    """
+    correct_audio_path = choices_paths[ord(correct_answer) - ord('A')]
     
-#     if frame_in_folder:
-#         image_frames_folders = [audio_sample.replace('.wav', '_frames') for audio_sample in audio_paths]
-#         image_paths = [os.path.join(folder, os.listdir(folder)[0]) for folder in image_frames_folders]
-#     else:
-#         image_paths = [audio_sample.replace('.wav', '.png') for audio_sample in audio_paths] 
-           
-#     correct_audio_sample = audio_paths[ord(correct_answer) - ord('A')]
+    image_choices_paths = []
+    for choice_path in choices_paths:
+        if 'original' in choice_path:
+            image_choices_paths.append(choice_path.replace('/original.wav', '.png').replace('hard', 'audio'))
+        else:
+            image_choices_paths.append(choice_path.replace('.wav', '.png'))
     
-#     question = {
-#         "question": f"Which image most likely written the same text as spoken in this audio? Answer the question with A, B, C, or D",
-#         "conditions": {
-#             "modality": "Audio",
-#             "input": correct_audio_sample,
-#             "text": read_text(correct_audio_sample.replace('.wav', '.txt'))
-#             },
-#         "options": {
-#             "A": {
-#                 "modality": "Image",
-#                 "input": image_paths[0],
-#                 "text": read_text(image_paths[0].replace('.png', '.txt'))
-#             },
-#             "B": {
-#                 "modality": "Image",
-#                 "input": image_paths[1],
-#                 "text": read_text(image_paths[1].replace('.png', '.txt'))
-#             },
-#             "C": {
-#                 "modality": "Image",
-#                 "input": image_paths[2],
-#                 "text": read_text(image_paths[2].replace('.png', '.txt'))
-#             },
-#             "D": {
-#                 "modality": "Image",
-#                 "input": image_paths[3],
-#                 "text": read_text(image_paths[3].replace('.png', '.txt'))
-#             }
-#         },
-#         "correct_answer": correct_answer
-#     }
+    question = {
+        "question": f"Which image has text that matches the sentence in this audio? Answer the question with A, B, C, or D",
+        "conditions": {
+            "modality": "Audio",
+            "input": correct_audio_path,
+            "text": read_text(correct_audio_path.replace('.wav', '.txt'))
+        },
+        "options": {
+            "A": {
+                "modality": "Image",
+                "input": image_choices_paths[0],
+                "text": read_text(choices_paths[0].replace('.wav', '.txt'))
+            },
+            "B": {
+                "modality": "Image", 
+                "input": image_choices_paths[1],
+                "text": read_text(choices_paths[1].replace('.wav', '.txt'))
+            },
+            "C": {
+                "modality": "Image",
+                "input": image_choices_paths[2],
+                "text": read_text(choices_paths[2].replace('.wav', '.txt'))
+            },
+            "D": {
+                "modality": "Image",
+                "input": image_choices_paths[3],
+                "text": read_text(choices_paths[3].replace('.wav', '.txt'))
+            }
+        },
+        "correct_answer": correct_answer
+    }
     
-#     return question
+    return question
 
+
+def generate_question_text_vision(choices_paths, correct_answer, frame_in_folder=True, object_name='objects'):
+    """
+    Generate a question from text to vision/image.
+    Given a text, ask which image most likely shows the same content.
+    """
+    correct_text_path = choices_paths[ord(correct_answer) - ord('A')].replace('.wav', '.txt')
+    
+    image_choices_paths = []
+    for choice_path in choices_paths:
+        if 'original' in choice_path:
+            image_choices_paths.append(choice_path.replace('/original.wav', '.png').replace('hard', 'audio'))
+        else:
+            image_choices_paths.append(choice_path.replace('.wav', '.png'))
+    
+    question = {
+        "question": f"Which image has text that matches the content of this text? Answer the question with A, B, C, or D",
+        "conditions": {
+            "modality": "Text",
+            "input": read_text(correct_text_path),
+            "text": read_text(correct_text_path)
+        },
+        "options": {
+            "A": {
+                "modality": "Image",
+                "input": image_choices_paths[0],
+                "text": read_text(choices_paths[0].replace('.wav', '.txt'))
+            },
+            "B": {
+                "modality": "Image",
+                "input": image_choices_paths[1],
+                "text": read_text(choices_paths[1].replace('.wav', '.txt'))
+            },
+            "C": {
+                "modality": "Image",
+                "input": image_choices_paths[2],
+                "text": read_text(choices_paths[2].replace('.wav', '.txt'))
+            },
+            "D": {
+                "modality": "Image",
+                "input": image_choices_paths[3],
+                "text": read_text(choices_paths[3].replace('.wav', '.txt'))
+            }
+        },
+        "correct_answer": correct_answer
+    }
+    
+    return question
 
 def generate_question_vision_audio( audio_paths, correct_answer, frame_in_folder=True, object_name='objects'):
     correct_audio_sample = audio_paths[ord(correct_answer) - ord('A')]
@@ -60,7 +112,7 @@ def generate_question_vision_audio( audio_paths, correct_answer, frame_in_folder
     image_path = correct_audio_sample.replace('/original.wav', '.png').replace('hard', 'audio')
 
     question = {
-        "question": f"Which audio most likely spoken the same text as written in this image? Answer the question with A, B, C, or D",
+        "question": f"Which audio most likely matches the text shown in the image? Answer the question with A, B, C, or D",
         "conditions": {
             "modality": "Image",
             "input": image_path,
@@ -103,7 +155,7 @@ def generate_question_vision_text(choices_paths, correct_answer, frame_in_folder
     image_path = correct_audio_sample.replace('/original.wav', '.png').replace('hard', 'audio')
 
     question = {
-        "question": f"Which text most likely written the same content as shown in this image? Answer the question with A, B, C, or D",
+        "question": f"Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
         "conditions": {
             "modality": "Image",
             "input": image_path,
@@ -138,48 +190,6 @@ def generate_question_vision_text(choices_paths, correct_answer, frame_in_folder
     
     
 
-# def generate_question_text_vision(choices_paths, correct_answer, frame_in_folder=True, object_name='objects'):
-#     """
-#     Generate a question from text to image (vision).
-#     Given a text, ask which image most likely contains the same content.
-#     """
-    
-#     correct_text_path = choices_paths[ord(correct_answer) - ord('A')].replace('.wav', '.txt')
-    
-#     question = {
-#         "question": f"Which image most likely contains the same content as this text? Answer the question with A, B, C, or D",
-#         "conditions": {
-#             "modality": "Text",
-#             "input": read_text(correct_text_path),
-#             "text": read_text(correct_text_path)
-#         },
-#         "options": {
-#             "A": {
-#                 "modality": "Image",
-#                 "input": choices_paths[0].replace('.wav', '.png') if not frame_in_folder else os.path.join(choices_paths[0].replace('.wav', '_frames'), os.listdir(choices_paths[0].replace('.wav', '_frames'))[0]),
-#                 "text": read_text(choices_paths[0].replace('.wav', '.txt'))
-#             },
-#             "B": {
-#                 "modality": "Image", 
-#                 "input": choices_paths[1].replace('.wav', '.png') if not frame_in_folder else os.path.join(choices_paths[1].replace('.wav', '_frames'), os.listdir(choices_paths[1].replace('.wav', '_frames'))[0]),
-#                 "text": read_text(choices_paths[1].replace('.wav', '.txt'))
-#             },
-#             "C": {
-#                 "modality": "Image",
-#                 "input": choices_paths[2].replace('.wav', '.png') if not frame_in_folder else os.path.join(choices_paths[2].replace('.wav', '_frames'), os.listdir(choices_paths[2].replace('.wav', '_frames'))[0]),
-#                 "text": read_text(choices_paths[2].replace('.wav', '.txt'))
-#             },
-#             "D": {
-#                 "modality": "Image",
-#                 "input": choices_paths[3].replace('.wav', '.png') if not frame_in_folder else os.path.join(choices_paths[3].replace('.wav', '_frames'), os.listdir(choices_paths[3].replace('.wav', '_frames'))[0]),
-#                 "text": read_text(choices_paths[3].replace('.wav', '.txt'))
-#             }
-#         },
-#         "correct_answer": correct_answer
-#     }
-    
-#     return question
-
 def generate_question_audio_text(choices_paths, correct_answer, frame_in_folder=True, object_name='objects'):
     """
     Generate a question from audio to text.
@@ -188,7 +198,7 @@ def generate_question_audio_text(choices_paths, correct_answer, frame_in_folder=
     correct_audio_path = choices_paths[ord(correct_answer) - ord('A')]
     
     question = {
-        "question": f"Which text most likely contains the same content as this audio? Answer the question with A, B, C, or D",
+        "question": f"Which text most likely has the same content as this audio? Answer the question with A, B, C, or D",
         "conditions": {
             "modality": "Audio",
             "input": correct_audio_path,
@@ -296,20 +306,29 @@ if __name__ == "__main__":
     OBJECT_NAME = 'text'
 
     # DATASET_NAME = 'URMP'  # or 'vggss'
-    root_dir = "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/rendertext/hard"
+    root_dir = "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/hard"
     mode = 'instances' # or instances
     N = 1000
+    
+    low_txt = 'low.txt'
+    low_quality = []
+    with open(low_txt, 'r') as f:
+        for line in f:
+            low_quality.append(line.strip())
 
     # export_dir = f'/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/{DATASET_NAME}'
-    export_dir = f'/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/03_ocr_hard/{DATASET_NAME}'
+    export_dir = '/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/03_speech/recognition'
     
     all_choices = []
     for instance in os.listdir(root_dir):
+        if instance in low_quality:
+            continue
         all_wav_files = [f for f in os.listdir(os.path.join(root_dir, instance)) if f.endswith('.wav')]
         all_txt_files = [f for f in os.listdir(os.path.join(root_dir, instance)) if f.endswith('.txt')]
+        all_png_files = [f for f in os.listdir(os.path.join(root_dir, instance)) if f.endswith('.png')]
         
-        if len(all_wav_files) != 4 or len(all_txt_files) != 4:
-            print(f"Skipping {instance} because it has {len(all_wav_files)} wav files and {len(all_txt_files)} txt files")
+        if len(all_wav_files) != 4 or len(all_txt_files) != 4 or len(all_png_files) != 4:
+            print(f"Skipping {instance} because it has {len(all_wav_files)} wav files and {len(all_txt_files)} txt files and {len(all_png_files)} png files")
             continue
         
         else:
@@ -324,6 +343,7 @@ if __name__ == "__main__":
     text_audio_questions = []
     audio_text_questions = []
     for i in range(N):
+        print(f"Processing {i} / {N}")
         audio_instances = all_choices[i]
         
         audio_paths = []
@@ -342,14 +362,14 @@ if __name__ == "__main__":
         question_vision_audio = \
             generate_question_vision_audio(audio_paths, correct_answers, frame_in_folder=False, object_name=OBJECT_NAME)
         
-        # question_audio_vision = \
-        #     generate_question_audio_vision( audio_paths, correct_answers, frame_in_folder=False,  object_name=OBJECT_NAME)
+        question_audio_vision = \
+            generate_question_audio_vision( audio_paths, correct_answers, frame_in_folder=False,  object_name=OBJECT_NAME)
             
         question_vision_text = \
             generate_question_vision_text(audio_paths, correct_answers, frame_in_folder=False, object_name=OBJECT_NAME)
         
-        # question_text_vision = \
-        #     generate_question_text_vision(audio_paths, correct_answers, frame_in_folder=False, object_name=OBJECT_NAME)
+        question_text_vision = \
+            generate_question_text_vision(audio_paths, correct_answers, frame_in_folder=False, object_name=OBJECT_NAME)
         
         question_text_audio = \
             generate_question_text_audio(audio_paths, correct_answers, frame_in_folder=False, object_name=OBJECT_NAME)
@@ -358,22 +378,22 @@ if __name__ == "__main__":
             generate_question_audio_text(audio_paths, correct_answers, frame_in_folder=False, object_name=OBJECT_NAME)
         
         vision_audio_questions.append(question_vision_audio)
-        # audio_vision_questions.append(question_audio_vision)
+        audio_vision_questions.append(question_audio_vision)
         vision_text_questions.append(question_vision_text)
-        # text_vision_questions.append(question_text_vision)
+        text_vision_questions.append(question_text_vision)
         text_audio_questions.append(question_text_audio)
         audio_text_questions.append(question_audio_text)
 
     os.makedirs(export_dir, exist_ok=True)
 
-    # with open(f"{export_dir}/{DATASET_NAME}_audio_bench_questions_audio_vision.json", "w") as f:
-    #     json.dump(audio_vision_questions, f, indent=4)
+    with open(f"{export_dir}/{DATASET_NAME}_audio_bench_questions_audio_vision.json", "w") as f:
+        json.dump(audio_vision_questions, f, indent=4)
     with open(f"{export_dir}/{DATASET_NAME}_audio_bench_questions_vision_audio.json", "w") as f:
         json.dump(vision_audio_questions, f, indent=4)
     with open(f"{export_dir}/{DATASET_NAME}_audio_bench_questions_vision_text.json", "w") as f:
         json.dump(vision_text_questions, f, indent=4)
-    # with open(f"{export_dir}/{DATASET_NAME}_audio_bench_questions_text_vision.json", "w") as f:
-        # json.dump(text_vision_questions, f, indent=4)
+    with open(f"{export_dir}/{DATASET_NAME}_audio_bench_questions_text_vision.json", "w") as f:
+        json.dump(text_vision_questions, f, indent=4)
     with open(f"{export_dir}/{DATASET_NAME}_audio_bench_questions_text_audio.json", "w") as f:
         json.dump(text_audio_questions, f, indent=4)
     with open(f"{export_dir}/{DATASET_NAME}_audio_bench_questions_audio_text.json", "w") as f:

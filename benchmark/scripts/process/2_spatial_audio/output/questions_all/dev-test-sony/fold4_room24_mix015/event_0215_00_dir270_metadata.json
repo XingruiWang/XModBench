@@ -1,0 +1,20 @@
+{
+  "question": "Which image shows the correct view direction for the female speech sound?",
+  "correct_answer": 3,
+  "view_azimuths": [
+    0,
+    90,
+    180,
+    270
+  ],
+  "event_info": {
+    "class": "Female speech",
+    "timestamp": 21.5,
+    "azimuth": -133,
+    "elevation": -18,
+    "distance": 161,
+    "original_azimuth": -133,
+    "mapped_direction": 270,
+    "correct_answer_direction": 270
+  }
+}

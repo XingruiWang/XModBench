@@ -1,0 +1,20 @@
+{
+  "question": "Which image shows the correct view direction for the male speech sound?",
+  "correct_answer": 2,
+  "view_azimuths": [
+    0,
+    90,
+    180,
+    270
+  ],
+  "event_info": {
+    "class": "Male speech",
+    "timestamp": 144.0,
+    "azimuth": 154,
+    "elevation": -24,
+    "distance": 117,
+    "original_azimuth": 154,
+    "mapped_direction": 180,
+    "correct_answer_direction": 180
+  }
+}

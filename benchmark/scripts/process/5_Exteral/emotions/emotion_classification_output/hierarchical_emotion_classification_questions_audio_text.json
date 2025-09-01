@@ -1,0 +1,1388 @@
+[
+    {
+        "question": "Listen to this emotional speech. Which emotion is being expressed? Answer with A, B, C, or D",
+        "target_emotion": "joy",
+        "target_category": "positive",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia40_utt0.wav",
+            "emotion": "joy",
+            "category": "positive",
+            "source": "positive_joy"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Negative - Anger"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Negative - Surprise"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            }
+        },
+        "correct_answer": "D",
+        "correct_emotion": "joy",
+        "correct_category": "positive"
+    },
+    {
+        "question": "Listen to this emotional speech. Which emotion is being expressed? Answer with A, B, C, or D",
+        "target_emotion": "joy",
+        "target_category": "positive",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia163_utt3.wav",
+            "emotion": "joy",
+            "category": "positive",
+            "source": "positive_joy"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Negative - Sadness"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Negative - Anger"
+            }
+        },
+        "correct_answer": "C",
+        "correct_emotion": "joy",
+        "correct_category": "positive"
+    },
+    {
+        "question": "Listen to this emotional speech. Which emotion is being expressed? Answer with A, B, C, or D",
+        "target_emotion": "joy",
+        "target_category": "positive",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia189_utt0.wav",
+            "emotion": "joy",
+            "category": "positive",
+            "source": "positive_joy"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Negative - Disgust"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Negative - Sadness"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            }
+        },
+        "correct_answer": "D",
+        "correct_emotion": "joy",
+        "correct_category": "positive"
+    },
+    {
+        "question": "Listen to this emotional speech. Which emotion is being expressed? Answer with A, B, C, or D",
+        "target_emotion": "joy",
+        "target_category": "positive",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia154_utt1.wav",
+            "emotion": "joy",
+            "category": "positive",
+            "source": "positive_joy"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Negative - Anger"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Negative - Fear"
+            }
+        },
+        "correct_answer": "B",
+        "correct_emotion": "joy",
+        "correct_category": "positive"
+    },
+    {
+        "question": "Listen to this emotional speech. Which emotion is being expressed? Answer with A, B, C, or D",
+        "target_emotion": "joy",
+        "target_category": "positive",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia108_utt9.wav",
+            "emotion": "joy",
+            "category": "positive",
+            "source": "positive_joy"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Negative - Anger"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Negative - Surprise"
+            }
+        },
+        "correct_answer": "A",
+        "correct_emotion": "joy",
+        "correct_category": "positive"
+    },
+    {
+        "question": "Listen to this emotional speech. Which emotion is being expressed? Answer with A, B, C, or D",
+        "target_emotion": "joy",
+        "target_category": "positive",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia14_utt6.wav",
+            "emotion": "joy",
+            "category": "positive",
+            "source": "positive_joy"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Negative - Disgust"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Negative - Anger"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            }
+        },
+        "correct_answer": "C",
+        "correct_emotion": "joy",
+        "correct_category": "positive"
+    },
+    {
+        "question": "Listen to this emotional speech. Which emotion is being expressed? Answer with A, B, C, or D",
+        "target_emotion": "surprise",
+        "target_category": "positive",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia130_utt6.wav",
+            "emotion": "surprise",
+            "category": "positive",
+            "source": "positive_surprise"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Negative - Anger"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Negative - Surprise"
+            }
+        },
+        "correct_answer": "B",
+        "correct_emotion": "surprise",
+        "correct_category": "positive"
+    },
+    {
+        "question": "Listen to this emotional speech. Which emotion is being expressed? Answer with A, B, C, or D",
+        "target_emotion": "surprise",
+        "target_category": "positive",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia4_utt3.wav",
+            "emotion": "surprise",
+            "category": "positive",
+            "source": "positive_surprise"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Negative - Sadness"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Negative - Fear"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            }
+        },
+        "correct_answer": "A",
+        "correct_emotion": "surprise",
+        "correct_category": "positive"
+    },
+    {
+        "question": "Listen to this emotional speech. Which emotion is being expressed? Answer with A, B, C, or D",
+        "target_emotion": "surprise",
+        "target_category": "positive",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia113_utt12.wav",
+            "emotion": "surprise",
+            "category": "positive",
+            "source": "positive_surprise"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Negative - Fear"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Negative - Surprise"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            }
+        },
+        "correct_answer": "B",
+        "correct_emotion": "surprise",
+        "correct_category": "positive"
+    },
+    {
+        "question": "Listen to this emotional speech. Which emotion is being expressed? Answer with A, B, C, or D",
+        "target_emotion": "surprise",
+        "target_category": "positive",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia112_utt13.wav",
+            "emotion": "surprise",
+            "category": "positive",
+            "source": "positive_surprise"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Negative - Fear"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Negative - Sadness"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            }
+        },
+        "correct_answer": "D",
+        "correct_emotion": "surprise",
+        "correct_category": "positive"
+    },
+    {
+        "question": "Listen to this emotional speech. Which emotion is being expressed? Answer with A, B, C, or D",
+        "target_emotion": "surprise",
+        "target_category": "positive",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia133_utt8.wav",
+            "emotion": "surprise",
+            "category": "positive",
+            "source": "positive_surprise"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Negative - Fear"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Negative - Surprise"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            }
+        },
+        "correct_answer": "B",
+        "correct_emotion": "surprise",
+        "correct_category": "positive"
+    },
+    {
+        "question": "Listen to this emotional speech. Which emotion is being expressed? Answer with A, B, C, or D",
+        "target_emotion": "surprise",
+        "target_category": "positive",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia42_utt5.wav",
+            "emotion": "surprise",
+            "category": "positive",
+            "source": "positive_surprise"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Negative - Anger"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Negative - Surprise"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            }
+        },
+        "correct_answer": "D",
+        "correct_emotion": "surprise",
+        "correct_category": "positive"
+    },
+    {
+        "question": "Listen to this emotional speech. Which emotion is being expressed? Answer with A, B, C, or D",
+        "target_emotion": "anger",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/anger/dia72_utt4.wav",
+            "emotion": "anger",
+            "category": "negative",
+            "source": "negative_anger"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Negative - Anger"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            }
+        },
+        "correct_answer": "B",
+        "correct_emotion": "anger",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Listen to this emotional speech. Which emotion is being expressed? Answer with A, B, C, or D",
+        "target_emotion": "anger",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/anger/dia173_utt4.wav",
+            "emotion": "anger",
+            "category": "negative",
+            "source": "negative_anger"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Negative - Anger"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            }
+        },
+        "correct_answer": "C",
+        "correct_emotion": "anger",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Listen to this emotional speech. Which emotion is being expressed? Answer with A, B, C, or D",
+        "target_emotion": "anger",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/anger/dia113_utt6.wav",
+            "emotion": "anger",
+            "category": "negative",
+            "source": "negative_anger"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Negative - Anger"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            }
+        },
+        "correct_answer": "C",
+        "correct_emotion": "anger",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Listen to this emotional speech. Which emotion is being expressed? Answer with A, B, C, or D",
+        "target_emotion": "anger",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/anger/dia156_utt12.wav",
+            "emotion": "anger",
+            "category": "negative",
+            "source": "negative_anger"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Negative - Anger"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            }
+        },
+        "correct_answer": "A",
+        "correct_emotion": "anger",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Listen to this emotional speech. Which emotion is being expressed? Answer with A, B, C, or D",
+        "target_emotion": "anger",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/anger/dia132_utt10.wav",
+            "emotion": "anger",
+            "category": "negative",
+            "source": "negative_anger"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Negative - Anger"
+            }
+        },
+        "correct_answer": "D",
+        "correct_emotion": "anger",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Listen to this emotional speech. Which emotion is being expressed? Answer with A, B, C, or D",
+        "target_emotion": "anger",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/anger/dia72_utt9.wav",
+            "emotion": "anger",
+            "category": "negative",
+            "source": "negative_anger"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Negative - Anger"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            }
+        },
+        "correct_answer": "C",
+        "correct_emotion": "anger",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Listen to this emotional speech. Which emotion is being expressed? Answer with A, B, C, or D",
+        "target_emotion": "surprise",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/surprise/dia8_utt3.wav",
+            "emotion": "surprise",
+            "category": "negative",
+            "source": "negative_surprise"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Negative - Surprise"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            }
+        },
+        "correct_answer": "C",
+        "correct_emotion": "surprise",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Listen to this emotional speech. Which emotion is being expressed? Answer with A, B, C, or D",
+        "target_emotion": "surprise",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/surprise/dia41_utt3.wav",
+            "emotion": "surprise",
+            "category": "negative",
+            "source": "negative_surprise"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Negative - Surprise"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            }
+        },
+        "correct_answer": "B",
+        "correct_emotion": "surprise",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Listen to this emotional speech. Which emotion is being expressed? Answer with A, B, C, or D",
+        "target_emotion": "surprise",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/surprise/dia173_utt6.wav",
+            "emotion": "surprise",
+            "category": "negative",
+            "source": "negative_surprise"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Negative - Surprise"
+            }
+        },
+        "correct_answer": "D",
+        "correct_emotion": "surprise",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Listen to this emotional speech. Which emotion is being expressed? Answer with A, B, C, or D",
+        "target_emotion": "surprise",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/surprise/dia165_utt2.wav",
+            "emotion": "surprise",
+            "category": "negative",
+            "source": "negative_surprise"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Negative - Surprise"
+            }
+        },
+        "correct_answer": "D",
+        "correct_emotion": "surprise",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Listen to this emotional speech. Which emotion is being expressed? Answer with A, B, C, or D",
+        "target_emotion": "surprise",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/surprise/dia179_utt2.wav",
+            "emotion": "surprise",
+            "category": "negative",
+            "source": "negative_surprise"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Negative - Surprise"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            }
+        },
+        "correct_answer": "B",
+        "correct_emotion": "surprise",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Listen to this emotional speech. Which emotion is being expressed? Answer with A, B, C, or D",
+        "target_emotion": "surprise",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/surprise/dia169_utt17.wav",
+            "emotion": "surprise",
+            "category": "negative",
+            "source": "negative_surprise"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Negative - Surprise"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            }
+        },
+        "correct_answer": "B",
+        "correct_emotion": "surprise",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Listen to this emotional speech. Which emotion is being expressed? Answer with A, B, C, or D",
+        "target_emotion": "disgust",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/disgust/dia3_utt5.wav",
+            "emotion": "disgust",
+            "category": "negative",
+            "source": "negative_disgust"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Negative - Disgust"
+            }
+        },
+        "correct_answer": "D",
+        "correct_emotion": "disgust",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Listen to this emotional speech. Which emotion is being expressed? Answer with A, B, C, or D",
+        "target_emotion": "disgust",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/disgust/dia165_utt3.wav",
+            "emotion": "disgust",
+            "category": "negative",
+            "source": "negative_disgust"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Negative - Disgust"
+            }
+        },
+        "correct_answer": "D",
+        "correct_emotion": "disgust",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Listen to this emotional speech. Which emotion is being expressed? Answer with A, B, C, or D",
+        "target_emotion": "disgust",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/disgust/dia88_utt2.wav",
+            "emotion": "disgust",
+            "category": "negative",
+            "source": "negative_disgust"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Negative - Disgust"
+            }
+        },
+        "correct_answer": "D",
+        "correct_emotion": "disgust",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Listen to this emotional speech. Which emotion is being expressed? Answer with A, B, C, or D",
+        "target_emotion": "disgust",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/disgust/dia80_utt2.wav",
+            "emotion": "disgust",
+            "category": "negative",
+            "source": "negative_disgust"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Negative - Disgust"
+            }
+        },
+        "correct_answer": "D",
+        "correct_emotion": "disgust",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Listen to this emotional speech. Which emotion is being expressed? Answer with A, B, C, or D",
+        "target_emotion": "disgust",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/disgust/dia34_utt6.wav",
+            "emotion": "disgust",
+            "category": "negative",
+            "source": "negative_disgust"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Negative - Disgust"
+            }
+        },
+        "correct_answer": "D",
+        "correct_emotion": "disgust",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Listen to this emotional speech. Which emotion is being expressed? Answer with A, B, C, or D",
+        "target_emotion": "disgust",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/disgust/dia70_utt9.wav",
+            "emotion": "disgust",
+            "category": "negative",
+            "source": "negative_disgust"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Negative - Disgust"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            }
+        },
+        "correct_answer": "A",
+        "correct_emotion": "disgust",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Listen to this emotional speech. Which emotion is being expressed? Answer with A, B, C, or D",
+        "target_emotion": "fear",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/fear/dia50_utt2.wav",
+            "emotion": "fear",
+            "category": "negative",
+            "source": "negative_fear"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Negative - Fear"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            }
+        },
+        "correct_answer": "A",
+        "correct_emotion": "fear",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Listen to this emotional speech. Which emotion is being expressed? Answer with A, B, C, or D",
+        "target_emotion": "fear",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/fear/dia128_utt3.wav",
+            "emotion": "fear",
+            "category": "negative",
+            "source": "negative_fear"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Negative - Fear"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            }
+        },
+        "correct_answer": "B",
+        "correct_emotion": "fear",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Listen to this emotional speech. Which emotion is being expressed? Answer with A, B, C, or D",
+        "target_emotion": "fear",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/fear/dia182_utt3.wav",
+            "emotion": "fear",
+            "category": "negative",
+            "source": "negative_fear"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Negative - Fear"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            }
+        },
+        "correct_answer": "C",
+        "correct_emotion": "fear",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Listen to this emotional speech. Which emotion is being expressed? Answer with A, B, C, or D",
+        "target_emotion": "fear",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/fear/dia175_utt4.wav",
+            "emotion": "fear",
+            "category": "negative",
+            "source": "negative_fear"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Negative - Fear"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            }
+        },
+        "correct_answer": "A",
+        "correct_emotion": "fear",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Listen to this emotional speech. Which emotion is being expressed? Answer with A, B, C, or D",
+        "target_emotion": "fear",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/fear/dia97_utt8.wav",
+            "emotion": "fear",
+            "category": "negative",
+            "source": "negative_fear"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Negative - Fear"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            }
+        },
+        "correct_answer": "A",
+        "correct_emotion": "fear",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Listen to this emotional speech. Which emotion is being expressed? Answer with A, B, C, or D",
+        "target_emotion": "fear",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/fear/dia17_utt16.wav",
+            "emotion": "fear",
+            "category": "negative",
+            "source": "negative_fear"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Negative - Fear"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            }
+        },
+        "correct_answer": "C",
+        "correct_emotion": "fear",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Listen to this emotional speech. Which emotion is being expressed? Answer with A, B, C, or D",
+        "target_emotion": "sadness",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/sadness/dia22_utt4.wav",
+            "emotion": "sadness",
+            "category": "negative",
+            "source": "negative_sadness"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Negative - Sadness"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            }
+        },
+        "correct_answer": "A",
+        "correct_emotion": "sadness",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Listen to this emotional speech. Which emotion is being expressed? Answer with A, B, C, or D",
+        "target_emotion": "sadness",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/sadness/dia129_utt3.wav",
+            "emotion": "sadness",
+            "category": "negative",
+            "source": "negative_sadness"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Negative - Sadness"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            }
+        },
+        "correct_answer": "C",
+        "correct_emotion": "sadness",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Listen to this emotional speech. Which emotion is being expressed? Answer with A, B, C, or D",
+        "target_emotion": "sadness",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/sadness/dia9_utt2.wav",
+            "emotion": "sadness",
+            "category": "negative",
+            "source": "negative_sadness"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Negative - Sadness"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            }
+        },
+        "correct_answer": "C",
+        "correct_emotion": "sadness",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Listen to this emotional speech. Which emotion is being expressed? Answer with A, B, C, or D",
+        "target_emotion": "sadness",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/sadness/dia156_utt9.wav",
+            "emotion": "sadness",
+            "category": "negative",
+            "source": "negative_sadness"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Negative - Sadness"
+            }
+        },
+        "correct_answer": "D",
+        "correct_emotion": "sadness",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Listen to this emotional speech. Which emotion is being expressed? Answer with A, B, C, or D",
+        "target_emotion": "sadness",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/sadness/dia100_utt6.wav",
+            "emotion": "sadness",
+            "category": "negative",
+            "source": "negative_sadness"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Negative - Sadness"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            }
+        },
+        "correct_answer": "C",
+        "correct_emotion": "sadness",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Listen to this emotional speech. Which emotion is being expressed? Answer with A, B, C, or D",
+        "target_emotion": "sadness",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/sadness/dia160_utt10.wav",
+            "emotion": "sadness",
+            "category": "negative",
+            "source": "negative_sadness"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "Positive - Joy"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "Neutral - Neutral"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "Negative - Sadness"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "Positive - Surprise"
+            }
+        },
+        "correct_answer": "C",
+        "correct_emotion": "sadness",
+        "correct_category": "negative"
+    }
+]

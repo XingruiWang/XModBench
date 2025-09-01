@@ -1,0 +1,20 @@
+{
+  "question": "Which image shows the correct view direction for the walk, footsteps sound?",
+  "correct_answer": 2,
+  "view_azimuths": [
+    0,
+    90,
+    180,
+    270
+  ],
+  "event_info": {
+    "class": "Walk, footsteps",
+    "timestamp": 4.6,
+    "azimuth": -166,
+    "elevation": -38,
+    "distance": 258,
+    "original_azimuth": -166,
+    "mapped_direction": 180,
+    "correct_answer_direction": 180
+  }
+}

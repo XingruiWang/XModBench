@@ -1,0 +1,20 @@
+{
+  "question": "Which image shows the correct view direction for the music sound?",
+  "correct_answer": 3,
+  "view_azimuths": [
+    0,
+    90,
+    180,
+    270
+  ],
+  "event_info": {
+    "class": "Music",
+    "timestamp": 29.7,
+    "azimuth": -54,
+    "elevation": -46,
+    "distance": 145,
+    "original_azimuth": -54,
+    "mapped_direction": 270,
+    "correct_answer_direction": 270
+  }
+}

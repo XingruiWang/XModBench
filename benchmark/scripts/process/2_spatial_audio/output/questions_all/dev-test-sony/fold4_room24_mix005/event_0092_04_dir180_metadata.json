@@ -1,0 +1,20 @@
+{
+  "question": "Which image shows the correct view direction for the laughter sound?",
+  "correct_answer": 2,
+  "view_azimuths": [
+    0,
+    90,
+    180,
+    270
+  ],
+  "event_info": {
+    "class": "Laughter",
+    "timestamp": 9.2,
+    "azimuth": 151,
+    "elevation": -21,
+    "distance": 127,
+    "original_azimuth": 151,
+    "mapped_direction": 180,
+    "correct_answer_direction": 180
+  }
+}

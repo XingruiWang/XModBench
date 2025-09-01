@@ -1,0 +1,20 @@
+{
+  "question": "Which image shows the correct view direction for the domestic sounds sound?",
+  "correct_answer": 1,
+  "view_azimuths": [
+    0,
+    90,
+    180,
+    270
+  ],
+  "event_info": {
+    "class": "Domestic sounds",
+    "timestamp": 52.0,
+    "azimuth": 54,
+    "elevation": -72,
+    "distance": 100,
+    "original_azimuth": 54,
+    "mapped_direction": 90,
+    "correct_answer_direction": 90
+  }
+}

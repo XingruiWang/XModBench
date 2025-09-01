@@ -1,0 +1,1724 @@
+[
+    {
+        "question": "Look at this facial expression. Which speech sample expresses the same emotion? Answer with A, B, C, or D",
+        "target_emotion": "joy",
+        "target_category": "positive",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia108_utt9.mp4",
+            "emotion": "joy",
+            "category": "positive",
+            "source": "positive_joy"
+        },
+        "options": {
+            "A": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/anger/dia13_utt7.wav",
+                "emotion": "anger",
+                "category": "negative"
+            },
+            "B": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia151_utt1.wav",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "C": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/surprise/dia182_utt7.wav",
+                "emotion": "surprise",
+                "category": "negative"
+            },
+            "D": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia40_utt0.wav",
+                "emotion": "joy",
+                "category": "positive"
+            }
+        },
+        "correct_answer": "D",
+        "correct_emotion": "joy",
+        "correct_category": "positive"
+    },
+    {
+        "question": "Look at this facial expression. Which speech sample expresses the same emotion? Answer with A, B, C, or D",
+        "target_emotion": "joy",
+        "target_category": "positive",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia46_utt1.mp4",
+            "emotion": "joy",
+            "category": "positive",
+            "source": "positive_joy"
+        },
+        "options": {
+            "A": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/sadness/dia124_utt2.wav",
+                "emotion": "sadness",
+                "category": "negative"
+            },
+            "B": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia125_utt5.wav",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "C": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia163_utt3.wav",
+                "emotion": "joy",
+                "category": "positive"
+            },
+            "D": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/anger/dia9_utt7.wav",
+                "emotion": "anger",
+                "category": "negative"
+            }
+        },
+        "correct_answer": "C",
+        "correct_emotion": "joy",
+        "correct_category": "positive"
+    },
+    {
+        "question": "Look at this facial expression. Which speech sample expresses the same emotion? Answer with A, B, C, or D",
+        "target_emotion": "joy",
+        "target_category": "positive",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia76_utt18.mp4",
+            "emotion": "joy",
+            "category": "positive",
+            "source": "positive_joy"
+        },
+        "options": {
+            "A": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/disgust/dia17_utt12.wav",
+                "emotion": "disgust",
+                "category": "negative"
+            },
+            "B": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/sadness/dia111_utt6.wav",
+                "emotion": "sadness",
+                "category": "negative"
+            },
+            "C": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia176_utt1.wav",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "D": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia189_utt0.wav",
+                "emotion": "joy",
+                "category": "positive"
+            }
+        },
+        "correct_answer": "D",
+        "correct_emotion": "joy",
+        "correct_category": "positive"
+    },
+    {
+        "question": "Look at this facial expression. Which speech sample expresses the same emotion? Answer with A, B, C, or D",
+        "target_emotion": "joy",
+        "target_category": "positive",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia112_utt20.mp4",
+            "emotion": "joy",
+            "category": "positive",
+            "source": "positive_joy"
+        },
+        "options": {
+            "A": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia111_utt14.wav",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "B": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia154_utt1.wav",
+                "emotion": "joy",
+                "category": "positive"
+            },
+            "C": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/anger/dia111_utt5.wav",
+                "emotion": "anger",
+                "category": "negative"
+            },
+            "D": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/fear/dia71_utt13.wav",
+                "emotion": "fear",
+                "category": "negative"
+            }
+        },
+        "correct_answer": "B",
+        "correct_emotion": "joy",
+        "correct_category": "positive"
+    },
+    {
+        "question": "Look at this facial expression. Which speech sample expresses the same emotion? Answer with A, B, C, or D",
+        "target_emotion": "joy",
+        "target_category": "positive",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia133_utt4.mp4",
+            "emotion": "joy",
+            "category": "positive",
+            "source": "positive_joy"
+        },
+        "options": {
+            "A": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia108_utt9.wav",
+                "emotion": "joy",
+                "category": "positive"
+            },
+            "B": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia129_utt6.wav",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "C": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/anger/dia157_utt2.wav",
+                "emotion": "anger",
+                "category": "negative"
+            },
+            "D": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/surprise/dia7_utt6.wav",
+                "emotion": "surprise",
+                "category": "negative"
+            }
+        },
+        "correct_answer": "A",
+        "correct_emotion": "joy",
+        "correct_category": "positive"
+    },
+    {
+        "question": "Look at this facial expression. Which speech sample expresses the same emotion? Answer with A, B, C, or D",
+        "target_emotion": "joy",
+        "target_category": "positive",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia146_utt0.mp4",
+            "emotion": "joy",
+            "category": "positive",
+            "source": "positive_joy"
+        },
+        "options": {
+            "A": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/disgust/dia106_utt2.wav",
+                "emotion": "disgust",
+                "category": "negative"
+            },
+            "B": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/anger/dia54_utt7.wav",
+                "emotion": "anger",
+                "category": "negative"
+            },
+            "C": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia14_utt6.wav",
+                "emotion": "joy",
+                "category": "positive"
+            },
+            "D": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia24_utt2.wav",
+                "emotion": "neutral",
+                "category": "neutral"
+            }
+        },
+        "correct_answer": "C",
+        "correct_emotion": "joy",
+        "correct_category": "positive"
+    },
+    {
+        "question": "Look at this facial expression. Which speech sample expresses the same emotion? Answer with A, B, C, or D",
+        "target_emotion": "surprise",
+        "target_category": "positive",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia124_utt8.mp4",
+            "emotion": "surprise",
+            "category": "positive",
+            "source": "positive_surprise"
+        },
+        "options": {
+            "A": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/anger/dia95_utt5.wav",
+                "emotion": "anger",
+                "category": "negative"
+            },
+            "B": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia130_utt6.wav",
+                "emotion": "surprise",
+                "category": "positive"
+            },
+            "C": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia57_utt3.wav",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "D": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/surprise/dia158_utt6.wav",
+                "emotion": "surprise",
+                "category": "negative"
+            }
+        },
+        "correct_answer": "B",
+        "correct_emotion": "surprise",
+        "correct_category": "positive"
+    },
+    {
+        "question": "Look at this facial expression. Which speech sample expresses the same emotion? Answer with A, B, C, or D",
+        "target_emotion": "surprise",
+        "target_category": "positive",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia130_utt8.mp4",
+            "emotion": "surprise",
+            "category": "positive",
+            "source": "positive_surprise"
+        },
+        "options": {
+            "A": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia4_utt3.wav",
+                "emotion": "surprise",
+                "category": "positive"
+            },
+            "B": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/sadness/dia47_utt0.wav",
+                "emotion": "sadness",
+                "category": "negative"
+            },
+            "C": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/fear/dia195_utt0.wav",
+                "emotion": "fear",
+                "category": "negative"
+            },
+            "D": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia190_utt3.wav",
+                "emotion": "neutral",
+                "category": "neutral"
+            }
+        },
+        "correct_answer": "A",
+        "correct_emotion": "surprise",
+        "correct_category": "positive"
+    },
+    {
+        "question": "Look at this facial expression. Which speech sample expresses the same emotion? Answer with A, B, C, or D",
+        "target_emotion": "surprise",
+        "target_category": "positive",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia29_utt4.mp4",
+            "emotion": "surprise",
+            "category": "positive",
+            "source": "positive_surprise"
+        },
+        "options": {
+            "A": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/fear/dia128_utt3.wav",
+                "emotion": "fear",
+                "category": "negative"
+            },
+            "B": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia113_utt12.wav",
+                "emotion": "surprise",
+                "category": "positive"
+            },
+            "C": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/surprise/dia182_utt9.wav",
+                "emotion": "surprise",
+                "category": "negative"
+            },
+            "D": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia76_utt2.wav",
+                "emotion": "neutral",
+                "category": "neutral"
+            }
+        },
+        "correct_answer": "B",
+        "correct_emotion": "surprise",
+        "correct_category": "positive"
+    },
+    {
+        "question": "Look at this facial expression. Which speech sample expresses the same emotion? Answer with A, B, C, or D",
+        "target_emotion": "surprise",
+        "target_category": "positive",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia71_utt5.mp4",
+            "emotion": "surprise",
+            "category": "positive",
+            "source": "positive_surprise"
+        },
+        "options": {
+            "A": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/fear/dia9_utt0.wav",
+                "emotion": "fear",
+                "category": "negative"
+            },
+            "B": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia177_utt0.wav",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "C": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/sadness/dia149_utt0.wav",
+                "emotion": "sadness",
+                "category": "negative"
+            },
+            "D": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia112_utt13.wav",
+                "emotion": "surprise",
+                "category": "positive"
+            }
+        },
+        "correct_answer": "D",
+        "correct_emotion": "surprise",
+        "correct_category": "positive"
+    },
+    {
+        "question": "Look at this facial expression. Which speech sample expresses the same emotion? Answer with A, B, C, or D",
+        "target_emotion": "surprise",
+        "target_category": "positive",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia124_utt11.mp4",
+            "emotion": "surprise",
+            "category": "positive",
+            "source": "positive_surprise"
+        },
+        "options": {
+            "A": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/fear/dia113_utt4.wav",
+                "emotion": "fear",
+                "category": "negative"
+            },
+            "B": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia133_utt8.wav",
+                "emotion": "surprise",
+                "category": "positive"
+            },
+            "C": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/surprise/dia122_utt1.wav",
+                "emotion": "surprise",
+                "category": "negative"
+            },
+            "D": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia99_utt0.wav",
+                "emotion": "neutral",
+                "category": "neutral"
+            }
+        },
+        "correct_answer": "B",
+        "correct_emotion": "surprise",
+        "correct_category": "positive"
+    },
+    {
+        "question": "Look at this facial expression. Which speech sample expresses the same emotion? Answer with A, B, C, or D",
+        "target_emotion": "surprise",
+        "target_category": "positive",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia96_utt12.mp4",
+            "emotion": "surprise",
+            "category": "positive",
+            "source": "positive_surprise"
+        },
+        "options": {
+            "A": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/anger/dia112_utt7.wav",
+                "emotion": "anger",
+                "category": "negative"
+            },
+            "B": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/surprise/dia125_utt22.wav",
+                "emotion": "surprise",
+                "category": "negative"
+            },
+            "C": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia86_utt3.wav",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "D": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia42_utt5.wav",
+                "emotion": "surprise",
+                "category": "positive"
+            }
+        },
+        "correct_answer": "D",
+        "correct_emotion": "surprise",
+        "correct_category": "positive"
+    },
+    {
+        "question": "Look at this facial expression. Which speech sample expresses the same emotion? Answer with A, B, C, or D",
+        "target_emotion": "anger",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/anger/dia175_utt20.mp4",
+            "emotion": "anger",
+            "category": "negative",
+            "source": "negative_anger"
+        },
+        "options": {
+            "A": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia54_utt6.wav",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "B": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/anger/dia72_utt4.wav",
+                "emotion": "anger",
+                "category": "negative"
+            },
+            "C": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia42_utt6.wav",
+                "emotion": "joy",
+                "category": "positive"
+            },
+            "D": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia56_utt10.wav",
+                "emotion": "surprise",
+                "category": "positive"
+            }
+        },
+        "correct_answer": "B",
+        "correct_emotion": "anger",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Look at this facial expression. Which speech sample expresses the same emotion? Answer with A, B, C, or D",
+        "target_emotion": "anger",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/anger/dia108_utt3.mp4",
+            "emotion": "anger",
+            "category": "negative",
+            "source": "negative_anger"
+        },
+        "options": {
+            "A": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia13_utt4.wav",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "B": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia42_utt0.wav",
+                "emotion": "joy",
+                "category": "positive"
+            },
+            "C": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/anger/dia173_utt4.wav",
+                "emotion": "anger",
+                "category": "negative"
+            },
+            "D": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia169_utt12.wav",
+                "emotion": "surprise",
+                "category": "positive"
+            }
+        },
+        "correct_answer": "C",
+        "correct_emotion": "anger",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Look at this facial expression. Which speech sample expresses the same emotion? Answer with A, B, C, or D",
+        "target_emotion": "anger",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/anger/dia70_utt12.mp4",
+            "emotion": "anger",
+            "category": "negative",
+            "source": "negative_anger"
+        },
+        "options": {
+            "A": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia184_utt11.wav",
+                "emotion": "surprise",
+                "category": "positive"
+            },
+            "B": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia180_utt6.wav",
+                "emotion": "joy",
+                "category": "positive"
+            },
+            "C": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/anger/dia113_utt6.wav",
+                "emotion": "anger",
+                "category": "negative"
+            },
+            "D": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia129_utt5.wav",
+                "emotion": "neutral",
+                "category": "neutral"
+            }
+        },
+        "correct_answer": "C",
+        "correct_emotion": "anger",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Look at this facial expression. Which speech sample expresses the same emotion? Answer with A, B, C, or D",
+        "target_emotion": "anger",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/anger/dia70_utt11.mp4",
+            "emotion": "anger",
+            "category": "negative",
+            "source": "negative_anger"
+        },
+        "options": {
+            "A": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/anger/dia156_utt12.wav",
+                "emotion": "anger",
+                "category": "negative"
+            },
+            "B": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia9_utt6.wav",
+                "emotion": "surprise",
+                "category": "positive"
+            },
+            "C": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia21_utt5.wav",
+                "emotion": "joy",
+                "category": "positive"
+            },
+            "D": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia173_utt3.wav",
+                "emotion": "neutral",
+                "category": "neutral"
+            }
+        },
+        "correct_answer": "A",
+        "correct_emotion": "anger",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Look at this facial expression. Which speech sample expresses the same emotion? Answer with A, B, C, or D",
+        "target_emotion": "anger",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/anger/dia144_utt10.mp4",
+            "emotion": "anger",
+            "category": "negative",
+            "source": "negative_anger"
+        },
+        "options": {
+            "A": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia58_utt0.wav",
+                "emotion": "joy",
+                "category": "positive"
+            },
+            "B": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia32_utt8.wav",
+                "emotion": "surprise",
+                "category": "positive"
+            },
+            "C": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia133_utt9.wav",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "D": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/anger/dia132_utt10.wav",
+                "emotion": "anger",
+                "category": "negative"
+            }
+        },
+        "correct_answer": "D",
+        "correct_emotion": "anger",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Look at this facial expression. Which speech sample expresses the same emotion? Answer with A, B, C, or D",
+        "target_emotion": "anger",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/anger/dia169_utt9.mp4",
+            "emotion": "anger",
+            "category": "negative",
+            "source": "negative_anger"
+        },
+        "options": {
+            "A": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia7_utt3.wav",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "B": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia103_utt0.wav",
+                "emotion": "joy",
+                "category": "positive"
+            },
+            "C": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/anger/dia72_utt9.wav",
+                "emotion": "anger",
+                "category": "negative"
+            },
+            "D": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia191_utt8.wav",
+                "emotion": "surprise",
+                "category": "positive"
+            }
+        },
+        "correct_answer": "C",
+        "correct_emotion": "anger",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Look at this facial expression. Which speech sample expresses the same emotion? Answer with A, B, C, or D",
+        "target_emotion": "surprise",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/surprise/dia132_utt19.mp4",
+            "emotion": "surprise",
+            "category": "negative",
+            "source": "negative_surprise"
+        },
+        "options": {
+            "A": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia88_utt9.wav",
+                "emotion": "joy",
+                "category": "positive"
+            },
+            "B": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia190_utt4.wav",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "C": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/surprise/dia8_utt3.wav",
+                "emotion": "surprise",
+                "category": "negative"
+            },
+            "D": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia42_utt7.wav",
+                "emotion": "surprise",
+                "category": "positive"
+            }
+        },
+        "correct_answer": "C",
+        "correct_emotion": "surprise",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Look at this facial expression. Which speech sample expresses the same emotion? Answer with A, B, C, or D",
+        "target_emotion": "surprise",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/surprise/dia85_utt1.mp4",
+            "emotion": "surprise",
+            "category": "negative",
+            "source": "negative_surprise"
+        },
+        "options": {
+            "A": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia113_utt12.wav",
+                "emotion": "surprise",
+                "category": "positive"
+            },
+            "B": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/surprise/dia41_utt3.wav",
+                "emotion": "surprise",
+                "category": "negative"
+            },
+            "C": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia97_utt0.wav",
+                "emotion": "joy",
+                "category": "positive"
+            },
+            "D": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia112_utt5.wav",
+                "emotion": "neutral",
+                "category": "neutral"
+            }
+        },
+        "correct_answer": "B",
+        "correct_emotion": "surprise",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Look at this facial expression. Which speech sample expresses the same emotion? Answer with A, B, C, or D",
+        "target_emotion": "surprise",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/surprise/dia85_utt1.mp4",
+            "emotion": "surprise",
+            "category": "negative",
+            "source": "negative_surprise"
+        },
+        "options": {
+            "A": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia76_utt17.wav",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "B": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia108_utt8.wav",
+                "emotion": "surprise",
+                "category": "positive"
+            },
+            "C": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia175_utt22.wav",
+                "emotion": "joy",
+                "category": "positive"
+            },
+            "D": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/surprise/dia173_utt6.wav",
+                "emotion": "surprise",
+                "category": "negative"
+            }
+        },
+        "correct_answer": "D",
+        "correct_emotion": "surprise",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Look at this facial expression. Which speech sample expresses the same emotion? Answer with A, B, C, or D",
+        "target_emotion": "surprise",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/surprise/dia192_utt9.mp4",
+            "emotion": "surprise",
+            "category": "negative",
+            "source": "negative_surprise"
+        },
+        "options": {
+            "A": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia47_utt13.wav",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "B": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia112_utt13.wav",
+                "emotion": "surprise",
+                "category": "positive"
+            },
+            "C": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia167_utt6.wav",
+                "emotion": "joy",
+                "category": "positive"
+            },
+            "D": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/surprise/dia165_utt2.wav",
+                "emotion": "surprise",
+                "category": "negative"
+            }
+        },
+        "correct_answer": "D",
+        "correct_emotion": "surprise",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Look at this facial expression. Which speech sample expresses the same emotion? Answer with A, B, C, or D",
+        "target_emotion": "surprise",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/surprise/dia184_utt9.mp4",
+            "emotion": "surprise",
+            "category": "negative",
+            "source": "negative_surprise"
+        },
+        "options": {
+            "A": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia60_utt3.wav",
+                "emotion": "surprise",
+                "category": "positive"
+            },
+            "B": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/surprise/dia179_utt2.wav",
+                "emotion": "surprise",
+                "category": "negative"
+            },
+            "C": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia39_utt4.wav",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "D": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia66_utt4.wav",
+                "emotion": "joy",
+                "category": "positive"
+            }
+        },
+        "correct_answer": "B",
+        "correct_emotion": "surprise",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Look at this facial expression. Which speech sample expresses the same emotion? Answer with A, B, C, or D",
+        "target_emotion": "surprise",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/surprise/dia178_utt9.mp4",
+            "emotion": "surprise",
+            "category": "negative",
+            "source": "negative_surprise"
+        },
+        "options": {
+            "A": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia107_utt12.wav",
+                "emotion": "surprise",
+                "category": "positive"
+            },
+            "B": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/surprise/dia169_utt17.wav",
+                "emotion": "surprise",
+                "category": "negative"
+            },
+            "C": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia194_utt1.wav",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "D": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia22_utt0.wav",
+                "emotion": "joy",
+                "category": "positive"
+            }
+        },
+        "correct_answer": "B",
+        "correct_emotion": "surprise",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Look at this facial expression. Which speech sample expresses the same emotion? Answer with A, B, C, or D",
+        "target_emotion": "disgust",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/disgust/dia130_utt1.mp4",
+            "emotion": "disgust",
+            "category": "negative",
+            "source": "negative_disgust"
+        },
+        "options": {
+            "A": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia137_utt2.wav",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "B": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia175_utt2.wav",
+                "emotion": "surprise",
+                "category": "positive"
+            },
+            "C": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia1_utt5.wav",
+                "emotion": "joy",
+                "category": "positive"
+            },
+            "D": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/disgust/dia3_utt5.wav",
+                "emotion": "disgust",
+                "category": "negative"
+            }
+        },
+        "correct_answer": "D",
+        "correct_emotion": "disgust",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Look at this facial expression. Which speech sample expresses the same emotion? Answer with A, B, C, or D",
+        "target_emotion": "disgust",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/disgust/dia30_utt5.mp4",
+            "emotion": "disgust",
+            "category": "negative",
+            "source": "negative_disgust"
+        },
+        "options": {
+            "A": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia42_utt3.wav",
+                "emotion": "surprise",
+                "category": "positive"
+            },
+            "B": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia28_utt4.wav",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "C": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia154_utt16.wav",
+                "emotion": "joy",
+                "category": "positive"
+            },
+            "D": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/disgust/dia165_utt3.wav",
+                "emotion": "disgust",
+                "category": "negative"
+            }
+        },
+        "correct_answer": "D",
+        "correct_emotion": "disgust",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Look at this facial expression. Which speech sample expresses the same emotion? Answer with A, B, C, or D",
+        "target_emotion": "disgust",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/disgust/dia30_utt5.mp4",
+            "emotion": "disgust",
+            "category": "negative",
+            "source": "negative_disgust"
+        },
+        "options": {
+            "A": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia47_utt8.wav",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "B": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia95_utt15.wav",
+                "emotion": "joy",
+                "category": "positive"
+            },
+            "C": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia113_utt12.wav",
+                "emotion": "surprise",
+                "category": "positive"
+            },
+            "D": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/disgust/dia88_utt2.wav",
+                "emotion": "disgust",
+                "category": "negative"
+            }
+        },
+        "correct_answer": "D",
+        "correct_emotion": "disgust",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Look at this facial expression. Which speech sample expresses the same emotion? Answer with A, B, C, or D",
+        "target_emotion": "disgust",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/disgust/dia41_utt6.mp4",
+            "emotion": "disgust",
+            "category": "negative",
+            "source": "negative_disgust"
+        },
+        "options": {
+            "A": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia118_utt7.wav",
+                "emotion": "joy",
+                "category": "positive"
+            },
+            "B": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia29_utt5.wav",
+                "emotion": "surprise",
+                "category": "positive"
+            },
+            "C": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia147_utt7.wav",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "D": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/disgust/dia80_utt2.wav",
+                "emotion": "disgust",
+                "category": "negative"
+            }
+        },
+        "correct_answer": "D",
+        "correct_emotion": "disgust",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Look at this facial expression. Which speech sample expresses the same emotion? Answer with A, B, C, or D",
+        "target_emotion": "disgust",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/disgust/dia123_utt9.mp4",
+            "emotion": "disgust",
+            "category": "negative",
+            "source": "negative_disgust"
+        },
+        "options": {
+            "A": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia108_utt8.wav",
+                "emotion": "surprise",
+                "category": "positive"
+            },
+            "B": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia127_utt2.wav",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "C": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia24_utt1.wav",
+                "emotion": "joy",
+                "category": "positive"
+            },
+            "D": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/disgust/dia34_utt6.wav",
+                "emotion": "disgust",
+                "category": "negative"
+            }
+        },
+        "correct_answer": "D",
+        "correct_emotion": "disgust",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Look at this facial expression. Which speech sample expresses the same emotion? Answer with A, B, C, or D",
+        "target_emotion": "disgust",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/disgust/dia34_utt6.mp4",
+            "emotion": "disgust",
+            "category": "negative",
+            "source": "negative_disgust"
+        },
+        "options": {
+            "A": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/disgust/dia70_utt9.wav",
+                "emotion": "disgust",
+                "category": "negative"
+            },
+            "B": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia111_utt2.wav",
+                "emotion": "joy",
+                "category": "positive"
+            },
+            "C": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia125_utt16.wav",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "D": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia114_utt2.wav",
+                "emotion": "surprise",
+                "category": "positive"
+            }
+        },
+        "correct_answer": "A",
+        "correct_emotion": "disgust",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Look at this facial expression. Which speech sample expresses the same emotion? Answer with A, B, C, or D",
+        "target_emotion": "fear",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/fear/dia126_utt4.mp4",
+            "emotion": "fear",
+            "category": "negative",
+            "source": "negative_fear"
+        },
+        "options": {
+            "A": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/fear/dia50_utt2.wav",
+                "emotion": "fear",
+                "category": "negative"
+            },
+            "B": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia96_utt17.wav",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "C": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia98_utt0.wav",
+                "emotion": "surprise",
+                "category": "positive"
+            },
+            "D": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia120_utt2.wav",
+                "emotion": "joy",
+                "category": "positive"
+            }
+        },
+        "correct_answer": "A",
+        "correct_emotion": "fear",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Look at this facial expression. Which speech sample expresses the same emotion? Answer with A, B, C, or D",
+        "target_emotion": "fear",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/fear/dia100_utt14.mp4",
+            "emotion": "fear",
+            "category": "negative",
+            "source": "negative_fear"
+        },
+        "options": {
+            "A": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia154_utt1.wav",
+                "emotion": "joy",
+                "category": "positive"
+            },
+            "B": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/fear/dia128_utt3.wav",
+                "emotion": "fear",
+                "category": "negative"
+            },
+            "C": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia189_utt4.wav",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "D": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia112_utt13.wav",
+                "emotion": "surprise",
+                "category": "positive"
+            }
+        },
+        "correct_answer": "B",
+        "correct_emotion": "fear",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Look at this facial expression. Which speech sample expresses the same emotion? Answer with A, B, C, or D",
+        "target_emotion": "fear",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/fear/dia143_utt5.mp4",
+            "emotion": "fear",
+            "category": "negative",
+            "source": "negative_fear"
+        },
+        "options": {
+            "A": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia29_utt4.wav",
+                "emotion": "surprise",
+                "category": "positive"
+            },
+            "B": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia129_utt7.wav",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "C": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/fear/dia182_utt3.wav",
+                "emotion": "fear",
+                "category": "negative"
+            },
+            "D": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia184_utt14.wav",
+                "emotion": "joy",
+                "category": "positive"
+            }
+        },
+        "correct_answer": "C",
+        "correct_emotion": "fear",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Look at this facial expression. Which speech sample expresses the same emotion? Answer with A, B, C, or D",
+        "target_emotion": "fear",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/fear/dia3_utt1.mp4",
+            "emotion": "fear",
+            "category": "negative",
+            "source": "negative_fear"
+        },
+        "options": {
+            "A": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/fear/dia175_utt4.wav",
+                "emotion": "fear",
+                "category": "negative"
+            },
+            "B": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia61_utt2.wav",
+                "emotion": "surprise",
+                "category": "positive"
+            },
+            "C": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia156_utt1.wav",
+                "emotion": "joy",
+                "category": "positive"
+            },
+            "D": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia132_utt14.wav",
+                "emotion": "neutral",
+                "category": "neutral"
+            }
+        },
+        "correct_answer": "A",
+        "correct_emotion": "fear",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Look at this facial expression. Which speech sample expresses the same emotion? Answer with A, B, C, or D",
+        "target_emotion": "fear",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/fear/dia37_utt3.mp4",
+            "emotion": "fear",
+            "category": "negative",
+            "source": "negative_fear"
+        },
+        "options": {
+            "A": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/fear/dia97_utt8.wav",
+                "emotion": "fear",
+                "category": "negative"
+            },
+            "B": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia110_utt3.wav",
+                "emotion": "surprise",
+                "category": "positive"
+            },
+            "C": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia1_utt0.wav",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "D": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia156_utt0.wav",
+                "emotion": "joy",
+                "category": "positive"
+            }
+        },
+        "correct_answer": "A",
+        "correct_emotion": "fear",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Look at this facial expression. Which speech sample expresses the same emotion? Answer with A, B, C, or D",
+        "target_emotion": "fear",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/fear/dia182_utt3.mp4",
+            "emotion": "fear",
+            "category": "negative",
+            "source": "negative_fear"
+        },
+        "options": {
+            "A": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia75_utt3.wav",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "B": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia22_utt9.wav",
+                "emotion": "surprise",
+                "category": "positive"
+            },
+            "C": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/fear/dia17_utt16.wav",
+                "emotion": "fear",
+                "category": "negative"
+            },
+            "D": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia73_utt7.wav",
+                "emotion": "joy",
+                "category": "positive"
+            }
+        },
+        "correct_answer": "C",
+        "correct_emotion": "fear",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Look at this facial expression. Which speech sample expresses the same emotion? Answer with A, B, C, or D",
+        "target_emotion": "sadness",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/sadness/dia163_utt6.mp4",
+            "emotion": "sadness",
+            "category": "negative",
+            "source": "negative_sadness"
+        },
+        "options": {
+            "A": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/sadness/dia22_utt4.wav",
+                "emotion": "sadness",
+                "category": "negative"
+            },
+            "B": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia88_utt11.wav",
+                "emotion": "surprise",
+                "category": "positive"
+            },
+            "C": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia70_utt22.wav",
+                "emotion": "joy",
+                "category": "positive"
+            },
+            "D": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia132_utt15.wav",
+                "emotion": "neutral",
+                "category": "neutral"
+            }
+        },
+        "correct_answer": "A",
+        "correct_emotion": "sadness",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Look at this facial expression. Which speech sample expresses the same emotion? Answer with A, B, C, or D",
+        "target_emotion": "sadness",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/sadness/dia174_utt15.mp4",
+            "emotion": "sadness",
+            "category": "negative",
+            "source": "negative_sadness"
+        },
+        "options": {
+            "A": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia190_utt3.wav",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "B": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia1_utt3.wav",
+                "emotion": "joy",
+                "category": "positive"
+            },
+            "C": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/sadness/dia129_utt3.wav",
+                "emotion": "sadness",
+                "category": "negative"
+            },
+            "D": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia169_utt12.wav",
+                "emotion": "surprise",
+                "category": "positive"
+            }
+        },
+        "correct_answer": "C",
+        "correct_emotion": "sadness",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Look at this facial expression. Which speech sample expresses the same emotion? Answer with A, B, C, or D",
+        "target_emotion": "sadness",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/sadness/dia25_utt2.mp4",
+            "emotion": "sadness",
+            "category": "negative",
+            "source": "negative_sadness"
+        },
+        "options": {
+            "A": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia89_utt2.wav",
+                "emotion": "surprise",
+                "category": "positive"
+            },
+            "B": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia39_utt8.wav",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "C": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/sadness/dia9_utt2.wav",
+                "emotion": "sadness",
+                "category": "negative"
+            },
+            "D": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia71_utt2.wav",
+                "emotion": "joy",
+                "category": "positive"
+            }
+        },
+        "correct_answer": "C",
+        "correct_emotion": "sadness",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Look at this facial expression. Which speech sample expresses the same emotion? Answer with A, B, C, or D",
+        "target_emotion": "sadness",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/sadness/dia60_utt4.mp4",
+            "emotion": "sadness",
+            "category": "negative",
+            "source": "negative_sadness"
+        },
+        "options": {
+            "A": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia156_utt11.wav",
+                "emotion": "joy",
+                "category": "positive"
+            },
+            "B": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia39_utt10.wav",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "C": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia34_utt3.wav",
+                "emotion": "surprise",
+                "category": "positive"
+            },
+            "D": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/sadness/dia156_utt9.wav",
+                "emotion": "sadness",
+                "category": "negative"
+            }
+        },
+        "correct_answer": "D",
+        "correct_emotion": "sadness",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Look at this facial expression. Which speech sample expresses the same emotion? Answer with A, B, C, or D",
+        "target_emotion": "sadness",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/sadness/dia163_utt2.mp4",
+            "emotion": "sadness",
+            "category": "negative",
+            "source": "negative_sadness"
+        },
+        "options": {
+            "A": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia44_utt2.wav",
+                "emotion": "joy",
+                "category": "positive"
+            },
+            "B": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia33_utt4.wav",
+                "emotion": "surprise",
+                "category": "positive"
+            },
+            "C": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/sadness/dia100_utt6.wav",
+                "emotion": "sadness",
+                "category": "negative"
+            },
+            "D": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia184_utt8.wav",
+                "emotion": "neutral",
+                "category": "neutral"
+            }
+        },
+        "correct_answer": "C",
+        "correct_emotion": "sadness",
+        "correct_category": "negative"
+    },
+    {
+        "question": "Look at this facial expression. Which speech sample expresses the same emotion? Answer with A, B, C, or D",
+        "target_emotion": "sadness",
+        "target_category": "negative",
+        "conditions": {
+            "modality": "Video",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/sadness/dia125_utt20.mp4",
+            "emotion": "sadness",
+            "category": "negative",
+            "source": "negative_sadness"
+        },
+        "options": {
+            "A": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/joy/dia51_utt1.wav",
+                "emotion": "joy",
+                "category": "positive"
+            },
+            "B": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/neutral/neutral/dia195_utt5.wav",
+                "emotion": "neutral",
+                "category": "neutral"
+            },
+            "C": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/negative/sadness/dia160_utt10.wav",
+                "emotion": "sadness",
+                "category": "negative"
+            },
+            "D": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data/positive/surprise/dia14_utt0.wav",
+                "emotion": "surprise",
+                "category": "positive"
+            }
+        },
+        "correct_answer": "C",
+        "correct_emotion": "sadness",
+        "correct_category": "negative"
+    }
+]

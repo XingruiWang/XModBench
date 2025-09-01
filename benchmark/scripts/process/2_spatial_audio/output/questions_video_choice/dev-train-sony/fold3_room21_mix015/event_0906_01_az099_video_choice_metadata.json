@@ -1,0 +1,27 @@
+{
+  "question_type": "video_choice",
+  "question": "In the given 360\u00b0 panoramic video, several candidate views are shown, each representing a different viewing direction. The forward direction of each view corresponds to the middle of the image. You will also be provided with a spatial audio clip in which a male speech sound can be heard from a specific direction within the same 3D space. Which candidate video view has its viewing direction aligned with the direction from which the sound is coming?",
+  "correct_answer": 3,
+  "input_audio_path": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/STARSS23/foa_dev/dev-train-sony/fold3_room21_mix015.wav",
+  "choice_video_paths": [
+    "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/STARSS23/video_dev/dev-train-sony/fold3_room21_mix015.mp4",
+    "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/STARSS23/video_dev/dev-train-sony/fold3_room21_mix015.mp4",
+    "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/STARSS23/video_dev/dev-train-sony/fold3_room21_mix015.mp4",
+    "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/STARSS23/video_dev/dev-train-sony/fold3_room21_mix015.mp4"
+  ],
+  "choice_video_rotations": [
+    90,
+    180,
+    270,
+    0
+  ],
+  "event_info": {
+    "class": "Male speech",
+    "timestamp": 90.6,
+    "azimuth": 99,
+    "elevation": -19,
+    "distance": 132,
+    "original_azimuth": 99,
+    "correct_center_azimuth": 0
+  }
+}

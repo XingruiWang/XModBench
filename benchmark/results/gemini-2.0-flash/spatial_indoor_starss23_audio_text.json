@@ -1,0 +1,784 @@
+{
+    "task_name": "spatial_indoor/starss23_audio_text",
+    "score": 28.865979381443296,
+    "correct_count": 28,
+    "all_count": 97,
+    "results": {
+        "0": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 0,
+            "is_correct": false
+        },
+        "1": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 1,
+            "is_correct": false
+        },
+        "2": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 2,
+            "is_correct": false
+        },
+        "3": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 3,
+            "is_correct": false
+        },
+        "4": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 4,
+            "is_correct": false
+        },
+        "5": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 5,
+            "is_correct": false
+        },
+        "6": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 6,
+            "is_correct": false
+        },
+        "7": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 7,
+            "is_correct": true
+        },
+        "8": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 8,
+            "is_correct": false
+        },
+        "9": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 9,
+            "is_correct": false
+        },
+        "10": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 10,
+            "is_correct": false
+        },
+        "11": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 11,
+            "is_correct": true
+        },
+        "12": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 12,
+            "is_correct": false
+        },
+        "13": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 13,
+            "is_correct": false
+        },
+        "14": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 14,
+            "is_correct": false
+        },
+        "15": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 15,
+            "is_correct": true
+        },
+        "16": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 16,
+            "is_correct": false
+        },
+        "17": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 17,
+            "is_correct": true
+        },
+        "18": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 18,
+            "is_correct": true
+        },
+        "19": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 19,
+            "is_correct": false
+        },
+        "20": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 20,
+            "is_correct": false
+        },
+        "21": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 21,
+            "is_correct": false
+        },
+        "22": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 22,
+            "is_correct": true
+        },
+        "23": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 23,
+            "is_correct": false
+        },
+        "24": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 24,
+            "is_correct": false
+        },
+        "25": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 25,
+            "is_correct": false
+        },
+        "26": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 26,
+            "is_correct": false
+        },
+        "27": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 27,
+            "is_correct": false
+        },
+        "28": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 28,
+            "is_correct": false
+        },
+        "29": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 29,
+            "is_correct": false
+        },
+        "30": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 30,
+            "is_correct": false
+        },
+        "31": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 31,
+            "is_correct": true
+        },
+        "32": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 32,
+            "is_correct": false
+        },
+        "33": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 33,
+            "is_correct": false
+        },
+        "34": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 34,
+            "is_correct": true
+        },
+        "35": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 35,
+            "is_correct": true
+        },
+        "36": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 36,
+            "is_correct": false
+        },
+        "37": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 37,
+            "is_correct": false
+        },
+        "38": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 38,
+            "is_correct": false
+        },
+        "39": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 39,
+            "is_correct": false
+        },
+        "40": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 40,
+            "is_correct": true
+        },
+        "41": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 41,
+            "is_correct": false
+        },
+        "42": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 42,
+            "is_correct": false
+        },
+        "43": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 43,
+            "is_correct": true
+        },
+        "44": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 44,
+            "is_correct": true
+        },
+        "45": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 45,
+            "is_correct": false
+        },
+        "46": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 46,
+            "is_correct": false
+        },
+        "47": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 47,
+            "is_correct": false
+        },
+        "48": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 48,
+            "is_correct": true
+        },
+        "49": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 49,
+            "is_correct": false
+        },
+        "50": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 50,
+            "is_correct": true
+        },
+        "51": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 51,
+            "is_correct": true
+        },
+        "52": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 52,
+            "is_correct": false
+        },
+        "53": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 53,
+            "is_correct": true
+        },
+        "54": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 54,
+            "is_correct": true
+        },
+        "55": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 55,
+            "is_correct": false
+        },
+        "56": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 56,
+            "is_correct": false
+        },
+        "57": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 57,
+            "is_correct": true
+        },
+        "58": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 58,
+            "is_correct": false
+        },
+        "59": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 59,
+            "is_correct": false
+        },
+        "60": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 60,
+            "is_correct": false
+        },
+        "61": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 61,
+            "is_correct": true
+        },
+        "62": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 62,
+            "is_correct": false
+        },
+        "63": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 63,
+            "is_correct": false
+        },
+        "64": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 64,
+            "is_correct": true
+        },
+        "65": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 65,
+            "is_correct": false
+        },
+        "66": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 66,
+            "is_correct": false
+        },
+        "67": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 67,
+            "is_correct": false
+        },
+        "68": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 68,
+            "is_correct": false
+        },
+        "69": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 69,
+            "is_correct": true
+        },
+        "70": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 70,
+            "is_correct": false
+        },
+        "71": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 71,
+            "is_correct": true
+        },
+        "72": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 72,
+            "is_correct": false
+        },
+        "73": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 73,
+            "is_correct": true
+        },
+        "74": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 74,
+            "is_correct": false
+        },
+        "75": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 75,
+            "is_correct": true
+        },
+        "76": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 76,
+            "is_correct": false
+        },
+        "77": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 77,
+            "is_correct": true
+        },
+        "78": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 78,
+            "is_correct": false
+        },
+        "79": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 79,
+            "is_correct": false
+        },
+        "80": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 80,
+            "is_correct": false
+        },
+        "81": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 81,
+            "is_correct": true
+        },
+        "82": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 82,
+            "is_correct": false
+        },
+        "83": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 83,
+            "is_correct": false
+        },
+        "84": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 84,
+            "is_correct": true
+        },
+        "85": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 85,
+            "is_correct": false
+        },
+        "86": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 86,
+            "is_correct": false
+        },
+        "87": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 87,
+            "is_correct": false
+        },
+        "88": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 88,
+            "is_correct": false
+        },
+        "89": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 89,
+            "is_correct": false
+        },
+        "90": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 90,
+            "is_correct": false
+        },
+        "91": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 91,
+            "is_correct": true
+        },
+        "92": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 92,
+            "is_correct": false
+        },
+        "93": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 93,
+            "is_correct": false
+        },
+        "94": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 94,
+            "is_correct": false
+        },
+        "95": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 95,
+            "is_correct": false
+        },
+        "96": {
+            "question": "Listen to this spatial audio recording. Pay attention to the directionality of the sound in 3D space. Which text description best matches the spatial location of the sound? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 96,
+            "is_correct": false
+        }
+    }
+}

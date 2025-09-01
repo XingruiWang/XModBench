@@ -1,0 +1,88 @@
+{
+    "task_name": "temporal_order/vggss_order_audio_text",
+    "score": 40.0,
+    "correct_count": 4,
+    "all_count": 10,
+    "results": {
+        "0": {
+            "question": "Listen to the audio clip below, which features multiple sounds occurring in a specific temporal sequence. Pay close attention to the chronological order in which each sound appears. Which text best describes the temporal order of the events (from first to last)? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "The audio begins with the sound of a motorboat. Following that, the washboard sound is distinctly heard. Then, there are sounds of people babbling, and the oboe comes in last. This order corresponds to option D.",
+            "correct_answer": "A",
+            "index": 0,
+            "is_correct": false
+        },
+        "1": {
+            "question": "Listen to the audio clip below, which features multiple sounds occurring in a specific temporal sequence. Pay close attention to the chronological order in which each sound appears. Which text best describes the temporal order of the events (from first to last)? Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "Based on the audio, the sounds occur in the following order: First, there's the sound of people babbling. Next, it sounds like an oboe is playing. After that, there's the sound of a washboard being played and lastly, a motorboat",
+            "correct_answer": "B",
+            "index": 1,
+            "is_correct": true
+        },
+        "2": {
+            "question": "Listen to the audio clip below, which features multiple sounds occurring in a specific temporal sequence. Pay close attention to the chronological order in which each sound appears. Which text best describes the temporal order of the events (from first to last)? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "Based on the provided audio, the first sound is clearly that of a motorboat. Next, a washboard is played. After that, an oboe sounds, and lastly, people are babbling in the background. Therefore, D best describes the temporal order of the events.",
+            "correct_answer": "B",
+            "index": 2,
+            "is_correct": false
+        },
+        "3": {
+            "question": "Listen to the audio clip below, which features multiple sounds occurring in a specific temporal sequence. Pay close attention to the chronological order in which each sound appears. Which text best describes the temporal order of the events (from first to last)? Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "The audio starts with the sound of people babbling. This is followed by the sound of playing an oboe. Then there is the playing washboard. Lastly, there is the sound of a motorboat.",
+            "correct_answer": "B",
+            "index": 3,
+            "is_correct": true
+        },
+        "4": {
+            "question": "Listen to the audio clip below, which features multiple sounds occurring in a specific temporal sequence. Pay close attention to the chronological order in which each sound appears. Which text best describes the temporal order of the events (from first to last)? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "Based on the audio clip, the sounds occur in the following order: first, a chinchilla barking, then a bird chirping, followed by people marching, then someone playing the piano, and finally a parrot talking. Therefore, the text that best describes the temporal order of the events is choice D.",
+            "correct_answer": "B",
+            "index": 4,
+            "is_correct": false
+        },
+        "5": {
+            "question": "Listen to the audio clip below, which features multiple sounds occurring in a specific temporal sequence. Pay close attention to the chronological order in which each sound appears. Which text best describes the temporal order of the events (from first to last)? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "Based on the audio clip, the first sound is clearly the chinchilla barking, followed by the bird chirping. After that, we can hear the sounds of people marching, with a piano playing after that, and the final sound of the parrot talking. Thus, A is the best choice.",
+            "correct_answer": "A",
+            "index": 5,
+            "is_correct": true
+        },
+        "6": {
+            "question": "Listen to the audio clip below, which features multiple sounds occurring in a specific temporal sequence. Pay close attention to the chronological order in which each sound appears. Which text best describes the temporal order of the events (from first to last)? Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "Based on the audio clip, the order of sounds is as follows: first, a parrot talking is the most audible sound to begin with. Then, people marching sound is the next most prominent sound. After this, a chinchilla barking is clearly heard. Following the barking, there is the sound of playing piano. Finally, the clip ends with a bird chirping.",
+            "correct_answer": "B",
+            "index": 6,
+            "is_correct": false
+        },
+        "7": {
+            "question": "Listen to the audio clip below, which features multiple sounds occurring in a specific temporal sequence. Pay close attention to the chronological order in which each sound appears. Which text best describes the temporal order of the events (from first to last)? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "Based on the provided audio clip, the sounds occur in the following order: first, the distinct sound resembling a chinchilla barking is heard, followed by the sound of someone playing the piano. Next, the sound of bird chirping is audible, then someone saying something that sounds similar to parrot talking, and the final sound in the sequence appears to be of people marching. Thus, the correct sequence of events is: chinchilla barking, playing piano, bird chirping, parrot talking, people marching.",
+            "correct_answer": "A",
+            "index": 7,
+            "is_correct": false
+        },
+        "8": {
+            "question": "Listen to the audio clip below, which features multiple sounds occurring in a specific temporal sequence. Pay close attention to the chronological order in which each sound appears. Which text best describes the temporal order of the events (from first to last)? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "Based on the audio clip, the sounds occur in the following order: First, there's the distinct sound of a smoke detector beeping. Then, what sounds like the mechanism of car electric windows opening or closing. A heavy engine, described as tractor digging, is the third sound. Last, there is the sound of people whispering.",
+            "correct_answer": "D",
+            "index": 8,
+            "is_correct": true
+        },
+        "9": {
+            "question": "Listen to the audio clip below, which features multiple sounds occurring in a specific temporal sequence. Pay close attention to the chronological order in which each sound appears. Which text best describes the temporal order of the events (from first to last)? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "Based on the audio clip, the first sound is clearly a smoke detector beeping. This is followed by the sound of a car's electric windows opening or closing. Following this, there's the distinctive sound of a tractor digging. Finally, faint people whispering can be heard. Thus, the correct sequence is smoke detector beeping, electric car window sound, tractor digging, and then people whispering.",
+            "correct_answer": "C",
+            "index": 9,
+            "is_correct": false
+        }
+    }
+}

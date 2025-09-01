@@ -1,0 +1,51 @@
+{
+  "session_id": "32353af7",
+  "timestamp": "20250825_111044",
+  "task": "05_Exteral",
+  "subtask": "music_genre_classification",
+  "total_questions": 3,
+  "user_answers": [
+    "B",
+    "C",
+    "C"
+  ],
+  "correct_answers": [
+    "B",
+    "D",
+    "C"
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "Look at this album cover. Which music genre does this cover art represent? Answer with A, B, C, or D",
+      "user_answer": "B",
+      "correct_answer": "B",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/05_Exteral/music_genre_classification/gtzan_music_questions_vision_text.json",
+      "question_id": 768
+    },
+    {
+      "question_number": 2,
+      "question_text": "Look at this album cover. Which music genre does this cover art represent? Answer with A, B, C, or D",
+      "user_answer": "C",
+      "correct_answer": "D",
+      "is_correct": false,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/05_Exteral/music_genre_classification/gtzan_music_questions_vision_text.json",
+      "question_id": 638
+    },
+    {
+      "question_number": 3,
+      "question_text": "Look at this album cover. Which music clip is from the same genre as this cover suggests? Answer with A, B, C, or D",
+      "user_answer": "C",
+      "correct_answer": "C",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/05_Exteral/music_genre_classification/gtzan_music_questions_vision_audio.json",
+      "question_id": 872
+    }
+  ],
+  "score": {
+    "correct": 2,
+    "total": 3,
+    "percentage": 66.66666666666666
+  }
+}

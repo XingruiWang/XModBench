@@ -3,6 +3,12 @@ benchmark/Data
 Data/
 log
 models/AnyGPT
+models/
+scripts/FluxText/
+*.png
+*.mp4
+*.wav
+*.jpg
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

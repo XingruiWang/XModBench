@@ -1,0 +1,51 @@
+{
+  "session_id": "4f51659a",
+  "timestamp": "20250820_161343",
+  "task": "01_perception",
+  "subtask": "vggss",
+  "total_questions": 3,
+  "user_answers": [
+    "A",
+    "D",
+    "B"
+  ],
+  "correct_answers": [
+    "A",
+    "D",
+    "A"
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "Which sound is most likely made by the object from this image? Answer the question with A, B, C, or D",
+      "user_answer": "A",
+      "correct_answer": "A",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/vggss/vggss_audio_bench_questions_vision_audio.json",
+      "question_id": 643
+    },
+    {
+      "question_number": 2,
+      "question_text": "Which image is most likely belongs to the object make this sound? Answer the question with A, B, C, or D",
+      "user_answer": "D",
+      "correct_answer": "D",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/vggss/vggss_audio_bench_questions_audio_vision.json",
+      "question_id": 160
+    },
+    {
+      "question_number": 3,
+      "question_text": "Which phrase is most likely to describe the object in this image? Answer the question with A, B, C, or D",
+      "user_answer": "B",
+      "correct_answer": "A",
+      "is_correct": false,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/vggss/vggss_audio_bench_questions_vision_text.json",
+      "question_id": 852
+    }
+  ],
+  "score": {
+    "correct": 2,
+    "total": 3,
+    "percentage": 66.66666666666666
+  }
+}
