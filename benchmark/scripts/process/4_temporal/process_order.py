@@ -8,18 +8,18 @@ import json
 
 def load_description(description_path, return_count = False):
     with open(description_path, 'r') as f:
-        description = f.readlines()
-        description = [line.strip() for line in description if line.strip()]
+        description = f.read().strip().split(',')
+    description = [f"{i+1}. {line}" for i, line in enumerate(description)]
     count = len(description)
-    description = ', '.join(description)
+    description = '; '.join(description)
     if return_count:
         return description, count
     else:
         return description
 
-def generate_question_audio_vision(all_choices, correct_answer, object_name='objects'):
+def generate_question_audio_video(all_choices, correct_answer, object_name='objects'):
 
-    image_paths = [os.path.join(choice, 'concat.png') for choice in all_choices]
+    video_paths = [os.path.join(choice, 'concat.mp4') for choice in all_choices]
     audio_paths = [os.path.join(choice, 'mixed.wav') for choice in all_choices]
     description_paths = [os.path.join(choice, 'order.txt') for choice in all_choices]
     descriptions = [load_description(description_path) for description_path in description_paths]
@@ -30,8 +30,8 @@ def generate_question_audio_vision(all_choices, correct_answer, object_name='obj
     question = {
         "question": (
                         "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. "
-                        "Which image best represents the correct chronological sequence of events as they appear in the audio? "
-                        "The image shows the temporal order from left to right (first event on the left, last event on the right). "
+                        "Which video best represents the correct chronological sequence of events as they appear in the audio? "
+                        "The video shows the temporal order of events occurring sequentially over time. "
                         "Answer the question with A, B, C, or D."
                     ),
         "conditions": {
@@ -41,23 +41,23 @@ def generate_question_audio_vision(all_choices, correct_answer, object_name='obj
             },
         "options": {
             "A": {
-                "modality": "Image",
-                "input": image_paths[0],
+                "modality": "Video",
+                "input": video_paths[0],
                 "description": descriptions[0],
             },
             "B": {
-                "modality": "Image",
-                "input": image_paths[1],
+                "modality": "Video",
+                "input": video_paths[1],
                 "description": descriptions[1],
             },
             "C": {
-                "modality": "Image",
-                "input": image_paths[2],
+                "modality": "Video",
+                "input": video_paths[2],
                 "description": descriptions[2],
             },
             "D": {
-                "modality": "Image",
-                "input": image_paths[3],
+                "modality": "Video",
+                "input": video_paths[3],
                 "description": descriptions[3],
             }
         },
@@ -70,27 +70,27 @@ def generate_question_audio_vision(all_choices, correct_answer, object_name='obj
     return question
 
 
-def generate_question_vision_audio(all_choices, correct_answer, object_name='objects'):
+def generate_question_video_audio(all_choices, correct_answer, object_name='objects'):
     
-    image_paths = [os.path.join(choice, 'concat.png') for choice in all_choices]
+    video_paths = [os.path.join(choice, 'concat.mp4') for choice in all_choices]
     audio_paths = [os.path.join(choice, 'mixed.wav') for choice in all_choices]
     description_paths = [os.path.join(choice, 'order.txt') for choice in all_choices]
     descriptions = [load_description(description_path) for description_path in description_paths]
     
-    correct_image_path = image_paths[ord(correct_answer) - ord('A')]
+    correct_video_path = video_paths[ord(correct_answer) - ord('A')]
     correct_description, count = load_description(description_paths[ord(correct_answer) - ord('A')], return_count=True)
     
     question = {
        "question": (
-                        "The image below shows a sequence of events arranged in chronological order from left to right "
-                        "(first event on the left, last event on the right), representing the order in which they should occur over time. "
+                        "The video below shows a sequence of events occurring in chronological order over time, "
+                        "representing the temporal order in which they should occur. "
                         "Listen carefully to each audio clip and determine the temporal sequence of events. "
-                        "Which audio clip matches the chronological order shown in the image? "
+                        "Which audio clip matches the chronological order shown in the video? "
                         "Choose A, B, C, or D."
                     ),
         "conditions": {
-            "modality": "Image",
-            "input": correct_image_path,
+            "modality": "Video",
+            "input": correct_video_path,
             "description": correct_description,
         },
         "options": {
@@ -123,28 +123,28 @@ def generate_question_vision_audio(all_choices, correct_answer, object_name='obj
     
     return question 
     
-def generate_question_vision_text(all_choices, correct_answer, object_name='objects'):
+def generate_question_video_text(all_choices, correct_answer, object_name='objects'):
     """
-    Generate a question from vision to text.
-    Given an image, ask which text description most likely corresponds to their temporal sequence.
+    Generate a question from video to text.
+    Given a video, ask which text description most likely corresponds to their temporal sequence.
     """
-    image_paths = [os.path.join(choice, 'concat.png') for choice in all_choices]
+    video_paths = [os.path.join(choice, 'concat.mp4') for choice in all_choices]
     description_paths = [os.path.join(choice, 'order.txt') for choice in all_choices]
     descriptions = [load_description(description_path) for description_path in description_paths]
     
-    correct_image_path = image_paths[ord(correct_answer) - ord('A')]
+    correct_video_path = video_paths[ord(correct_answer) - ord('A')]
     correct_description, count = load_description(description_paths[ord(correct_answer) - ord('A')], return_count=True)
     
     question = {
         "question": (
-            "The image below shows a sequence of events arranged chronologically from left to right "
-            "(first event on the left, last event on the right), representing the order in which they occur over time. "
+            "The video below shows a sequence of events occurring chronologically over time, "
+            "representing the temporal order in which they occur. "
             "Which text description best corresponds to this temporal sequence? "
             "Choose A, B, C, or D."
         ),
         "conditions": {
-            "modality": "Image",
-            "input": correct_image_path,
+            "modality": "Video",
+            "input": correct_video_path,
             "description": correct_description
         },
         "options": {
@@ -177,23 +177,22 @@ def generate_question_vision_text(all_choices, correct_answer, object_name='obje
     
     return question
 
-def generate_question_text_vision(all_choices, correct_answer, object_name='objects'):
+def generate_question_text_video(all_choices, correct_answer, object_name='objects'):
     """
-    Generate a question from text to vision.
-    Given a text description of the temporal sequence of instruments, ask which image most likely corresponds to the chronological order.
+    Generate a question from text to video.
+    Given a text description of the temporal sequence of instruments, ask which video most likely corresponds to the chronological order.
     """
-    image_paths = [os.path.join(choice, 'concat.png') for choice in all_choices]
+    video_paths = [os.path.join(choice, 'concat.mp4') for choice in all_choices]
     description_paths = [os.path.join(choice, 'order.txt') for choice in all_choices]
     descriptions = [load_description(description_path) for description_path in description_paths]
     
     correct_text, count = load_description(description_paths[ord(correct_answer) - ord('A')], return_count=True)
-    correct_image_path = image_paths[ord(correct_answer) - ord('A')]
+    correct_video_path = video_paths[ord(correct_answer) - ord('A')]
     
     question = {
         "question": (
             "The text below describes the chronological sequence of events occurring over time (from first to last). "
-            "Which image best represents this temporal order, with events arranged from left to right "
-            "(first event on the left, last event on the right)? "
+            "Which video best represents this temporal order, with events occurring sequentially over time? "
             "Answer the question with A, B, C, or D."
         ),
         "conditions": {
@@ -203,23 +202,23 @@ def generate_question_text_vision(all_choices, correct_answer, object_name='obje
         },
         "options": {
             "A": {
-                "modality": "Image",
-                "input": image_paths[0],
+                "modality": "Video",
+                "input": video_paths[0],
                 "description": descriptions[0],
             },
             "B": {
-                "modality": "Image",
-                "input": image_paths[1],
+                "modality": "Video",
+                "input": video_paths[1],
                 "description": descriptions[1],
             },
             "C": {
-                "modality": "Image",
-                "input": image_paths[2],
+                "modality": "Video",
+                "input": video_paths[2],
                 "description": descriptions[2],
             },
             "D": {
-                "modality": "Image",
-                "input": image_paths[3],
+                "modality": "Video",
+                "input": video_paths[3],
                 "description": descriptions[3],
             }
         },
@@ -296,7 +295,6 @@ def generate_question_text_audio(all_choices, correct_answer, object_name='objec
     
     correct_text, count = load_description(description_paths[ord(correct_answer) - ord('A')], return_count=True)
     correct_audio_path = audio_paths[ord(correct_answer) - ord('A')]
-    
     question = {
         "question": (
             "The text below describes the temporal sequence in which several events occur over time (from first to last). "
@@ -351,12 +349,12 @@ if __name__ == "__main__":
     
     N = 0
     
-    export_dir = f'/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/04_temporal/{DATASET_NAME}_order'
+    export_dir = f'/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/04_temporal/order'
 
-    audio_vision_questions = []
-    vision_audio_questions = []
-    vision_text_questions = []
-    text_vision_questions = []
+    audio_video_questions = []
+    video_audio_questions = []
+    video_text_questions = []
+    text_video_questions = []
     text_audio_questions = []
     audio_text_questions = []
      
@@ -370,51 +368,50 @@ if __name__ == "__main__":
     for instance in os.listdir(root_dir):
         all_choices = [os.path.join(root_dir, instance, f) for f in os.listdir(os.path.join(root_dir, instance))]
         
-        for i in range(len(all_choices)):
-            choice = all_choices[i]
-            
-            other_choices = all_choices[:i] + all_choices[i+1:]
-            
-                
-            choises = [choice] + other_choices     
+        i = 0
+        choice = all_choices[i]
         
-            # 
-            order = [0, 1, 2, 3]
-            order = random.sample(order, 4)
-            
-            correct_answer = ['A', 'B', 'C', 'D'][order.index(0)]
-            
-            choises = [choises[i] for i in order]
-            
-            question_audio_vision = generate_question_audio_vision(choises, correct_answer)
-            question_vision_audio = generate_question_vision_audio(choises, correct_answer)
-            question_vision_text = generate_question_vision_text(choises, correct_answer)
-            question_text_vision = generate_question_text_vision(choises, correct_answer)
-            question_audio_text = generate_question_audio_text(choises, correct_answer)
-            question_text_audio = generate_question_text_audio(choises, correct_answer)
-            
-            audio_vision_questions.append(question_audio_vision)
-            vision_audio_questions.append(question_vision_audio)
-            vision_text_questions.append(question_vision_text)
-            text_vision_questions.append(question_text_vision)
-            text_audio_questions.append(question_text_audio)
-            audio_text_questions.append(question_audio_text)
-            
-            N += 1
-            print(f"Generated {N} questions")
-            if N >= 500:
-                break
-                
+        other_choices = all_choices[:i] + all_choices[i+1:]
+
+        choises = [choice] + other_choices     
+    
+        # 
+        order = [0, 1, 2, 3]
+        random.shuffle(order)
+        
+        correct_answer = ['A', 'B', 'C', 'D'][order.index(0)]
+        
+        choises = [choises[i] for i in order]
+        
+        question_audio_video = generate_question_audio_video(choises, correct_answer)
+        question_video_audio = generate_question_video_audio(choises, correct_answer)
+        question_video_text = generate_question_video_text(choises, correct_answer)
+        question_text_video = generate_question_text_video(choises, correct_answer)
+        question_audio_text = generate_question_audio_text(choises, correct_answer)
+        question_text_audio = generate_question_text_audio(choises, correct_answer)
+        
+        audio_video_questions.append(question_audio_video)
+        video_audio_questions.append(question_video_audio)
+        video_text_questions.append(question_video_text)
+        text_video_questions.append(question_text_video)
+        text_audio_questions.append(question_text_audio)
+        audio_text_questions.append(question_audio_text)
+        
+        N += 1
+        if N >= 500:
+            break
     os.makedirs(export_dir, exist_ok=True)
     with open(f"{export_dir}/{DATASET_NAME}_audio_bench_questions_audio_vision.json", "w") as f:
-        json.dump(audio_vision_questions, f, indent=4)
+        json.dump(audio_video_questions, f, indent=4)
     with open(f"{export_dir}/{DATASET_NAME}_audio_bench_questions_vision_audio.json", "w") as f:
-        json.dump(vision_audio_questions, f, indent=4)
+        json.dump(video_audio_questions, f, indent=4)
     with open(f"{export_dir}/{DATASET_NAME}_audio_bench_questions_vision_text.json", "w") as f:
-        json.dump(vision_text_questions, f, indent=4)
+        json.dump(video_text_questions, f, indent=4)
     with open(f"{export_dir}/{DATASET_NAME}_audio_bench_questions_text_vision.json", "w") as f:
-        json.dump(text_vision_questions, f, indent=4)
-    with open(f"{export_dir}/{DATASET_NAME}_audio_bench_questions_text_audio.json", "w") as f:
-        json.dump(text_audio_questions, f, indent=4)
+        json.dump(text_video_questions, f, indent=4)
     with open(f"{export_dir}/{DATASET_NAME}_audio_bench_questions_audio_text.json", "w") as f:
+        json.dump(text_audio_questions, f, indent=4)
+    with open(f"{export_dir}/{DATASET_NAME}_audio_bench_questions_text_audio.json", "w") as f:
         json.dump(audio_text_questions, f, indent=4)
+    print(f"Generated {N} questions")
+    print(f"Saved to {export_dir}")

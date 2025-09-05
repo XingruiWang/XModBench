@@ -1,5 +1,7 @@
 import numpy as np
-
+from typing import List, Tuple
+import subprocess
+import os
 
 def _foa_basis_from_dirs(phi, theta):
     """
@@ -49,8 +51,12 @@ def rotate_audio_azimuth_mic(
     audio_mic_rot : np.ndarray
         [M, T]，旋转后的阵列信号（仍为mic格式）
     """
+    # if T, M shape
+
     if audio_mic.ndim != 2:
         raise ValueError("audio_mic应为 [M, T]，通道在前")
+    if audio_mic.shape[0] > 100:
+        audio_mic = np.transpose(audio_mic, (1, 0))
     M, T = audio_mic.shape
     if mic_dirs.shape != (M, 2):
         raise ValueError("mic_dirs 形状需为 [M, 2]，列为 (phi, theta)，单位弧度")
@@ -104,3 +110,82 @@ def rotate_audio_azimuth_mic(
             audio_mic_rot *= (0.999 / peak)
 
     return audio_mic_rot
+
+# def rotate_video_azimuth(video_data, rotation_degrees):
+import cv2
+
+def create_centered_360_view(frame: np.ndarray, center_azimuth: float, 
+                            output_width: int = 800, output_height: int = 400) -> np.ndarray:
+    """
+    Create a 360° view by horizontally shifting the equirectangular image 
+    so that center_azimuth appears in the middle
+    """
+    height, width = frame.shape[:2]
+    # Convert azimuth to pixel offset
+    # Azimuth 0° should be at width/2, azimuth 180° at 0, azimuth -180° at width
+    azimuth_normalized = (center_azimuth % 360) / 360.0  # 0 to 1
+    pixel_offset = int(azimuth_normalized * width)
+    
+    # Create shifted image by rolling horizontally
+    shifted_frame = np.roll(frame, -pixel_offset, axis=1)
+    
+    # Resize to desired output size
+    resized_frame = cv2.resize(shifted_frame, (output_width, output_height))
+    
+    return resized_frame
+
+def rotate_video_azimuth(video_path: str, center_azimuth: float, output_size: Tuple[int, int] = (1920, 960)) -> List[np.ndarray]:
+    """Extract video segment with specific center azimuth"""
+    cap = cv2.VideoCapture(video_path)
+    fps = cap.get(cv2.CAP_PROP_FPS)
+    
+    # Calculate frame range
+    start_frame = 0
+    end_frame = 10000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000
+    
+    frames = []
+    for frame_idx in range(start_frame, end_frame):
+        cap.set(cv2.CAP_PROP_POS_FRAMES, frame_idx)
+        ret, frame = cap.read()
+        if ret:
+            # Apply 360° transformation with center azimuth
+            transformed_frame = create_centered_360_view(frame, center_azimuth, 
+                                                            output_size[0], output_size[1])
+            frames.append(transformed_frame)
+        else:
+            break
+    
+    cap.release()
+    return frames
+
+
+    
+def save_video_clip(frames: List[np.ndarray], output_path: str, fps: float = 30.0):
+    """Save frames as video clip"""
+    if not frames:
+        raise ValueError("No frames to save")
+    
+    output_path = str(output_path)
+    temp_path = str(output_path).replace('.mp4', '_tmp.mp4')
+    
+    height, width = frames[0].shape[:2]
+    fourcc = cv2.VideoWriter_fourcc(*'mp4v')  # 改为 H264 编码
+    out = cv2.VideoWriter(temp_path, fourcc, fps, (width, height))
+    
+    for frame in frames:
+        out.write(frame)
+        
+    out.release()
+    
+    # Re-encode to H.264 using ffmpeg
+    cmd = [
+        "ffmpeg", "-y", "-i", temp_path,
+        "-c:v", "libx264", "-crf", "23", "-preset", "medium",
+        "-an",  # 音频用AAC（如果没有音频轨道也没问题）
+        output_path
+    ]
+    subprocess.run(cmd, check=True, capture_output=False)
+
+    # 删除临时文件
+    os.remove(temp_path)
+    

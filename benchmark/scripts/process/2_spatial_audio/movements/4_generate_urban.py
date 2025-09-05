@@ -25,7 +25,7 @@ def generate_question_audio_vision(all_choices, correct_answer, object_name='obj
     audio_paths = [choice['audio_path'] for choice in all_choices]
     
     question = {
-        "question" : "Based on the spatial audio clip, try to imagine what the urban scene looks like—consider which direction the sound is coming from and how close the vehicle gets. Then select the image that best matches the expected position and type of vehicle. Choose A, B, C, or D.",
+        "question" : "Based on the spatial audio clip, try to imagine what the urban scene looks like—consider which direction the sound is coming from and how close the vehicle gets. Then select the video that best matches the expected position and type of vehicle. Choose A, B, C, or D.",
 
         "conditions": {
             "modality": "Audio",
@@ -34,22 +34,22 @@ def generate_question_audio_vision(all_choices, correct_answer, object_name='obj
             },
         "options": {
             "A": {
-                "modality": "Image",
+                "modality": "Video",
                 "input": image_paths[0],
                 "description": descriptions[0],
             },
             "B": {
-                "modality": "Image",
+                "modality": "Video",
                 "input": image_paths[1],
                 "description": descriptions[1],
             },
             "C": {
-                "modality": "Image",
+                "modality": "Video",
                 "input": image_paths[2],
                 "description": descriptions[2],
             },
             "D": {
-                "modality": "Image",
+                "modality": "Video",
                 "input": image_paths[3],
                 "description": descriptions[3],
             }
@@ -71,9 +71,9 @@ def generate_question_vision_audio(all_choices, correct_answer, object_name='obj
     audio_paths = [choice['audio_path'] for choice in all_choices]
     
     question = {
-       "question": "Carefully observe the image sequence of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+       "question": "Carefully observe the video clip of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
         "conditions": {
-            "modality": "Image",
+            "modality": "Video",
             "input":  correct_choice['image_path'],
             "description": correct_description,
         },
@@ -118,9 +118,9 @@ def generate_question_vision_text(all_choices, correct_answer, object_name='obje
     audio_paths = [choice['audio_path'] for choice in all_choices]
     
     question = {
-        "question": "Look closely at the visual scene, including the type of vehicle, its size, position, and direction of motion. Based on this observation, which text best describes the vehicle's behavior in the scene? Choose A, B, C, or D.",
+        "question": "Look closely at the video clip of the urban scene, including the type of vehicle, its size, position, and direction of motion. Based on this observation, which text best describes the vehicle's behavior in the scene? Choose A, B, C, or D.",
         "conditions": {
-            "modality": "Image",
+            "modality": "Video",
             "input":  correct_choice['image_path'],
             "description": correct_description
         },
@@ -154,7 +154,7 @@ def generate_question_vision_text(all_choices, correct_answer, object_name='obje
 def generate_question_text_vision(all_choices, correct_answer, object_name='objects'):
     """
     Generate a question from text to vision.
-    Given a text description of the spatial arrangement of instruments from left to right, ask which image most likely corresponds to the spatial arrangement.
+    Given a text description of the spatial arrangement of instruments from left to right, ask which video clip most likely corresponds to the spatial arrangement.
     """
     correct_choice = all_choices[ord(correct_answer) - ord('A')]
     other_choices = [all_choices[i] for i in range(4) if i != ord(correct_answer) - ord('A')]
@@ -165,7 +165,7 @@ def generate_question_text_vision(all_choices, correct_answer, object_name='obje
     audio_paths = [choice['audio_path'] for choice in all_choices]
     
     question = {
-        "question": "The text describes an event in an urban street scene, including the vehicle type and movement direction (e.g., a car approaching from the right). Which image sequence best illustrates that situation? Choose A, B, C, or D.",
+        "question": "The text describes an event in an urban street scene, including the vehicle type and movement direction (e.g., a car approaching from the right). Which video clip best illustrates that situation? Choose A, B, C, or D.",
         "conditions": {
             "modality": "Text",
             "input": correct_description,
@@ -173,22 +173,22 @@ def generate_question_text_vision(all_choices, correct_answer, object_name='obje
         },
         "options": {
             "A": {
-                "modality": "Image",
+                "modality": "Video",
                 "input": image_paths[0],
                 "description": descriptions[0],
             },
             "B": {
-                "modality": "Image",
+                "modality": "Video",
                 "input": image_paths[1],
                 "description": descriptions[1],
             },
             "C": {
-                "modality": "Image",
+                "modality": "Video",
                 "input": image_paths[2],
                 "description": descriptions[2],
             },
             "D": {
-                "modality": "Image",
+                "modality": "Video",
                 "input": image_paths[3],
                 "description": descriptions[3],
             }
@@ -300,11 +300,11 @@ if __name__ == "__main__":
     DATASET_NAME = 'urbansas'  # or 'vggss'
     OBJECT_NAME = 'objects'
 
-    root_dir = "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/urbansas_samples"
+    root_dir = "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/urbansas_samples_videos_filtered"
     
     N = 0
     
-    export_dir = f'/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/02_spatial/{DATASET_NAME}'
+    export_dir = f'/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/02_spatial/3D_movements'
 
     audio_vision_questions = []
     vision_audio_questions = []
@@ -313,7 +313,7 @@ if __name__ == "__main__":
     text_audio_questions = []
     audio_text_questions = []
      
-    meta_data = "/home/xwang378/scratch/2025/AudioBench/benchmark/scripts/process/2_spatial_audio/urbansas_extracted_samples.csv"
+    meta_data = "/home/xwang378/scratch/2025/AudioBench/benchmark/scripts/process/2_spatial_audio/movements/urbansas_extracted_samples.csv"
     # read metadata csv
     with open(meta_data, 'r') as f:
         lines = f.readlines()
@@ -347,7 +347,7 @@ if __name__ == "__main__":
             clip_id,class_id,label,start,end,direction_x,direction_y,audio_clip,video_clip = metadata
         except:
             continue
-        image_path = audio_clip.replace('.wav', '_frames.jpg')
+        image_path = audio_clip.replace('.wav', '.mp4')
         class_id = int(class_id)
         if class_id == -1:
             

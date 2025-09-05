@@ -170,15 +170,15 @@ def generate_question_audio_video_with_bbox(selected_instance: Dict) -> Dict[str
     choice_video_paths = []
     for i in range(4):
         original_video_path = os.path.join(selected_instance['path'], f"{selected_instance['question_id']}_choice_{i}.mp4")
-        bbox_video_path = os.path.join(selected_instance['path'], f"{selected_instance['question_id']}_choice_{i}_bbox.mp4")
+        bbox_video_path = os.path.join(selected_instance['path'], f"{selected_instance['question_id']}_choice_{i}.mp4")
 
         # 该视角下，声音应该出现在的方位（用来画框）
         choice_rotation = metadata['choice_video_rotations'][i]
         choice_azimuth = (azimuth + choice_rotation) % 360
 
         print(f"[audio->video] Creating bbox for choice {i} at {choice_azimuth}°")
-        if not os.path.exists(bbox_video_path):
-            add_bbox_to_video(original_video_path, bbox_video_path, choice_azimuth, elevation, event_class)
+        # if not os.path.exists(bbox_video_path):
+            # add_bbox_to_video(original_video_path, bbox_video_path, choice_azimuth, elevation, event_class)
         choice_video_paths.append(bbox_video_path)
 
     correct_answer = ['A', 'B', 'C', 'D'][metadata['correct_answer']]
@@ -236,15 +236,15 @@ def generate_question_video_audio_with_bbox(selected_instance) -> Dict[str, Any]
     metadata = load_metadata(metadata_path)
 
     input_video_path = os.path.join(selected_instance['path'], f"{selected_instance['question_id']}_input_video.mp4")
-    bbox_input_video_path = os.path.join(selected_instance['path'], f"{selected_instance['question_id']}_input_video_bbox.mp4")
+    bbox_input_video_path = os.path.join(selected_instance['path'], f"{selected_instance['question_id']}_input_video.mp4")
 
     event_class = metadata['event_info']['class']
     azimuth = metadata['event_info']['azimuth']
     elevation = metadata['event_info']['elevation']
 
-    print(f"[video->audio] Creating bbox for input video at {azimuth}°")
-    if not os.path.exists(bbox_input_video_path):
-        add_bbox_to_video(input_video_path, bbox_input_video_path, azimuth, elevation, event_class)
+    # print(f"[video->audio] Creating bbox for input video at {azimuth}°")
+    # if not os.path.exists(bbox_input_video_path):
+        # add_bbox_to_video(input_video_path, bbox_input_video_path, azimuth, elevation, event_class)
 
     choice_audio_paths = [os.path.join(selected_instance['path'], f"{selected_instance['question_id']}_choice_{i}.wav") for i in range(4)]
     correct_answer = ['A', 'B', 'C', 'D'][metadata['correct_answer']]
@@ -352,7 +352,7 @@ def generate_question_video_text(selected_instance: Dict) -> Dict[str, Any]:
     metadata = load_metadata(metadata_path)
 
     input_video_path = os.path.join(selected_instance['path'], f"{selected_instance['question_id']}_input_video.mp4")
-    bbox_input_video_path = os.path.join(selected_instance['path'], f"{selected_instance['question_id']}_input_video_bbox.mp4")
+    bbox_input_video_path = os.path.join(selected_instance['path'], f"{selected_instance['question_id']}_input_video.mp4")
 
     event_class = metadata['event_info']['class']
     azimuth = metadata['event_info']['azimuth']
@@ -361,8 +361,8 @@ def generate_question_video_text(selected_instance: Dict) -> Dict[str, Any]:
 
     # 输入视频画 bbox
     print(f"[video->text] Creating bbox for input video at {azimuth}°")
-    if not os.path.exists(bbox_input_video_path):
-        add_bbox_to_video(input_video_path, bbox_input_video_path, azimuth, elevation, event_class)
+    # if not os.path.exists(bbox_input_video_path):
+        # add_bbox_to_video(input_video_path, bbox_input_video_path, azimuth, elevation, event_class)
 
     # 四个文本选项：围绕不同 rotation 的方向描述
     text_options = []
@@ -484,14 +484,14 @@ def generate_question_text_video(selected_instance: Dict) -> Dict[str, Any]:
     choice_video_paths = []
     for i in range(4):
         original_video_path = os.path.join(selected_instance['path'], f"{selected_instance['question_id']}_choice_{i}.mp4")
-        bbox_video_path = os.path.join(selected_instance['path'], f"{selected_instance['question_id']}_choice_{i}_bbox.mp4")
+        bbox_video_path = os.path.join(selected_instance['path'], f"{selected_instance['question_id']}_choice_{i}.mp4")
 
         choice_rotation = metadata['choice_video_rotations'][i]
         choice_azimuth = (azimuth + choice_rotation) % 360
 
         print(f"[text->video] Creating bbox for choice {i} at {choice_azimuth}°")
-        if not os.path.exists(bbox_video_path): 
-            add_bbox_to_video(original_video_path, bbox_video_path,  choice_azimuth, elevation, event_class)
+        # if not os.path.exists(bbox_video_path): 
+            # add_bbox_to_video(original_video_path, bbox_video_path,  choice_azimuth, elevation, event_class)
         choice_video_paths.append(bbox_video_path)
 
     correct_answer = ['A', 'B', 'C', 'D'][correct_idx]
@@ -546,8 +546,8 @@ def main():
     DATASET_NAME = 'starss23'
 
     # Base directories
-    video_choice_dir = "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/STARSS23_processed/questions_video_choice"  # 输入是 Audio，选项是 Video
-    audio_choice_dir = "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/STARSS23_processed/questions_audio_choice"  # 输入是 Video，选项是 Audio
+    video_choice_dir = "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/STARSS23_processed_augmented/questions_video_choice"  # 输入是 Audio，选项是 Video
+    audio_choice_dir = "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/STARSS23_processed_augmented/questions_audio_choice"  # 输入是 Video，选项是 Audio
 
     max_questions_per_type = 500
 
@@ -564,19 +564,25 @@ def main():
 
     all_video_instances = []  # 来自 video_choice_dir（Audio->Video 等）
     all_audio_instances = []  # 来自 audio_choice_dir（Video->Audio 等）
+    
+    # high_quality_events = []
+    # with open('/home/xwang378/scratch/2025/AudioBench/benchmark/Data/STARSS23_processed_augmented/high_quality.txt', 'r') as f:
+    #     for line in f:
+    #         high_quality_events.append(line.strip())
 
     # Collect instances
     print("Collecting video choice instances...")
     if os.path.exists(video_choice_dir):
-        for split in ['dev-test-sony']:
+        for split in ['dev-test-sony', 'dev-test-tau']:
             split_dir = os.path.join(video_choice_dir, split)
             if os.path.isdir(split_dir):
                 for clip in os.listdir(split_dir):
                     clip_dir = os.path.join(split_dir, clip)
                     if os.path.isdir(clip_dir):
                         for file in os.listdir(clip_dir):
-                            if file.endswith('_video_choice_metadata.json'):
-                                question_id = file.replace('_metadata.json', '')
+                            if file.endswith('_video_choice_metadata.json') or file.endswith('_video_choice_metadata_add_on.json'):
+                                question_id = file.replace('_metadata.json', '').replace('_metadata_add_on.json', '')
+
                                 instance_info = {
                                     'path': clip_dir,
                                     'question_id': question_id,
@@ -587,15 +593,15 @@ def main():
 
     print("Collecting audio choice instances...")
     if os.path.exists(audio_choice_dir):
-        for split in ['dev-test-sony']:
+        for split in ['dev-test-sony', 'dev-test-tau']:
             split_dir = os.path.join(audio_choice_dir, split)
             if os.path.isdir(split_dir):
                 for clip in os.listdir(split_dir):
                     clip_dir = os.path.join(split_dir, clip)
                     if os.path.isdir(clip_dir):
                         for file in os.listdir(clip_dir):
-                            if file.endswith('_audio_choice_metadata.json'):
-                                question_id = file.replace('_metadata.json', '')
+                            if file.endswith('_audio_choice_metadata_add_on.json') or file.endswith('_audio_choice_metadata.json'):
+                                question_id = file.replace('_metadata.json', '').replace('_metadata_add_on.json', '')
                                 instance_info = {
                                     'path': clip_dir,
                                     'question_id': question_id,
@@ -603,7 +609,6 @@ def main():
                                     'type': 'audio_choice'
                                 }
                                 all_audio_instances.append(instance_info)
-
     print(f"Found {len(all_video_instances)} video choice instances")
     print(f"Found {len(all_audio_instances)} audio choice instances")
 

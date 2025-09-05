@@ -1,5 +1,5 @@
 {
-    "dataset": "hierarchical_emotion_classification",
+    "dataset": "emotion_classification",
     "total_target_emotions": 7,
     "valid_target_emotions": [
         "positive_joy",
