@@ -19936,37 +19936,6 @@
         "question": "Which audio most likely contains the Chinese translation of this English text? Answer the question with A, B, C, or D",
         "conditions": {
             "modality": "Text",
-            "input": "Hmm. . . it does sound like there could be something wrong with the engine.",
-            "text": "Hmm. . . it does sound like there could be something wrong with the engine."
-        },
-        "options": {
-            "A": {
-                "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000171/original.wav",
-                "text": "嗯……听起来好像引擎可能有点问题。"
-            },
-            "B": {
-                "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000171/choice_0.wav",
-                "text": "嗯……听起来好像发动机可能有点问题。"
-            },
-            "C": {
-                "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000171/choice_1.wav",
-                "text": "嗯……听起来好像情况应该不错。"
-            },
-            "D": {
-                "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000171/choice_2.wav",
-                "text": "嗯……听起来好像引擎根本没问题。"
-            }
-        },
-        "correct_answer": "A"
-    },
-    {
-        "question": "Which audio most likely contains the Chinese translation of this English text? Answer the question with A, B, C, or D",
-        "conditions": {
-            "modality": "Text",
             "input": "which opened in February 1961. During his tenure as owner of the ski resort until 1986",
             "text": "which opened in February 1961. During his tenure as owner of the ski resort until 1986"
         },
@@ -20004,26 +19973,26 @@
         "options": {
             "A": {
                 "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000178/original.wav",
+                "text": "但别太安逸了，因为生活总会在你最意想不到的时候给你来个措手不及。"
+            },
+            "B": {
+                "modality": "Audio",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000178/choice_0.wav",
                 "text": "但别太放松了，因为生活总会在你最期待的时候给你一个惊喜。"
             },
-            "B": {
+            "C": {
                 "modality": "Audio",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000178/choice_1.wav",
                 "text": "但别太松懈了，因为生活总会在你毫无准备的时候给你一个机会。"
             },
-            "C": {
+            "D": {
                 "modality": "Audio",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000178/choice_2.wav",
                 "text": "但别太舒服了，因为人生总会在你得意忘形的时候给你一个教训。"
-            },
-            "D": {
-                "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000178/original.wav",
-                "text": "但别太安逸了，因为生活总会在你最意想不到的时候给你来个措手不及。"
             }
         },
-        "correct_answer": "D"
+        "correct_answer": "A"
     },
     {
         "question": "Which audio most likely contains the Chinese translation of this English text? Answer the question with A, B, C, or D",
@@ -20035,8 +20004,8 @@
         "options": {
             "A": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000647/original.wav",
-                "text": "同样缺席的还有来自1999年专辑《加利福尼亚》的热门单曲“环游世界”，尽管DVD收录了这首歌的音乐录影带。截至当时，他们在公告牌现代摇滚单曲榜上共有八首美国冠军单曲。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000647/choice_0.wav",
+                "text": "同样缺席的还有来自2009年专辑《加利福尼亚》的热门单曲“环游世界”，尽管DVD收录了这首歌的音乐录影带。截至当时，他们在公告牌独立摇滚单曲榜上共有八首美国冠军单曲。"
             },
             "B": {
                 "modality": "Audio",
@@ -20050,11 +20019,11 @@
             },
             "D": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000647/choice_0.wav",
-                "text": "同样缺席的还有来自2009年专辑《加利福尼亚》的热门单曲“环游世界”，尽管DVD收录了这首歌的音乐录影带。截至当时，他们在公告牌独立摇滚单曲榜上共有八首美国冠军单曲。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000647/original.wav",
+                "text": "同样缺席的还有来自1999年专辑《加利福尼亚》的热门单曲“环游世界”，尽管DVD收录了这首歌的音乐录影带。截至当时，他们在公告牌现代摇滚单曲榜上共有八首美国冠军单曲。"
             }
         },
-        "correct_answer": "A"
+        "correct_answer": "D"
     },
     {
         "question": "Which audio most likely contains the Chinese translation of this English text? Answer the question with A, B, C, or D",
@@ -20066,26 +20035,26 @@
         "options": {
             "A": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000001000689/choice_1.wav",
-                "text": "与远处的群体的取值一致（例如...）"
-            },
-            "B": {
-                "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000001000689/choice_0.wav",
-                "text": "与附近群体的取值相反（例如...）"
-            },
-            "C": {
-                "modality": "Audio",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000001000689/original.wav",
                 "text": "与附近群体的取值一致（例如...）"
             },
-            "D": {
+            "B": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000001000689/choice_1.wav",
+                "text": "与远处的群体的取值一致（例如...）"
+            },
+            "C": {
                 "modality": "Audio",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000001000689/choice_2.wav",
                 "text": "与附近群体的取值无关（例如...）"
+            },
+            "D": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000001000689/choice_0.wav",
+                "text": "与附近群体的取值相反（例如...）"
             }
         },
-        "correct_answer": "C"
+        "correct_answer": "A"
     },
     {
         "question": "Which audio most likely contains the Chinese translation of this English text? Answer the question with A, B, C, or D",
@@ -20097,26 +20066,26 @@
         "options": {
             "A": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000195/original.wav",
-                "text": "并行选择（图 1 (A)）方法假设各个锌指结构域是功能独立的。在此基础上，现有的预先确定的结构域应该可以直接使用，无需额外的设计或选择。"
-            },
-            "B": {
-                "modality": "Audio",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000195/choice_1.wav",
                 "text": "串行选择（图 1 (A)）方法假设各个锌指结构域是功能独立的。在此基础上，现有的预先确定的结构域应该可以直接使用，无需额外的选择或设计。"
             },
-            "C": {
-                "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000195/choice_2.wav",
-                "text": "并行选择（图 2 (A)）方法假设各个锌指结构域是功能独立的。在此基础上，现有的预先确定的结构域不可以直接使用，需要额外的设计和选择。"
-            },
-            "D": {
+            "B": {
                 "modality": "Audio",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000195/choice_0.wav",
                 "text": "并行选择（图 1 (A)）方法假设各个锌指结构域是功能相关的。在此基础上，现有的预先确定的结构域应该可以直接使用，需要额外的设计和选择。"
+            },
+            "C": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000195/original.wav",
+                "text": "并行选择（图 1 (A)）方法假设各个锌指结构域是功能独立的。在此基础上，现有的预先确定的结构域应该可以直接使用，无需额外的设计或选择。"
+            },
+            "D": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000195/choice_2.wav",
+                "text": "并行选择（图 2 (A)）方法假设各个锌指结构域是功能独立的。在此基础上，现有的预先确定的结构域不可以直接使用，需要额外的设计和选择。"
             }
         },
-        "correct_answer": "A"
+        "correct_answer": "C"
     },
     {
         "question": "Which audio most likely contains the Chinese translation of this English text? Answer the question with A, B, C, or D",
@@ -20128,13 +20097,13 @@
         "options": {
             "A": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000076/choice_0.wav",
-                "text": "他射入50码的任意球，打破球队纪录，并且35次任意球尝试中命中了29次。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000076/original.wav",
+                "text": "他射入54码的任意球，追平球队纪录，并且35次任意球尝试中命中了29次。"
             },
             "B": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000076/original.wav",
-                "text": "他射入54码的任意球，追平球队纪录，并且35次任意球尝试中命中了29次。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000076/choice_1.wav",
+                "text": "他射入54码的任意球，追平球队纪录，并且30次任意球尝试中命中了29次。"
             },
             "C": {
                 "modality": "Audio",
@@ -20143,11 +20112,11 @@
             },
             "D": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000076/choice_1.wav",
-                "text": "他射入54码的任意球，追平球队纪录，并且30次任意球尝试中命中了29次。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000076/choice_0.wav",
+                "text": "他射入50码的任意球，打破球队纪录，并且35次任意球尝试中命中了29次。"
             }
         },
-        "correct_answer": "B"
+        "correct_answer": "A"
     },
     {
         "question": "Which audio most likely contains the Chinese translation of this English text? Answer the question with A, B, C, or D",
@@ -20159,13 +20128,13 @@
         "options": {
             "A": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000293/original.wav",
-                "text": "吃着冰淇淋，享受着彼此的陪伴。 确实是这样。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000293/choice_0.wav",
+                "text": "吃着冰淇淋，体会着独自一人的感觉。 确实是这样。"
             },
             "B": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000293/choice_0.wav",
-                "text": "吃着冰淇淋，体会着独自一人的感觉。 确实是这样。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000293/original.wav",
+                "text": "吃着冰淇淋，享受着彼此的陪伴。 确实是这样。"
             },
             "C": {
                 "modality": "Audio",
@@ -20178,7 +20147,7 @@
                 "text": "喝着冰淇淋，享受着彼此的陪伴。 确实不一样。"
             }
         },
-        "correct_answer": "A"
+        "correct_answer": "B"
     },
     {
         "question": "Which audio most likely contains the Chinese translation of this English text? Answer the question with A, B, C, or D",
@@ -20190,13 +20159,13 @@
         "options": {
             "A": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000981/choice_1.wav",
-                "text": "来自英国和其他国家一些最不为人知、备受争议的剧团的现代舞和录像艺术。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000981/original.wav",
+                "text": "来自英国和国外一些最知名、最受尊敬的剧团的现代舞和现场艺术。"
             },
             "B": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000981/original.wav",
-                "text": "来自英国和国外一些最知名、最受尊敬的剧团的现代舞和现场艺术。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000981/choice_0.wav",
+                "text": "来自美国和其他国家一些最著名、最受欢迎的剧团的现代舞和现场表演。"
             },
             "C": {
                 "modality": "Audio",
@@ -20205,11 +20174,11 @@
             },
             "D": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000981/choice_0.wav",
-                "text": "来自美国和其他国家一些最著名、最受欢迎的剧团的现代舞和现场表演。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000981/choice_1.wav",
+                "text": "来自英国和其他国家一些最不为人知、备受争议的剧团的现代舞和录像艺术。"
             }
         },
-        "correct_answer": "B"
+        "correct_answer": "A"
     },
     {
         "question": "Which audio most likely contains the Chinese translation of this English text? Answer the question with A, B, C, or D",
@@ -20221,8 +20190,8 @@
         "options": {
             "A": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000253/choice_2.wav",
-                "text": "还有，你能帮我往这个碗里放几个鸡蛋吗？没问题。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000253/choice_1.wav",
+                "text": "然后，你能帮我从这个碗里拿两个鸡蛋吗？没问题。"
             },
             "B": {
                 "modality": "Audio",
@@ -20231,13 +20200,13 @@
             },
             "C": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000253/choice_0.wav",
-                "text": "另外，你能帮我往这个盘子里放两个鸡蛋吗？没问题。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000253/choice_2.wav",
+                "text": "还有，你能帮我往这个碗里放几个鸡蛋吗？没问题。"
             },
             "D": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000253/choice_1.wav",
-                "text": "然后，你能帮我从这个碗里拿两个鸡蛋吗？没问题。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000253/choice_0.wav",
+                "text": "另外，你能帮我往这个盘子里放两个鸡蛋吗？没问题。"
             }
         },
         "correct_answer": "B"
@@ -20252,26 +20221,26 @@
         "options": {
             "A": {
                 "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000789/choice_2.wav",
+                "text": "他的专长是“提出上上个问题”。在类似的短剧中，蒙提·派森剧团的资深成员迈克尔·佩林饰演Magnússon，而特里·吉列姆则饰演一位专长于“答案是“二”的问题”的参赛者。"
+            },
+            "B": {
+                "modality": "Audio",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000789/original.wav",
                 "text": "他的专长是“回答上上个问题”。在类似的短剧中，蒙提·派森剧团的资深成员迈克尔·佩林饰演Magnússon，而特里·吉列姆则饰演一位专长于“答案是“二”的问题”的参赛者。"
             },
-            "B": {
+            "C": {
                 "modality": "Audio",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000789/choice_0.wav",
                 "text": "他的专长是“回答最后一个问题”。在类似的短剧中，蒙提·派森剧团的资深成员迈克尔·佩林饰演Magnússon，而特里·吉列姆则饰演一位专长于“答案是“三”的问题”的参赛者。"
             },
-            "C": {
+            "D": {
                 "modality": "Audio",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000789/choice_1.wav",
                 "text": "他的专长是“回答上上个问题”。在类似的短剧中，蒙提·派森剧团的资深成员约翰·克里斯饰演Magnússon，而特里·吉列姆则饰演一位专长于“答案是“二”的问题”的参赛者。"
-            },
-            "D": {
-                "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000789/choice_2.wav",
-                "text": "他的专长是“提出上上个问题”。在类似的短剧中，蒙提·派森剧团的资深成员迈克尔·佩林饰演Magnússon，而特里·吉列姆则饰演一位专长于“答案是“二”的问题”的参赛者。"
             }
         },
-        "correct_answer": "A"
+        "correct_answer": "B"
     },
     {
         "question": "Which audio most likely contains the Chinese translation of this English text? Answer the question with A, B, C, or D",
@@ -20283,8 +20252,8 @@
         "options": {
             "A": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000441/choice_1.wav",
-                "text": "霍德与斯托顿出版社。1935年。地图由C. E. 约翰绘制。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000441/original.wav",
+                "text": "霍德与斯托顿出版社。1935年。地图由C. E. 丹尼绘制。"
             },
             "B": {
                 "modality": "Audio",
@@ -20293,16 +20262,16 @@
             },
             "C": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000441/choice_2.wav",
-                "text": "霍德与斯托顿书店。1935年。地图由C. E. 丹尼绘制。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000441/choice_1.wav",
+                "text": "霍德与斯托顿出版社。1935年。地图由C. E. 约翰绘制。"
             },
             "D": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000441/original.wav",
-                "text": "霍德与斯托顿出版社。1935年。地图由C. E. 丹尼绘制。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000441/choice_2.wav",
+                "text": "霍德与斯托顿书店。1935年。地图由C. E. 丹尼绘制。"
             }
         },
-        "correct_answer": "D"
+        "correct_answer": "A"
     },
     {
         "question": "Which audio most likely contains the Chinese translation of this English text? Answer the question with A, B, C, or D",
@@ -20314,13 +20283,13 @@
         "options": {
             "A": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000320/choice_0.wav",
-                "text": "斯凯买了一辆二手摩托车。斯凯靠着他做咖啡师攒够了钱，买了一辆新摩托车。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000320/choice_1.wav",
+                "text": "斯凯买了一辆新自行车。斯凯靠着他做咖啡师攒够了钱，买了一辆新摩托车。"
             },
             "B": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000320/choice_1.wav",
-                "text": "斯凯买了一辆新自行车。斯凯靠着他做咖啡师攒够了钱，买了一辆新摩托车。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000320/choice_0.wav",
+                "text": "斯凯买了一辆二手摩托车。斯凯靠着他做咖啡师攒够了钱，买了一辆新摩托车。"
             },
             "C": {
                 "modality": "Audio",
@@ -20345,13 +20314,13 @@
         "options": {
             "A": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000192/choice_1.wav",
-                "text": "罗萨斯在州际联盟（NAIA）俄勒冈州立大学打过大学橄榄球。2014年"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000192/choice_0.wav",
+                "text": "罗萨斯曾在全国大学体育协会（NCAA）南俄勒冈大学打过大学橄榄球。2014年"
             },
             "B": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000192/original.wav",
-                "text": "罗萨斯曾在全国校际体育协会（NAIA）南俄勒冈大学打过大学橄榄球。2014年"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000192/choice_1.wav",
+                "text": "罗萨斯在州际联盟（NAIA）俄勒冈州立大学打过大学橄榄球。2014年"
             },
             "C": {
                 "modality": "Audio",
@@ -20360,11 +20329,11 @@
             },
             "D": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000192/choice_0.wav",
-                "text": "罗萨斯曾在全国大学体育协会（NCAA）南俄勒冈大学打过大学橄榄球。2014年"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000192/original.wav",
+                "text": "罗萨斯曾在全国校际体育协会（NAIA）南俄勒冈大学打过大学橄榄球。2014年"
             }
         },
-        "correct_answer": "B"
+        "correct_answer": "D"
     },
     {
         "question": "Which audio most likely contains the Chinese translation of this English text? Answer the question with A, B, C, or D",
@@ -20376,8 +20345,8 @@
         "options": {
             "A": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000001000865/choice_0.wav",
-                "text": "我们研究了WPSL的键的性质，并给出了其位点对应物的详细结果，以便观察对比。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000001000865/choice_1.wav",
+                "text": "我们研究了WPSL上的键渗流，并给出了其电位对应物的详细结果，以便观察对比。"
             },
             "B": {
                 "modality": "Audio",
@@ -20391,8 +20360,8 @@
             },
             "D": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000001000865/choice_1.wav",
-                "text": "我们研究了WPSL上的键渗流，并给出了其电位对应物的详细结果，以便观察对比。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000001000865/choice_0.wav",
+                "text": "我们研究了WPSL的键的性质，并给出了其位点对应物的详细结果，以便观察对比。"
             }
         },
         "correct_answer": "B"
@@ -20412,8 +20381,8 @@
             },
             "B": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000001000986/choice_1.wav",
-                "text": "理查德·西格尔写道，现在是时候停止过度关注创价学会辉煌的历史了。“在很长的时间内，创价学会从日本社会的边缘走向了主流。”在二战后的晚期几十年里"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000001000986/original.wav",
+                "text": "理查德·西格尔写道，现在是时候停止过度关注创价学会充满争议的历史了。“在相对较短的时间内，创价学会从日本社会的边缘走向了主流。”在二战后的早期几十年里"
             },
             "C": {
                 "modality": "Audio",
@@ -20422,11 +20391,11 @@
             },
             "D": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000001000986/original.wav",
-                "text": "理查德·西格尔写道，现在是时候停止过度关注创价学会充满争议的历史了。“在相对较短的时间内，创价学会从日本社会的边缘走向了主流。”在二战后的早期几十年里"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000001000986/choice_1.wav",
+                "text": "理查德·西格尔写道，现在是时候停止过度关注创价学会辉煌的历史了。“在很长的时间内，创价学会从日本社会的边缘走向了主流。”在二战后的晚期几十年里"
             }
         },
-        "correct_answer": "D"
+        "correct_answer": "B"
     },
     {
         "question": "Which audio most likely contains the Chinese translation of this English text? Answer the question with A, B, C, or D",
@@ -20438,8 +20407,8 @@
         "options": {
             "A": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000518/original.wav",
-                "text": "应避免使用刺激性化学品，如头发拉直剂和烫发剂。头发不应使用熨斗。应避免使用过度刺激的洗发水。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000518/choice_0.wav",
+                "text": "应避免使用刺激性化学品，如头发拉直剂和烫发剂。头发可以用熨斗拉直。不应使用过度滋润的洗发水。"
             },
             "B": {
                 "modality": "Audio",
@@ -20448,16 +20417,16 @@
             },
             "C": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000518/choice_0.wav",
-                "text": "应避免使用刺激性化学品，如头发拉直剂和烫发剂。头发可以用熨斗拉直。不应使用过度滋润的洗发水。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000518/choice_2.wav",
+                "text": "应该使用刺激性化学品，如头发拉直剂和烫发剂。头发可以使用熨斗。应避免使用过于温和的洗发水。"
             },
             "D": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000518/choice_2.wav",
-                "text": "应该使用刺激性化学品，如头发拉直剂和烫发剂。头发可以使用熨斗。应避免使用过于温和的洗发水。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000518/original.wav",
+                "text": "应避免使用刺激性化学品，如头发拉直剂和烫发剂。头发不应使用熨斗。应避免使用过度刺激的洗发水。"
             }
         },
-        "correct_answer": "A"
+        "correct_answer": "D"
     },
     {
         "question": "Which audio most likely contains the Chinese translation of this English text? Answer the question with A, B, C, or D",
@@ -20469,8 +20438,8 @@
         "options": {
             "A": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000581/choice_0.wav",
-                "text": "很高兴知道你一直在原地踏步。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000581/original.wav",
+                "text": "很高兴听到你一直在寻求进步。"
             },
             "B": {
                 "modality": "Audio",
@@ -20479,8 +20448,8 @@
             },
             "C": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000581/original.wav",
-                "text": "很高兴听到你一直在寻求进步。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000581/choice_0.wav",
+                "text": "很高兴知道你一直在原地踏步。"
             },
             "D": {
                 "modality": "Audio",
@@ -20488,7 +20457,7 @@
                 "text": "很高兴知道你已经停止了进步。"
             }
         },
-        "correct_answer": "C"
+        "correct_answer": "A"
     },
     {
         "question": "Which audio most likely contains the Chinese translation of this English text? Answer the question with A, B, C, or D",
@@ -20531,26 +20500,26 @@
         "options": {
             "A": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000176/choice_2.wav",
-                "text": "她讨厌风吹她的头发和冷空气摩擦她的皮肤的感觉。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000176/choice_0.wav",
+                "text": "她喜欢风吹她的头发和暖空气拂过她的脸颊的感觉。"
             },
             "B": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000176/choice_1.wav",
+                "text": "她喜欢风吹拂衣服和冷水洗过她的皮肤的感觉。"
+            },
+            "C": {
                 "modality": "Audio",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000176/original.wav",
                 "text": "她喜欢风吹拂头发和冷空气拂过肌肤的感觉。"
             },
-            "C": {
-                "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000176/choice_0.wav",
-                "text": "她喜欢风吹她的头发和暖空气拂过她的脸颊的感觉。"
-            },
             "D": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000176/choice_1.wav",
-                "text": "她喜欢风吹拂衣服和冷水洗过她的皮肤的感觉。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000176/choice_2.wav",
+                "text": "她讨厌风吹她的头发和冷空气摩擦她的皮肤的感觉。"
             }
         },
-        "correct_answer": "B"
+        "correct_answer": "C"
     },
     {
         "question": "Which audio most likely contains the Chinese translation of this English text? Answer the question with A, B, C, or D",
@@ -20562,13 +20531,13 @@
         "options": {
             "A": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000052/original.wav",
-                "text": "我正好画完一幅画。看起来棒极了！"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000052/choice_2.wav",
+                "text": "我勉强画完了一幅画。看起来很普通！"
             },
             "B": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000052/choice_1.wav",
-                "text": "我正好做完了一个菜。闻起来棒极了！"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000052/original.wav",
+                "text": "我正好画完一幅画。看起来棒极了！"
             },
             "C": {
                 "modality": "Audio",
@@ -20577,11 +20546,11 @@
             },
             "D": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000052/choice_2.wav",
-                "text": "我勉强画完了一幅画。看起来很普通！"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000052/choice_1.wav",
+                "text": "我正好做完了一个菜。闻起来棒极了！"
             }
         },
-        "correct_answer": "A"
+        "correct_answer": "B"
     },
     {
         "question": "Which audio most likely contains the Chinese translation of this English text? Answer the question with A, B, C, or D",
@@ -20593,18 +20562,18 @@
         "options": {
             "A": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000354/choice_1.wav",
-                "text": "霍巴尔在民主党全国代表大会上失去了五张美国总统选票。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000354/original.wav",
+                "text": "霍巴尔在民主党全国代表大会上赢得了五张美国总统选票。"
             },
             "B": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000354/choice_0.wav",
-                "text": "霍巴尔在共和党全国代表大会上赢得了五张美国总统选票。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000354/choice_1.wav",
+                "text": "霍巴尔在民主党全国代表大会上失去了五张美国总统选票。"
             },
             "C": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000354/original.wav",
-                "text": "霍巴尔在民主党全国代表大会上赢得了五张美国总统选票。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000354/choice_0.wav",
+                "text": "霍巴尔在共和党全国代表大会上赢得了五张美国总统选票。"
             },
             "D": {
                 "modality": "Audio",
@@ -20612,7 +20581,7 @@
                 "text": "霍巴尔在民主党全国代表大会上赢得了五张州长选票。"
             }
         },
-        "correct_answer": "C"
+        "correct_answer": "A"
     },
     {
         "question": "Which audio most likely contains the Chinese translation of this English text? Answer the question with A, B, C, or D",
@@ -20624,26 +20593,26 @@
         "options": {
             "A": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000811/choice_0.wav",
-                "text": "受英文教育的群体和受中文教育的群体都表现出以问题为导向，能够求同存异，互相尊重，并为大学自治各自努力（137-139）。该社团在联合活动委员会的工作中发挥了积极作用，该委员会于1961年10月由社会主义社团成立。"
-            },
-            "B": {
-                "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000811/choice_2.wav",
-                "text": "受英文教育的群体和受中文教育的群体都表现出以问题为导向，难以求同存异，互相尊重，并为大学自治共同努力（137-139）。该社团在联合活动委员会的工作中发挥了积极作用，该委员会于1960年9月由社会主义社团成立。"
-            },
-            "C": {
-                "modality": "Audio",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000811/choice_1.wav",
                 "text": "受英文教育的群体和受中文教育的群体都表现出以结果为导向，能够求同存异，互相尊重，并为大学自治共同努力（137-139）。该社团在联合活动委员会的工作中发挥了消极作用，该委员会于1960年10月由社会主义社团成立。"
             },
-            "D": {
+            "B": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000811/choice_0.wav",
+                "text": "受英文教育的群体和受中文教育的群体都表现出以问题为导向，能够求同存异，互相尊重，并为大学自治各自努力（137-139）。该社团在联合活动委员会的工作中发挥了积极作用，该委员会于1961年10月由社会主义社团成立。"
+            },
+            "C": {
                 "modality": "Audio",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000811/original.wav",
                 "text": "受英文教育的群体和受中文教育的群体都表现出以问题为导向，能够求同存异，互相尊重，并为大学自治共同努力（137-139）。该社团在联合活动委员会的工作中发挥了积极作用，该委员会于1960年10月由社会主义社团成立。"
+            },
+            "D": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000811/choice_2.wav",
+                "text": "受英文教育的群体和受中文教育的群体都表现出以问题为导向，难以求同存异，互相尊重，并为大学自治共同努力（137-139）。该社团在联合活动委员会的工作中发挥了积极作用，该委员会于1960年9月由社会主义社团成立。"
             }
         },
-        "correct_answer": "D"
+        "correct_answer": "C"
     },
     {
         "question": "Which audio most likely contains the Chinese translation of this English text? Answer the question with A, B, C, or D",
@@ -20660,21 +20629,21 @@
             },
             "B": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000888/choice_1.wav",
-                "text": "社会主义俱乐部成立于1952年，受民族主义影响。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000888/choice_2.wav",
+                "text": "社会主义俱乐部成立于1953年，受到个人主义影响。"
             },
             "C": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000888/original.wav",
-                "text": "社会主义俱乐部成立于1953年，受民族主义影响。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000888/choice_1.wav",
+                "text": "社会主义俱乐部成立于1952年，受民族主义影响。"
             },
             "D": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000888/choice_2.wav",
-                "text": "社会主义俱乐部成立于1953年，受到个人主义影响。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000888/original.wav",
+                "text": "社会主义俱乐部成立于1953年，受民族主义影响。"
             }
         },
-        "correct_answer": "C"
+        "correct_answer": "D"
     },
     {
         "question": "Which audio most likely contains the Chinese translation of this English text? Answer the question with A, B, C, or D",
@@ -20686,8 +20655,8 @@
         "options": {
             "A": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000546/original.wav",
-                "text": "这是我在这个城市最喜欢的地方。听起来很棒！"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000546/choice_0.wav",
+                "text": "这是我在这个国家最不喜欢的地方。听起来很棒！"
             },
             "B": {
                 "modality": "Audio",
@@ -20696,8 +20665,8 @@
             },
             "C": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000546/choice_0.wav",
-                "text": "这是我在这个国家最不喜欢的地方。听起来很棒！"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000546/original.wav",
+                "text": "这是我在这个城市最喜欢的地方。听起来很棒！"
             },
             "D": {
                 "modality": "Audio",
@@ -20705,7 +20674,7 @@
                 "text": "这是我曾经住过的城市。听起来很棒！"
             }
         },
-        "correct_answer": "A"
+        "correct_answer": "C"
     },
     {
         "question": "Which audio most likely contains the Chinese translation of this English text? Answer the question with A, B, C, or D",
@@ -20717,26 +20686,26 @@
         "options": {
             "A": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000947/choice_2.wav",
-                "text": "疫情期间哪儿都能去，我有点兴奋。啊。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000947/original.wav",
+                "text": "疫情期间哪儿也去不了，我有点无聊。嗯。"
             },
             "B": {
-                "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000947/choice_0.wav",
-                "text": "疫情爆发的时候，我去了很多地方，我非常开心。"
-            },
-            "C": {
                 "modality": "Audio",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000947/choice_1.wav",
                 "text": "疫情过后哪里都不能去了，我有点生气。嗯。"
             },
+            "C": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000947/choice_0.wav",
+                "text": "疫情爆发的时候，我去了很多地方，我非常开心。"
+            },
             "D": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000947/original.wav",
-                "text": "疫情期间哪儿也去不了，我有点无聊。嗯。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000947/choice_2.wav",
+                "text": "疫情期间哪儿都能去，我有点兴奋。啊。"
             }
         },
-        "correct_answer": "D"
+        "correct_answer": "A"
     },
     {
         "question": "Which audio most likely contains the Chinese translation of this English text? Answer the question with A, B, C, or D",
@@ -20748,26 +20717,26 @@
         "options": {
             "A": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000153/original.wav",
-                "text": "在我看来，这完全是浪费时间。但我并不觉得无聊。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000153/choice_2.wav",
+                "text": "在我看来，这只是浪费时间。我感觉很无聊。"
             },
             "B": {
-                "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000153/choice_1.wav",
-                "text": "在我看来，这完全是节省时间。但我非常无聊。"
-            },
-            "C": {
                 "modality": "Audio",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000153/choice_0.wav",
                 "text": "在我看来，这完全是浪费金钱。但我并不觉得无聊。"
             },
+            "C": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000153/choice_1.wav",
+                "text": "在我看来，这完全是节省时间。但我非常无聊。"
+            },
             "D": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000153/choice_2.wav",
-                "text": "在我看来，这只是浪费时间。我感觉很无聊。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000153/original.wav",
+                "text": "在我看来，这完全是浪费时间。但我并不觉得无聊。"
             }
         },
-        "correct_answer": "A"
+        "correct_answer": "D"
     },
     {
         "question": "Which audio most likely contains the Chinese translation of this English text? Answer the question with A, B, C, or D",
@@ -20784,18 +20753,18 @@
             },
             "B": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000001000292/choice_2.wav",
-                "text": "我们将它们都放在一起，就像第一步一样，然后把剩下的放在旁边。"
-            },
-            "C": {
-                "modality": "Audio",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000001000292/choice_1.wav",
                 "text": "我们只放了一个，按照之前的步骤，然后把另外两个放在旁边。"
             },
-            "D": {
+            "C": {
                 "modality": "Audio",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000001000292/choice_0.wav",
                 "text": "我们将其中两个并排放置，就像第一步一样，然后将另外两个并排地放在它们下面。"
+            },
+            "D": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000001000292/choice_2.wav",
+                "text": "我们将它们都放在一起，就像第一步一样，然后把剩下的放在旁边。"
             }
         },
         "correct_answer": "A"
@@ -20810,26 +20779,26 @@
         "options": {
             "A": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000834/choice_0.wav",
-                "text": "1967年7月第二次，1972年1月第三次。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000834/original.wav",
+                "text": "1968年7月第二次，1971年1月第三次。"
             },
             "B": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000834/choice_2.wav",
+                "text": "1968年6月第二次，1971年2月第三次。"
+            },
+            "C": {
                 "modality": "Audio",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000834/choice_1.wav",
                 "text": "1968年7月第三次，1971年1月第二次。"
             },
-            "C": {
-                "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000834/original.wav",
-                "text": "1968年7月第二次，1971年1月第三次。"
-            },
             "D": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000834/choice_2.wav",
-                "text": "1968年6月第二次，1971年2月第三次。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000834/choice_0.wav",
+                "text": "1967年7月第二次，1972年1月第三次。"
             }
         },
-        "correct_answer": "C"
+        "correct_answer": "A"
     },
     {
         "question": "Which audio most likely contains the Chinese translation of this English text? Answer the question with A, B, C, or D",
@@ -20841,26 +20810,26 @@
         "options": {
             "A": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000419/choice_2.wav",
-                "text": "1942年11月7日，科皮在米兰的自行车赛道上维持了世界一小时记录。 他使用了93.6英寸（7.47米）的齿轮比，并以平均每分钟103.3转的频率踩踏。 这辆自行车现在陈列在米兰附近的吉萨罗圣母教堂。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000419/choice_0.wav",
+                "text": "1942年11月7日，科皮在罗马的自行车赛道上打破了世界一小时记录。 他使用了93.6英寸（7.47米）的齿轮比，并以平均每分钟103.3转的频率踩踏。 这辆自行车现在陈列在科莫附近的吉萨罗圣母教堂。"
             },
             "B": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000419/choice_1.wav",
+                "text": "1943年11月7日，科皮在米兰的自行车赛道上打破了世界一分钟记录。 他使用了94.6英寸（7.57米）的齿轮比，并以平均每分钟102.3转的频率踩踏。 这辆自行车现在陈列在米兰附近的吉萨罗圣母教堂。"
+            },
+            "C": {
                 "modality": "Audio",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000419/original.wav",
                 "text": "1942年11月7日，科皮在米兰的自行车赛道上打破了世界一小时记录。 他使用了93.6英寸（7.47米）的齿轮比，并以平均每分钟103.3转的频率踩踏。 这辆自行车现在陈列在科莫附近的吉萨罗圣母教堂。"
             },
-            "C": {
-                "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000419/choice_0.wav",
-                "text": "1942年11月7日，科皮在罗马的自行车赛道上打破了世界一小时记录。 他使用了93.6英寸（7.47米）的齿轮比，并以平均每分钟103.3转的频率踩踏。 这辆自行车现在陈列在科莫附近的吉萨罗圣母教堂。"
-            },
             "D": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000419/choice_1.wav",
-                "text": "1943年11月7日，科皮在米兰的自行车赛道上打破了世界一分钟记录。 他使用了94.6英寸（7.57米）的齿轮比，并以平均每分钟102.3转的频率踩踏。 这辆自行车现在陈列在米兰附近的吉萨罗圣母教堂。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000419/choice_2.wav",
+                "text": "1942年11月7日，科皮在米兰的自行车赛道上维持了世界一小时记录。 他使用了93.6英寸（7.47米）的齿轮比，并以平均每分钟103.3转的频率踩踏。 这辆自行车现在陈列在米兰附近的吉萨罗圣母教堂。"
             }
         },
-        "correct_answer": "B"
+        "correct_answer": "C"
     },
     {
         "question": "Which audio most likely contains the Chinese translation of this English text? Answer the question with A, B, C, or D",
@@ -20872,8 +20841,8 @@
         "options": {
             "A": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000020/choice_1.wav",
-                "text": "以及因在印度洋地区的行动而获得的金星，以代替第二枚杰出服务勋章。1944年底，他作为顾问返回澳大利亚。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000020/choice_2.wav",
+                "text": "并因在太平洋地区的行动而获得的金星，以表彰杰出的服务勋章。1944年底，他作为军官返回英国。"
             },
             "B": {
                 "modality": "Audio",
@@ -20887,8 +20856,8 @@
             },
             "D": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000020/choice_2.wav",
-                "text": "并因在太平洋地区的行动而获得的金星，以表彰杰出的服务勋章。1944年底，他作为军官返回英国。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000020/choice_1.wav",
+                "text": "以及因在印度洋地区的行动而获得的金星，以代替第二枚杰出服务勋章。1944年底，他作为顾问返回澳大利亚。"
             }
         },
         "correct_answer": "B"
@@ -20903,13 +20872,13 @@
         "options": {
             "A": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000735/original.wav",
-                "text": "这意味着他们实际上在供养他们所为之工作的组织。对于沦为鸦片瘾君子的苦力来说"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000735/choice_1.wav",
+                "text": "这意味着他们最终得到了他们为之奋斗的组织。对于没有成为鸦片瘾君子的苦力来说"
             },
             "B": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000735/choice_2.wav",
-                "text": "这意味着他们真的在供养他们所厌恶的组织。对于成为鸦片瘾君子的苦力来说"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000735/original.wav",
+                "text": "这意味着他们实际上在供养他们所为之工作的组织。对于沦为鸦片瘾君子的苦力来说"
             },
             "C": {
                 "modality": "Audio",
@@ -20918,11 +20887,11 @@
             },
             "D": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000735/choice_1.wav",
-                "text": "这意味着他们最终得到了他们为之奋斗的组织。对于没有成为鸦片瘾君子的苦力来说"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000735/choice_2.wav",
+                "text": "这意味着他们真的在供养他们所厌恶的组织。对于成为鸦片瘾君子的苦力来说"
             }
         },
-        "correct_answer": "A"
+        "correct_answer": "B"
     },
     {
         "question": "Which audio most likely contains the Chinese translation of this English text? Answer the question with A, B, C, or D",
@@ -20939,13 +20908,13 @@
             },
             "B": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000127/choice_0.wav",
-                "text": "1968年，这家公司被美国水泥公司收购。但这次收购非常成功，于是在1969年，该公司再次被出售给穆尼飞机公司的所有者巴特勒航空公司。新公司被命名为Aerostar Aircraft Corporation，并计划将生产转移到位于达拉斯的穆尼工厂。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000127/choice_2.wav",
+                "text": "1968年，这家公司被美国钢铁公司收购。但这次收购并不成功，于是在1970年，该公司再次被出售给穆尼飞机公司的所有者巴特勒航空公司。新公司被命名为Aerostar Aircraft Corporation，并计划将生产转移到位于克尔维尔的穆尼工厂。"
             },
             "C": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000127/choice_2.wav",
-                "text": "1968年，这家公司被美国钢铁公司收购。但这次收购并不成功，于是在1970年，该公司再次被出售给穆尼飞机公司的所有者巴特勒航空公司。新公司被命名为Aerostar Aircraft Corporation，并计划将生产转移到位于克尔维尔的穆尼工厂。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000127/choice_0.wav",
+                "text": "1968年，这家公司被美国水泥公司收购。但这次收购非常成功，于是在1969年，该公司再次被出售给穆尼飞机公司的所有者巴特勒航空公司。新公司被命名为Aerostar Aircraft Corporation，并计划将生产转移到位于达拉斯的穆尼工厂。"
             },
             "D": {
                 "modality": "Audio",
@@ -20965,26 +20934,26 @@
         "options": {
             "A": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000933/choice_2.wav",
-                "text": "2009年，泰勒在为美洲虎队效力11个赛季后被球队解雇。3月1日，泰勒与新英格兰爱国者队签下了一份为期三年的合同。"
-            },
-            "B": {
-                "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000933/choice_1.wav",
-                "text": "2008年，泰勒在为美洲虎队效力10个赛季后被球队解约。2月27日，泰勒与纽约巨人队签下了一份为期两年的合同。"
-            },
-            "C": {
-                "modality": "Audio",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000933/original.wav",
                 "text": "2009年，泰勒在为美洲虎队效力11个赛季后被球队解约。2月27日，泰勒与新英格兰爱国者队签下了一份为期两年的合同。"
             },
-            "D": {
+            "B": {
                 "modality": "Audio",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000933/choice_0.wav",
                 "text": "2009年，泰勒在为美洲虎队效力了11个赛季后被球队聘用。2月27日，泰勒与新英格兰爱国者队签订了一份为期一年的合同。"
+            },
+            "C": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000933/choice_2.wav",
+                "text": "2009年，泰勒在为美洲虎队效力11个赛季后被球队解雇。3月1日，泰勒与新英格兰爱国者队签下了一份为期三年的合同。"
+            },
+            "D": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000933/choice_1.wav",
+                "text": "2008年，泰勒在为美洲虎队效力10个赛季后被球队解约。2月27日，泰勒与纽约巨人队签下了一份为期两年的合同。"
             }
         },
-        "correct_answer": "C"
+        "correct_answer": "A"
     },
     {
         "question": "Which audio most likely contains the Chinese translation of this English text? Answer the question with A, B, C, or D",
@@ -20996,8 +20965,8 @@
         "options": {
             "A": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000305/choice_0.wav",
-                "text": "历史充满了我们可以从中获得的奖励。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000305/choice_2.wav",
+                "text": "历史充满了我们可以一起分享的乐趣。"
             },
             "B": {
                 "modality": "Audio",
@@ -21011,8 +20980,8 @@
             },
             "D": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000305/choice_2.wav",
-                "text": "历史充满了我们可以一起分享的乐趣。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000305/choice_0.wav",
+                "text": "历史充满了我们可以从中获得的奖励。"
             }
         },
         "correct_answer": "C"
@@ -21027,26 +20996,26 @@
         "options": {
             "A": {
                 "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000517/choice_0.wav",
+                "text": "然后我听到楼上有动静，就下去查看了。"
+            },
+            "B": {
+                "modality": "Audio",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000517/choice_1.wav",
                 "text": "然后我看到楼下有动静，就上去查看了。"
             },
-            "B": {
+            "C": {
                 "modality": "Audio",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000517/original.wav",
                 "text": "然后我听到楼下有动静，就下去查看了。"
             },
-            "C": {
+            "D": {
                 "modality": "Audio",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000517/choice_2.wav",
                 "text": "然后我听到楼下有动静，就直接离开了。"
-            },
-            "D": {
-                "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000517/choice_0.wav",
-                "text": "然后我听到楼上有动静，就下去查看了。"
             }
         },
-        "correct_answer": "B"
+        "correct_answer": "C"
     },
     {
         "question": "Which audio most likely contains the Chinese translation of this English text? Answer the question with A, B, C, or D",
@@ -21089,13 +21058,13 @@
         "options": {
             "A": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000651/choice_0.wav",
-                "text": "政府建议保持这个名字，因为它听起来像印第安纳州的牛顿镇。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000651/choice_1.wav",
+                "text": "该机构建议更改名称，因为它听起来像纽约州的牛顿镇。"
             },
             "B": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000651/choice_1.wav",
-                "text": "该机构建议更改名称，因为它听起来像纽约州的牛顿镇。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000651/original.wav",
+                "text": "政府建议更改名称，因为它听起来像印第安纳州的牛顿镇。"
             },
             "C": {
                 "modality": "Audio",
@@ -21104,11 +21073,11 @@
             },
             "D": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000651/original.wav",
-                "text": "政府建议更改名称，因为它听起来像印第安纳州的牛顿镇。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000651/choice_0.wav",
+                "text": "政府建议保持这个名字，因为它听起来像印第安纳州的牛顿镇。"
             }
         },
-        "correct_answer": "D"
+        "correct_answer": "B"
     },
     {
         "question": "Which audio most likely contains the Chinese translation of this English text? Answer the question with A, B, C, or D",
@@ -21120,13 +21089,13 @@
         "options": {
             "A": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000800/choice_1.wav",
-                "text": "她把自己的手机落在了他那里，现在她感到很开心。我真不敢相信他会这么对她。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000800/choice_0.wav",
+                "text": "她在他的手机里发现了一些有趣的短信，现在她感到很生气。我真不敢相信他会这么对她。"
             },
             "B": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000800/choice_0.wav",
-                "text": "她在他的手机里发现了一些有趣的短信，现在她感到很生气。我真不敢相信他会这么对她。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000800/choice_1.wav",
+                "text": "她把自己的手机落在了他那里，现在她感到很开心。我真不敢相信他会这么对她。"
             },
             "C": {
                 "modality": "Audio",
@@ -21151,26 +21120,26 @@
         "options": {
             "A": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000268/choice_0.wav",
-                "text": "彼得·斯特恩特（约1613–1665年）是十六世纪伦敦的一位版画商，从17世纪40年代初直到去世，他经营着当时规模最小的版画制作企业之一。斯特恩特最初本身是一位雕刻家。"
-            },
-            "B": {
-                "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000268/original.wav",
-                "text": "彼得·斯特恩特 (约1613–1665) 是十七世纪伦敦的一位版画商，从17世纪40年代初直到去世，他经营着当时规模最大的版画制作企业之一。斯特恩特最初本身是一位雕刻师。"
-            },
-            "C": {
-                "modality": "Audio",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000268/choice_1.wav",
                 "text": "彼得·斯特恩特（约1613–1665年）是十七世纪巴黎的一位版画商，从17世纪50年代初直到去世，他经营着当时规模最大的绘画制作企业之一。斯特恩特最初本身是一位画家。"
             },
-            "D": {
+            "B": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000268/choice_0.wav",
+                "text": "彼得·斯特恩特（约1613–1665年）是十六世纪伦敦的一位版画商，从17世纪40年代初直到去世，他经营着当时规模最小的版画制作企业之一。斯特恩特最初本身是一位雕刻家。"
+            },
+            "C": {
                 "modality": "Audio",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000268/choice_2.wav",
                 "text": "彼得·斯特恩特（约1613–1665年）是十七世纪伦敦的一位雕塑家，从17世纪40年代初直到去世，他经营着当时规模最大的版画制作企业之一。斯特恩特后来本身是一位雕刻师。"
+            },
+            "D": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000268/original.wav",
+                "text": "彼得·斯特恩特 (约1613–1665) 是十七世纪伦敦的一位版画商，从17世纪40年代初直到去世，他经营着当时规模最大的版画制作企业之一。斯特恩特最初本身是一位雕刻师。"
             }
         },
-        "correct_answer": "B"
+        "correct_answer": "D"
     },
     {
         "question": "Which audio most likely contains the Chinese translation of this English text? Answer the question with A, B, C, or D",
@@ -21182,26 +21151,26 @@
         "options": {
             "A": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000473/choice_1.wav",
-                "text": "今年同期占据了相同的时间段。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000473/choice_0.wav",
+                "text": "去年同期占据了不同的时间段。"
             },
             "B": {
-                "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000473/choice_2.wav",
-                "text": "去年同期消耗了相同的时间段。"
-            },
-            "C": {
                 "modality": "Audio",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000473/original.wav",
                 "text": "去年同期占据了相同的时间段。"
             },
+            "C": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000473/choice_1.wav",
+                "text": "今年同期占据了相同的时间段。"
+            },
             "D": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000473/choice_0.wav",
-                "text": "去年同期占据了不同的时间段。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000473/choice_2.wav",
+                "text": "去年同期消耗了相同的时间段。"
             }
         },
-        "correct_answer": "C"
+        "correct_answer": "B"
     },
     {
         "question": "Which audio most likely contains the Chinese translation of this English text? Answer the question with A, B, C, or D",
@@ -21213,13 +21182,13 @@
         "options": {
             "A": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000590/choice_2.wav",
-                "text": "这部在伦敦刚刚获得托尼奖的歌剧，真是太成功了。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000590/choice_1.wav",
+                "text": "这部在纽约市已经获得格莱美奖的电影，真是太成功了。"
             },
             "B": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000590/choice_1.wav",
-                "text": "这部在纽约市已经获得格莱美奖的电影，真是太成功了。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000590/choice_2.wav",
+                "text": "这部在伦敦刚刚获得托尼奖的歌剧，真是太成功了。"
             },
             "C": {
                 "modality": "Audio",
@@ -21249,21 +21218,21 @@
             },
             "B": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000382/original.wav",
-                "text": "我就是有这种直觉。而且以前从来没有出错。这真有意思。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000382/choice_1.wav",
+                "text": "我就是有这种直觉。而且过去从未真正对过。这真有趣。"
             },
             "C": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000382/choice_0.wav",
-                "text": "我就是有这种感觉。而且以前经常出错。这真没意思。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000382/original.wav",
+                "text": "我就是有这种直觉。而且以前从来没有出错。这真有意思。"
             },
             "D": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000382/choice_1.wav",
-                "text": "我就是有这种直觉。而且过去从未真正对过。这真有趣。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000382/choice_0.wav",
+                "text": "我就是有这种感觉。而且以前经常出错。这真没意思。"
             }
         },
-        "correct_answer": "B"
+        "correct_answer": "C"
     },
     {
         "question": "Which audio most likely contains the Chinese translation of this English text? Answer the question with A, B, C, or D",
@@ -21280,8 +21249,8 @@
             },
             "B": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000823/choice_1.wav",
-                "text": "我想成为他们的好榜样，让他们看到人生只有一种选择，那就是像他们的一些朋友那样，沾染毒品或者加入帮派。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000823/original.wav",
+                "text": "我想成为他们的好榜样，让他们看到人生还有其他的选择，而不是像他们的一些朋友那样，沾染毒品或者加入帮派。"
             },
             "C": {
                 "modality": "Audio",
@@ -21290,11 +21259,11 @@
             },
             "D": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000823/original.wav",
-                "text": "我想成为他们的好榜样，让他们看到人生还有其他的选择，而不是像他们的一些朋友那样，沾染毒品或者加入帮派。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000823/choice_1.wav",
+                "text": "我想成为他们的好榜样，让他们看到人生只有一种选择，那就是像他们的一些朋友那样，沾染毒品或者加入帮派。"
             }
         },
-        "correct_answer": "D"
+        "correct_answer": "B"
     },
     {
         "question": "Which audio most likely contains the Chinese translation of this English text? Answer the question with A, B, C, or D",
@@ -21316,16 +21285,16 @@
             },
             "C": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000959/original.wav",
-                "text": "2018年计划召开一个关于临床生殖系编辑的意向委员会。目前，围绕人类生殖系工程存在诸多争议。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000959/choice_0.wav",
+                "text": "2017年计划召开一个关于临床生殖系编辑的意向委员会。目前，围绕人类生殖系工程存在诸多争议。"
             },
             "D": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000959/choice_0.wav",
-                "text": "2017年计划召开一个关于临床生殖系编辑的意向委员会。目前，围绕人类生殖系工程存在诸多争议。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000959/original.wav",
+                "text": "2018年计划召开一个关于临床生殖系编辑的意向委员会。目前，围绕人类生殖系工程存在诸多争议。"
             }
         },
-        "correct_answer": "C"
+        "correct_answer": "D"
     },
     {
         "question": "Which audio most likely contains the Chinese translation of this English text? Answer the question with A, B, C, or D",
@@ -21337,18 +21306,18 @@
         "options": {
             "A": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000366/original.wav",
-                "text": "并且有二十位工匠在这处房产上工作。伏尔泰和他的情人将这所房子更名为“Les Délices”（乐园）。"
-            },
-            "B": {
-                "modality": "Audio",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000366/choice_2.wav",
                 "text": "此外，有二十位工匠参与设计了这处房产。伏尔泰独自将这所房子更名为“Les Délices”（乐园）。"
             },
-            "C": {
+            "B": {
                 "modality": "Audio",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000366/choice_1.wav",
                 "text": "并且有五十位工匠在这栋别墅里工作。伏尔泰和他的情人合伙将这所房子更名为“Les Délices”（乐园）。"
+            },
+            "C": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000366/original.wav",
+                "text": "并且有二十位工匠在这处房产上工作。伏尔泰和他的情人将这所房子更名为“Les Délices”（乐园）。"
             },
             "D": {
                 "modality": "Audio",
@@ -21356,7 +21325,7 @@
                 "text": "同时，有二十名工人负责建造这处房产。伏尔泰和他的朋友们将这所房子命名为“Les Délices”（乐园）。"
             }
         },
-        "correct_answer": "A"
+        "correct_answer": "C"
     },
     {
         "question": "Which audio most likely contains the Chinese translation of this English text? Answer the question with A, B, C, or D",
@@ -21368,26 +21337,26 @@
         "options": {
             "A": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000285/choice_0.wav",
-                "text": "乔·普尔 (Joseph Poole，出生于1923年5月25日) 是一位职业篮球运动员。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000285/original.wav",
+                "text": "乔·普尔 (Joseph Poole，生于1923年5月25日) 是一位前职业足球运动员。"
             },
             "B": {
-                "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000285/choice_1.wav",
-                "text": "乔·普尔 (Joseph Poole，生于1923年6月25日) 是一位前职业足球运动员。"
-            },
-            "C": {
                 "modality": "Audio",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000285/choice_2.wav",
                 "text": "乔·普尔 (Joseph Poole，生于1923年) 是一位前职业足球运动员。"
             },
+            "C": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000285/choice_1.wav",
+                "text": "乔·普尔 (Joseph Poole，生于1923年6月25日) 是一位前职业足球运动员。"
+            },
             "D": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000285/original.wav",
-                "text": "乔·普尔 (Joseph Poole，生于1923年5月25日) 是一位前职业足球运动员。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000285/choice_0.wav",
+                "text": "乔·普尔 (Joseph Poole，出生于1923年5月25日) 是一位职业篮球运动员。"
             }
         },
-        "correct_answer": "D"
+        "correct_answer": "A"
     },
     {
         "question": "Which audio most likely contains the Chinese translation of this English text? Answer the question with A, B, C, or D",
@@ -21404,8 +21373,8 @@
             },
             "B": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000060/original.wav",
-                "text": "他们在被俘前全部被杀。他还曾在阿尔卡特拉斯联邦监狱服刑时间最长。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000060/choice_1.wav",
+                "text": "他们在被俘后都被释放了。他还曾在阿尔卡特拉斯联邦监狱服刑时间最短。"
             },
             "C": {
                 "modality": "Audio",
@@ -21414,11 +21383,11 @@
             },
             "D": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000060/choice_1.wav",
-                "text": "他们在被俘后都被释放了。他还曾在阿尔卡特拉斯联邦监狱服刑时间最短。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000060/original.wav",
+                "text": "他们在被俘前全部被杀。他还曾在阿尔卡特拉斯联邦监狱服刑时间最长。"
             }
         },
-        "correct_answer": "B"
+        "correct_answer": "D"
     },
     {
         "question": "Which audio most likely contains the Chinese translation of this English text? Answer the question with A, B, C, or D",
@@ -21430,8 +21399,8 @@
         "options": {
             "A": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000144/choice_1.wav",
-                "text": "我小时候，我父母也很少吵架。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000144/choice_0.wav",
+                "text": "我长大后，我父母也经常吵架。"
             },
             "B": {
                 "modality": "Audio",
@@ -21440,13 +21409,13 @@
             },
             "C": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000144/choice_0.wav",
-                "text": "我长大后，我父母也经常吵架。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000144/choice_2.wav",
+                "text": "我小时候，我朋友也经常吵架。"
             },
             "D": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000144/choice_2.wav",
-                "text": "我小时候，我朋友也经常吵架。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000144/choice_1.wav",
+                "text": "我小时候，我父母也很少吵架。"
             }
         },
         "correct_answer": "B"
@@ -21461,13 +21430,13 @@
         "options": {
             "A": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000450/original.wav",
-                "text": "到 1956 年，SDU 已经终止了与拉瓦尔的关系。与 PWC 类似。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000450/choice_1.wav",
+                "text": "在 1956 年，SDU 开始与拉瓦尔合作。与 PWC 有所不同。"
             },
             "B": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000450/choice_1.wav",
-                "text": "在 1956 年，SDU 开始与拉瓦尔合作。与 PWC 有所不同。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000450/original.wav",
+                "text": "到 1956 年，SDU 已经终止了与拉瓦尔的关系。与 PWC 类似。"
             },
             "C": {
                 "modality": "Audio",
@@ -21480,7 +21449,7 @@
                 "text": "到了 1956 年，SDU 决定和拉瓦尔终止合作。跟 PWC 有点像。"
             }
         },
-        "correct_answer": "A"
+        "correct_answer": "B"
     },
     {
         "question": "Which audio most likely contains the Chinese translation of this English text? Answer the question with A, B, C, or D",
@@ -21492,18 +21461,18 @@
         "options": {
             "A": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000806/choice_1.wav",
-                "text": "杰奎琳被警车接走，因为杰奎琳不想被照顾。杰奎琳非常痛苦。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000806/original.wav",
+                "text": "杰奎琳被救护车接走，因为杰奎琳想被人照顾。杰奎琳非常痛苦。"
             },
             "B": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000806/choice_0.wav",
-                "text": "杰奎琳被救护车接走，因为杰奎琳想去医院。杰奎琳非常高兴。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000806/choice_1.wav",
+                "text": "杰奎琳被警车接走，因为杰奎琳不想被照顾。杰奎琳非常痛苦。"
             },
             "C": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000806/original.wav",
-                "text": "杰奎琳被救护车接走，因为杰奎琳想被人照顾。杰奎琳非常痛苦。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000806/choice_0.wav",
+                "text": "杰奎琳被救护车接走，因为杰奎琳想去医院。杰奎琳非常高兴。"
             },
             "D": {
                 "modality": "Audio",
@@ -21511,7 +21480,7 @@
                 "text": "杰奎琳自己走了，因为杰奎琳想被人照顾。杰奎琳非常健康。"
             }
         },
-        "correct_answer": "C"
+        "correct_answer": "A"
     },
     {
         "question": "Which audio most likely contains the Chinese translation of this English text? Answer the question with A, B, C, or D",
@@ -21523,26 +21492,26 @@
         "options": {
             "A": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000975/original.wav",
-                "text": "在这段时间里，他彻底改变了现代英国讣告的风格，使其从枯燥的生平履历罗列变成了通常带有狡黠意味的"
-            },
-            "B": {
-                "modality": "Audio",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000975/choice_1.wav",
                 "text": "在那时，他彻底改变了现代英国赞美诗的风格，使其从枯燥的生平履历罗列变成了通常带有讽刺意味的。"
             },
-            "C": {
-                "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000975/choice_2.wav",
-                "text": "在这段时间里，他彻底改变了现代英国讣告的风格，使其变得更加严肃，并常常带有玩笑的意味。"
-            },
-            "D": {
+            "B": {
                 "modality": "Audio",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000975/choice_0.wav",
                 "text": "在这段时间里，他完全改变了现代英国讣告的内容，使其从无聊的生平变成了通常带有狡黠意味的。"
+            },
+            "C": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000975/original.wav",
+                "text": "在这段时间里，他彻底改变了现代英国讣告的风格，使其从枯燥的生平履历罗列变成了通常带有狡黠意味的"
+            },
+            "D": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000975/choice_2.wav",
+                "text": "在这段时间里，他彻底改变了现代英国讣告的风格，使其变得更加严肃，并常常带有玩笑的意味。"
             }
         },
-        "correct_answer": "A"
+        "correct_answer": "C"
     },
     {
         "question": "Which audio most likely contains the Chinese translation of this English text? Answer the question with A, B, C, or D",
@@ -21554,26 +21523,26 @@
         "options": {
             "A": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000422/choice_1.wav",
-                "text": "发生了什么？这周过的真是轻松。"
-            },
-            "B": {
-                "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000422/choice_0.wav",
-                "text": "发生什么事了？这周末过得真快啊。"
-            },
-            "C": {
-                "modality": "Audio",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000422/original.wav",
                 "text": "发生什么事了？这周实在是太难熬了。"
             },
-            "D": {
+            "B": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000422/choice_1.wav",
+                "text": "发生了什么？这周过的真是轻松。"
+            },
+            "C": {
                 "modality": "Audio",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000422/choice_2.wav",
                 "text": "怎么回事？下周会更难熬。"
+            },
+            "D": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000422/choice_0.wav",
+                "text": "发生什么事了？这周末过得真快啊。"
             }
         },
-        "correct_answer": "C"
+        "correct_answer": "A"
     },
     {
         "question": "Which audio most likely contains the Chinese translation of this English text? Answer the question with A, B, C, or D",
@@ -21585,26 +21554,26 @@
         "options": {
             "A": {
                 "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000230/choice_1.wav",
+                "text": "我就在那里。那你为什么身处黑暗之中？因为光明本就属于那里。"
+            },
+            "B": {
+                "modality": "Audio",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000230/choice_0.wav",
                 "text": "我就在那里。那你为什么身处光明之中？因为阴影本就属于那里。"
             },
-            "B": {
+            "C": {
                 "modality": "Audio",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000230/original.wav",
                 "text": "我就在这里。那你为什么身处黑暗之中？因为阴影本就属于那里。"
             },
-            "C": {
+            "D": {
                 "modality": "Audio",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000230/choice_2.wav",
                 "text": "我就在那里。那你为什么身处黑暗之中？因为孤独本就属于那里。"
-            },
-            "D": {
-                "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000230/choice_1.wav",
-                "text": "我就在那里。那你为什么身处黑暗之中？因为光明本就属于那里。"
             }
         },
-        "correct_answer": "B"
+        "correct_answer": "C"
     },
     {
         "question": "Which audio most likely contains the Chinese translation of this English text? Answer the question with A, B, C, or D",
@@ -21621,8 +21590,8 @@
             },
             "B": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000908/choice_1.wav",
-                "text": "但是迄今为止一直效果不好！真糟糕！"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000908/original.wav",
+                "text": "而且目前为止一直运作良好！太棒了！"
             },
             "C": {
                 "modality": "Audio",
@@ -21631,11 +21600,11 @@
             },
             "D": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000908/original.wav",
-                "text": "而且目前为止一直运作良好！太棒了！"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000908/choice_1.wav",
+                "text": "但是迄今为止一直效果不好！真糟糕！"
             }
         },
-        "correct_answer": "D"
+        "correct_answer": "B"
     },
     {
         "question": "Which audio most likely contains the Chinese translation of this English text? Answer the question with A, B, C, or D",
@@ -21647,26 +21616,26 @@
         "options": {
             "A": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000623/choice_2.wav",
-                "text": "只要和她聊聊天就已经让我感觉好一些了。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000623/choice_0.wav",
+                "text": "仅仅是和你吵吵架就已经让我感觉好一些了。"
             },
             "B": {
-                "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000623/original.wav",
-                "text": "仅仅是和你聊聊天就已经让我感觉好一些了。"
-            },
-            "C": {
                 "modality": "Audio",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000623/choice_1.wav",
                 "text": "只要和你谈谈就能让我更糟一些。"
             },
+            "C": {
+                "modality": "Audio",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000623/choice_2.wav",
+                "text": "只要和她聊聊天就已经让我感觉好一些了。"
+            },
             "D": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000623/choice_0.wav",
-                "text": "仅仅是和你吵吵架就已经让我感觉好一些了。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000623/original.wav",
+                "text": "仅仅是和你聊聊天就已经让我感觉好一些了。"
             }
         },
-        "correct_answer": "B"
+        "correct_answer": "D"
     },
     {
         "question": "Which audio most likely contains the Chinese translation of this English text? Answer the question with A, B, C, or D",
@@ -21688,13 +21657,13 @@
             },
             "C": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000525/choice_0.wav",
-                "text": "现在让我们去你的厨房看看，看看我们能找到什么。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000525/choice_1.wav",
+                "text": "现在让我来检查你的衣橱，看看你买的什么。"
             },
             "D": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000525/choice_1.wav",
-                "text": "现在让我来检查你的衣橱，看看你买的什么。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000525/choice_0.wav",
+                "text": "现在让我们去你的厨房看看，看看我们能找到什么。"
             }
         },
         "correct_answer": "B"
@@ -21709,8 +21678,8 @@
         "options": {
             "A": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000991/choice_1.wav",
-                "text": "但是，哈特利代表新奥尔良队踢进一记46码的任意球。猎鹰队迅速反击，老将四分卫马特·瑞安完成一记2码的传球，由外接手布莱恩·芬尼根传球达阵。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000991/choice_2.wav",
+                "text": "然而，哈特利在新奥尔良队踢进一记46码的任意球。猎鹰队立即反击，新秀四分卫马特·瑞安完成一记2码的传球，给外接手布莱恩·芬尼根传球达阵。"
             },
             "B": {
                 "modality": "Audio",
@@ -21724,8 +21693,8 @@
             },
             "D": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000991/choice_2.wav",
-                "text": "然而，哈特利在新奥尔良队踢进一记46码的任意球。猎鹰队立即反击，新秀四分卫马特·瑞安完成一记2码的传球，给外接手布莱恩·芬尼根传球达阵。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000991/choice_1.wav",
+                "text": "但是，哈特利代表新奥尔良队踢进一记46码的任意球。猎鹰队迅速反击，老将四分卫马特·瑞安完成一记2码的传球，由外接手布莱恩·芬尼根传球达阵。"
             }
         },
         "correct_answer": "B"
@@ -21740,18 +21709,18 @@
         "options": {
             "A": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000759/original.wav",
-                "text": "她打了他，打得他摔倒在地。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000759/choice_1.wav",
+                "text": "她踢了他，打得他摔倒在地。"
             },
             "B": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000759/choice_0.wav",
-                "text": "她打了别人，打得他摔倒在地。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000759/original.wav",
+                "text": "她打了他，打得他摔倒在地。"
             },
             "C": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000759/choice_1.wav",
-                "text": "她踢了他，打得他摔倒在地。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000759/choice_0.wav",
+                "text": "她打了别人，打得他摔倒在地。"
             },
             "D": {
                 "modality": "Audio",
@@ -21759,7 +21728,7 @@
                 "text": "她打了他一下，打得他站了起来。"
             }
         },
-        "correct_answer": "A"
+        "correct_answer": "B"
     },
     {
         "question": "Which audio most likely contains the Chinese translation of this English text? Answer the question with A, B, C, or D",
@@ -21771,13 +21740,13 @@
         "options": {
             "A": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000707/choice_0.wav",
-                "text": "1956年萨克拉门托州立大学雄狮队橄榄球队代表萨克拉门托州立大学参加了1956年NCAA大学组橄榄球赛季。萨克拉门托州立大学加入了太平洋十校联盟（Pac-10）。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000707/original.wav",
+                "text": "1956年萨克拉门托州立大学黄蜂队橄榄球队\n\n1956年萨克拉门托州立大学黄蜂队橄榄球队代表萨克拉门托州立学院参加了1956年NCAA大学组橄榄球赛季。萨克拉门托州立大学参加了远西联盟（FWC）。"
             },
             "B": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000707/choice_2.wav",
-                "text": "1956年萨克拉门托州立大学黄蜂队篮球队代表萨克拉门托州立学院参加了1956年NCAA大学组橄榄球赛季。萨克拉门托州立大学参加了远西联盟（FWC）。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000707/choice_0.wav",
+                "text": "1956年萨克拉门托州立大学雄狮队橄榄球队代表萨克拉门托州立大学参加了1956年NCAA大学组橄榄球赛季。萨克拉门托州立大学加入了太平洋十校联盟（Pac-10）。"
             },
             "C": {
                 "modality": "Audio",
@@ -21786,10 +21755,10 @@
             },
             "D": {
                 "modality": "Audio",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000707/original.wav",
-                "text": "1956年萨克拉门托州立大学黄蜂队橄榄球队\n\n1956年萨克拉门托州立大学黄蜂队橄榄球队代表萨克拉门托州立学院参加了1956年NCAA大学组橄榄球赛季。萨克拉门托州立大学参加了远西联盟（FWC）。"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000707/choice_2.wav",
+                "text": "1956年萨克拉门托州立大学黄蜂队篮球队代表萨克拉门托州立学院参加了1956年NCAA大学组橄榄球赛季。萨克拉门托州立大学参加了远西联盟（FWC）。"
             }
         },
-        "correct_answer": "D"
+        "correct_answer": "A"
     }
 ]

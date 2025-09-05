@@ -1,3 +1,4 @@
+from calendar import c
 import os
 import re
 import random
@@ -266,6 +267,12 @@ if __name__ == "__main__":
     vision_modality = 'Video' 
     N = 500
     
+    low_quality_txt = '/home/xwang378/scratch/2025/AudioBench/benchmark/scripts/process/4_temporal/low_quality_samples.txt'
+    low_quality_samples = []
+    with open(low_quality_txt, 'r') as f:
+        for line in f:
+            low_quality_samples.append(line.strip())
+    
     export_dir = f'/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/04_temporal/count/'
     if mode == 'classes':
         all_choices = os.listdir(root_dir)
@@ -278,7 +285,10 @@ if __name__ == "__main__":
     all_choices = [choice for choice in all_choices if os.path.exists(os.path.join(root_dir, f"{choice}.json"))]
 
     all_info = {}
+    
     for video_id in all_choices:
+        if video_id in low_quality_samples:
+            continue
         video_info = json.load(open(os.path.join(root_dir, f"{video_id}.json")))
         number_of_repetitions = video_info["number_of_repetitions"]
         if number_of_repetitions not in all_info:
@@ -292,25 +302,29 @@ if __name__ == "__main__":
     audio_vision_questions = []
     vision_audio_questions = []
     
-    
     sorted_all_repetitions = sorted(all_info.keys())
     
     print(f"Total valid audio choices: {len(all_choices)}")
     
-    for video_id in all_choices:
+    for _ in range(N):
+        video_id = random.choice(all_choices)
         video_info = json.load(open(os.path.join(root_dir, f"{video_id}.json")))
         action_class = video_info["action_class"]
-
         number_of_repetitions = video_info["number_of_repetitions"]
-        if number_of_repetitions > 10:
-            continue
+        
+        while video_id in low_quality_samples or number_of_repetitions > 10:
+            video_id = random.choice(all_choices)    
+            video_info = json.load(open(os.path.join(root_dir, f"{video_id}.json")))
+            number_of_repetitions = video_info["number_of_repetitions"]
+            action_class = video_info["action_class"]
+            
         index_of_repetitions = sorted_all_repetitions.index(number_of_repetitions)
         
         choice_range = 10
         start_index = max(0, index_of_repetitions - choice_range)
         end_index = min(len(sorted_all_repetitions), index_of_repetitions + choice_range)
         
-        candidate_choices = [i-index_of_repetitions for i in range(start_index, end_index, 5) if np.abs(i - index_of_repetitions) > 1]
+        candidate_choices = [i-index_of_repetitions for i in range(start_index, end_index, 5) if np.abs(i - index_of_repetitions) > 3]
         
         if len(candidate_choices) < 3:
             candidate_choices += random.sample([i for i in range(start_index, end_index) if np.abs(i - index_of_repetitions) > 5 and i not in candidate_choices], 3 - len(candidate_choices))

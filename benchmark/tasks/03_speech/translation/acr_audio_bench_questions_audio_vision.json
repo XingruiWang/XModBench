@@ -19936,37 +19936,6 @@
         "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
         "conditions": {
             "modality": "Audio",
-            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/audio/000002000171.wav",
-            "text": "Hmm. . . it does sound like there could be something wrong with the engine."
-        },
-        "options": {
-            "A": {
-                "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000171/original.png",
-                "text": "\u55ef\u2026\u2026\u542c\u8d77\u6765\u597d\u50cf\u5f15\u64ce\u53ef\u80fd\u6709\u70b9\u95ee\u9898\u3002"
-            },
-            "B": {
-                "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000171/choice_0.png",
-                "text": "\u55ef\u2026\u2026\u542c\u8d77\u6765\u597d\u50cf\u53d1\u52a8\u673a\u53ef\u80fd\u6709\u70b9\u95ee\u9898\u3002"
-            },
-            "C": {
-                "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000171/choice_1.png",
-                "text": "\u55ef\u2026\u2026\u542c\u8d77\u6765\u597d\u50cf\u60c5\u51b5\u5e94\u8be5\u4e0d\u9519\u3002"
-            },
-            "D": {
-                "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000171/choice_2.png",
-                "text": "\u55ef\u2026\u2026\u542c\u8d77\u6765\u597d\u50cf\u5f15\u64ce\u6839\u672c\u6ca1\u95ee\u9898\u3002"
-            }
-        },
-        "correct_answer": "A"
-    },
-    {
-        "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
-        "conditions": {
-            "modality": "Audio",
             "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/audio/000002000092.wav",
             "text": "which opened in February 1961. During his tenure as owner of the ski resort until 1986"
         },
@@ -20004,26 +19973,26 @@
         "options": {
             "A": {
                 "modality": "Image",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000178/original.png",
+                "text": "\u4f46\u522b\u592a\u5b89\u9038\u4e86\uff0c\u56e0\u4e3a\u751f\u6d3b\u603b\u4f1a\u5728\u4f60\u6700\u610f\u60f3\u4e0d\u5230\u7684\u65f6\u5019\u7ed9\u4f60\u6765\u4e2a\u63aa\u624b\u4e0d\u53ca\u3002"
+            },
+            "B": {
+                "modality": "Image",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000178/choice_0.png",
                 "text": "\u4f46\u522b\u592a\u653e\u677e\u4e86\uff0c\u56e0\u4e3a\u751f\u6d3b\u603b\u4f1a\u5728\u4f60\u6700\u671f\u5f85\u7684\u65f6\u5019\u7ed9\u4f60\u4e00\u4e2a\u60ca\u559c\u3002"
             },
-            "B": {
+            "C": {
                 "modality": "Image",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000178/choice_1.png",
                 "text": "\u4f46\u522b\u592a\u677e\u61c8\u4e86\uff0c\u56e0\u4e3a\u751f\u6d3b\u603b\u4f1a\u5728\u4f60\u6beb\u65e0\u51c6\u5907\u7684\u65f6\u5019\u7ed9\u4f60\u4e00\u4e2a\u673a\u4f1a\u3002"
             },
-            "C": {
+            "D": {
                 "modality": "Image",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000178/choice_2.png",
                 "text": "\u4f46\u522b\u592a\u8212\u670d\u4e86\uff0c\u56e0\u4e3a\u4eba\u751f\u603b\u4f1a\u5728\u4f60\u5f97\u610f\u5fd8\u5f62\u7684\u65f6\u5019\u7ed9\u4f60\u4e00\u4e2a\u6559\u8bad\u3002"
-            },
-            "D": {
-                "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000178/original.png",
-                "text": "\u4f46\u522b\u592a\u5b89\u9038\u4e86\uff0c\u56e0\u4e3a\u751f\u6d3b\u603b\u4f1a\u5728\u4f60\u6700\u610f\u60f3\u4e0d\u5230\u7684\u65f6\u5019\u7ed9\u4f60\u6765\u4e2a\u63aa\u624b\u4e0d\u53ca\u3002"
             }
         },
-        "correct_answer": "D"
+        "correct_answer": "A"
     },
     {
         "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
@@ -20035,8 +20004,8 @@
         "options": {
             "A": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000647/original.png",
-                "text": "\u540c\u6837\u7f3a\u5e2d\u7684\u8fd8\u6709\u6765\u81ea1999\u5e74\u4e13\u8f91\u300a\u52a0\u5229\u798f\u5c3c\u4e9a\u300b\u7684\u70ed\u95e8\u5355\u66f2\u201c\u73af\u6e38\u4e16\u754c\u201d\uff0c\u5c3d\u7ba1DVD\u6536\u5f55\u4e86\u8fd9\u9996\u6b4c\u7684\u97f3\u4e50\u5f55\u5f71\u5e26\u3002\u622a\u81f3\u5f53\u65f6\uff0c\u4ed6\u4eec\u5728\u516c\u544a\u724c\u73b0\u4ee3\u6447\u6eda\u5355\u66f2\u699c\u4e0a\u5171\u6709\u516b\u9996\u7f8e\u56fd\u51a0\u519b\u5355\u66f2\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000647/choice_0.png",
+                "text": "\u540c\u6837\u7f3a\u5e2d\u7684\u8fd8\u6709\u6765\u81ea2009\u5e74\u4e13\u8f91\u300a\u52a0\u5229\u798f\u5c3c\u4e9a\u300b\u7684\u70ed\u95e8\u5355\u66f2\u201c\u73af\u6e38\u4e16\u754c\u201d\uff0c\u5c3d\u7ba1DVD\u6536\u5f55\u4e86\u8fd9\u9996\u6b4c\u7684\u97f3\u4e50\u5f55\u5f71\u5e26\u3002\u622a\u81f3\u5f53\u65f6\uff0c\u4ed6\u4eec\u5728\u516c\u544a\u724c\u72ec\u7acb\u6447\u6eda\u5355\u66f2\u699c\u4e0a\u5171\u6709\u516b\u9996\u7f8e\u56fd\u51a0\u519b\u5355\u66f2\u3002"
             },
             "B": {
                 "modality": "Image",
@@ -20050,11 +20019,11 @@
             },
             "D": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000647/choice_0.png",
-                "text": "\u540c\u6837\u7f3a\u5e2d\u7684\u8fd8\u6709\u6765\u81ea2009\u5e74\u4e13\u8f91\u300a\u52a0\u5229\u798f\u5c3c\u4e9a\u300b\u7684\u70ed\u95e8\u5355\u66f2\u201c\u73af\u6e38\u4e16\u754c\u201d\uff0c\u5c3d\u7ba1DVD\u6536\u5f55\u4e86\u8fd9\u9996\u6b4c\u7684\u97f3\u4e50\u5f55\u5f71\u5e26\u3002\u622a\u81f3\u5f53\u65f6\uff0c\u4ed6\u4eec\u5728\u516c\u544a\u724c\u72ec\u7acb\u6447\u6eda\u5355\u66f2\u699c\u4e0a\u5171\u6709\u516b\u9996\u7f8e\u56fd\u51a0\u519b\u5355\u66f2\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000647/original.png",
+                "text": "\u540c\u6837\u7f3a\u5e2d\u7684\u8fd8\u6709\u6765\u81ea1999\u5e74\u4e13\u8f91\u300a\u52a0\u5229\u798f\u5c3c\u4e9a\u300b\u7684\u70ed\u95e8\u5355\u66f2\u201c\u73af\u6e38\u4e16\u754c\u201d\uff0c\u5c3d\u7ba1DVD\u6536\u5f55\u4e86\u8fd9\u9996\u6b4c\u7684\u97f3\u4e50\u5f55\u5f71\u5e26\u3002\u622a\u81f3\u5f53\u65f6\uff0c\u4ed6\u4eec\u5728\u516c\u544a\u724c\u73b0\u4ee3\u6447\u6eda\u5355\u66f2\u699c\u4e0a\u5171\u6709\u516b\u9996\u7f8e\u56fd\u51a0\u519b\u5355\u66f2\u3002"
             }
         },
-        "correct_answer": "A"
+        "correct_answer": "D"
     },
     {
         "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
@@ -20066,26 +20035,26 @@
         "options": {
             "A": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000001000689/choice_1.png",
-                "text": "\u4e0e\u8fdc\u5904\u7684\u7fa4\u4f53\u7684\u53d6\u503c\u4e00\u81f4\uff08\u4f8b\u5982...\uff09"
-            },
-            "B": {
-                "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000001000689/choice_0.png",
-                "text": "\u4e0e\u9644\u8fd1\u7fa4\u4f53\u7684\u53d6\u503c\u76f8\u53cd\uff08\u4f8b\u5982...\uff09"
-            },
-            "C": {
-                "modality": "Image",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000001000689/original.png",
                 "text": "\u4e0e\u9644\u8fd1\u7fa4\u4f53\u7684\u53d6\u503c\u4e00\u81f4\uff08\u4f8b\u5982...\uff09"
             },
-            "D": {
+            "B": {
+                "modality": "Image",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000001000689/choice_1.png",
+                "text": "\u4e0e\u8fdc\u5904\u7684\u7fa4\u4f53\u7684\u53d6\u503c\u4e00\u81f4\uff08\u4f8b\u5982...\uff09"
+            },
+            "C": {
                 "modality": "Image",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000001000689/choice_2.png",
                 "text": "\u4e0e\u9644\u8fd1\u7fa4\u4f53\u7684\u53d6\u503c\u65e0\u5173\uff08\u4f8b\u5982...\uff09"
+            },
+            "D": {
+                "modality": "Image",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000001000689/choice_0.png",
+                "text": "\u4e0e\u9644\u8fd1\u7fa4\u4f53\u7684\u53d6\u503c\u76f8\u53cd\uff08\u4f8b\u5982...\uff09"
             }
         },
-        "correct_answer": "C"
+        "correct_answer": "A"
     },
     {
         "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
@@ -20097,26 +20066,26 @@
         "options": {
             "A": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000195/original.png",
-                "text": "\u5e76\u884c\u9009\u62e9\uff08\u56fe 1 (A)\uff09\u65b9\u6cd5\u5047\u8bbe\u5404\u4e2a\u950c\u6307\u7ed3\u6784\u57df\u662f\u529f\u80fd\u72ec\u7acb\u7684\u3002\u5728\u6b64\u57fa\u7840\u4e0a\uff0c\u73b0\u6709\u7684\u9884\u5148\u786e\u5b9a\u7684\u7ed3\u6784\u57df\u5e94\u8be5\u53ef\u4ee5\u76f4\u63a5\u4f7f\u7528\uff0c\u65e0\u9700\u989d\u5916\u7684\u8bbe\u8ba1\u6216\u9009\u62e9\u3002"
-            },
-            "B": {
-                "modality": "Image",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000195/choice_1.png",
                 "text": "\u4e32\u884c\u9009\u62e9\uff08\u56fe 1 (A)\uff09\u65b9\u6cd5\u5047\u8bbe\u5404\u4e2a\u950c\u6307\u7ed3\u6784\u57df\u662f\u529f\u80fd\u72ec\u7acb\u7684\u3002\u5728\u6b64\u57fa\u7840\u4e0a\uff0c\u73b0\u6709\u7684\u9884\u5148\u786e\u5b9a\u7684\u7ed3\u6784\u57df\u5e94\u8be5\u53ef\u4ee5\u76f4\u63a5\u4f7f\u7528\uff0c\u65e0\u9700\u989d\u5916\u7684\u9009\u62e9\u6216\u8bbe\u8ba1\u3002"
             },
-            "C": {
-                "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000195/choice_2.png",
-                "text": "\u5e76\u884c\u9009\u62e9\uff08\u56fe 2 (A)\uff09\u65b9\u6cd5\u5047\u8bbe\u5404\u4e2a\u950c\u6307\u7ed3\u6784\u57df\u662f\u529f\u80fd\u72ec\u7acb\u7684\u3002\u5728\u6b64\u57fa\u7840\u4e0a\uff0c\u73b0\u6709\u7684\u9884\u5148\u786e\u5b9a\u7684\u7ed3\u6784\u57df\u4e0d\u53ef\u4ee5\u76f4\u63a5\u4f7f\u7528\uff0c\u9700\u8981\u989d\u5916\u7684\u8bbe\u8ba1\u548c\u9009\u62e9\u3002"
-            },
-            "D": {
+            "B": {
                 "modality": "Image",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000195/choice_0.png",
                 "text": "\u5e76\u884c\u9009\u62e9\uff08\u56fe 1 (A)\uff09\u65b9\u6cd5\u5047\u8bbe\u5404\u4e2a\u950c\u6307\u7ed3\u6784\u57df\u662f\u529f\u80fd\u76f8\u5173\u7684\u3002\u5728\u6b64\u57fa\u7840\u4e0a\uff0c\u73b0\u6709\u7684\u9884\u5148\u786e\u5b9a\u7684\u7ed3\u6784\u57df\u5e94\u8be5\u53ef\u4ee5\u76f4\u63a5\u4f7f\u7528\uff0c\u9700\u8981\u989d\u5916\u7684\u8bbe\u8ba1\u548c\u9009\u62e9\u3002"
+            },
+            "C": {
+                "modality": "Image",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000195/original.png",
+                "text": "\u5e76\u884c\u9009\u62e9\uff08\u56fe 1 (A)\uff09\u65b9\u6cd5\u5047\u8bbe\u5404\u4e2a\u950c\u6307\u7ed3\u6784\u57df\u662f\u529f\u80fd\u72ec\u7acb\u7684\u3002\u5728\u6b64\u57fa\u7840\u4e0a\uff0c\u73b0\u6709\u7684\u9884\u5148\u786e\u5b9a\u7684\u7ed3\u6784\u57df\u5e94\u8be5\u53ef\u4ee5\u76f4\u63a5\u4f7f\u7528\uff0c\u65e0\u9700\u989d\u5916\u7684\u8bbe\u8ba1\u6216\u9009\u62e9\u3002"
+            },
+            "D": {
+                "modality": "Image",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000195/choice_2.png",
+                "text": "\u5e76\u884c\u9009\u62e9\uff08\u56fe 2 (A)\uff09\u65b9\u6cd5\u5047\u8bbe\u5404\u4e2a\u950c\u6307\u7ed3\u6784\u57df\u662f\u529f\u80fd\u72ec\u7acb\u7684\u3002\u5728\u6b64\u57fa\u7840\u4e0a\uff0c\u73b0\u6709\u7684\u9884\u5148\u786e\u5b9a\u7684\u7ed3\u6784\u57df\u4e0d\u53ef\u4ee5\u76f4\u63a5\u4f7f\u7528\uff0c\u9700\u8981\u989d\u5916\u7684\u8bbe\u8ba1\u548c\u9009\u62e9\u3002"
             }
         },
-        "correct_answer": "A"
+        "correct_answer": "C"
     },
     {
         "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
@@ -20128,13 +20097,13 @@
         "options": {
             "A": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000076/choice_0.png",
-                "text": "\u4ed6\u5c04\u516550\u7801\u7684\u4efb\u610f\u7403\uff0c\u6253\u7834\u7403\u961f\u7eaa\u5f55\uff0c\u5e76\u4e1435\u6b21\u4efb\u610f\u7403\u5c1d\u8bd5\u4e2d\u547d\u4e2d\u4e8629\u6b21\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000076/original.png",
+                "text": "\u4ed6\u5c04\u516554\u7801\u7684\u4efb\u610f\u7403\uff0c\u8ffd\u5e73\u7403\u961f\u7eaa\u5f55\uff0c\u5e76\u4e1435\u6b21\u4efb\u610f\u7403\u5c1d\u8bd5\u4e2d\u547d\u4e2d\u4e8629\u6b21\u3002"
             },
             "B": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000076/original.png",
-                "text": "\u4ed6\u5c04\u516554\u7801\u7684\u4efb\u610f\u7403\uff0c\u8ffd\u5e73\u7403\u961f\u7eaa\u5f55\uff0c\u5e76\u4e1435\u6b21\u4efb\u610f\u7403\u5c1d\u8bd5\u4e2d\u547d\u4e2d\u4e8629\u6b21\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000076/choice_1.png",
+                "text": "\u4ed6\u5c04\u516554\u7801\u7684\u4efb\u610f\u7403\uff0c\u8ffd\u5e73\u7403\u961f\u7eaa\u5f55\uff0c\u5e76\u4e1430\u6b21\u4efb\u610f\u7403\u5c1d\u8bd5\u4e2d\u547d\u4e2d\u4e8629\u6b21\u3002"
             },
             "C": {
                 "modality": "Image",
@@ -20143,11 +20112,11 @@
             },
             "D": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000076/choice_1.png",
-                "text": "\u4ed6\u5c04\u516554\u7801\u7684\u4efb\u610f\u7403\uff0c\u8ffd\u5e73\u7403\u961f\u7eaa\u5f55\uff0c\u5e76\u4e1430\u6b21\u4efb\u610f\u7403\u5c1d\u8bd5\u4e2d\u547d\u4e2d\u4e8629\u6b21\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000076/choice_0.png",
+                "text": "\u4ed6\u5c04\u516550\u7801\u7684\u4efb\u610f\u7403\uff0c\u6253\u7834\u7403\u961f\u7eaa\u5f55\uff0c\u5e76\u4e1435\u6b21\u4efb\u610f\u7403\u5c1d\u8bd5\u4e2d\u547d\u4e2d\u4e8629\u6b21\u3002"
             }
         },
-        "correct_answer": "B"
+        "correct_answer": "A"
     },
     {
         "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
@@ -20159,13 +20128,13 @@
         "options": {
             "A": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000293/original.png",
-                "text": "\u5403\u7740\u51b0\u6dc7\u6dcb\uff0c\u4eab\u53d7\u7740\u5f7c\u6b64\u7684\u966a\u4f34\u3002 \u786e\u5b9e\u662f\u8fd9\u6837\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000293/choice_0.png",
+                "text": "\u5403\u7740\u51b0\u6dc7\u6dcb\uff0c\u4f53\u4f1a\u7740\u72ec\u81ea\u4e00\u4eba\u7684\u611f\u89c9\u3002 \u786e\u5b9e\u662f\u8fd9\u6837\u3002"
             },
             "B": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000293/choice_0.png",
-                "text": "\u5403\u7740\u51b0\u6dc7\u6dcb\uff0c\u4f53\u4f1a\u7740\u72ec\u81ea\u4e00\u4eba\u7684\u611f\u89c9\u3002 \u786e\u5b9e\u662f\u8fd9\u6837\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000293/original.png",
+                "text": "\u5403\u7740\u51b0\u6dc7\u6dcb\uff0c\u4eab\u53d7\u7740\u5f7c\u6b64\u7684\u966a\u4f34\u3002 \u786e\u5b9e\u662f\u8fd9\u6837\u3002"
             },
             "C": {
                 "modality": "Image",
@@ -20178,7 +20147,7 @@
                 "text": "\u559d\u7740\u51b0\u6dc7\u6dcb\uff0c\u4eab\u53d7\u7740\u5f7c\u6b64\u7684\u966a\u4f34\u3002 \u786e\u5b9e\u4e0d\u4e00\u6837\u3002"
             }
         },
-        "correct_answer": "A"
+        "correct_answer": "B"
     },
     {
         "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
@@ -20190,13 +20159,13 @@
         "options": {
             "A": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000981/choice_1.png",
-                "text": "\u6765\u81ea\u82f1\u56fd\u548c\u5176\u4ed6\u56fd\u5bb6\u4e00\u4e9b\u6700\u4e0d\u4e3a\u4eba\u77e5\u3001\u5907\u53d7\u4e89\u8bae\u7684\u5267\u56e2\u7684\u73b0\u4ee3\u821e\u548c\u5f55\u50cf\u827a\u672f\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000981/original.png",
+                "text": "\u6765\u81ea\u82f1\u56fd\u548c\u56fd\u5916\u4e00\u4e9b\u6700\u77e5\u540d\u3001\u6700\u53d7\u5c0a\u656c\u7684\u5267\u56e2\u7684\u73b0\u4ee3\u821e\u548c\u73b0\u573a\u827a\u672f\u3002"
             },
             "B": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000981/original.png",
-                "text": "\u6765\u81ea\u82f1\u56fd\u548c\u56fd\u5916\u4e00\u4e9b\u6700\u77e5\u540d\u3001\u6700\u53d7\u5c0a\u656c\u7684\u5267\u56e2\u7684\u73b0\u4ee3\u821e\u548c\u73b0\u573a\u827a\u672f\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000981/choice_0.png",
+                "text": "\u6765\u81ea\u7f8e\u56fd\u548c\u5176\u4ed6\u56fd\u5bb6\u4e00\u4e9b\u6700\u8457\u540d\u3001\u6700\u53d7\u6b22\u8fce\u7684\u5267\u56e2\u7684\u73b0\u4ee3\u821e\u548c\u73b0\u573a\u8868\u6f14\u3002"
             },
             "C": {
                 "modality": "Image",
@@ -20205,11 +20174,11 @@
             },
             "D": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000981/choice_0.png",
-                "text": "\u6765\u81ea\u7f8e\u56fd\u548c\u5176\u4ed6\u56fd\u5bb6\u4e00\u4e9b\u6700\u8457\u540d\u3001\u6700\u53d7\u6b22\u8fce\u7684\u5267\u56e2\u7684\u73b0\u4ee3\u821e\u548c\u73b0\u573a\u8868\u6f14\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000981/choice_1.png",
+                "text": "\u6765\u81ea\u82f1\u56fd\u548c\u5176\u4ed6\u56fd\u5bb6\u4e00\u4e9b\u6700\u4e0d\u4e3a\u4eba\u77e5\u3001\u5907\u53d7\u4e89\u8bae\u7684\u5267\u56e2\u7684\u73b0\u4ee3\u821e\u548c\u5f55\u50cf\u827a\u672f\u3002"
             }
         },
-        "correct_answer": "B"
+        "correct_answer": "A"
     },
     {
         "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
@@ -20221,8 +20190,8 @@
         "options": {
             "A": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000253/choice_2.png",
-                "text": "\u8fd8\u6709\uff0c\u4f60\u80fd\u5e2e\u6211\u5f80\u8fd9\u4e2a\u7897\u91cc\u653e\u51e0\u4e2a\u9e21\u86cb\u5417\uff1f\u6ca1\u95ee\u9898\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000253/choice_1.png",
+                "text": "\u7136\u540e\uff0c\u4f60\u80fd\u5e2e\u6211\u4ece\u8fd9\u4e2a\u7897\u91cc\u62ff\u4e24\u4e2a\u9e21\u86cb\u5417\uff1f\u6ca1\u95ee\u9898\u3002"
             },
             "B": {
                 "modality": "Image",
@@ -20231,13 +20200,13 @@
             },
             "C": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000253/choice_0.png",
-                "text": "\u53e6\u5916\uff0c\u4f60\u80fd\u5e2e\u6211\u5f80\u8fd9\u4e2a\u76d8\u5b50\u91cc\u653e\u4e24\u4e2a\u9e21\u86cb\u5417\uff1f\u6ca1\u95ee\u9898\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000253/choice_2.png",
+                "text": "\u8fd8\u6709\uff0c\u4f60\u80fd\u5e2e\u6211\u5f80\u8fd9\u4e2a\u7897\u91cc\u653e\u51e0\u4e2a\u9e21\u86cb\u5417\uff1f\u6ca1\u95ee\u9898\u3002"
             },
             "D": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000253/choice_1.png",
-                "text": "\u7136\u540e\uff0c\u4f60\u80fd\u5e2e\u6211\u4ece\u8fd9\u4e2a\u7897\u91cc\u62ff\u4e24\u4e2a\u9e21\u86cb\u5417\uff1f\u6ca1\u95ee\u9898\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000253/choice_0.png",
+                "text": "\u53e6\u5916\uff0c\u4f60\u80fd\u5e2e\u6211\u5f80\u8fd9\u4e2a\u76d8\u5b50\u91cc\u653e\u4e24\u4e2a\u9e21\u86cb\u5417\uff1f\u6ca1\u95ee\u9898\u3002"
             }
         },
         "correct_answer": "B"
@@ -20252,26 +20221,26 @@
         "options": {
             "A": {
                 "modality": "Image",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000789/choice_2.png",
+                "text": "\u4ed6\u7684\u4e13\u957f\u662f\u201c\u63d0\u51fa\u4e0a\u4e0a\u4e2a\u95ee\u9898\u201d\u3002\u5728\u7c7b\u4f3c\u7684\u77ed\u5267\u4e2d\uff0c\u8499\u63d0\u00b7\u6d3e\u68ee\u5267\u56e2\u7684\u8d44\u6df1\u6210\u5458\u8fc8\u514b\u5c14\u00b7\u4f69\u6797\u9970\u6f14Magn\u00fasson\uff0c\u800c\u7279\u91cc\u00b7\u5409\u5217\u59c6\u5219\u9970\u6f14\u4e00\u4f4d\u4e13\u957f\u4e8e\u201c\u7b54\u6848\u662f\u201c\u4e8c\u201d\u7684\u95ee\u9898\u201d\u7684\u53c2\u8d5b\u8005\u3002"
+            },
+            "B": {
+                "modality": "Image",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000789/original.png",
                 "text": "\u4ed6\u7684\u4e13\u957f\u662f\u201c\u56de\u7b54\u4e0a\u4e0a\u4e2a\u95ee\u9898\u201d\u3002\u5728\u7c7b\u4f3c\u7684\u77ed\u5267\u4e2d\uff0c\u8499\u63d0\u00b7\u6d3e\u68ee\u5267\u56e2\u7684\u8d44\u6df1\u6210\u5458\u8fc8\u514b\u5c14\u00b7\u4f69\u6797\u9970\u6f14Magn\u00fasson\uff0c\u800c\u7279\u91cc\u00b7\u5409\u5217\u59c6\u5219\u9970\u6f14\u4e00\u4f4d\u4e13\u957f\u4e8e\u201c\u7b54\u6848\u662f\u201c\u4e8c\u201d\u7684\u95ee\u9898\u201d\u7684\u53c2\u8d5b\u8005\u3002"
             },
-            "B": {
+            "C": {
                 "modality": "Image",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000789/choice_0.png",
                 "text": "\u4ed6\u7684\u4e13\u957f\u662f\u201c\u56de\u7b54\u6700\u540e\u4e00\u4e2a\u95ee\u9898\u201d\u3002\u5728\u7c7b\u4f3c\u7684\u77ed\u5267\u4e2d\uff0c\u8499\u63d0\u00b7\u6d3e\u68ee\u5267\u56e2\u7684\u8d44\u6df1\u6210\u5458\u8fc8\u514b\u5c14\u00b7\u4f69\u6797\u9970\u6f14Magn\u00fasson\uff0c\u800c\u7279\u91cc\u00b7\u5409\u5217\u59c6\u5219\u9970\u6f14\u4e00\u4f4d\u4e13\u957f\u4e8e\u201c\u7b54\u6848\u662f\u201c\u4e09\u201d\u7684\u95ee\u9898\u201d\u7684\u53c2\u8d5b\u8005\u3002"
             },
-            "C": {
+            "D": {
                 "modality": "Image",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000789/choice_1.png",
                 "text": "\u4ed6\u7684\u4e13\u957f\u662f\u201c\u56de\u7b54\u4e0a\u4e0a\u4e2a\u95ee\u9898\u201d\u3002\u5728\u7c7b\u4f3c\u7684\u77ed\u5267\u4e2d\uff0c\u8499\u63d0\u00b7\u6d3e\u68ee\u5267\u56e2\u7684\u8d44\u6df1\u6210\u5458\u7ea6\u7ff0\u00b7\u514b\u91cc\u65af\u9970\u6f14Magn\u00fasson\uff0c\u800c\u7279\u91cc\u00b7\u5409\u5217\u59c6\u5219\u9970\u6f14\u4e00\u4f4d\u4e13\u957f\u4e8e\u201c\u7b54\u6848\u662f\u201c\u4e8c\u201d\u7684\u95ee\u9898\u201d\u7684\u53c2\u8d5b\u8005\u3002"
-            },
-            "D": {
-                "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000789/choice_2.png",
-                "text": "\u4ed6\u7684\u4e13\u957f\u662f\u201c\u63d0\u51fa\u4e0a\u4e0a\u4e2a\u95ee\u9898\u201d\u3002\u5728\u7c7b\u4f3c\u7684\u77ed\u5267\u4e2d\uff0c\u8499\u63d0\u00b7\u6d3e\u68ee\u5267\u56e2\u7684\u8d44\u6df1\u6210\u5458\u8fc8\u514b\u5c14\u00b7\u4f69\u6797\u9970\u6f14Magn\u00fasson\uff0c\u800c\u7279\u91cc\u00b7\u5409\u5217\u59c6\u5219\u9970\u6f14\u4e00\u4f4d\u4e13\u957f\u4e8e\u201c\u7b54\u6848\u662f\u201c\u4e8c\u201d\u7684\u95ee\u9898\u201d\u7684\u53c2\u8d5b\u8005\u3002"
             }
         },
-        "correct_answer": "A"
+        "correct_answer": "B"
     },
     {
         "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
@@ -20283,8 +20252,8 @@
         "options": {
             "A": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000441/choice_1.png",
-                "text": "\u970d\u5fb7\u4e0e\u65af\u6258\u987f\u51fa\u7248\u793e\u30021935\u5e74\u3002\u5730\u56fe\u7531C. E. \u7ea6\u7ff0\u7ed8\u5236\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000441/original.png",
+                "text": "\u970d\u5fb7\u4e0e\u65af\u6258\u987f\u51fa\u7248\u793e\u30021935\u5e74\u3002\u5730\u56fe\u7531C. E. \u4e39\u5c3c\u7ed8\u5236\u3002"
             },
             "B": {
                 "modality": "Image",
@@ -20293,16 +20262,16 @@
             },
             "C": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000441/choice_2.png",
-                "text": "\u970d\u5fb7\u4e0e\u65af\u6258\u987f\u4e66\u5e97\u30021935\u5e74\u3002\u5730\u56fe\u7531C. E. \u4e39\u5c3c\u7ed8\u5236\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000441/choice_1.png",
+                "text": "\u970d\u5fb7\u4e0e\u65af\u6258\u987f\u51fa\u7248\u793e\u30021935\u5e74\u3002\u5730\u56fe\u7531C. E. \u7ea6\u7ff0\u7ed8\u5236\u3002"
             },
             "D": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000441/original.png",
-                "text": "\u970d\u5fb7\u4e0e\u65af\u6258\u987f\u51fa\u7248\u793e\u30021935\u5e74\u3002\u5730\u56fe\u7531C. E. \u4e39\u5c3c\u7ed8\u5236\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000441/choice_2.png",
+                "text": "\u970d\u5fb7\u4e0e\u65af\u6258\u987f\u4e66\u5e97\u30021935\u5e74\u3002\u5730\u56fe\u7531C. E. \u4e39\u5c3c\u7ed8\u5236\u3002"
             }
         },
-        "correct_answer": "D"
+        "correct_answer": "A"
     },
     {
         "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
@@ -20314,13 +20283,13 @@
         "options": {
             "A": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000320/choice_0.png",
-                "text": "\u65af\u51ef\u4e70\u4e86\u4e00\u8f86\u4e8c\u624b\u6469\u6258\u8f66\u3002\u65af\u51ef\u9760\u7740\u4ed6\u505a\u5496\u5561\u5e08\u6512\u591f\u4e86\u94b1\uff0c\u4e70\u4e86\u4e00\u8f86\u65b0\u6469\u6258\u8f66\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000320/choice_1.png",
+                "text": "\u65af\u51ef\u4e70\u4e86\u4e00\u8f86\u65b0\u81ea\u884c\u8f66\u3002\u65af\u51ef\u9760\u7740\u4ed6\u505a\u5496\u5561\u5e08\u6512\u591f\u4e86\u94b1\uff0c\u4e70\u4e86\u4e00\u8f86\u65b0\u6469\u6258\u8f66\u3002"
             },
             "B": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000320/choice_1.png",
-                "text": "\u65af\u51ef\u4e70\u4e86\u4e00\u8f86\u65b0\u81ea\u884c\u8f66\u3002\u65af\u51ef\u9760\u7740\u4ed6\u505a\u5496\u5561\u5e08\u6512\u591f\u4e86\u94b1\uff0c\u4e70\u4e86\u4e00\u8f86\u65b0\u6469\u6258\u8f66\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000320/choice_0.png",
+                "text": "\u65af\u51ef\u4e70\u4e86\u4e00\u8f86\u4e8c\u624b\u6469\u6258\u8f66\u3002\u65af\u51ef\u9760\u7740\u4ed6\u505a\u5496\u5561\u5e08\u6512\u591f\u4e86\u94b1\uff0c\u4e70\u4e86\u4e00\u8f86\u65b0\u6469\u6258\u8f66\u3002"
             },
             "C": {
                 "modality": "Image",
@@ -20345,13 +20314,13 @@
         "options": {
             "A": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000192/choice_1.png",
-                "text": "\u7f57\u8428\u65af\u5728\u5dde\u9645\u8054\u76df\uff08NAIA\uff09\u4fc4\u52d2\u5188\u5dde\u7acb\u5927\u5b66\u6253\u8fc7\u5927\u5b66\u6a44\u6984\u7403\u30022014\u5e74"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000192/choice_0.png",
+                "text": "\u7f57\u8428\u65af\u66fe\u5728\u5168\u56fd\u5927\u5b66\u4f53\u80b2\u534f\u4f1a\uff08NCAA\uff09\u5357\u4fc4\u52d2\u5188\u5927\u5b66\u6253\u8fc7\u5927\u5b66\u6a44\u6984\u7403\u30022014\u5e74"
             },
             "B": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000192/original.png",
-                "text": "\u7f57\u8428\u65af\u66fe\u5728\u5168\u56fd\u6821\u9645\u4f53\u80b2\u534f\u4f1a\uff08NAIA\uff09\u5357\u4fc4\u52d2\u5188\u5927\u5b66\u6253\u8fc7\u5927\u5b66\u6a44\u6984\u7403\u30022014\u5e74"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000192/choice_1.png",
+                "text": "\u7f57\u8428\u65af\u5728\u5dde\u9645\u8054\u76df\uff08NAIA\uff09\u4fc4\u52d2\u5188\u5dde\u7acb\u5927\u5b66\u6253\u8fc7\u5927\u5b66\u6a44\u6984\u7403\u30022014\u5e74"
             },
             "C": {
                 "modality": "Image",
@@ -20360,11 +20329,11 @@
             },
             "D": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000192/choice_0.png",
-                "text": "\u7f57\u8428\u65af\u66fe\u5728\u5168\u56fd\u5927\u5b66\u4f53\u80b2\u534f\u4f1a\uff08NCAA\uff09\u5357\u4fc4\u52d2\u5188\u5927\u5b66\u6253\u8fc7\u5927\u5b66\u6a44\u6984\u7403\u30022014\u5e74"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000192/original.png",
+                "text": "\u7f57\u8428\u65af\u66fe\u5728\u5168\u56fd\u6821\u9645\u4f53\u80b2\u534f\u4f1a\uff08NAIA\uff09\u5357\u4fc4\u52d2\u5188\u5927\u5b66\u6253\u8fc7\u5927\u5b66\u6a44\u6984\u7403\u30022014\u5e74"
             }
         },
-        "correct_answer": "B"
+        "correct_answer": "D"
     },
     {
         "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
@@ -20376,8 +20345,8 @@
         "options": {
             "A": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000001000865/choice_0.png",
-                "text": "\u6211\u4eec\u7814\u7a76\u4e86WPSL\u7684\u952e\u7684\u6027\u8d28\uff0c\u5e76\u7ed9\u51fa\u4e86\u5176\u4f4d\u70b9\u5bf9\u5e94\u7269\u7684\u8be6\u7ec6\u7ed3\u679c\uff0c\u4ee5\u4fbf\u89c2\u5bdf\u5bf9\u6bd4\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000001000865/choice_1.png",
+                "text": "\u6211\u4eec\u7814\u7a76\u4e86WPSL\u4e0a\u7684\u952e\u6e17\u6d41\uff0c\u5e76\u7ed9\u51fa\u4e86\u5176\u7535\u4f4d\u5bf9\u5e94\u7269\u7684\u8be6\u7ec6\u7ed3\u679c\uff0c\u4ee5\u4fbf\u89c2\u5bdf\u5bf9\u6bd4\u3002"
             },
             "B": {
                 "modality": "Image",
@@ -20391,8 +20360,8 @@
             },
             "D": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000001000865/choice_1.png",
-                "text": "\u6211\u4eec\u7814\u7a76\u4e86WPSL\u4e0a\u7684\u952e\u6e17\u6d41\uff0c\u5e76\u7ed9\u51fa\u4e86\u5176\u7535\u4f4d\u5bf9\u5e94\u7269\u7684\u8be6\u7ec6\u7ed3\u679c\uff0c\u4ee5\u4fbf\u89c2\u5bdf\u5bf9\u6bd4\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000001000865/choice_0.png",
+                "text": "\u6211\u4eec\u7814\u7a76\u4e86WPSL\u7684\u952e\u7684\u6027\u8d28\uff0c\u5e76\u7ed9\u51fa\u4e86\u5176\u4f4d\u70b9\u5bf9\u5e94\u7269\u7684\u8be6\u7ec6\u7ed3\u679c\uff0c\u4ee5\u4fbf\u89c2\u5bdf\u5bf9\u6bd4\u3002"
             }
         },
         "correct_answer": "B"
@@ -20412,8 +20381,8 @@
             },
             "B": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000001000986/choice_1.png",
-                "text": "\u7406\u67e5\u5fb7\u00b7\u897f\u683c\u5c14\u5199\u9053\uff0c\u73b0\u5728\u662f\u65f6\u5019\u505c\u6b62\u8fc7\u5ea6\u5173\u6ce8\u521b\u4ef7\u5b66\u4f1a\u8f89\u714c\u7684\u5386\u53f2\u4e86\u3002\u201c\u5728\u5f88\u957f\u7684\u65f6\u95f4\u5185\uff0c\u521b\u4ef7\u5b66\u4f1a\u4ece\u65e5\u672c\u793e\u4f1a\u7684\u8fb9\u7f18\u8d70\u5411\u4e86\u4e3b\u6d41\u3002\u201d\u5728\u4e8c\u6218\u540e\u7684\u665a\u671f\u51e0\u5341\u5e74\u91cc"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000001000986/original.png",
+                "text": "\u7406\u67e5\u5fb7\u00b7\u897f\u683c\u5c14\u5199\u9053\uff0c\u73b0\u5728\u662f\u65f6\u5019\u505c\u6b62\u8fc7\u5ea6\u5173\u6ce8\u521b\u4ef7\u5b66\u4f1a\u5145\u6ee1\u4e89\u8bae\u7684\u5386\u53f2\u4e86\u3002\u201c\u5728\u76f8\u5bf9\u8f83\u77ed\u7684\u65f6\u95f4\u5185\uff0c\u521b\u4ef7\u5b66\u4f1a\u4ece\u65e5\u672c\u793e\u4f1a\u7684\u8fb9\u7f18\u8d70\u5411\u4e86\u4e3b\u6d41\u3002\u201d\u5728\u4e8c\u6218\u540e\u7684\u65e9\u671f\u51e0\u5341\u5e74\u91cc"
             },
             "C": {
                 "modality": "Image",
@@ -20422,11 +20391,11 @@
             },
             "D": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000001000986/original.png",
-                "text": "\u7406\u67e5\u5fb7\u00b7\u897f\u683c\u5c14\u5199\u9053\uff0c\u73b0\u5728\u662f\u65f6\u5019\u505c\u6b62\u8fc7\u5ea6\u5173\u6ce8\u521b\u4ef7\u5b66\u4f1a\u5145\u6ee1\u4e89\u8bae\u7684\u5386\u53f2\u4e86\u3002\u201c\u5728\u76f8\u5bf9\u8f83\u77ed\u7684\u65f6\u95f4\u5185\uff0c\u521b\u4ef7\u5b66\u4f1a\u4ece\u65e5\u672c\u793e\u4f1a\u7684\u8fb9\u7f18\u8d70\u5411\u4e86\u4e3b\u6d41\u3002\u201d\u5728\u4e8c\u6218\u540e\u7684\u65e9\u671f\u51e0\u5341\u5e74\u91cc"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000001000986/choice_1.png",
+                "text": "\u7406\u67e5\u5fb7\u00b7\u897f\u683c\u5c14\u5199\u9053\uff0c\u73b0\u5728\u662f\u65f6\u5019\u505c\u6b62\u8fc7\u5ea6\u5173\u6ce8\u521b\u4ef7\u5b66\u4f1a\u8f89\u714c\u7684\u5386\u53f2\u4e86\u3002\u201c\u5728\u5f88\u957f\u7684\u65f6\u95f4\u5185\uff0c\u521b\u4ef7\u5b66\u4f1a\u4ece\u65e5\u672c\u793e\u4f1a\u7684\u8fb9\u7f18\u8d70\u5411\u4e86\u4e3b\u6d41\u3002\u201d\u5728\u4e8c\u6218\u540e\u7684\u665a\u671f\u51e0\u5341\u5e74\u91cc"
             }
         },
-        "correct_answer": "D"
+        "correct_answer": "B"
     },
     {
         "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
@@ -20438,8 +20407,8 @@
         "options": {
             "A": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000518/original.png",
-                "text": "\u5e94\u907f\u514d\u4f7f\u7528\u523a\u6fc0\u6027\u5316\u5b66\u54c1\uff0c\u5982\u5934\u53d1\u62c9\u76f4\u5242\u548c\u70eb\u53d1\u5242\u3002\u5934\u53d1\u4e0d\u5e94\u4f7f\u7528\u71a8\u6597\u3002\u5e94\u907f\u514d\u4f7f\u7528\u8fc7\u5ea6\u523a\u6fc0\u7684\u6d17\u53d1\u6c34\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000518/choice_0.png",
+                "text": "\u5e94\u907f\u514d\u4f7f\u7528\u523a\u6fc0\u6027\u5316\u5b66\u54c1\uff0c\u5982\u5934\u53d1\u62c9\u76f4\u5242\u548c\u70eb\u53d1\u5242\u3002\u5934\u53d1\u53ef\u4ee5\u7528\u71a8\u6597\u62c9\u76f4\u3002\u4e0d\u5e94\u4f7f\u7528\u8fc7\u5ea6\u6ecb\u6da6\u7684\u6d17\u53d1\u6c34\u3002"
             },
             "B": {
                 "modality": "Image",
@@ -20448,16 +20417,16 @@
             },
             "C": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000518/choice_0.png",
-                "text": "\u5e94\u907f\u514d\u4f7f\u7528\u523a\u6fc0\u6027\u5316\u5b66\u54c1\uff0c\u5982\u5934\u53d1\u62c9\u76f4\u5242\u548c\u70eb\u53d1\u5242\u3002\u5934\u53d1\u53ef\u4ee5\u7528\u71a8\u6597\u62c9\u76f4\u3002\u4e0d\u5e94\u4f7f\u7528\u8fc7\u5ea6\u6ecb\u6da6\u7684\u6d17\u53d1\u6c34\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000518/choice_2.png",
+                "text": "\u5e94\u8be5\u4f7f\u7528\u523a\u6fc0\u6027\u5316\u5b66\u54c1\uff0c\u5982\u5934\u53d1\u62c9\u76f4\u5242\u548c\u70eb\u53d1\u5242\u3002\u5934\u53d1\u53ef\u4ee5\u4f7f\u7528\u71a8\u6597\u3002\u5e94\u907f\u514d\u4f7f\u7528\u8fc7\u4e8e\u6e29\u548c\u7684\u6d17\u53d1\u6c34\u3002"
             },
             "D": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000518/choice_2.png",
-                "text": "\u5e94\u8be5\u4f7f\u7528\u523a\u6fc0\u6027\u5316\u5b66\u54c1\uff0c\u5982\u5934\u53d1\u62c9\u76f4\u5242\u548c\u70eb\u53d1\u5242\u3002\u5934\u53d1\u53ef\u4ee5\u4f7f\u7528\u71a8\u6597\u3002\u5e94\u907f\u514d\u4f7f\u7528\u8fc7\u4e8e\u6e29\u548c\u7684\u6d17\u53d1\u6c34\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000518/original.png",
+                "text": "\u5e94\u907f\u514d\u4f7f\u7528\u523a\u6fc0\u6027\u5316\u5b66\u54c1\uff0c\u5982\u5934\u53d1\u62c9\u76f4\u5242\u548c\u70eb\u53d1\u5242\u3002\u5934\u53d1\u4e0d\u5e94\u4f7f\u7528\u71a8\u6597\u3002\u5e94\u907f\u514d\u4f7f\u7528\u8fc7\u5ea6\u523a\u6fc0\u7684\u6d17\u53d1\u6c34\u3002"
             }
         },
-        "correct_answer": "A"
+        "correct_answer": "D"
     },
     {
         "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
@@ -20469,8 +20438,8 @@
         "options": {
             "A": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000581/choice_0.png",
-                "text": "\u5f88\u9ad8\u5174\u77e5\u9053\u4f60\u4e00\u76f4\u5728\u539f\u5730\u8e0f\u6b65\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000581/original.png",
+                "text": "\u5f88\u9ad8\u5174\u542c\u5230\u4f60\u4e00\u76f4\u5728\u5bfb\u6c42\u8fdb\u6b65\u3002"
             },
             "B": {
                 "modality": "Image",
@@ -20479,8 +20448,8 @@
             },
             "C": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000581/original.png",
-                "text": "\u5f88\u9ad8\u5174\u542c\u5230\u4f60\u4e00\u76f4\u5728\u5bfb\u6c42\u8fdb\u6b65\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000581/choice_0.png",
+                "text": "\u5f88\u9ad8\u5174\u77e5\u9053\u4f60\u4e00\u76f4\u5728\u539f\u5730\u8e0f\u6b65\u3002"
             },
             "D": {
                 "modality": "Image",
@@ -20488,7 +20457,7 @@
                 "text": "\u5f88\u9ad8\u5174\u77e5\u9053\u4f60\u5df2\u7ecf\u505c\u6b62\u4e86\u8fdb\u6b65\u3002"
             }
         },
-        "correct_answer": "C"
+        "correct_answer": "A"
     },
     {
         "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
@@ -20531,26 +20500,26 @@
         "options": {
             "A": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000176/choice_2.png",
-                "text": "\u5979\u8ba8\u538c\u98ce\u5439\u5979\u7684\u5934\u53d1\u548c\u51b7\u7a7a\u6c14\u6469\u64e6\u5979\u7684\u76ae\u80a4\u7684\u611f\u89c9\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000176/choice_0.png",
+                "text": "\u5979\u559c\u6b22\u98ce\u5439\u5979\u7684\u5934\u53d1\u548c\u6696\u7a7a\u6c14\u62c2\u8fc7\u5979\u7684\u8138\u988a\u7684\u611f\u89c9\u3002"
             },
             "B": {
+                "modality": "Image",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000176/choice_1.png",
+                "text": "\u5979\u559c\u6b22\u98ce\u5439\u62c2\u8863\u670d\u548c\u51b7\u6c34\u6d17\u8fc7\u5979\u7684\u76ae\u80a4\u7684\u611f\u89c9\u3002"
+            },
+            "C": {
                 "modality": "Image",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000176/original.png",
                 "text": "\u5979\u559c\u6b22\u98ce\u5439\u62c2\u5934\u53d1\u548c\u51b7\u7a7a\u6c14\u62c2\u8fc7\u808c\u80a4\u7684\u611f\u89c9\u3002"
             },
-            "C": {
-                "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000176/choice_0.png",
-                "text": "\u5979\u559c\u6b22\u98ce\u5439\u5979\u7684\u5934\u53d1\u548c\u6696\u7a7a\u6c14\u62c2\u8fc7\u5979\u7684\u8138\u988a\u7684\u611f\u89c9\u3002"
-            },
             "D": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000176/choice_1.png",
-                "text": "\u5979\u559c\u6b22\u98ce\u5439\u62c2\u8863\u670d\u548c\u51b7\u6c34\u6d17\u8fc7\u5979\u7684\u76ae\u80a4\u7684\u611f\u89c9\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000176/choice_2.png",
+                "text": "\u5979\u8ba8\u538c\u98ce\u5439\u5979\u7684\u5934\u53d1\u548c\u51b7\u7a7a\u6c14\u6469\u64e6\u5979\u7684\u76ae\u80a4\u7684\u611f\u89c9\u3002"
             }
         },
-        "correct_answer": "B"
+        "correct_answer": "C"
     },
     {
         "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
@@ -20562,13 +20531,13 @@
         "options": {
             "A": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000052/original.png",
-                "text": "\u6211\u6b63\u597d\u753b\u5b8c\u4e00\u5e45\u753b\u3002\u770b\u8d77\u6765\u68d2\u6781\u4e86\uff01"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000052/choice_2.png",
+                "text": "\u6211\u52c9\u5f3a\u753b\u5b8c\u4e86\u4e00\u5e45\u753b\u3002\u770b\u8d77\u6765\u5f88\u666e\u901a\uff01"
             },
             "B": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000052/choice_1.png",
-                "text": "\u6211\u6b63\u597d\u505a\u5b8c\u4e86\u4e00\u4e2a\u83dc\u3002\u95fb\u8d77\u6765\u68d2\u6781\u4e86\uff01"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000052/original.png",
+                "text": "\u6211\u6b63\u597d\u753b\u5b8c\u4e00\u5e45\u753b\u3002\u770b\u8d77\u6765\u68d2\u6781\u4e86\uff01"
             },
             "C": {
                 "modality": "Image",
@@ -20577,11 +20546,11 @@
             },
             "D": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000052/choice_2.png",
-                "text": "\u6211\u52c9\u5f3a\u753b\u5b8c\u4e86\u4e00\u5e45\u753b\u3002\u770b\u8d77\u6765\u5f88\u666e\u901a\uff01"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000052/choice_1.png",
+                "text": "\u6211\u6b63\u597d\u505a\u5b8c\u4e86\u4e00\u4e2a\u83dc\u3002\u95fb\u8d77\u6765\u68d2\u6781\u4e86\uff01"
             }
         },
-        "correct_answer": "A"
+        "correct_answer": "B"
     },
     {
         "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
@@ -20593,18 +20562,18 @@
         "options": {
             "A": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000354/choice_1.png",
-                "text": "\u970d\u5df4\u5c14\u5728\u6c11\u4e3b\u515a\u5168\u56fd\u4ee3\u8868\u5927\u4f1a\u4e0a\u5931\u53bb\u4e86\u4e94\u5f20\u7f8e\u56fd\u603b\u7edf\u9009\u7968\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000354/original.png",
+                "text": "\u970d\u5df4\u5c14\u5728\u6c11\u4e3b\u515a\u5168\u56fd\u4ee3\u8868\u5927\u4f1a\u4e0a\u8d62\u5f97\u4e86\u4e94\u5f20\u7f8e\u56fd\u603b\u7edf\u9009\u7968\u3002"
             },
             "B": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000354/choice_0.png",
-                "text": "\u970d\u5df4\u5c14\u5728\u5171\u548c\u515a\u5168\u56fd\u4ee3\u8868\u5927\u4f1a\u4e0a\u8d62\u5f97\u4e86\u4e94\u5f20\u7f8e\u56fd\u603b\u7edf\u9009\u7968\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000354/choice_1.png",
+                "text": "\u970d\u5df4\u5c14\u5728\u6c11\u4e3b\u515a\u5168\u56fd\u4ee3\u8868\u5927\u4f1a\u4e0a\u5931\u53bb\u4e86\u4e94\u5f20\u7f8e\u56fd\u603b\u7edf\u9009\u7968\u3002"
             },
             "C": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000354/original.png",
-                "text": "\u970d\u5df4\u5c14\u5728\u6c11\u4e3b\u515a\u5168\u56fd\u4ee3\u8868\u5927\u4f1a\u4e0a\u8d62\u5f97\u4e86\u4e94\u5f20\u7f8e\u56fd\u603b\u7edf\u9009\u7968\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000354/choice_0.png",
+                "text": "\u970d\u5df4\u5c14\u5728\u5171\u548c\u515a\u5168\u56fd\u4ee3\u8868\u5927\u4f1a\u4e0a\u8d62\u5f97\u4e86\u4e94\u5f20\u7f8e\u56fd\u603b\u7edf\u9009\u7968\u3002"
             },
             "D": {
                 "modality": "Image",
@@ -20612,7 +20581,7 @@
                 "text": "\u970d\u5df4\u5c14\u5728\u6c11\u4e3b\u515a\u5168\u56fd\u4ee3\u8868\u5927\u4f1a\u4e0a\u8d62\u5f97\u4e86\u4e94\u5f20\u5dde\u957f\u9009\u7968\u3002"
             }
         },
-        "correct_answer": "C"
+        "correct_answer": "A"
     },
     {
         "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
@@ -20624,26 +20593,26 @@
         "options": {
             "A": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000811/choice_0.png",
-                "text": "\u53d7\u82f1\u6587\u6559\u80b2\u7684\u7fa4\u4f53\u548c\u53d7\u4e2d\u6587\u6559\u80b2\u7684\u7fa4\u4f53\u90fd\u8868\u73b0\u51fa\u4ee5\u95ee\u9898\u4e3a\u5bfc\u5411\uff0c\u80fd\u591f\u6c42\u540c\u5b58\u5f02\uff0c\u4e92\u76f8\u5c0a\u91cd\uff0c\u5e76\u4e3a\u5927\u5b66\u81ea\u6cbb\u5404\u81ea\u52aa\u529b\uff08137-139\uff09\u3002\u8be5\u793e\u56e2\u5728\u8054\u5408\u6d3b\u52a8\u59d4\u5458\u4f1a\u7684\u5de5\u4f5c\u4e2d\u53d1\u6325\u4e86\u79ef\u6781\u4f5c\u7528\uff0c\u8be5\u59d4\u5458\u4f1a\u4e8e1961\u5e7410\u6708\u7531\u793e\u4f1a\u4e3b\u4e49\u793e\u56e2\u6210\u7acb\u3002"
-            },
-            "B": {
-                "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000811/choice_2.png",
-                "text": "\u53d7\u82f1\u6587\u6559\u80b2\u7684\u7fa4\u4f53\u548c\u53d7\u4e2d\u6587\u6559\u80b2\u7684\u7fa4\u4f53\u90fd\u8868\u73b0\u51fa\u4ee5\u95ee\u9898\u4e3a\u5bfc\u5411\uff0c\u96be\u4ee5\u6c42\u540c\u5b58\u5f02\uff0c\u4e92\u76f8\u5c0a\u91cd\uff0c\u5e76\u4e3a\u5927\u5b66\u81ea\u6cbb\u5171\u540c\u52aa\u529b\uff08137-139\uff09\u3002\u8be5\u793e\u56e2\u5728\u8054\u5408\u6d3b\u52a8\u59d4\u5458\u4f1a\u7684\u5de5\u4f5c\u4e2d\u53d1\u6325\u4e86\u79ef\u6781\u4f5c\u7528\uff0c\u8be5\u59d4\u5458\u4f1a\u4e8e1960\u5e749\u6708\u7531\u793e\u4f1a\u4e3b\u4e49\u793e\u56e2\u6210\u7acb\u3002"
-            },
-            "C": {
-                "modality": "Image",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000811/choice_1.png",
                 "text": "\u53d7\u82f1\u6587\u6559\u80b2\u7684\u7fa4\u4f53\u548c\u53d7\u4e2d\u6587\u6559\u80b2\u7684\u7fa4\u4f53\u90fd\u8868\u73b0\u51fa\u4ee5\u7ed3\u679c\u4e3a\u5bfc\u5411\uff0c\u80fd\u591f\u6c42\u540c\u5b58\u5f02\uff0c\u4e92\u76f8\u5c0a\u91cd\uff0c\u5e76\u4e3a\u5927\u5b66\u81ea\u6cbb\u5171\u540c\u52aa\u529b\uff08137-139\uff09\u3002\u8be5\u793e\u56e2\u5728\u8054\u5408\u6d3b\u52a8\u59d4\u5458\u4f1a\u7684\u5de5\u4f5c\u4e2d\u53d1\u6325\u4e86\u6d88\u6781\u4f5c\u7528\uff0c\u8be5\u59d4\u5458\u4f1a\u4e8e1960\u5e7410\u6708\u7531\u793e\u4f1a\u4e3b\u4e49\u793e\u56e2\u6210\u7acb\u3002"
             },
-            "D": {
+            "B": {
+                "modality": "Image",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000811/choice_0.png",
+                "text": "\u53d7\u82f1\u6587\u6559\u80b2\u7684\u7fa4\u4f53\u548c\u53d7\u4e2d\u6587\u6559\u80b2\u7684\u7fa4\u4f53\u90fd\u8868\u73b0\u51fa\u4ee5\u95ee\u9898\u4e3a\u5bfc\u5411\uff0c\u80fd\u591f\u6c42\u540c\u5b58\u5f02\uff0c\u4e92\u76f8\u5c0a\u91cd\uff0c\u5e76\u4e3a\u5927\u5b66\u81ea\u6cbb\u5404\u81ea\u52aa\u529b\uff08137-139\uff09\u3002\u8be5\u793e\u56e2\u5728\u8054\u5408\u6d3b\u52a8\u59d4\u5458\u4f1a\u7684\u5de5\u4f5c\u4e2d\u53d1\u6325\u4e86\u79ef\u6781\u4f5c\u7528\uff0c\u8be5\u59d4\u5458\u4f1a\u4e8e1961\u5e7410\u6708\u7531\u793e\u4f1a\u4e3b\u4e49\u793e\u56e2\u6210\u7acb\u3002"
+            },
+            "C": {
                 "modality": "Image",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000811/original.png",
                 "text": "\u53d7\u82f1\u6587\u6559\u80b2\u7684\u7fa4\u4f53\u548c\u53d7\u4e2d\u6587\u6559\u80b2\u7684\u7fa4\u4f53\u90fd\u8868\u73b0\u51fa\u4ee5\u95ee\u9898\u4e3a\u5bfc\u5411\uff0c\u80fd\u591f\u6c42\u540c\u5b58\u5f02\uff0c\u4e92\u76f8\u5c0a\u91cd\uff0c\u5e76\u4e3a\u5927\u5b66\u81ea\u6cbb\u5171\u540c\u52aa\u529b\uff08137-139\uff09\u3002\u8be5\u793e\u56e2\u5728\u8054\u5408\u6d3b\u52a8\u59d4\u5458\u4f1a\u7684\u5de5\u4f5c\u4e2d\u53d1\u6325\u4e86\u79ef\u6781\u4f5c\u7528\uff0c\u8be5\u59d4\u5458\u4f1a\u4e8e1960\u5e7410\u6708\u7531\u793e\u4f1a\u4e3b\u4e49\u793e\u56e2\u6210\u7acb\u3002"
+            },
+            "D": {
+                "modality": "Image",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000811/choice_2.png",
+                "text": "\u53d7\u82f1\u6587\u6559\u80b2\u7684\u7fa4\u4f53\u548c\u53d7\u4e2d\u6587\u6559\u80b2\u7684\u7fa4\u4f53\u90fd\u8868\u73b0\u51fa\u4ee5\u95ee\u9898\u4e3a\u5bfc\u5411\uff0c\u96be\u4ee5\u6c42\u540c\u5b58\u5f02\uff0c\u4e92\u76f8\u5c0a\u91cd\uff0c\u5e76\u4e3a\u5927\u5b66\u81ea\u6cbb\u5171\u540c\u52aa\u529b\uff08137-139\uff09\u3002\u8be5\u793e\u56e2\u5728\u8054\u5408\u6d3b\u52a8\u59d4\u5458\u4f1a\u7684\u5de5\u4f5c\u4e2d\u53d1\u6325\u4e86\u79ef\u6781\u4f5c\u7528\uff0c\u8be5\u59d4\u5458\u4f1a\u4e8e1960\u5e749\u6708\u7531\u793e\u4f1a\u4e3b\u4e49\u793e\u56e2\u6210\u7acb\u3002"
             }
         },
-        "correct_answer": "D"
+        "correct_answer": "C"
     },
     {
         "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
@@ -20660,21 +20629,21 @@
             },
             "B": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000888/choice_1.png",
-                "text": "\u793e\u4f1a\u4e3b\u4e49\u4ff1\u4e50\u90e8\u6210\u7acb\u4e8e1952\u5e74\uff0c\u53d7\u6c11\u65cf\u4e3b\u4e49\u5f71\u54cd\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000888/choice_2.png",
+                "text": "\u793e\u4f1a\u4e3b\u4e49\u4ff1\u4e50\u90e8\u6210\u7acb\u4e8e1953\u5e74\uff0c\u53d7\u5230\u4e2a\u4eba\u4e3b\u4e49\u5f71\u54cd\u3002"
             },
             "C": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000888/original.png",
-                "text": "\u793e\u4f1a\u4e3b\u4e49\u4ff1\u4e50\u90e8\u6210\u7acb\u4e8e1953\u5e74\uff0c\u53d7\u6c11\u65cf\u4e3b\u4e49\u5f71\u54cd\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000888/choice_1.png",
+                "text": "\u793e\u4f1a\u4e3b\u4e49\u4ff1\u4e50\u90e8\u6210\u7acb\u4e8e1952\u5e74\uff0c\u53d7\u6c11\u65cf\u4e3b\u4e49\u5f71\u54cd\u3002"
             },
             "D": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000888/choice_2.png",
-                "text": "\u793e\u4f1a\u4e3b\u4e49\u4ff1\u4e50\u90e8\u6210\u7acb\u4e8e1953\u5e74\uff0c\u53d7\u5230\u4e2a\u4eba\u4e3b\u4e49\u5f71\u54cd\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000888/original.png",
+                "text": "\u793e\u4f1a\u4e3b\u4e49\u4ff1\u4e50\u90e8\u6210\u7acb\u4e8e1953\u5e74\uff0c\u53d7\u6c11\u65cf\u4e3b\u4e49\u5f71\u54cd\u3002"
             }
         },
-        "correct_answer": "C"
+        "correct_answer": "D"
     },
     {
         "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
@@ -20686,8 +20655,8 @@
         "options": {
             "A": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000546/original.png",
-                "text": "\u8fd9\u662f\u6211\u5728\u8fd9\u4e2a\u57ce\u5e02\u6700\u559c\u6b22\u7684\u5730\u65b9\u3002\u542c\u8d77\u6765\u5f88\u68d2\uff01"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000546/choice_0.png",
+                "text": "\u8fd9\u662f\u6211\u5728\u8fd9\u4e2a\u56fd\u5bb6\u6700\u4e0d\u559c\u6b22\u7684\u5730\u65b9\u3002\u542c\u8d77\u6765\u5f88\u68d2\uff01"
             },
             "B": {
                 "modality": "Image",
@@ -20696,8 +20665,8 @@
             },
             "C": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000546/choice_0.png",
-                "text": "\u8fd9\u662f\u6211\u5728\u8fd9\u4e2a\u56fd\u5bb6\u6700\u4e0d\u559c\u6b22\u7684\u5730\u65b9\u3002\u542c\u8d77\u6765\u5f88\u68d2\uff01"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000546/original.png",
+                "text": "\u8fd9\u662f\u6211\u5728\u8fd9\u4e2a\u57ce\u5e02\u6700\u559c\u6b22\u7684\u5730\u65b9\u3002\u542c\u8d77\u6765\u5f88\u68d2\uff01"
             },
             "D": {
                 "modality": "Image",
@@ -20705,7 +20674,7 @@
                 "text": "\u8fd9\u662f\u6211\u66fe\u7ecf\u4f4f\u8fc7\u7684\u57ce\u5e02\u3002\u542c\u8d77\u6765\u5f88\u68d2\uff01"
             }
         },
-        "correct_answer": "A"
+        "correct_answer": "C"
     },
     {
         "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
@@ -20717,26 +20686,26 @@
         "options": {
             "A": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000947/choice_2.png",
-                "text": "\u75ab\u60c5\u671f\u95f4\u54ea\u513f\u90fd\u80fd\u53bb\uff0c\u6211\u6709\u70b9\u5174\u594b\u3002\u554a\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000947/original.png",
+                "text": "\u75ab\u60c5\u671f\u95f4\u54ea\u513f\u4e5f\u53bb\u4e0d\u4e86\uff0c\u6211\u6709\u70b9\u65e0\u804a\u3002\u55ef\u3002"
             },
             "B": {
-                "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000947/choice_0.png",
-                "text": "\u75ab\u60c5\u7206\u53d1\u7684\u65f6\u5019\uff0c\u6211\u53bb\u4e86\u5f88\u591a\u5730\u65b9\uff0c\u6211\u975e\u5e38\u5f00\u5fc3\u3002"
-            },
-            "C": {
                 "modality": "Image",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000947/choice_1.png",
                 "text": "\u75ab\u60c5\u8fc7\u540e\u54ea\u91cc\u90fd\u4e0d\u80fd\u53bb\u4e86\uff0c\u6211\u6709\u70b9\u751f\u6c14\u3002\u55ef\u3002"
             },
+            "C": {
+                "modality": "Image",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000947/choice_0.png",
+                "text": "\u75ab\u60c5\u7206\u53d1\u7684\u65f6\u5019\uff0c\u6211\u53bb\u4e86\u5f88\u591a\u5730\u65b9\uff0c\u6211\u975e\u5e38\u5f00\u5fc3\u3002"
+            },
             "D": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000947/original.png",
-                "text": "\u75ab\u60c5\u671f\u95f4\u54ea\u513f\u4e5f\u53bb\u4e0d\u4e86\uff0c\u6211\u6709\u70b9\u65e0\u804a\u3002\u55ef\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000947/choice_2.png",
+                "text": "\u75ab\u60c5\u671f\u95f4\u54ea\u513f\u90fd\u80fd\u53bb\uff0c\u6211\u6709\u70b9\u5174\u594b\u3002\u554a\u3002"
             }
         },
-        "correct_answer": "D"
+        "correct_answer": "A"
     },
     {
         "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
@@ -20748,26 +20717,26 @@
         "options": {
             "A": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000153/original.png",
-                "text": "\u5728\u6211\u770b\u6765\uff0c\u8fd9\u5b8c\u5168\u662f\u6d6a\u8d39\u65f6\u95f4\u3002\u4f46\u6211\u5e76\u4e0d\u89c9\u5f97\u65e0\u804a\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000153/choice_2.png",
+                "text": "\u5728\u6211\u770b\u6765\uff0c\u8fd9\u53ea\u662f\u6d6a\u8d39\u65f6\u95f4\u3002\u6211\u611f\u89c9\u5f88\u65e0\u804a\u3002"
             },
             "B": {
-                "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000153/choice_1.png",
-                "text": "\u5728\u6211\u770b\u6765\uff0c\u8fd9\u5b8c\u5168\u662f\u8282\u7701\u65f6\u95f4\u3002\u4f46\u6211\u975e\u5e38\u65e0\u804a\u3002"
-            },
-            "C": {
                 "modality": "Image",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000153/choice_0.png",
                 "text": "\u5728\u6211\u770b\u6765\uff0c\u8fd9\u5b8c\u5168\u662f\u6d6a\u8d39\u91d1\u94b1\u3002\u4f46\u6211\u5e76\u4e0d\u89c9\u5f97\u65e0\u804a\u3002"
             },
+            "C": {
+                "modality": "Image",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000153/choice_1.png",
+                "text": "\u5728\u6211\u770b\u6765\uff0c\u8fd9\u5b8c\u5168\u662f\u8282\u7701\u65f6\u95f4\u3002\u4f46\u6211\u975e\u5e38\u65e0\u804a\u3002"
+            },
             "D": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000153/choice_2.png",
-                "text": "\u5728\u6211\u770b\u6765\uff0c\u8fd9\u53ea\u662f\u6d6a\u8d39\u65f6\u95f4\u3002\u6211\u611f\u89c9\u5f88\u65e0\u804a\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000153/original.png",
+                "text": "\u5728\u6211\u770b\u6765\uff0c\u8fd9\u5b8c\u5168\u662f\u6d6a\u8d39\u65f6\u95f4\u3002\u4f46\u6211\u5e76\u4e0d\u89c9\u5f97\u65e0\u804a\u3002"
             }
         },
-        "correct_answer": "A"
+        "correct_answer": "D"
     },
     {
         "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
@@ -20784,18 +20753,18 @@
             },
             "B": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000001000292/choice_2.png",
-                "text": "\u6211\u4eec\u5c06\u5b83\u4eec\u90fd\u653e\u5728\u4e00\u8d77\uff0c\u5c31\u50cf\u7b2c\u4e00\u6b65\u4e00\u6837\uff0c\u7136\u540e\u628a\u5269\u4e0b\u7684\u653e\u5728\u65c1\u8fb9\u3002"
-            },
-            "C": {
-                "modality": "Image",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000001000292/choice_1.png",
                 "text": "\u6211\u4eec\u53ea\u653e\u4e86\u4e00\u4e2a\uff0c\u6309\u7167\u4e4b\u524d\u7684\u6b65\u9aa4\uff0c\u7136\u540e\u628a\u53e6\u5916\u4e24\u4e2a\u653e\u5728\u65c1\u8fb9\u3002"
             },
-            "D": {
+            "C": {
                 "modality": "Image",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000001000292/choice_0.png",
                 "text": "\u6211\u4eec\u5c06\u5176\u4e2d\u4e24\u4e2a\u5e76\u6392\u653e\u7f6e\uff0c\u5c31\u50cf\u7b2c\u4e00\u6b65\u4e00\u6837\uff0c\u7136\u540e\u5c06\u53e6\u5916\u4e24\u4e2a\u5e76\u6392\u5730\u653e\u5728\u5b83\u4eec\u4e0b\u9762\u3002"
+            },
+            "D": {
+                "modality": "Image",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000001000292/choice_2.png",
+                "text": "\u6211\u4eec\u5c06\u5b83\u4eec\u90fd\u653e\u5728\u4e00\u8d77\uff0c\u5c31\u50cf\u7b2c\u4e00\u6b65\u4e00\u6837\uff0c\u7136\u540e\u628a\u5269\u4e0b\u7684\u653e\u5728\u65c1\u8fb9\u3002"
             }
         },
         "correct_answer": "A"
@@ -20810,26 +20779,26 @@
         "options": {
             "A": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000834/choice_0.png",
-                "text": "1967\u5e747\u6708\u7b2c\u4e8c\u6b21\uff0c1972\u5e741\u6708\u7b2c\u4e09\u6b21\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000834/original.png",
+                "text": "1968\u5e747\u6708\u7b2c\u4e8c\u6b21\uff0c1971\u5e741\u6708\u7b2c\u4e09\u6b21\u3002"
             },
             "B": {
+                "modality": "Image",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000834/choice_2.png",
+                "text": "1968\u5e746\u6708\u7b2c\u4e8c\u6b21\uff0c1971\u5e742\u6708\u7b2c\u4e09\u6b21\u3002"
+            },
+            "C": {
                 "modality": "Image",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000834/choice_1.png",
                 "text": "1968\u5e747\u6708\u7b2c\u4e09\u6b21\uff0c1971\u5e741\u6708\u7b2c\u4e8c\u6b21\u3002"
             },
-            "C": {
-                "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000834/original.png",
-                "text": "1968\u5e747\u6708\u7b2c\u4e8c\u6b21\uff0c1971\u5e741\u6708\u7b2c\u4e09\u6b21\u3002"
-            },
             "D": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000834/choice_2.png",
-                "text": "1968\u5e746\u6708\u7b2c\u4e8c\u6b21\uff0c1971\u5e742\u6708\u7b2c\u4e09\u6b21\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000834/choice_0.png",
+                "text": "1967\u5e747\u6708\u7b2c\u4e8c\u6b21\uff0c1972\u5e741\u6708\u7b2c\u4e09\u6b21\u3002"
             }
         },
-        "correct_answer": "C"
+        "correct_answer": "A"
     },
     {
         "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
@@ -20841,26 +20810,26 @@
         "options": {
             "A": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000419/choice_2.png",
-                "text": "1942\u5e7411\u67087\u65e5\uff0c\u79d1\u76ae\u5728\u7c73\u5170\u7684\u81ea\u884c\u8f66\u8d5b\u9053\u4e0a\u7ef4\u6301\u4e86\u4e16\u754c\u4e00\u5c0f\u65f6\u8bb0\u5f55\u3002 \u4ed6\u4f7f\u7528\u4e8693.6\u82f1\u5bf8\uff087.47\u7c73\uff09\u7684\u9f7f\u8f6e\u6bd4\uff0c\u5e76\u4ee5\u5e73\u5747\u6bcf\u5206\u949f103.3\u8f6c\u7684\u9891\u7387\u8e29\u8e0f\u3002 \u8fd9\u8f86\u81ea\u884c\u8f66\u73b0\u5728\u9648\u5217\u5728\u7c73\u5170\u9644\u8fd1\u7684\u5409\u8428\u7f57\u5723\u6bcd\u6559\u5802\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000419/choice_0.png",
+                "text": "1942\u5e7411\u67087\u65e5\uff0c\u79d1\u76ae\u5728\u7f57\u9a6c\u7684\u81ea\u884c\u8f66\u8d5b\u9053\u4e0a\u6253\u7834\u4e86\u4e16\u754c\u4e00\u5c0f\u65f6\u8bb0\u5f55\u3002 \u4ed6\u4f7f\u7528\u4e8693.6\u82f1\u5bf8\uff087.47\u7c73\uff09\u7684\u9f7f\u8f6e\u6bd4\uff0c\u5e76\u4ee5\u5e73\u5747\u6bcf\u5206\u949f103.3\u8f6c\u7684\u9891\u7387\u8e29\u8e0f\u3002 \u8fd9\u8f86\u81ea\u884c\u8f66\u73b0\u5728\u9648\u5217\u5728\u79d1\u83ab\u9644\u8fd1\u7684\u5409\u8428\u7f57\u5723\u6bcd\u6559\u5802\u3002"
             },
             "B": {
+                "modality": "Image",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000419/choice_1.png",
+                "text": "1943\u5e7411\u67087\u65e5\uff0c\u79d1\u76ae\u5728\u7c73\u5170\u7684\u81ea\u884c\u8f66\u8d5b\u9053\u4e0a\u6253\u7834\u4e86\u4e16\u754c\u4e00\u5206\u949f\u8bb0\u5f55\u3002 \u4ed6\u4f7f\u7528\u4e8694.6\u82f1\u5bf8\uff087.57\u7c73\uff09\u7684\u9f7f\u8f6e\u6bd4\uff0c\u5e76\u4ee5\u5e73\u5747\u6bcf\u5206\u949f102.3\u8f6c\u7684\u9891\u7387\u8e29\u8e0f\u3002 \u8fd9\u8f86\u81ea\u884c\u8f66\u73b0\u5728\u9648\u5217\u5728\u7c73\u5170\u9644\u8fd1\u7684\u5409\u8428\u7f57\u5723\u6bcd\u6559\u5802\u3002"
+            },
+            "C": {
                 "modality": "Image",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000419/original.png",
                 "text": "1942\u5e7411\u67087\u65e5\uff0c\u79d1\u76ae\u5728\u7c73\u5170\u7684\u81ea\u884c\u8f66\u8d5b\u9053\u4e0a\u6253\u7834\u4e86\u4e16\u754c\u4e00\u5c0f\u65f6\u8bb0\u5f55\u3002 \u4ed6\u4f7f\u7528\u4e8693.6\u82f1\u5bf8\uff087.47\u7c73\uff09\u7684\u9f7f\u8f6e\u6bd4\uff0c\u5e76\u4ee5\u5e73\u5747\u6bcf\u5206\u949f103.3\u8f6c\u7684\u9891\u7387\u8e29\u8e0f\u3002 \u8fd9\u8f86\u81ea\u884c\u8f66\u73b0\u5728\u9648\u5217\u5728\u79d1\u83ab\u9644\u8fd1\u7684\u5409\u8428\u7f57\u5723\u6bcd\u6559\u5802\u3002"
             },
-            "C": {
-                "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000419/choice_0.png",
-                "text": "1942\u5e7411\u67087\u65e5\uff0c\u79d1\u76ae\u5728\u7f57\u9a6c\u7684\u81ea\u884c\u8f66\u8d5b\u9053\u4e0a\u6253\u7834\u4e86\u4e16\u754c\u4e00\u5c0f\u65f6\u8bb0\u5f55\u3002 \u4ed6\u4f7f\u7528\u4e8693.6\u82f1\u5bf8\uff087.47\u7c73\uff09\u7684\u9f7f\u8f6e\u6bd4\uff0c\u5e76\u4ee5\u5e73\u5747\u6bcf\u5206\u949f103.3\u8f6c\u7684\u9891\u7387\u8e29\u8e0f\u3002 \u8fd9\u8f86\u81ea\u884c\u8f66\u73b0\u5728\u9648\u5217\u5728\u79d1\u83ab\u9644\u8fd1\u7684\u5409\u8428\u7f57\u5723\u6bcd\u6559\u5802\u3002"
-            },
             "D": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000419/choice_1.png",
-                "text": "1943\u5e7411\u67087\u65e5\uff0c\u79d1\u76ae\u5728\u7c73\u5170\u7684\u81ea\u884c\u8f66\u8d5b\u9053\u4e0a\u6253\u7834\u4e86\u4e16\u754c\u4e00\u5206\u949f\u8bb0\u5f55\u3002 \u4ed6\u4f7f\u7528\u4e8694.6\u82f1\u5bf8\uff087.57\u7c73\uff09\u7684\u9f7f\u8f6e\u6bd4\uff0c\u5e76\u4ee5\u5e73\u5747\u6bcf\u5206\u949f102.3\u8f6c\u7684\u9891\u7387\u8e29\u8e0f\u3002 \u8fd9\u8f86\u81ea\u884c\u8f66\u73b0\u5728\u9648\u5217\u5728\u7c73\u5170\u9644\u8fd1\u7684\u5409\u8428\u7f57\u5723\u6bcd\u6559\u5802\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000419/choice_2.png",
+                "text": "1942\u5e7411\u67087\u65e5\uff0c\u79d1\u76ae\u5728\u7c73\u5170\u7684\u81ea\u884c\u8f66\u8d5b\u9053\u4e0a\u7ef4\u6301\u4e86\u4e16\u754c\u4e00\u5c0f\u65f6\u8bb0\u5f55\u3002 \u4ed6\u4f7f\u7528\u4e8693.6\u82f1\u5bf8\uff087.47\u7c73\uff09\u7684\u9f7f\u8f6e\u6bd4\uff0c\u5e76\u4ee5\u5e73\u5747\u6bcf\u5206\u949f103.3\u8f6c\u7684\u9891\u7387\u8e29\u8e0f\u3002 \u8fd9\u8f86\u81ea\u884c\u8f66\u73b0\u5728\u9648\u5217\u5728\u7c73\u5170\u9644\u8fd1\u7684\u5409\u8428\u7f57\u5723\u6bcd\u6559\u5802\u3002"
             }
         },
-        "correct_answer": "B"
+        "correct_answer": "C"
     },
     {
         "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
@@ -20872,8 +20841,8 @@
         "options": {
             "A": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000020/choice_1.png",
-                "text": "\u4ee5\u53ca\u56e0\u5728\u5370\u5ea6\u6d0b\u5730\u533a\u7684\u884c\u52a8\u800c\u83b7\u5f97\u7684\u91d1\u661f\uff0c\u4ee5\u4ee3\u66ff\u7b2c\u4e8c\u679a\u6770\u51fa\u670d\u52a1\u52cb\u7ae0\u30021944\u5e74\u5e95\uff0c\u4ed6\u4f5c\u4e3a\u987e\u95ee\u8fd4\u56de\u6fb3\u5927\u5229\u4e9a\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000020/choice_2.png",
+                "text": "\u5e76\u56e0\u5728\u592a\u5e73\u6d0b\u5730\u533a\u7684\u884c\u52a8\u800c\u83b7\u5f97\u7684\u91d1\u661f\uff0c\u4ee5\u8868\u5f70\u6770\u51fa\u7684\u670d\u52a1\u52cb\u7ae0\u30021944\u5e74\u5e95\uff0c\u4ed6\u4f5c\u4e3a\u519b\u5b98\u8fd4\u56de\u82f1\u56fd\u3002"
             },
             "B": {
                 "modality": "Image",
@@ -20887,8 +20856,8 @@
             },
             "D": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000020/choice_2.png",
-                "text": "\u5e76\u56e0\u5728\u592a\u5e73\u6d0b\u5730\u533a\u7684\u884c\u52a8\u800c\u83b7\u5f97\u7684\u91d1\u661f\uff0c\u4ee5\u8868\u5f70\u6770\u51fa\u7684\u670d\u52a1\u52cb\u7ae0\u30021944\u5e74\u5e95\uff0c\u4ed6\u4f5c\u4e3a\u519b\u5b98\u8fd4\u56de\u82f1\u56fd\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000020/choice_1.png",
+                "text": "\u4ee5\u53ca\u56e0\u5728\u5370\u5ea6\u6d0b\u5730\u533a\u7684\u884c\u52a8\u800c\u83b7\u5f97\u7684\u91d1\u661f\uff0c\u4ee5\u4ee3\u66ff\u7b2c\u4e8c\u679a\u6770\u51fa\u670d\u52a1\u52cb\u7ae0\u30021944\u5e74\u5e95\uff0c\u4ed6\u4f5c\u4e3a\u987e\u95ee\u8fd4\u56de\u6fb3\u5927\u5229\u4e9a\u3002"
             }
         },
         "correct_answer": "B"
@@ -20903,13 +20872,13 @@
         "options": {
             "A": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000735/original.png",
-                "text": "\u8fd9\u610f\u5473\u7740\u4ed6\u4eec\u5b9e\u9645\u4e0a\u5728\u4f9b\u517b\u4ed6\u4eec\u6240\u4e3a\u4e4b\u5de5\u4f5c\u7684\u7ec4\u7ec7\u3002\u5bf9\u4e8e\u6ca6\u4e3a\u9e26\u7247\u763e\u541b\u5b50\u7684\u82e6\u529b\u6765\u8bf4"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000735/choice_1.png",
+                "text": "\u8fd9\u610f\u5473\u7740\u4ed6\u4eec\u6700\u7ec8\u5f97\u5230\u4e86\u4ed6\u4eec\u4e3a\u4e4b\u594b\u6597\u7684\u7ec4\u7ec7\u3002\u5bf9\u4e8e\u6ca1\u6709\u6210\u4e3a\u9e26\u7247\u763e\u541b\u5b50\u7684\u82e6\u529b\u6765\u8bf4"
             },
             "B": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000735/choice_2.png",
-                "text": "\u8fd9\u610f\u5473\u7740\u4ed6\u4eec\u771f\u7684\u5728\u4f9b\u517b\u4ed6\u4eec\u6240\u538c\u6076\u7684\u7ec4\u7ec7\u3002\u5bf9\u4e8e\u6210\u4e3a\u9e26\u7247\u763e\u541b\u5b50\u7684\u82e6\u529b\u6765\u8bf4"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000735/original.png",
+                "text": "\u8fd9\u610f\u5473\u7740\u4ed6\u4eec\u5b9e\u9645\u4e0a\u5728\u4f9b\u517b\u4ed6\u4eec\u6240\u4e3a\u4e4b\u5de5\u4f5c\u7684\u7ec4\u7ec7\u3002\u5bf9\u4e8e\u6ca6\u4e3a\u9e26\u7247\u763e\u541b\u5b50\u7684\u82e6\u529b\u6765\u8bf4"
             },
             "C": {
                 "modality": "Image",
@@ -20918,11 +20887,11 @@
             },
             "D": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000735/choice_1.png",
-                "text": "\u8fd9\u610f\u5473\u7740\u4ed6\u4eec\u6700\u7ec8\u5f97\u5230\u4e86\u4ed6\u4eec\u4e3a\u4e4b\u594b\u6597\u7684\u7ec4\u7ec7\u3002\u5bf9\u4e8e\u6ca1\u6709\u6210\u4e3a\u9e26\u7247\u763e\u541b\u5b50\u7684\u82e6\u529b\u6765\u8bf4"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000735/choice_2.png",
+                "text": "\u8fd9\u610f\u5473\u7740\u4ed6\u4eec\u771f\u7684\u5728\u4f9b\u517b\u4ed6\u4eec\u6240\u538c\u6076\u7684\u7ec4\u7ec7\u3002\u5bf9\u4e8e\u6210\u4e3a\u9e26\u7247\u763e\u541b\u5b50\u7684\u82e6\u529b\u6765\u8bf4"
             }
         },
-        "correct_answer": "A"
+        "correct_answer": "B"
     },
     {
         "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
@@ -20939,13 +20908,13 @@
             },
             "B": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000127/choice_0.png",
-                "text": "1968\u5e74\uff0c\u8fd9\u5bb6\u516c\u53f8\u88ab\u7f8e\u56fd\u6c34\u6ce5\u516c\u53f8\u6536\u8d2d\u3002\u4f46\u8fd9\u6b21\u6536\u8d2d\u975e\u5e38\u6210\u529f\uff0c\u4e8e\u662f\u57281969\u5e74\uff0c\u8be5\u516c\u53f8\u518d\u6b21\u88ab\u51fa\u552e\u7ed9\u7a46\u5c3c\u98de\u673a\u516c\u53f8\u7684\u6240\u6709\u8005\u5df4\u7279\u52d2\u822a\u7a7a\u516c\u53f8\u3002\u65b0\u516c\u53f8\u88ab\u547d\u540d\u4e3aAerostar Aircraft Corporation\uff0c\u5e76\u8ba1\u5212\u5c06\u751f\u4ea7\u8f6c\u79fb\u5230\u4f4d\u4e8e\u8fbe\u62c9\u65af\u7684\u7a46\u5c3c\u5de5\u5382\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000127/choice_2.png",
+                "text": "1968\u5e74\uff0c\u8fd9\u5bb6\u516c\u53f8\u88ab\u7f8e\u56fd\u94a2\u94c1\u516c\u53f8\u6536\u8d2d\u3002\u4f46\u8fd9\u6b21\u6536\u8d2d\u5e76\u4e0d\u6210\u529f\uff0c\u4e8e\u662f\u57281970\u5e74\uff0c\u8be5\u516c\u53f8\u518d\u6b21\u88ab\u51fa\u552e\u7ed9\u7a46\u5c3c\u98de\u673a\u516c\u53f8\u7684\u6240\u6709\u8005\u5df4\u7279\u52d2\u822a\u7a7a\u516c\u53f8\u3002\u65b0\u516c\u53f8\u88ab\u547d\u540d\u4e3aAerostar Aircraft Corporation\uff0c\u5e76\u8ba1\u5212\u5c06\u751f\u4ea7\u8f6c\u79fb\u5230\u4f4d\u4e8e\u514b\u5c14\u7ef4\u5c14\u7684\u7a46\u5c3c\u5de5\u5382\u3002"
             },
             "C": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000127/choice_2.png",
-                "text": "1968\u5e74\uff0c\u8fd9\u5bb6\u516c\u53f8\u88ab\u7f8e\u56fd\u94a2\u94c1\u516c\u53f8\u6536\u8d2d\u3002\u4f46\u8fd9\u6b21\u6536\u8d2d\u5e76\u4e0d\u6210\u529f\uff0c\u4e8e\u662f\u57281970\u5e74\uff0c\u8be5\u516c\u53f8\u518d\u6b21\u88ab\u51fa\u552e\u7ed9\u7a46\u5c3c\u98de\u673a\u516c\u53f8\u7684\u6240\u6709\u8005\u5df4\u7279\u52d2\u822a\u7a7a\u516c\u53f8\u3002\u65b0\u516c\u53f8\u88ab\u547d\u540d\u4e3aAerostar Aircraft Corporation\uff0c\u5e76\u8ba1\u5212\u5c06\u751f\u4ea7\u8f6c\u79fb\u5230\u4f4d\u4e8e\u514b\u5c14\u7ef4\u5c14\u7684\u7a46\u5c3c\u5de5\u5382\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000127/choice_0.png",
+                "text": "1968\u5e74\uff0c\u8fd9\u5bb6\u516c\u53f8\u88ab\u7f8e\u56fd\u6c34\u6ce5\u516c\u53f8\u6536\u8d2d\u3002\u4f46\u8fd9\u6b21\u6536\u8d2d\u975e\u5e38\u6210\u529f\uff0c\u4e8e\u662f\u57281969\u5e74\uff0c\u8be5\u516c\u53f8\u518d\u6b21\u88ab\u51fa\u552e\u7ed9\u7a46\u5c3c\u98de\u673a\u516c\u53f8\u7684\u6240\u6709\u8005\u5df4\u7279\u52d2\u822a\u7a7a\u516c\u53f8\u3002\u65b0\u516c\u53f8\u88ab\u547d\u540d\u4e3aAerostar Aircraft Corporation\uff0c\u5e76\u8ba1\u5212\u5c06\u751f\u4ea7\u8f6c\u79fb\u5230\u4f4d\u4e8e\u8fbe\u62c9\u65af\u7684\u7a46\u5c3c\u5de5\u5382\u3002"
             },
             "D": {
                 "modality": "Image",
@@ -20965,26 +20934,26 @@
         "options": {
             "A": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000933/choice_2.png",
-                "text": "2009\u5e74\uff0c\u6cf0\u52d2\u5728\u4e3a\u7f8e\u6d32\u864e\u961f\u6548\u529b11\u4e2a\u8d5b\u5b63\u540e\u88ab\u7403\u961f\u89e3\u96c7\u30023\u67081\u65e5\uff0c\u6cf0\u52d2\u4e0e\u65b0\u82f1\u683c\u5170\u7231\u56fd\u8005\u961f\u7b7e\u4e0b\u4e86\u4e00\u4efd\u4e3a\u671f\u4e09\u5e74\u7684\u5408\u540c\u3002"
-            },
-            "B": {
-                "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000933/choice_1.png",
-                "text": "2008\u5e74\uff0c\u6cf0\u52d2\u5728\u4e3a\u7f8e\u6d32\u864e\u961f\u6548\u529b10\u4e2a\u8d5b\u5b63\u540e\u88ab\u7403\u961f\u89e3\u7ea6\u30022\u670827\u65e5\uff0c\u6cf0\u52d2\u4e0e\u7ebd\u7ea6\u5de8\u4eba\u961f\u7b7e\u4e0b\u4e86\u4e00\u4efd\u4e3a\u671f\u4e24\u5e74\u7684\u5408\u540c\u3002"
-            },
-            "C": {
-                "modality": "Image",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000933/original.png",
                 "text": "2009\u5e74\uff0c\u6cf0\u52d2\u5728\u4e3a\u7f8e\u6d32\u864e\u961f\u6548\u529b11\u4e2a\u8d5b\u5b63\u540e\u88ab\u7403\u961f\u89e3\u7ea6\u30022\u670827\u65e5\uff0c\u6cf0\u52d2\u4e0e\u65b0\u82f1\u683c\u5170\u7231\u56fd\u8005\u961f\u7b7e\u4e0b\u4e86\u4e00\u4efd\u4e3a\u671f\u4e24\u5e74\u7684\u5408\u540c\u3002"
             },
-            "D": {
+            "B": {
                 "modality": "Image",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000933/choice_0.png",
                 "text": "2009\u5e74\uff0c\u6cf0\u52d2\u5728\u4e3a\u7f8e\u6d32\u864e\u961f\u6548\u529b\u4e8611\u4e2a\u8d5b\u5b63\u540e\u88ab\u7403\u961f\u8058\u7528\u30022\u670827\u65e5\uff0c\u6cf0\u52d2\u4e0e\u65b0\u82f1\u683c\u5170\u7231\u56fd\u8005\u961f\u7b7e\u8ba2\u4e86\u4e00\u4efd\u4e3a\u671f\u4e00\u5e74\u7684\u5408\u540c\u3002"
+            },
+            "C": {
+                "modality": "Image",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000933/choice_2.png",
+                "text": "2009\u5e74\uff0c\u6cf0\u52d2\u5728\u4e3a\u7f8e\u6d32\u864e\u961f\u6548\u529b11\u4e2a\u8d5b\u5b63\u540e\u88ab\u7403\u961f\u89e3\u96c7\u30023\u67081\u65e5\uff0c\u6cf0\u52d2\u4e0e\u65b0\u82f1\u683c\u5170\u7231\u56fd\u8005\u961f\u7b7e\u4e0b\u4e86\u4e00\u4efd\u4e3a\u671f\u4e09\u5e74\u7684\u5408\u540c\u3002"
+            },
+            "D": {
+                "modality": "Image",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000933/choice_1.png",
+                "text": "2008\u5e74\uff0c\u6cf0\u52d2\u5728\u4e3a\u7f8e\u6d32\u864e\u961f\u6548\u529b10\u4e2a\u8d5b\u5b63\u540e\u88ab\u7403\u961f\u89e3\u7ea6\u30022\u670827\u65e5\uff0c\u6cf0\u52d2\u4e0e\u7ebd\u7ea6\u5de8\u4eba\u961f\u7b7e\u4e0b\u4e86\u4e00\u4efd\u4e3a\u671f\u4e24\u5e74\u7684\u5408\u540c\u3002"
             }
         },
-        "correct_answer": "C"
+        "correct_answer": "A"
     },
     {
         "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
@@ -20996,8 +20965,8 @@
         "options": {
             "A": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000305/choice_0.png",
-                "text": "\u5386\u53f2\u5145\u6ee1\u4e86\u6211\u4eec\u53ef\u4ee5\u4ece\u4e2d\u83b7\u5f97\u7684\u5956\u52b1\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000305/choice_2.png",
+                "text": "\u5386\u53f2\u5145\u6ee1\u4e86\u6211\u4eec\u53ef\u4ee5\u4e00\u8d77\u5206\u4eab\u7684\u4e50\u8da3\u3002"
             },
             "B": {
                 "modality": "Image",
@@ -21011,8 +20980,8 @@
             },
             "D": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000305/choice_2.png",
-                "text": "\u5386\u53f2\u5145\u6ee1\u4e86\u6211\u4eec\u53ef\u4ee5\u4e00\u8d77\u5206\u4eab\u7684\u4e50\u8da3\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000305/choice_0.png",
+                "text": "\u5386\u53f2\u5145\u6ee1\u4e86\u6211\u4eec\u53ef\u4ee5\u4ece\u4e2d\u83b7\u5f97\u7684\u5956\u52b1\u3002"
             }
         },
         "correct_answer": "C"
@@ -21027,26 +20996,26 @@
         "options": {
             "A": {
                 "modality": "Image",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000517/choice_0.png",
+                "text": "\u7136\u540e\u6211\u542c\u5230\u697c\u4e0a\u6709\u52a8\u9759\uff0c\u5c31\u4e0b\u53bb\u67e5\u770b\u4e86\u3002"
+            },
+            "B": {
+                "modality": "Image",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000517/choice_1.png",
                 "text": "\u7136\u540e\u6211\u770b\u5230\u697c\u4e0b\u6709\u52a8\u9759\uff0c\u5c31\u4e0a\u53bb\u67e5\u770b\u4e86\u3002"
             },
-            "B": {
+            "C": {
                 "modality": "Image",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000517/original.png",
                 "text": "\u7136\u540e\u6211\u542c\u5230\u697c\u4e0b\u6709\u52a8\u9759\uff0c\u5c31\u4e0b\u53bb\u67e5\u770b\u4e86\u3002"
             },
-            "C": {
+            "D": {
                 "modality": "Image",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000517/choice_2.png",
                 "text": "\u7136\u540e\u6211\u542c\u5230\u697c\u4e0b\u6709\u52a8\u9759\uff0c\u5c31\u76f4\u63a5\u79bb\u5f00\u4e86\u3002"
-            },
-            "D": {
-                "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000517/choice_0.png",
-                "text": "\u7136\u540e\u6211\u542c\u5230\u697c\u4e0a\u6709\u52a8\u9759\uff0c\u5c31\u4e0b\u53bb\u67e5\u770b\u4e86\u3002"
             }
         },
-        "correct_answer": "B"
+        "correct_answer": "C"
     },
     {
         "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
@@ -21089,13 +21058,13 @@
         "options": {
             "A": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000651/choice_0.png",
-                "text": "\u653f\u5e9c\u5efa\u8bae\u4fdd\u6301\u8fd9\u4e2a\u540d\u5b57\uff0c\u56e0\u4e3a\u5b83\u542c\u8d77\u6765\u50cf\u5370\u7b2c\u5b89\u7eb3\u5dde\u7684\u725b\u987f\u9547\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000651/choice_1.png",
+                "text": "\u8be5\u673a\u6784\u5efa\u8bae\u66f4\u6539\u540d\u79f0\uff0c\u56e0\u4e3a\u5b83\u542c\u8d77\u6765\u50cf\u7ebd\u7ea6\u5dde\u7684\u725b\u987f\u9547\u3002"
             },
             "B": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000651/choice_1.png",
-                "text": "\u8be5\u673a\u6784\u5efa\u8bae\u66f4\u6539\u540d\u79f0\uff0c\u56e0\u4e3a\u5b83\u542c\u8d77\u6765\u50cf\u7ebd\u7ea6\u5dde\u7684\u725b\u987f\u9547\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000651/original.png",
+                "text": "\u653f\u5e9c\u5efa\u8bae\u66f4\u6539\u540d\u79f0\uff0c\u56e0\u4e3a\u5b83\u542c\u8d77\u6765\u50cf\u5370\u7b2c\u5b89\u7eb3\u5dde\u7684\u725b\u987f\u9547\u3002"
             },
             "C": {
                 "modality": "Image",
@@ -21104,11 +21073,11 @@
             },
             "D": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000651/original.png",
-                "text": "\u653f\u5e9c\u5efa\u8bae\u66f4\u6539\u540d\u79f0\uff0c\u56e0\u4e3a\u5b83\u542c\u8d77\u6765\u50cf\u5370\u7b2c\u5b89\u7eb3\u5dde\u7684\u725b\u987f\u9547\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000651/choice_0.png",
+                "text": "\u653f\u5e9c\u5efa\u8bae\u4fdd\u6301\u8fd9\u4e2a\u540d\u5b57\uff0c\u56e0\u4e3a\u5b83\u542c\u8d77\u6765\u50cf\u5370\u7b2c\u5b89\u7eb3\u5dde\u7684\u725b\u987f\u9547\u3002"
             }
         },
-        "correct_answer": "D"
+        "correct_answer": "B"
     },
     {
         "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
@@ -21120,13 +21089,13 @@
         "options": {
             "A": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000800/choice_1.png",
-                "text": "\u5979\u628a\u81ea\u5df1\u7684\u624b\u673a\u843d\u5728\u4e86\u4ed6\u90a3\u91cc\uff0c\u73b0\u5728\u5979\u611f\u5230\u5f88\u5f00\u5fc3\u3002\u6211\u771f\u4e0d\u6562\u76f8\u4fe1\u4ed6\u4f1a\u8fd9\u4e48\u5bf9\u5979\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000800/choice_0.png",
+                "text": "\u5979\u5728\u4ed6\u7684\u624b\u673a\u91cc\u53d1\u73b0\u4e86\u4e00\u4e9b\u6709\u8da3\u7684\u77ed\u4fe1\uff0c\u73b0\u5728\u5979\u611f\u5230\u5f88\u751f\u6c14\u3002\u6211\u771f\u4e0d\u6562\u76f8\u4fe1\u4ed6\u4f1a\u8fd9\u4e48\u5bf9\u5979\u3002"
             },
             "B": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000800/choice_0.png",
-                "text": "\u5979\u5728\u4ed6\u7684\u624b\u673a\u91cc\u53d1\u73b0\u4e86\u4e00\u4e9b\u6709\u8da3\u7684\u77ed\u4fe1\uff0c\u73b0\u5728\u5979\u611f\u5230\u5f88\u751f\u6c14\u3002\u6211\u771f\u4e0d\u6562\u76f8\u4fe1\u4ed6\u4f1a\u8fd9\u4e48\u5bf9\u5979\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000800/choice_1.png",
+                "text": "\u5979\u628a\u81ea\u5df1\u7684\u624b\u673a\u843d\u5728\u4e86\u4ed6\u90a3\u91cc\uff0c\u73b0\u5728\u5979\u611f\u5230\u5f88\u5f00\u5fc3\u3002\u6211\u771f\u4e0d\u6562\u76f8\u4fe1\u4ed6\u4f1a\u8fd9\u4e48\u5bf9\u5979\u3002"
             },
             "C": {
                 "modality": "Image",
@@ -21151,26 +21120,26 @@
         "options": {
             "A": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000268/choice_0.png",
-                "text": "\u5f7c\u5f97\u00b7\u65af\u7279\u6069\u7279\uff08\u7ea61613\u20131665\u5e74\uff09\u662f\u5341\u516d\u4e16\u7eaa\u4f26\u6566\u7684\u4e00\u4f4d\u7248\u753b\u5546\uff0c\u4ece17\u4e16\u7eaa40\u5e74\u4ee3\u521d\u76f4\u5230\u53bb\u4e16\uff0c\u4ed6\u7ecf\u8425\u7740\u5f53\u65f6\u89c4\u6a21\u6700\u5c0f\u7684\u7248\u753b\u5236\u4f5c\u4f01\u4e1a\u4e4b\u4e00\u3002\u65af\u7279\u6069\u7279\u6700\u521d\u672c\u8eab\u662f\u4e00\u4f4d\u96d5\u523b\u5bb6\u3002"
-            },
-            "B": {
-                "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000268/original.png",
-                "text": "\u5f7c\u5f97\u00b7\u65af\u7279\u6069\u7279 (\u7ea61613\u20131665) \u662f\u5341\u4e03\u4e16\u7eaa\u4f26\u6566\u7684\u4e00\u4f4d\u7248\u753b\u5546\uff0c\u4ece17\u4e16\u7eaa40\u5e74\u4ee3\u521d\u76f4\u5230\u53bb\u4e16\uff0c\u4ed6\u7ecf\u8425\u7740\u5f53\u65f6\u89c4\u6a21\u6700\u5927\u7684\u7248\u753b\u5236\u4f5c\u4f01\u4e1a\u4e4b\u4e00\u3002\u65af\u7279\u6069\u7279\u6700\u521d\u672c\u8eab\u662f\u4e00\u4f4d\u96d5\u523b\u5e08\u3002"
-            },
-            "C": {
-                "modality": "Image",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000268/choice_1.png",
                 "text": "\u5f7c\u5f97\u00b7\u65af\u7279\u6069\u7279\uff08\u7ea61613\u20131665\u5e74\uff09\u662f\u5341\u4e03\u4e16\u7eaa\u5df4\u9ece\u7684\u4e00\u4f4d\u7248\u753b\u5546\uff0c\u4ece17\u4e16\u7eaa50\u5e74\u4ee3\u521d\u76f4\u5230\u53bb\u4e16\uff0c\u4ed6\u7ecf\u8425\u7740\u5f53\u65f6\u89c4\u6a21\u6700\u5927\u7684\u7ed8\u753b\u5236\u4f5c\u4f01\u4e1a\u4e4b\u4e00\u3002\u65af\u7279\u6069\u7279\u6700\u521d\u672c\u8eab\u662f\u4e00\u4f4d\u753b\u5bb6\u3002"
             },
-            "D": {
+            "B": {
+                "modality": "Image",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000268/choice_0.png",
+                "text": "\u5f7c\u5f97\u00b7\u65af\u7279\u6069\u7279\uff08\u7ea61613\u20131665\u5e74\uff09\u662f\u5341\u516d\u4e16\u7eaa\u4f26\u6566\u7684\u4e00\u4f4d\u7248\u753b\u5546\uff0c\u4ece17\u4e16\u7eaa40\u5e74\u4ee3\u521d\u76f4\u5230\u53bb\u4e16\uff0c\u4ed6\u7ecf\u8425\u7740\u5f53\u65f6\u89c4\u6a21\u6700\u5c0f\u7684\u7248\u753b\u5236\u4f5c\u4f01\u4e1a\u4e4b\u4e00\u3002\u65af\u7279\u6069\u7279\u6700\u521d\u672c\u8eab\u662f\u4e00\u4f4d\u96d5\u523b\u5bb6\u3002"
+            },
+            "C": {
                 "modality": "Image",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000268/choice_2.png",
                 "text": "\u5f7c\u5f97\u00b7\u65af\u7279\u6069\u7279\uff08\u7ea61613\u20131665\u5e74\uff09\u662f\u5341\u4e03\u4e16\u7eaa\u4f26\u6566\u7684\u4e00\u4f4d\u96d5\u5851\u5bb6\uff0c\u4ece17\u4e16\u7eaa40\u5e74\u4ee3\u521d\u76f4\u5230\u53bb\u4e16\uff0c\u4ed6\u7ecf\u8425\u7740\u5f53\u65f6\u89c4\u6a21\u6700\u5927\u7684\u7248\u753b\u5236\u4f5c\u4f01\u4e1a\u4e4b\u4e00\u3002\u65af\u7279\u6069\u7279\u540e\u6765\u672c\u8eab\u662f\u4e00\u4f4d\u96d5\u523b\u5e08\u3002"
+            },
+            "D": {
+                "modality": "Image",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000268/original.png",
+                "text": "\u5f7c\u5f97\u00b7\u65af\u7279\u6069\u7279 (\u7ea61613\u20131665) \u662f\u5341\u4e03\u4e16\u7eaa\u4f26\u6566\u7684\u4e00\u4f4d\u7248\u753b\u5546\uff0c\u4ece17\u4e16\u7eaa40\u5e74\u4ee3\u521d\u76f4\u5230\u53bb\u4e16\uff0c\u4ed6\u7ecf\u8425\u7740\u5f53\u65f6\u89c4\u6a21\u6700\u5927\u7684\u7248\u753b\u5236\u4f5c\u4f01\u4e1a\u4e4b\u4e00\u3002\u65af\u7279\u6069\u7279\u6700\u521d\u672c\u8eab\u662f\u4e00\u4f4d\u96d5\u523b\u5e08\u3002"
             }
         },
-        "correct_answer": "B"
+        "correct_answer": "D"
     },
     {
         "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
@@ -21182,26 +21151,26 @@
         "options": {
             "A": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000473/choice_1.png",
-                "text": "\u4eca\u5e74\u540c\u671f\u5360\u636e\u4e86\u76f8\u540c\u7684\u65f6\u95f4\u6bb5\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000473/choice_0.png",
+                "text": "\u53bb\u5e74\u540c\u671f\u5360\u636e\u4e86\u4e0d\u540c\u7684\u65f6\u95f4\u6bb5\u3002"
             },
             "B": {
-                "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000473/choice_2.png",
-                "text": "\u53bb\u5e74\u540c\u671f\u6d88\u8017\u4e86\u76f8\u540c\u7684\u65f6\u95f4\u6bb5\u3002"
-            },
-            "C": {
                 "modality": "Image",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000473/original.png",
                 "text": "\u53bb\u5e74\u540c\u671f\u5360\u636e\u4e86\u76f8\u540c\u7684\u65f6\u95f4\u6bb5\u3002"
             },
+            "C": {
+                "modality": "Image",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000473/choice_1.png",
+                "text": "\u4eca\u5e74\u540c\u671f\u5360\u636e\u4e86\u76f8\u540c\u7684\u65f6\u95f4\u6bb5\u3002"
+            },
             "D": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000473/choice_0.png",
-                "text": "\u53bb\u5e74\u540c\u671f\u5360\u636e\u4e86\u4e0d\u540c\u7684\u65f6\u95f4\u6bb5\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000473/choice_2.png",
+                "text": "\u53bb\u5e74\u540c\u671f\u6d88\u8017\u4e86\u76f8\u540c\u7684\u65f6\u95f4\u6bb5\u3002"
             }
         },
-        "correct_answer": "C"
+        "correct_answer": "B"
     },
     {
         "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
@@ -21213,13 +21182,13 @@
         "options": {
             "A": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000590/choice_2.png",
-                "text": "\u8fd9\u90e8\u5728\u4f26\u6566\u521a\u521a\u83b7\u5f97\u6258\u5c3c\u5956\u7684\u6b4c\u5267\uff0c\u771f\u662f\u592a\u6210\u529f\u4e86\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000590/choice_1.png",
+                "text": "\u8fd9\u90e8\u5728\u7ebd\u7ea6\u5e02\u5df2\u7ecf\u83b7\u5f97\u683c\u83b1\u7f8e\u5956\u7684\u7535\u5f71\uff0c\u771f\u662f\u592a\u6210\u529f\u4e86\u3002"
             },
             "B": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000590/choice_1.png",
-                "text": "\u8fd9\u90e8\u5728\u7ebd\u7ea6\u5e02\u5df2\u7ecf\u83b7\u5f97\u683c\u83b1\u7f8e\u5956\u7684\u7535\u5f71\uff0c\u771f\u662f\u592a\u6210\u529f\u4e86\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000590/choice_2.png",
+                "text": "\u8fd9\u90e8\u5728\u4f26\u6566\u521a\u521a\u83b7\u5f97\u6258\u5c3c\u5956\u7684\u6b4c\u5267\uff0c\u771f\u662f\u592a\u6210\u529f\u4e86\u3002"
             },
             "C": {
                 "modality": "Image",
@@ -21249,21 +21218,21 @@
             },
             "B": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000382/original.png",
-                "text": "\u6211\u5c31\u662f\u6709\u8fd9\u79cd\u76f4\u89c9\u3002\u800c\u4e14\u4ee5\u524d\u4ece\u6765\u6ca1\u6709\u51fa\u9519\u3002\u8fd9\u771f\u6709\u610f\u601d\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000382/choice_1.png",
+                "text": "\u6211\u5c31\u662f\u6709\u8fd9\u79cd\u76f4\u89c9\u3002\u800c\u4e14\u8fc7\u53bb\u4ece\u672a\u771f\u6b63\u5bf9\u8fc7\u3002\u8fd9\u771f\u6709\u8da3\u3002"
             },
             "C": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000382/choice_0.png",
-                "text": "\u6211\u5c31\u662f\u6709\u8fd9\u79cd\u611f\u89c9\u3002\u800c\u4e14\u4ee5\u524d\u7ecf\u5e38\u51fa\u9519\u3002\u8fd9\u771f\u6ca1\u610f\u601d\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000382/original.png",
+                "text": "\u6211\u5c31\u662f\u6709\u8fd9\u79cd\u76f4\u89c9\u3002\u800c\u4e14\u4ee5\u524d\u4ece\u6765\u6ca1\u6709\u51fa\u9519\u3002\u8fd9\u771f\u6709\u610f\u601d\u3002"
             },
             "D": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000382/choice_1.png",
-                "text": "\u6211\u5c31\u662f\u6709\u8fd9\u79cd\u76f4\u89c9\u3002\u800c\u4e14\u8fc7\u53bb\u4ece\u672a\u771f\u6b63\u5bf9\u8fc7\u3002\u8fd9\u771f\u6709\u8da3\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000382/choice_0.png",
+                "text": "\u6211\u5c31\u662f\u6709\u8fd9\u79cd\u611f\u89c9\u3002\u800c\u4e14\u4ee5\u524d\u7ecf\u5e38\u51fa\u9519\u3002\u8fd9\u771f\u6ca1\u610f\u601d\u3002"
             }
         },
-        "correct_answer": "B"
+        "correct_answer": "C"
     },
     {
         "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
@@ -21280,8 +21249,8 @@
             },
             "B": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000823/choice_1.png",
-                "text": "\u6211\u60f3\u6210\u4e3a\u4ed6\u4eec\u7684\u597d\u699c\u6837\uff0c\u8ba9\u4ed6\u4eec\u770b\u5230\u4eba\u751f\u53ea\u6709\u4e00\u79cd\u9009\u62e9\uff0c\u90a3\u5c31\u662f\u50cf\u4ed6\u4eec\u7684\u4e00\u4e9b\u670b\u53cb\u90a3\u6837\uff0c\u6cbe\u67d3\u6bd2\u54c1\u6216\u8005\u52a0\u5165\u5e2e\u6d3e\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000823/original.png",
+                "text": "\u6211\u60f3\u6210\u4e3a\u4ed6\u4eec\u7684\u597d\u699c\u6837\uff0c\u8ba9\u4ed6\u4eec\u770b\u5230\u4eba\u751f\u8fd8\u6709\u5176\u4ed6\u7684\u9009\u62e9\uff0c\u800c\u4e0d\u662f\u50cf\u4ed6\u4eec\u7684\u4e00\u4e9b\u670b\u53cb\u90a3\u6837\uff0c\u6cbe\u67d3\u6bd2\u54c1\u6216\u8005\u52a0\u5165\u5e2e\u6d3e\u3002"
             },
             "C": {
                 "modality": "Image",
@@ -21290,11 +21259,11 @@
             },
             "D": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000823/original.png",
-                "text": "\u6211\u60f3\u6210\u4e3a\u4ed6\u4eec\u7684\u597d\u699c\u6837\uff0c\u8ba9\u4ed6\u4eec\u770b\u5230\u4eba\u751f\u8fd8\u6709\u5176\u4ed6\u7684\u9009\u62e9\uff0c\u800c\u4e0d\u662f\u50cf\u4ed6\u4eec\u7684\u4e00\u4e9b\u670b\u53cb\u90a3\u6837\uff0c\u6cbe\u67d3\u6bd2\u54c1\u6216\u8005\u52a0\u5165\u5e2e\u6d3e\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000823/choice_1.png",
+                "text": "\u6211\u60f3\u6210\u4e3a\u4ed6\u4eec\u7684\u597d\u699c\u6837\uff0c\u8ba9\u4ed6\u4eec\u770b\u5230\u4eba\u751f\u53ea\u6709\u4e00\u79cd\u9009\u62e9\uff0c\u90a3\u5c31\u662f\u50cf\u4ed6\u4eec\u7684\u4e00\u4e9b\u670b\u53cb\u90a3\u6837\uff0c\u6cbe\u67d3\u6bd2\u54c1\u6216\u8005\u52a0\u5165\u5e2e\u6d3e\u3002"
             }
         },
-        "correct_answer": "D"
+        "correct_answer": "B"
     },
     {
         "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
@@ -21316,16 +21285,16 @@
             },
             "C": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000959/original.png",
-                "text": "2018\u5e74\u8ba1\u5212\u53ec\u5f00\u4e00\u4e2a\u5173\u4e8e\u4e34\u5e8a\u751f\u6b96\u7cfb\u7f16\u8f91\u7684\u610f\u5411\u59d4\u5458\u4f1a\u3002\u76ee\u524d\uff0c\u56f4\u7ed5\u4eba\u7c7b\u751f\u6b96\u7cfb\u5de5\u7a0b\u5b58\u5728\u8bf8\u591a\u4e89\u8bae\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000959/choice_0.png",
+                "text": "2017\u5e74\u8ba1\u5212\u53ec\u5f00\u4e00\u4e2a\u5173\u4e8e\u4e34\u5e8a\u751f\u6b96\u7cfb\u7f16\u8f91\u7684\u610f\u5411\u59d4\u5458\u4f1a\u3002\u76ee\u524d\uff0c\u56f4\u7ed5\u4eba\u7c7b\u751f\u6b96\u7cfb\u5de5\u7a0b\u5b58\u5728\u8bf8\u591a\u4e89\u8bae\u3002"
             },
             "D": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000959/choice_0.png",
-                "text": "2017\u5e74\u8ba1\u5212\u53ec\u5f00\u4e00\u4e2a\u5173\u4e8e\u4e34\u5e8a\u751f\u6b96\u7cfb\u7f16\u8f91\u7684\u610f\u5411\u59d4\u5458\u4f1a\u3002\u76ee\u524d\uff0c\u56f4\u7ed5\u4eba\u7c7b\u751f\u6b96\u7cfb\u5de5\u7a0b\u5b58\u5728\u8bf8\u591a\u4e89\u8bae\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000959/original.png",
+                "text": "2018\u5e74\u8ba1\u5212\u53ec\u5f00\u4e00\u4e2a\u5173\u4e8e\u4e34\u5e8a\u751f\u6b96\u7cfb\u7f16\u8f91\u7684\u610f\u5411\u59d4\u5458\u4f1a\u3002\u76ee\u524d\uff0c\u56f4\u7ed5\u4eba\u7c7b\u751f\u6b96\u7cfb\u5de5\u7a0b\u5b58\u5728\u8bf8\u591a\u4e89\u8bae\u3002"
             }
         },
-        "correct_answer": "C"
+        "correct_answer": "D"
     },
     {
         "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
@@ -21337,18 +21306,18 @@
         "options": {
             "A": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000366/original.png",
-                "text": "\u5e76\u4e14\u6709\u4e8c\u5341\u4f4d\u5de5\u5320\u5728\u8fd9\u5904\u623f\u4ea7\u4e0a\u5de5\u4f5c\u3002\u4f0f\u5c14\u6cf0\u548c\u4ed6\u7684\u60c5\u4eba\u5c06\u8fd9\u6240\u623f\u5b50\u66f4\u540d\u4e3a\u201cLes D\u00e9lices\u201d\uff08\u4e50\u56ed\uff09\u3002"
-            },
-            "B": {
-                "modality": "Image",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000366/choice_2.png",
                 "text": "\u6b64\u5916\uff0c\u6709\u4e8c\u5341\u4f4d\u5de5\u5320\u53c2\u4e0e\u8bbe\u8ba1\u4e86\u8fd9\u5904\u623f\u4ea7\u3002\u4f0f\u5c14\u6cf0\u72ec\u81ea\u5c06\u8fd9\u6240\u623f\u5b50\u66f4\u540d\u4e3a\u201cLes D\u00e9lices\u201d\uff08\u4e50\u56ed\uff09\u3002"
             },
-            "C": {
+            "B": {
                 "modality": "Image",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000366/choice_1.png",
                 "text": "\u5e76\u4e14\u6709\u4e94\u5341\u4f4d\u5de5\u5320\u5728\u8fd9\u680b\u522b\u5885\u91cc\u5de5\u4f5c\u3002\u4f0f\u5c14\u6cf0\u548c\u4ed6\u7684\u60c5\u4eba\u5408\u4f19\u5c06\u8fd9\u6240\u623f\u5b50\u66f4\u540d\u4e3a\u201cLes D\u00e9lices\u201d\uff08\u4e50\u56ed\uff09\u3002"
+            },
+            "C": {
+                "modality": "Image",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000366/original.png",
+                "text": "\u5e76\u4e14\u6709\u4e8c\u5341\u4f4d\u5de5\u5320\u5728\u8fd9\u5904\u623f\u4ea7\u4e0a\u5de5\u4f5c\u3002\u4f0f\u5c14\u6cf0\u548c\u4ed6\u7684\u60c5\u4eba\u5c06\u8fd9\u6240\u623f\u5b50\u66f4\u540d\u4e3a\u201cLes D\u00e9lices\u201d\uff08\u4e50\u56ed\uff09\u3002"
             },
             "D": {
                 "modality": "Image",
@@ -21356,7 +21325,7 @@
                 "text": "\u540c\u65f6\uff0c\u6709\u4e8c\u5341\u540d\u5de5\u4eba\u8d1f\u8d23\u5efa\u9020\u8fd9\u5904\u623f\u4ea7\u3002\u4f0f\u5c14\u6cf0\u548c\u4ed6\u7684\u670b\u53cb\u4eec\u5c06\u8fd9\u6240\u623f\u5b50\u547d\u540d\u4e3a\u201cLes D\u00e9lices\u201d\uff08\u4e50\u56ed\uff09\u3002"
             }
         },
-        "correct_answer": "A"
+        "correct_answer": "C"
     },
     {
         "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
@@ -21368,26 +21337,26 @@
         "options": {
             "A": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000285/choice_0.png",
-                "text": "\u4e54\u00b7\u666e\u5c14 (Joseph Poole\uff0c\u51fa\u751f\u4e8e1923\u5e745\u670825\u65e5) \u662f\u4e00\u4f4d\u804c\u4e1a\u7bee\u7403\u8fd0\u52a8\u5458\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000285/original.png",
+                "text": "\u4e54\u00b7\u666e\u5c14 (Joseph Poole\uff0c\u751f\u4e8e1923\u5e745\u670825\u65e5) \u662f\u4e00\u4f4d\u524d\u804c\u4e1a\u8db3\u7403\u8fd0\u52a8\u5458\u3002"
             },
             "B": {
-                "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000285/choice_1.png",
-                "text": "\u4e54\u00b7\u666e\u5c14 (Joseph Poole\uff0c\u751f\u4e8e1923\u5e746\u670825\u65e5) \u662f\u4e00\u4f4d\u524d\u804c\u4e1a\u8db3\u7403\u8fd0\u52a8\u5458\u3002"
-            },
-            "C": {
                 "modality": "Image",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000285/choice_2.png",
                 "text": "\u4e54\u00b7\u666e\u5c14 (Joseph Poole\uff0c\u751f\u4e8e1923\u5e74) \u662f\u4e00\u4f4d\u524d\u804c\u4e1a\u8db3\u7403\u8fd0\u52a8\u5458\u3002"
             },
+            "C": {
+                "modality": "Image",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000285/choice_1.png",
+                "text": "\u4e54\u00b7\u666e\u5c14 (Joseph Poole\uff0c\u751f\u4e8e1923\u5e746\u670825\u65e5) \u662f\u4e00\u4f4d\u524d\u804c\u4e1a\u8db3\u7403\u8fd0\u52a8\u5458\u3002"
+            },
             "D": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000285/original.png",
-                "text": "\u4e54\u00b7\u666e\u5c14 (Joseph Poole\uff0c\u751f\u4e8e1923\u5e745\u670825\u65e5) \u662f\u4e00\u4f4d\u524d\u804c\u4e1a\u8db3\u7403\u8fd0\u52a8\u5458\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000285/choice_0.png",
+                "text": "\u4e54\u00b7\u666e\u5c14 (Joseph Poole\uff0c\u51fa\u751f\u4e8e1923\u5e745\u670825\u65e5) \u662f\u4e00\u4f4d\u804c\u4e1a\u7bee\u7403\u8fd0\u52a8\u5458\u3002"
             }
         },
-        "correct_answer": "D"
+        "correct_answer": "A"
     },
     {
         "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
@@ -21404,8 +21373,8 @@
             },
             "B": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000060/original.png",
-                "text": "\u4ed6\u4eec\u5728\u88ab\u4fd8\u524d\u5168\u90e8\u88ab\u6740\u3002\u4ed6\u8fd8\u66fe\u5728\u963f\u5c14\u5361\u7279\u62c9\u65af\u8054\u90a6\u76d1\u72f1\u670d\u5211\u65f6\u95f4\u6700\u957f\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000060/choice_1.png",
+                "text": "\u4ed6\u4eec\u5728\u88ab\u4fd8\u540e\u90fd\u88ab\u91ca\u653e\u4e86\u3002\u4ed6\u8fd8\u66fe\u5728\u963f\u5c14\u5361\u7279\u62c9\u65af\u8054\u90a6\u76d1\u72f1\u670d\u5211\u65f6\u95f4\u6700\u77ed\u3002"
             },
             "C": {
                 "modality": "Image",
@@ -21414,11 +21383,11 @@
             },
             "D": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000060/choice_1.png",
-                "text": "\u4ed6\u4eec\u5728\u88ab\u4fd8\u540e\u90fd\u88ab\u91ca\u653e\u4e86\u3002\u4ed6\u8fd8\u66fe\u5728\u963f\u5c14\u5361\u7279\u62c9\u65af\u8054\u90a6\u76d1\u72f1\u670d\u5211\u65f6\u95f4\u6700\u77ed\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000060/original.png",
+                "text": "\u4ed6\u4eec\u5728\u88ab\u4fd8\u524d\u5168\u90e8\u88ab\u6740\u3002\u4ed6\u8fd8\u66fe\u5728\u963f\u5c14\u5361\u7279\u62c9\u65af\u8054\u90a6\u76d1\u72f1\u670d\u5211\u65f6\u95f4\u6700\u957f\u3002"
             }
         },
-        "correct_answer": "B"
+        "correct_answer": "D"
     },
     {
         "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
@@ -21430,8 +21399,8 @@
         "options": {
             "A": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000144/choice_1.png",
-                "text": "\u6211\u5c0f\u65f6\u5019\uff0c\u6211\u7236\u6bcd\u4e5f\u5f88\u5c11\u5435\u67b6\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000144/choice_0.png",
+                "text": "\u6211\u957f\u5927\u540e\uff0c\u6211\u7236\u6bcd\u4e5f\u7ecf\u5e38\u5435\u67b6\u3002"
             },
             "B": {
                 "modality": "Image",
@@ -21440,13 +21409,13 @@
             },
             "C": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000144/choice_0.png",
-                "text": "\u6211\u957f\u5927\u540e\uff0c\u6211\u7236\u6bcd\u4e5f\u7ecf\u5e38\u5435\u67b6\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000144/choice_2.png",
+                "text": "\u6211\u5c0f\u65f6\u5019\uff0c\u6211\u670b\u53cb\u4e5f\u7ecf\u5e38\u5435\u67b6\u3002"
             },
             "D": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000144/choice_2.png",
-                "text": "\u6211\u5c0f\u65f6\u5019\uff0c\u6211\u670b\u53cb\u4e5f\u7ecf\u5e38\u5435\u67b6\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000144/choice_1.png",
+                "text": "\u6211\u5c0f\u65f6\u5019\uff0c\u6211\u7236\u6bcd\u4e5f\u5f88\u5c11\u5435\u67b6\u3002"
             }
         },
         "correct_answer": "B"
@@ -21461,13 +21430,13 @@
         "options": {
             "A": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000450/original.png",
-                "text": "\u5230 1956 \u5e74\uff0cSDU \u5df2\u7ecf\u7ec8\u6b62\u4e86\u4e0e\u62c9\u74e6\u5c14\u7684\u5173\u7cfb\u3002\u4e0e PWC \u7c7b\u4f3c\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000450/choice_1.png",
+                "text": "\u5728 1956 \u5e74\uff0cSDU \u5f00\u59cb\u4e0e\u62c9\u74e6\u5c14\u5408\u4f5c\u3002\u4e0e PWC \u6709\u6240\u4e0d\u540c\u3002"
             },
             "B": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000450/choice_1.png",
-                "text": "\u5728 1956 \u5e74\uff0cSDU \u5f00\u59cb\u4e0e\u62c9\u74e6\u5c14\u5408\u4f5c\u3002\u4e0e PWC \u6709\u6240\u4e0d\u540c\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000450/original.png",
+                "text": "\u5230 1956 \u5e74\uff0cSDU \u5df2\u7ecf\u7ec8\u6b62\u4e86\u4e0e\u62c9\u74e6\u5c14\u7684\u5173\u7cfb\u3002\u4e0e PWC \u7c7b\u4f3c\u3002"
             },
             "C": {
                 "modality": "Image",
@@ -21480,7 +21449,7 @@
                 "text": "\u5230\u4e86 1956 \u5e74\uff0cSDU \u51b3\u5b9a\u548c\u62c9\u74e6\u5c14\u7ec8\u6b62\u5408\u4f5c\u3002\u8ddf PWC \u6709\u70b9\u50cf\u3002"
             }
         },
-        "correct_answer": "A"
+        "correct_answer": "B"
     },
     {
         "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
@@ -21492,18 +21461,18 @@
         "options": {
             "A": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000806/choice_1.png",
-                "text": "\u6770\u594e\u7433\u88ab\u8b66\u8f66\u63a5\u8d70\uff0c\u56e0\u4e3a\u6770\u594e\u7433\u4e0d\u60f3\u88ab\u7167\u987e\u3002\u6770\u594e\u7433\u975e\u5e38\u75db\u82e6\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000806/original.png",
+                "text": "\u6770\u594e\u7433\u88ab\u6551\u62a4\u8f66\u63a5\u8d70\uff0c\u56e0\u4e3a\u6770\u594e\u7433\u60f3\u88ab\u4eba\u7167\u987e\u3002\u6770\u594e\u7433\u975e\u5e38\u75db\u82e6\u3002"
             },
             "B": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000806/choice_0.png",
-                "text": "\u6770\u594e\u7433\u88ab\u6551\u62a4\u8f66\u63a5\u8d70\uff0c\u56e0\u4e3a\u6770\u594e\u7433\u60f3\u53bb\u533b\u9662\u3002\u6770\u594e\u7433\u975e\u5e38\u9ad8\u5174\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000806/choice_1.png",
+                "text": "\u6770\u594e\u7433\u88ab\u8b66\u8f66\u63a5\u8d70\uff0c\u56e0\u4e3a\u6770\u594e\u7433\u4e0d\u60f3\u88ab\u7167\u987e\u3002\u6770\u594e\u7433\u975e\u5e38\u75db\u82e6\u3002"
             },
             "C": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000806/original.png",
-                "text": "\u6770\u594e\u7433\u88ab\u6551\u62a4\u8f66\u63a5\u8d70\uff0c\u56e0\u4e3a\u6770\u594e\u7433\u60f3\u88ab\u4eba\u7167\u987e\u3002\u6770\u594e\u7433\u975e\u5e38\u75db\u82e6\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000806/choice_0.png",
+                "text": "\u6770\u594e\u7433\u88ab\u6551\u62a4\u8f66\u63a5\u8d70\uff0c\u56e0\u4e3a\u6770\u594e\u7433\u60f3\u53bb\u533b\u9662\u3002\u6770\u594e\u7433\u975e\u5e38\u9ad8\u5174\u3002"
             },
             "D": {
                 "modality": "Image",
@@ -21511,7 +21480,7 @@
                 "text": "\u6770\u594e\u7433\u81ea\u5df1\u8d70\u4e86\uff0c\u56e0\u4e3a\u6770\u594e\u7433\u60f3\u88ab\u4eba\u7167\u987e\u3002\u6770\u594e\u7433\u975e\u5e38\u5065\u5eb7\u3002"
             }
         },
-        "correct_answer": "C"
+        "correct_answer": "A"
     },
     {
         "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
@@ -21523,26 +21492,26 @@
         "options": {
             "A": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000975/original.png",
-                "text": "\u5728\u8fd9\u6bb5\u65f6\u95f4\u91cc\uff0c\u4ed6\u5f7b\u5e95\u6539\u53d8\u4e86\u73b0\u4ee3\u82f1\u56fd\u8ba3\u544a\u7684\u98ce\u683c\uff0c\u4f7f\u5176\u4ece\u67af\u71e5\u7684\u751f\u5e73\u5c65\u5386\u7f57\u5217\u53d8\u6210\u4e86\u901a\u5e38\u5e26\u6709\u72e1\u9ee0\u610f\u5473\u7684"
-            },
-            "B": {
-                "modality": "Image",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000975/choice_1.png",
                 "text": "\u5728\u90a3\u65f6\uff0c\u4ed6\u5f7b\u5e95\u6539\u53d8\u4e86\u73b0\u4ee3\u82f1\u56fd\u8d5e\u7f8e\u8bd7\u7684\u98ce\u683c\uff0c\u4f7f\u5176\u4ece\u67af\u71e5\u7684\u751f\u5e73\u5c65\u5386\u7f57\u5217\u53d8\u6210\u4e86\u901a\u5e38\u5e26\u6709\u8bbd\u523a\u610f\u5473\u7684\u3002"
             },
-            "C": {
-                "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000975/choice_2.png",
-                "text": "\u5728\u8fd9\u6bb5\u65f6\u95f4\u91cc\uff0c\u4ed6\u5f7b\u5e95\u6539\u53d8\u4e86\u73b0\u4ee3\u82f1\u56fd\u8ba3\u544a\u7684\u98ce\u683c\uff0c\u4f7f\u5176\u53d8\u5f97\u66f4\u52a0\u4e25\u8083\uff0c\u5e76\u5e38\u5e38\u5e26\u6709\u73a9\u7b11\u7684\u610f\u5473\u3002"
-            },
-            "D": {
+            "B": {
                 "modality": "Image",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000975/choice_0.png",
                 "text": "\u5728\u8fd9\u6bb5\u65f6\u95f4\u91cc\uff0c\u4ed6\u5b8c\u5168\u6539\u53d8\u4e86\u73b0\u4ee3\u82f1\u56fd\u8ba3\u544a\u7684\u5185\u5bb9\uff0c\u4f7f\u5176\u4ece\u65e0\u804a\u7684\u751f\u5e73\u53d8\u6210\u4e86\u901a\u5e38\u5e26\u6709\u72e1\u9ee0\u610f\u5473\u7684\u3002"
+            },
+            "C": {
+                "modality": "Image",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000975/original.png",
+                "text": "\u5728\u8fd9\u6bb5\u65f6\u95f4\u91cc\uff0c\u4ed6\u5f7b\u5e95\u6539\u53d8\u4e86\u73b0\u4ee3\u82f1\u56fd\u8ba3\u544a\u7684\u98ce\u683c\uff0c\u4f7f\u5176\u4ece\u67af\u71e5\u7684\u751f\u5e73\u5c65\u5386\u7f57\u5217\u53d8\u6210\u4e86\u901a\u5e38\u5e26\u6709\u72e1\u9ee0\u610f\u5473\u7684"
+            },
+            "D": {
+                "modality": "Image",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000975/choice_2.png",
+                "text": "\u5728\u8fd9\u6bb5\u65f6\u95f4\u91cc\uff0c\u4ed6\u5f7b\u5e95\u6539\u53d8\u4e86\u73b0\u4ee3\u82f1\u56fd\u8ba3\u544a\u7684\u98ce\u683c\uff0c\u4f7f\u5176\u53d8\u5f97\u66f4\u52a0\u4e25\u8083\uff0c\u5e76\u5e38\u5e38\u5e26\u6709\u73a9\u7b11\u7684\u610f\u5473\u3002"
             }
         },
-        "correct_answer": "A"
+        "correct_answer": "C"
     },
     {
         "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
@@ -21554,26 +21523,26 @@
         "options": {
             "A": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000422/choice_1.png",
-                "text": "\u53d1\u751f\u4e86\u4ec0\u4e48\uff1f\u8fd9\u5468\u8fc7\u7684\u771f\u662f\u8f7b\u677e\u3002"
-            },
-            "B": {
-                "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000422/choice_0.png",
-                "text": "\u53d1\u751f\u4ec0\u4e48\u4e8b\u4e86\uff1f\u8fd9\u5468\u672b\u8fc7\u5f97\u771f\u5feb\u554a\u3002"
-            },
-            "C": {
-                "modality": "Image",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000422/original.png",
                 "text": "\u53d1\u751f\u4ec0\u4e48\u4e8b\u4e86\uff1f\u8fd9\u5468\u5b9e\u5728\u662f\u592a\u96be\u71ac\u4e86\u3002"
             },
-            "D": {
+            "B": {
+                "modality": "Image",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000422/choice_1.png",
+                "text": "\u53d1\u751f\u4e86\u4ec0\u4e48\uff1f\u8fd9\u5468\u8fc7\u7684\u771f\u662f\u8f7b\u677e\u3002"
+            },
+            "C": {
                 "modality": "Image",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000422/choice_2.png",
                 "text": "\u600e\u4e48\u56de\u4e8b\uff1f\u4e0b\u5468\u4f1a\u66f4\u96be\u71ac\u3002"
+            },
+            "D": {
+                "modality": "Image",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000422/choice_0.png",
+                "text": "\u53d1\u751f\u4ec0\u4e48\u4e8b\u4e86\uff1f\u8fd9\u5468\u672b\u8fc7\u5f97\u771f\u5feb\u554a\u3002"
             }
         },
-        "correct_answer": "C"
+        "correct_answer": "A"
     },
     {
         "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
@@ -21585,26 +21554,26 @@
         "options": {
             "A": {
                 "modality": "Image",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000230/choice_1.png",
+                "text": "\u6211\u5c31\u5728\u90a3\u91cc\u3002\u90a3\u4f60\u4e3a\u4ec0\u4e48\u8eab\u5904\u9ed1\u6697\u4e4b\u4e2d\uff1f\u56e0\u4e3a\u5149\u660e\u672c\u5c31\u5c5e\u4e8e\u90a3\u91cc\u3002"
+            },
+            "B": {
+                "modality": "Image",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000230/choice_0.png",
                 "text": "\u6211\u5c31\u5728\u90a3\u91cc\u3002\u90a3\u4f60\u4e3a\u4ec0\u4e48\u8eab\u5904\u5149\u660e\u4e4b\u4e2d\uff1f\u56e0\u4e3a\u9634\u5f71\u672c\u5c31\u5c5e\u4e8e\u90a3\u91cc\u3002"
             },
-            "B": {
+            "C": {
                 "modality": "Image",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000230/original.png",
                 "text": "\u6211\u5c31\u5728\u8fd9\u91cc\u3002\u90a3\u4f60\u4e3a\u4ec0\u4e48\u8eab\u5904\u9ed1\u6697\u4e4b\u4e2d\uff1f\u56e0\u4e3a\u9634\u5f71\u672c\u5c31\u5c5e\u4e8e\u90a3\u91cc\u3002"
             },
-            "C": {
+            "D": {
                 "modality": "Image",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000230/choice_2.png",
                 "text": "\u6211\u5c31\u5728\u90a3\u91cc\u3002\u90a3\u4f60\u4e3a\u4ec0\u4e48\u8eab\u5904\u9ed1\u6697\u4e4b\u4e2d\uff1f\u56e0\u4e3a\u5b64\u72ec\u672c\u5c31\u5c5e\u4e8e\u90a3\u91cc\u3002"
-            },
-            "D": {
-                "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000230/choice_1.png",
-                "text": "\u6211\u5c31\u5728\u90a3\u91cc\u3002\u90a3\u4f60\u4e3a\u4ec0\u4e48\u8eab\u5904\u9ed1\u6697\u4e4b\u4e2d\uff1f\u56e0\u4e3a\u5149\u660e\u672c\u5c31\u5c5e\u4e8e\u90a3\u91cc\u3002"
             }
         },
-        "correct_answer": "B"
+        "correct_answer": "C"
     },
     {
         "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
@@ -21621,8 +21590,8 @@
             },
             "B": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000908/choice_1.png",
-                "text": "\u4f46\u662f\u8fc4\u4eca\u4e3a\u6b62\u4e00\u76f4\u6548\u679c\u4e0d\u597d\uff01\u771f\u7cdf\u7cd5\uff01"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000908/original.png",
+                "text": "\u800c\u4e14\u76ee\u524d\u4e3a\u6b62\u4e00\u76f4\u8fd0\u4f5c\u826f\u597d\uff01\u592a\u68d2\u4e86\uff01"
             },
             "C": {
                 "modality": "Image",
@@ -21631,11 +21600,11 @@
             },
             "D": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000908/original.png",
-                "text": "\u800c\u4e14\u76ee\u524d\u4e3a\u6b62\u4e00\u76f4\u8fd0\u4f5c\u826f\u597d\uff01\u592a\u68d2\u4e86\uff01"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000908/choice_1.png",
+                "text": "\u4f46\u662f\u8fc4\u4eca\u4e3a\u6b62\u4e00\u76f4\u6548\u679c\u4e0d\u597d\uff01\u771f\u7cdf\u7cd5\uff01"
             }
         },
-        "correct_answer": "D"
+        "correct_answer": "B"
     },
     {
         "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
@@ -21647,26 +21616,26 @@
         "options": {
             "A": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000623/choice_2.png",
-                "text": "\u53ea\u8981\u548c\u5979\u804a\u804a\u5929\u5c31\u5df2\u7ecf\u8ba9\u6211\u611f\u89c9\u597d\u4e00\u4e9b\u4e86\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000623/choice_0.png",
+                "text": "\u4ec5\u4ec5\u662f\u548c\u4f60\u5435\u5435\u67b6\u5c31\u5df2\u7ecf\u8ba9\u6211\u611f\u89c9\u597d\u4e00\u4e9b\u4e86\u3002"
             },
             "B": {
-                "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000623/original.png",
-                "text": "\u4ec5\u4ec5\u662f\u548c\u4f60\u804a\u804a\u5929\u5c31\u5df2\u7ecf\u8ba9\u6211\u611f\u89c9\u597d\u4e00\u4e9b\u4e86\u3002"
-            },
-            "C": {
                 "modality": "Image",
                 "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000623/choice_1.png",
                 "text": "\u53ea\u8981\u548c\u4f60\u8c08\u8c08\u5c31\u80fd\u8ba9\u6211\u66f4\u7cdf\u4e00\u4e9b\u3002"
             },
+            "C": {
+                "modality": "Image",
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000623/choice_2.png",
+                "text": "\u53ea\u8981\u548c\u5979\u804a\u804a\u5929\u5c31\u5df2\u7ecf\u8ba9\u6211\u611f\u89c9\u597d\u4e00\u4e9b\u4e86\u3002"
+            },
             "D": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000623/choice_0.png",
-                "text": "\u4ec5\u4ec5\u662f\u548c\u4f60\u5435\u5435\u67b6\u5c31\u5df2\u7ecf\u8ba9\u6211\u611f\u89c9\u597d\u4e00\u4e9b\u4e86\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000623/original.png",
+                "text": "\u4ec5\u4ec5\u662f\u548c\u4f60\u804a\u804a\u5929\u5c31\u5df2\u7ecf\u8ba9\u6211\u611f\u89c9\u597d\u4e00\u4e9b\u4e86\u3002"
             }
         },
-        "correct_answer": "B"
+        "correct_answer": "D"
     },
     {
         "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
@@ -21688,13 +21657,13 @@
             },
             "C": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000525/choice_0.png",
-                "text": "\u73b0\u5728\u8ba9\u6211\u4eec\u53bb\u4f60\u7684\u53a8\u623f\u770b\u770b\uff0c\u770b\u770b\u6211\u4eec\u80fd\u627e\u5230\u4ec0\u4e48\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000525/choice_1.png",
+                "text": "\u73b0\u5728\u8ba9\u6211\u6765\u68c0\u67e5\u4f60\u7684\u8863\u6a71\uff0c\u770b\u770b\u4f60\u4e70\u7684\u4ec0\u4e48\u3002"
             },
             "D": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000525/choice_1.png",
-                "text": "\u73b0\u5728\u8ba9\u6211\u6765\u68c0\u67e5\u4f60\u7684\u8863\u6a71\uff0c\u770b\u770b\u4f60\u4e70\u7684\u4ec0\u4e48\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000525/choice_0.png",
+                "text": "\u73b0\u5728\u8ba9\u6211\u4eec\u53bb\u4f60\u7684\u53a8\u623f\u770b\u770b\uff0c\u770b\u770b\u6211\u4eec\u80fd\u627e\u5230\u4ec0\u4e48\u3002"
             }
         },
         "correct_answer": "B"
@@ -21709,8 +21678,8 @@
         "options": {
             "A": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000991/choice_1.png",
-                "text": "\u4f46\u662f\uff0c\u54c8\u7279\u5229\u4ee3\u8868\u65b0\u5965\u5c14\u826f\u961f\u8e22\u8fdb\u4e00\u8bb046\u7801\u7684\u4efb\u610f\u7403\u3002\u730e\u9e70\u961f\u8fc5\u901f\u53cd\u51fb\uff0c\u8001\u5c06\u56db\u5206\u536b\u9a6c\u7279\u00b7\u745e\u5b89\u5b8c\u6210\u4e00\u8bb02\u7801\u7684\u4f20\u7403\uff0c\u7531\u5916\u63a5\u624b\u5e03\u83b1\u6069\u00b7\u82ac\u5c3c\u6839\u4f20\u7403\u8fbe\u9635\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000991/choice_2.png",
+                "text": "\u7136\u800c\uff0c\u54c8\u7279\u5229\u5728\u65b0\u5965\u5c14\u826f\u961f\u8e22\u8fdb\u4e00\u8bb046\u7801\u7684\u4efb\u610f\u7403\u3002\u730e\u9e70\u961f\u7acb\u5373\u53cd\u51fb\uff0c\u65b0\u79c0\u56db\u5206\u536b\u9a6c\u7279\u00b7\u745e\u5b89\u5b8c\u6210\u4e00\u8bb02\u7801\u7684\u4f20\u7403\uff0c\u7ed9\u5916\u63a5\u624b\u5e03\u83b1\u6069\u00b7\u82ac\u5c3c\u6839\u4f20\u7403\u8fbe\u9635\u3002"
             },
             "B": {
                 "modality": "Image",
@@ -21724,8 +21693,8 @@
             },
             "D": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000991/choice_2.png",
-                "text": "\u7136\u800c\uff0c\u54c8\u7279\u5229\u5728\u65b0\u5965\u5c14\u826f\u961f\u8e22\u8fdb\u4e00\u8bb046\u7801\u7684\u4efb\u610f\u7403\u3002\u730e\u9e70\u961f\u7acb\u5373\u53cd\u51fb\uff0c\u65b0\u79c0\u56db\u5206\u536b\u9a6c\u7279\u00b7\u745e\u5b89\u5b8c\u6210\u4e00\u8bb02\u7801\u7684\u4f20\u7403\uff0c\u7ed9\u5916\u63a5\u624b\u5e03\u83b1\u6069\u00b7\u82ac\u5c3c\u6839\u4f20\u7403\u8fbe\u9635\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000002000991/choice_1.png",
+                "text": "\u4f46\u662f\uff0c\u54c8\u7279\u5229\u4ee3\u8868\u65b0\u5965\u5c14\u826f\u961f\u8e22\u8fdb\u4e00\u8bb046\u7801\u7684\u4efb\u610f\u7403\u3002\u730e\u9e70\u961f\u8fc5\u901f\u53cd\u51fb\uff0c\u8001\u5c06\u56db\u5206\u536b\u9a6c\u7279\u00b7\u745e\u5b89\u5b8c\u6210\u4e00\u8bb02\u7801\u7684\u4f20\u7403\uff0c\u7531\u5916\u63a5\u624b\u5e03\u83b1\u6069\u00b7\u82ac\u5c3c\u6839\u4f20\u7403\u8fbe\u9635\u3002"
             }
         },
         "correct_answer": "B"
@@ -21740,18 +21709,18 @@
         "options": {
             "A": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000759/original.png",
-                "text": "\u5979\u6253\u4e86\u4ed6\uff0c\u6253\u5f97\u4ed6\u6454\u5012\u5728\u5730\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000759/choice_1.png",
+                "text": "\u5979\u8e22\u4e86\u4ed6\uff0c\u6253\u5f97\u4ed6\u6454\u5012\u5728\u5730\u3002"
             },
             "B": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000759/choice_0.png",
-                "text": "\u5979\u6253\u4e86\u522b\u4eba\uff0c\u6253\u5f97\u4ed6\u6454\u5012\u5728\u5730\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000759/original.png",
+                "text": "\u5979\u6253\u4e86\u4ed6\uff0c\u6253\u5f97\u4ed6\u6454\u5012\u5728\u5730\u3002"
             },
             "C": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000759/choice_1.png",
-                "text": "\u5979\u8e22\u4e86\u4ed6\uff0c\u6253\u5f97\u4ed6\u6454\u5012\u5728\u5730\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000004000759/choice_0.png",
+                "text": "\u5979\u6253\u4e86\u522b\u4eba\uff0c\u6253\u5f97\u4ed6\u6454\u5012\u5728\u5730\u3002"
             },
             "D": {
                 "modality": "Image",
@@ -21759,7 +21728,7 @@
                 "text": "\u5979\u6253\u4e86\u4ed6\u4e00\u4e0b\uff0c\u6253\u5f97\u4ed6\u7ad9\u4e86\u8d77\u6765\u3002"
             }
         },
-        "correct_answer": "A"
+        "correct_answer": "B"
     },
     {
         "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
@@ -21771,13 +21740,13 @@
         "options": {
             "A": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000707/choice_0.png",
-                "text": "1956\u5e74\u8428\u514b\u62c9\u95e8\u6258\u5dde\u7acb\u5927\u5b66\u96c4\u72ee\u961f\u6a44\u6984\u7403\u961f\u4ee3\u8868\u8428\u514b\u62c9\u95e8\u6258\u5dde\u7acb\u5927\u5b66\u53c2\u52a0\u4e861956\u5e74NCAA\u5927\u5b66\u7ec4\u6a44\u6984\u7403\u8d5b\u5b63\u3002\u8428\u514b\u62c9\u95e8\u6258\u5dde\u7acb\u5927\u5b66\u52a0\u5165\u4e86\u592a\u5e73\u6d0b\u5341\u6821\u8054\u76df\uff08Pac-10\uff09\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000707/original.png",
+                "text": "1956\u5e74\u8428\u514b\u62c9\u95e8\u6258\u5dde\u7acb\u5927\u5b66\u9ec4\u8702\u961f\u6a44\u6984\u7403\u961f\n\n1956\u5e74\u8428\u514b\u62c9\u95e8\u6258\u5dde\u7acb\u5927\u5b66\u9ec4\u8702\u961f\u6a44\u6984\u7403\u961f\u4ee3\u8868\u8428\u514b\u62c9\u95e8\u6258\u5dde\u7acb\u5b66\u9662\u53c2\u52a0\u4e861956\u5e74NCAA\u5927\u5b66\u7ec4\u6a44\u6984\u7403\u8d5b\u5b63\u3002\u8428\u514b\u62c9\u95e8\u6258\u5dde\u7acb\u5927\u5b66\u53c2\u52a0\u4e86\u8fdc\u897f\u8054\u76df\uff08FWC\uff09\u3002"
             },
             "B": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000707/choice_2.png",
-                "text": "1956\u5e74\u8428\u514b\u62c9\u95e8\u6258\u5dde\u7acb\u5927\u5b66\u9ec4\u8702\u961f\u7bee\u7403\u961f\u4ee3\u8868\u8428\u514b\u62c9\u95e8\u6258\u5dde\u7acb\u5b66\u9662\u53c2\u52a0\u4e861956\u5e74NCAA\u5927\u5b66\u7ec4\u6a44\u6984\u7403\u8d5b\u5b63\u3002\u8428\u514b\u62c9\u95e8\u6258\u5dde\u7acb\u5927\u5b66\u53c2\u52a0\u4e86\u8fdc\u897f\u8054\u76df\uff08FWC\uff09\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000707/choice_0.png",
+                "text": "1956\u5e74\u8428\u514b\u62c9\u95e8\u6258\u5dde\u7acb\u5927\u5b66\u96c4\u72ee\u961f\u6a44\u6984\u7403\u961f\u4ee3\u8868\u8428\u514b\u62c9\u95e8\u6258\u5dde\u7acb\u5927\u5b66\u53c2\u52a0\u4e861956\u5e74NCAA\u5927\u5b66\u7ec4\u6a44\u6984\u7403\u8d5b\u5b63\u3002\u8428\u514b\u62c9\u95e8\u6258\u5dde\u7acb\u5927\u5b66\u52a0\u5165\u4e86\u592a\u5e73\u6d0b\u5341\u6821\u8054\u76df\uff08Pac-10\uff09\u3002"
             },
             "C": {
                 "modality": "Image",
@@ -21786,10 +21755,10 @@
             },
             "D": {
                 "modality": "Image",
-                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000707/original.png",
-                "text": "1956\u5e74\u8428\u514b\u62c9\u95e8\u6258\u5dde\u7acb\u5927\u5b66\u9ec4\u8702\u961f\u6a44\u6984\u7403\u961f\n\n1956\u5e74\u8428\u514b\u62c9\u95e8\u6258\u5dde\u7acb\u5927\u5b66\u9ec4\u8702\u961f\u6a44\u6984\u7403\u961f\u4ee3\u8868\u8428\u514b\u62c9\u95e8\u6258\u5dde\u7acb\u5b66\u9662\u53c2\u52a0\u4e861956\u5e74NCAA\u5927\u5b66\u7ec4\u6a44\u6984\u7403\u8d5b\u5b63\u3002\u8428\u514b\u62c9\u95e8\u6258\u5dde\u7acb\u5927\u5b66\u53c2\u52a0\u4e86\u8fdc\u897f\u8054\u76df\uff08FWC\uff09\u3002"
+                "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000003000707/choice_2.png",
+                "text": "1956\u5e74\u8428\u514b\u62c9\u95e8\u6258\u5dde\u7acb\u5927\u5b66\u9ec4\u8702\u961f\u7bee\u7403\u961f\u4ee3\u8868\u8428\u514b\u62c9\u95e8\u6258\u5dde\u7acb\u5b66\u9662\u53c2\u52a0\u4e861956\u5e74NCAA\u5927\u5b66\u7ec4\u6a44\u6984\u7403\u8d5b\u5b63\u3002\u8428\u514b\u62c9\u95e8\u6258\u5dde\u7acb\u5927\u5b66\u53c2\u52a0\u4e86\u8fdc\u897f\u8054\u76df\uff08FWC\uff09\u3002"
             }
         },
-        "correct_answer": "D"
+        "correct_answer": "A"
     }
 ]

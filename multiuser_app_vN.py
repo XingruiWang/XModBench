@@ -823,9 +823,9 @@ button {
 }
 """
 
-with gr.Blocks(title="AudioBench VQA Demo - Multi-User Enhanced", theme=gr.themes.Soft(), css=css) as app:
-    gr.Markdown("# 🌐 AudioBench VQA - Multi-User Demo (Enhanced)")
-    gr.Markdown("**Real-time multiplayer VQA testing with N questions per type!** Join with your username and compete with others.")
+with gr.Blocks(title="AudioBench AVQA Demo - Multi-User", theme=gr.themes.Soft(), css=css) as app:
+    gr.Markdown("# 🌐 AudioBench AVQA - Multi-User Demo")
+    gr.Markdown("**Real-time multi-user AVQA testing!**")
     
     # User registration section
     with gr.Row():
@@ -850,7 +850,7 @@ with gr.Blocks(title="AudioBench VQA Demo - Multi-User Enhanced", theme=gr.theme
             label="Select Subtask",
             choices=demo_instance.get_available_subtasks("01_perception"),  # Load subtasks for default task
             interactive=True,
-            value="vggss"  # Default value
+            value="general_activities"  # Default value
         )
     
     # Enhanced question loading options

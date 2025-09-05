@@ -5,7 +5,7 @@ import json
 import librosa
 import numpy as np
 from pathlib import Path
-
+import soundfile as sf
 
 # ==================== Modified Emotion Classification Multimodal Question-Answer Generator ====================
 
@@ -67,6 +67,10 @@ def process_hierarchical_emotion_dataset(face_dataset_dir, audio_dataset_dir):
                             face_emotion_groups[category][emotion] = []
                         
                         if os.path.exists(video_path) and os.path.getsize(video_path) > 0:
+                            paired_audio_path = video_path.replace('.mp4', '.wav')
+                            info = sf.info(paired_audio_path)
+                            if info.frames / info.samplerate < 3 or info.frames / info.samplerate > 30:
+                                continue
                             face_emotion_groups[category][emotion].append({
                                 'name': os.path.splitext(file_name)[0],
                                 'emotion': emotion,
@@ -87,9 +91,10 @@ def process_hierarchical_emotion_dataset(face_dataset_dir, audio_dataset_dir):
                         if os.path.exists(audio_path) and os.path.getsize(audio_path) > 0:
                             # Validate audio file
                             try:
-                                import soundfile as sf
+                                
                                 info = sf.info(audio_path)
-                             
+                                if info.frames / info.samplerate < 3 or info.frames / info.samplerate > 30:
+                                    continue
                                 audio_emotion_groups[category][emotion].append({
                                     'name': os.path.splitext(file_name)[0],
                                     'emotion': emotion,
@@ -367,7 +372,7 @@ if __name__ == "__main__":
     random.seed(42)  # For reproducibility
     
     # Configuration parameters
-    DATASET_NAME = 'hierarchical_emotion_classification'
+    DATASET_NAME = 'emotion_classification'
     face_dataset_dir = "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data"  # Update to your face dataset path (mp4 files)
     audio_dataset_dir = "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/emotions/processed_emotion_data"  # Update to your audio dataset path (wav files)
     
