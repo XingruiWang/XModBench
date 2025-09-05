@@ -14,12 +14,12 @@ class AudioBench():
                 'general_vision_text': os.path.join(root_dir, '01_perception', 'general_activities', 'general_activities_questions_vision_text.json'),
                 'general_text_vision': os.path.join(root_dir, '01_perception', 'general_activities', 'general_activities_questions_text_vision.json'),
                 
-                'finegrained_audio_vision': os.path.join(root_dir, '01_perception', 'finegrained', 'vggss_audio_bench_questions_audio_vision.json'),
-                'finegrained_audio_text': os.path.join(root_dir, '01_perception', 'finegrained', 'vggss_audio_bench_questions_audio_text.json'),
-                'finegrained_text_audio': os.path.join(root_dir, '01_perception', 'finegrained', 'vggss_audio_bench_questions_text_audio.json'),
-                'finegrained_text_vision': os.path.join(root_dir, '01_perception', 'finegrained', 'vggss_audio_bench_questions_text_vision.json'),
-                'finegrained_vision_audio': os.path.join(root_dir, '01_perception', 'finegrained', 'vggss_audio_bench_questions_vision_audio.json'),
-                'finegrained_vision_text': os.path.join(root_dir, '01_perception', 'finegrained', 'vggss_audio_bench_questions_vision_text.json'),
+                'finegrained_audio_vision': os.path.join(root_dir, '01_perception', 'finegrained', 'vggss_questions_audio_vision.json'),
+                'finegrained_audio_text': os.path.join(root_dir, '01_perception', 'finegrained', 'vggss_questions_audio_text.json'),
+                'finegrained_text_audio': os.path.join(root_dir, '01_perception', 'finegrained', 'vggss_questions_text_audio.json'),
+                'finegrained_text_vision': os.path.join(root_dir, '01_perception', 'finegrained', 'vggss_questions_text_vision.json'),
+                'finegrained_vision_audio': os.path.join(root_dir, '01_perception', 'finegrained', 'vggss_questions_vision_audio.json'),
+                'finegrained_vision_text': os.path.join(root_dir, '01_perception', 'finegrained', 'vggss_questions_vision_text.json'),
                 
                 'instruments_audio_vision': os.path.join(root_dir, '01_perception', 'instruments', 'solos_audio_bench_questions_audio_vision.json'),
                 'instruments_vision_audio': os.path.join(root_dir, '01_perception', 'instruments', 'solos_audio_bench_questions_vision_audio.json'),
@@ -28,12 +28,12 @@ class AudioBench():
                 'instruments_text_audio': os.path.join(root_dir, '01_perception', 'instruments', 'solos_audio_bench_questions_text_audio.json'),
                 'instruments_text_vision': os.path.join(root_dir, '01_perception', 'instruments', 'solos_audio_bench_questions_text_vision.json'),
                 
-                'instruments_comp_audio_vision': os.path.join(root_dir, '01_perception', 'instruments_comp', 'URMP_audio_bench_questions_audio_vision.json'),
-                'instruments_comp_vision_audio': os.path.join(root_dir, '01_perception', 'instruments_comp', 'URMP_audio_bench_questions_vision_audio.json'),
-                'instruments_comp_audio_text': os.path.join(root_dir, '01_perception', 'instruments_comp', 'URMP_audio_bench_questions_audio_text.json'),
-                'instruments_comp_text_audio': os.path.join(root_dir, '01_perception', 'instruments_comp', 'URMP_audio_bench_questions_text_audio.json'),
-                'instruments_comp_vision_text': os.path.join(root_dir, '01_perception', 'instruments_comp', 'URMP_audio_bench_questions_vision_text.json'),
-                'instruments_comp_text_vision': os.path.join(root_dir, '01_perception', 'instruments_comp', 'URMP_audio_bench_questions_text_vision.json'),
+                'instruments_comp_audio_vision': os.path.join(root_dir, '01_perception', 'instruments_comp', 'URMP_questions_audio_vision.json'),
+                'instruments_comp_vision_audio': os.path.join(root_dir, '01_perception', 'instruments_comp', 'URMP_questions_vision_audio.json'),
+                'instruments_comp_audio_text': os.path.join(root_dir, '01_perception', 'instruments_comp', 'URMP_questions_audio_text.json'),
+                'instruments_comp_text_audio': os.path.join(root_dir, '01_perception', 'instruments_comp', 'URMP_questions_text_audio.json'),
+                'instruments_comp_vision_text': os.path.join(root_dir, '01_perception', 'instruments_comp', 'URMP_questions_vision_text.json'),
+                'instruments_comp_text_vision': os.path.join(root_dir, '01_perception', 'instruments_comp', 'URMP_questions_text_vision.json'),
                 
                 'natures_audio_vision': os.path.join(root_dir, '01_perception', 'natures', 'landscapes_audio_bench_questions_audio_vision.json'),
                 'natures_vision_audio': os.path.join(root_dir, '01_perception', 'natures', 'landscapes_audio_bench_questions_vision_audio.json'),
@@ -58,12 +58,12 @@ class AudioBench():
                 '3D_movements_vision_text': os.path.join(root_dir, '02_spatial', '3D_movements', 'urbansas_audio_bench_questions_vision_text.json'),
                 '3D_movements_text_vision': os.path.join(root_dir, '02_spatial', '3D_movements', 'urbansas_audio_bench_questions_text_vision.json'),
 
-                'panaroma_audio_video': os.path.join(root_dir, '02_spatial', 'starss23', 'starss23_audio_bench_questions_audio_video.json'),
-                'panaroma_video_audio': os.path.join(root_dir, '02_spatial', 'starss23', 'starss23_audio_bench_questions_video_audio.json'),
-                'panaroma_audio_text': os.path.join(root_dir, '02_spatial', 'starss23', 'starss23_audio_bench_questions_audio_text.json'),
-                'panaroma_text_audio': os.path.join(root_dir, '02_spatial', 'starss23', 'starss23_audio_bench_questions_text_audio.json'),
-                'panaroma_video_text': os.path.join(root_dir, '02_spatial', 'starss23', 'starss23_audio_bench_questions_video_text.json'),
-                'panaroma_text_video': os.path.join(root_dir, '02_spatial', 'starss23', 'starss23_audio_bench_questions_text_video.json'),
+                'panaroma_audio_vision': os.path.join(root_dir, '02_spatial', 'panaroma', 'starss23_audio_bench_questions_audio_video.json'),
+                'panaroma_vision_audio': os.path.join(root_dir, '02_spatial', 'panaroma', 'starss23_audio_bench_questions_video_audio.json'),
+                'panaroma_audio_text': os.path.join(root_dir, '02_spatial', 'panaroma', 'starss23_audio_bench_questions_audio_text.json'),
+                'panaroma_text_audio': os.path.join(root_dir, '02_spatial', 'panaroma', 'starss23_audio_bench_questions_text_audio.json'),
+                'panaroma_vision_text': os.path.join(root_dir, '02_spatial', 'panaroma', 'starss23_audio_bench_questions_video_text.json'),
+                'panaroma_text_vision': os.path.join(root_dir, '02_spatial', 'panaroma', 'starss23_audio_bench_questions_text_video.json'),
             },
             'speech': {
                 'recognition_audio_vision': os.path.join(root_dir, '03_speech', 'recognition', 'acr_audio_bench_questions_audio_vision.json'),
@@ -131,8 +131,7 @@ class AudioBench():
                 'singer_identification_vision_audio': os.path.join(root_dir, '05_Exteral', 'singer_identification', 'singer_identification_questions_vision_audio.json'),
                 'singer_identification_audio_vision': os.path.join(root_dir, '05_Exteral', 'singer_identification', 'singer_identification_questions_audio_vision.json'),
                 'singer_identification_text_vision': os.path.join(root_dir, '05_Exteral', 'singer_identification', 'singer_identification_questions_text_vision.json'),
-            }
-            
+            }  
         }
         
     def __call__(self, task_name):

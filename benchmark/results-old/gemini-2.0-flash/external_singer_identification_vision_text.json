@@ -1,0 +1,1208 @@
+{
+    "task_name": "external/singer_identification_vision_text",
+    "score": 99.33333333333333,
+    "correct_count": 149,
+    "all_count": 150,
+    "results": {
+        "0": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 0,
+            "is_correct": true
+        },
+        "1": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 1,
+            "is_correct": true
+        },
+        "2": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 2,
+            "is_correct": true
+        },
+        "3": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 3,
+            "is_correct": true
+        },
+        "4": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 4,
+            "is_correct": true
+        },
+        "5": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 5,
+            "is_correct": true
+        },
+        "6": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 6,
+            "is_correct": true
+        },
+        "7": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 7,
+            "is_correct": true
+        },
+        "8": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 8,
+            "is_correct": true
+        },
+        "9": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 9,
+            "is_correct": true
+        },
+        "10": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 10,
+            "is_correct": true
+        },
+        "11": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 11,
+            "is_correct": true
+        },
+        "12": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 12,
+            "is_correct": true
+        },
+        "13": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 13,
+            "is_correct": true
+        },
+        "14": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 14,
+            "is_correct": true
+        },
+        "15": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 15,
+            "is_correct": true
+        },
+        "16": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 16,
+            "is_correct": true
+        },
+        "17": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 17,
+            "is_correct": true
+        },
+        "18": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 18,
+            "is_correct": true
+        },
+        "19": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 19,
+            "is_correct": true
+        },
+        "20": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 20,
+            "is_correct": true
+        },
+        "21": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 21,
+            "is_correct": true
+        },
+        "22": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 22,
+            "is_correct": true
+        },
+        "23": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 23,
+            "is_correct": true
+        },
+        "24": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 24,
+            "is_correct": true
+        },
+        "25": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 25,
+            "is_correct": true
+        },
+        "26": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 26,
+            "is_correct": true
+        },
+        "27": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 27,
+            "is_correct": true
+        },
+        "28": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 28,
+            "is_correct": true
+        },
+        "29": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 29,
+            "is_correct": true
+        },
+        "30": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 30,
+            "is_correct": true
+        },
+        "31": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 31,
+            "is_correct": true
+        },
+        "32": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 32,
+            "is_correct": true
+        },
+        "33": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 33,
+            "is_correct": true
+        },
+        "34": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 34,
+            "is_correct": true
+        },
+        "35": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 35,
+            "is_correct": true
+        },
+        "36": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 36,
+            "is_correct": true
+        },
+        "37": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 37,
+            "is_correct": true
+        },
+        "38": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 38,
+            "is_correct": true
+        },
+        "39": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 39,
+            "is_correct": true
+        },
+        "40": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 40,
+            "is_correct": true
+        },
+        "41": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 41,
+            "is_correct": true
+        },
+        "42": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 42,
+            "is_correct": true
+        },
+        "43": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 43,
+            "is_correct": true
+        },
+        "44": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 44,
+            "is_correct": true
+        },
+        "45": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 45,
+            "is_correct": true
+        },
+        "46": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 46,
+            "is_correct": true
+        },
+        "47": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 47,
+            "is_correct": true
+        },
+        "48": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 48,
+            "is_correct": true
+        },
+        "49": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 49,
+            "is_correct": true
+        },
+        "50": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 50,
+            "is_correct": true
+        },
+        "51": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 51,
+            "is_correct": true
+        },
+        "52": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 52,
+            "is_correct": true
+        },
+        "53": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 53,
+            "is_correct": true
+        },
+        "54": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 54,
+            "is_correct": true
+        },
+        "55": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 55,
+            "is_correct": true
+        },
+        "56": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 56,
+            "is_correct": true
+        },
+        "57": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 57,
+            "is_correct": true
+        },
+        "58": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 58,
+            "is_correct": true
+        },
+        "59": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 59,
+            "is_correct": true
+        },
+        "60": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 60,
+            "is_correct": true
+        },
+        "61": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 61,
+            "is_correct": true
+        },
+        "62": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 62,
+            "is_correct": true
+        },
+        "63": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 63,
+            "is_correct": true
+        },
+        "64": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 64,
+            "is_correct": true
+        },
+        "65": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 65,
+            "is_correct": true
+        },
+        "66": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 66,
+            "is_correct": true
+        },
+        "67": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 67,
+            "is_correct": true
+        },
+        "68": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 68,
+            "is_correct": true
+        },
+        "69": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 69,
+            "is_correct": true
+        },
+        "70": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 70,
+            "is_correct": true
+        },
+        "71": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 71,
+            "is_correct": true
+        },
+        "72": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 72,
+            "is_correct": true
+        },
+        "73": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 73,
+            "is_correct": true
+        },
+        "74": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 74,
+            "is_correct": true
+        },
+        "75": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 75,
+            "is_correct": true
+        },
+        "76": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 76,
+            "is_correct": true
+        },
+        "77": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 77,
+            "is_correct": true
+        },
+        "78": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 78,
+            "is_correct": true
+        },
+        "79": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 79,
+            "is_correct": true
+        },
+        "80": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 80,
+            "is_correct": true
+        },
+        "81": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 81,
+            "is_correct": true
+        },
+        "82": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 82,
+            "is_correct": true
+        },
+        "83": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 83,
+            "is_correct": true
+        },
+        "84": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 84,
+            "is_correct": true
+        },
+        "85": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 85,
+            "is_correct": true
+        },
+        "86": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 86,
+            "is_correct": true
+        },
+        "87": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 87,
+            "is_correct": true
+        },
+        "88": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 88,
+            "is_correct": true
+        },
+        "89": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 89,
+            "is_correct": true
+        },
+        "90": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 90,
+            "is_correct": true
+        },
+        "91": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 91,
+            "is_correct": true
+        },
+        "92": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 92,
+            "is_correct": true
+        },
+        "93": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 93,
+            "is_correct": true
+        },
+        "94": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 94,
+            "is_correct": true
+        },
+        "95": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 95,
+            "is_correct": true
+        },
+        "96": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 96,
+            "is_correct": true
+        },
+        "97": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 97,
+            "is_correct": true
+        },
+        "98": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 98,
+            "is_correct": true
+        },
+        "99": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 99,
+            "is_correct": true
+        },
+        "100": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 100,
+            "is_correct": true
+        },
+        "101": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 101,
+            "is_correct": true
+        },
+        "102": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 102,
+            "is_correct": true
+        },
+        "103": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 103,
+            "is_correct": true
+        },
+        "104": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 104,
+            "is_correct": true
+        },
+        "105": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 105,
+            "is_correct": true
+        },
+        "106": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 106,
+            "is_correct": false
+        },
+        "107": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 107,
+            "is_correct": true
+        },
+        "108": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 108,
+            "is_correct": true
+        },
+        "109": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 109,
+            "is_correct": true
+        },
+        "110": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 110,
+            "is_correct": true
+        },
+        "111": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 111,
+            "is_correct": true
+        },
+        "112": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 112,
+            "is_correct": true
+        },
+        "113": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 113,
+            "is_correct": true
+        },
+        "114": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 114,
+            "is_correct": true
+        },
+        "115": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 115,
+            "is_correct": true
+        },
+        "116": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 116,
+            "is_correct": true
+        },
+        "117": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 117,
+            "is_correct": true
+        },
+        "118": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 118,
+            "is_correct": true
+        },
+        "119": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 119,
+            "is_correct": true
+        },
+        "120": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 120,
+            "is_correct": true
+        },
+        "121": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 121,
+            "is_correct": true
+        },
+        "122": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 122,
+            "is_correct": true
+        },
+        "123": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 123,
+            "is_correct": true
+        },
+        "124": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 124,
+            "is_correct": true
+        },
+        "125": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 125,
+            "is_correct": true
+        },
+        "126": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 126,
+            "is_correct": true
+        },
+        "127": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 127,
+            "is_correct": true
+        },
+        "128": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 128,
+            "is_correct": true
+        },
+        "129": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 129,
+            "is_correct": true
+        },
+        "130": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 130,
+            "is_correct": true
+        },
+        "131": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 131,
+            "is_correct": true
+        },
+        "132": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 132,
+            "is_correct": true
+        },
+        "133": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 133,
+            "is_correct": true
+        },
+        "134": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 134,
+            "is_correct": true
+        },
+        "135": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 135,
+            "is_correct": true
+        },
+        "136": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 136,
+            "is_correct": true
+        },
+        "137": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 137,
+            "is_correct": true
+        },
+        "138": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 138,
+            "is_correct": true
+        },
+        "139": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 139,
+            "is_correct": true
+        },
+        "140": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 140,
+            "is_correct": true
+        },
+        "141": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 141,
+            "is_correct": true
+        },
+        "142": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 142,
+            "is_correct": true
+        },
+        "143": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 143,
+            "is_correct": true
+        },
+        "144": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 144,
+            "is_correct": true
+        },
+        "145": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 145,
+            "is_correct": true
+        },
+        "146": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 146,
+            "is_correct": true
+        },
+        "147": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 147,
+            "is_correct": true
+        },
+        "148": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 148,
+            "is_correct": true
+        },
+        "149": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 149,
+            "is_correct": true
+        }
+    }
+}

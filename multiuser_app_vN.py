@@ -1036,4 +1036,4 @@ print("🎉 Gradio interface ready!")
 
 if __name__ == "__main__":
     print("🌐 Launching Gradio app...")
-    app.launch(share=True, debug=True)
+    app.launch(share=True, debug=True, allowed_paths=["/home/xwang378/scratch/2025/AudioBench/benchmark/Data"])

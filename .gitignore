@@ -1,10 +1,12 @@
 .envs
 benchmark/Data
+benchmark/results/
 Data/
 log
 models/AnyGPT
 models/
 scripts/FluxText/
+
 *.png
 *.mp4
 *.wav
