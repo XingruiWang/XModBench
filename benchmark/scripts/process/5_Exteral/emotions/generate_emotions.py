@@ -7,7 +7,7 @@ import numpy as np
 from pathlib import Path
 import soundfile as sf
 
-# ==================== Modified Emotion Classification Multimodal Question-Answer Generator ====================
+# ==================== Enhanced Emotion Recognition from Dialog - Multimodal Question Generator ====================
 
 
 def extract_emotion_from_path(filepath):
@@ -187,12 +187,13 @@ def sample_hierarchical_emotion_instances(face_groups, audio_groups, target_cate
 
 
 def generate_question_audio_vision(faces, audios, correct_answer, target_category, target_emotion):
-    """Generate audio -> vision question: listen to emotional speech and choose matching facial expression."""
+    """Generate audio -> vision question: listen to emotional dialog and choose matching facial expression."""
     correct_idx = ord(correct_answer) - ord('A')
     correct_audio = audios[correct_idx]
     
     question = {
-        "question": "Listen to this emotional speech. Which facial expression shows the same emotion? Answer with A, B, C, or D",
+        "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+        "task_description": "Emotion recognition from dialog: Match speech emotion to facial expression",
         "target_emotion": target_emotion,
         "target_category": target_category,
         "conditions": {
@@ -200,7 +201,8 @@ def generate_question_audio_vision(faces, audios, correct_answer, target_categor
             "input": correct_audio['path'],
             "emotion": correct_audio['emotion'],
             "category": correct_audio['category'],
-            "source": correct_audio['source']
+            "source": correct_audio['source'],
+            "instruction": "Listen to the emotional dialog and identify the speaker's emotional state"
         },
         "options": {
             "A": {"modality": "Video", "input": faces[0]['path'], "emotion": faces[0]['emotion'], "category": faces[0]['category']},
@@ -216,12 +218,13 @@ def generate_question_audio_vision(faces, audios, correct_answer, target_categor
 
 
 def generate_question_vision_audio(faces, audios, correct_answer, target_category, target_emotion):
-    """Generate vision -> audio question: look at facial expression and choose matching emotional speech."""
+    """Generate vision -> audio question: look at facial expression and choose matching emotional dialog."""
     correct_idx = ord(correct_answer) - ord('A')
     correct_face = faces[correct_idx]
     
     question = {
-        "question": "Look at this facial expression. Which speech sample expresses the same emotion? Answer with A, B, C, or D",
+        "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+        "task_description": "Emotion recognition from dialog: Match facial expression to speech emotion",
         "target_emotion": target_emotion,
         "target_category": target_category,
         "conditions": {
@@ -229,7 +232,8 @@ def generate_question_vision_audio(faces, audios, correct_answer, target_categor
             "input": correct_face['path'],
             "emotion": correct_face['emotion'],
             "category": correct_face['category'],
-            "source": correct_face['source']
+            "source": correct_face['source'],
+            "instruction": "Analyze the facial expression to determine the emotional state"
         },
         "options": {
             "A": {"modality": "Audio", "input": audios[0]['path'], "emotion": audios[0]['emotion'], "category": audios[0]['category']},
@@ -253,7 +257,7 @@ def generate_question_vision_text(faces, audios, correct_answer, target_category
     emotion_options = [f"{faces[i]['category'].capitalize()} - {faces[i]['emotion'].capitalize()}" for i in range(4)]
     
     question = {
-        "question": "Look at this facial expression. Which emotion does this face show? Answer with A, B, C, or D",
+        "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
         "target_emotion": target_emotion,
         "target_category": target_category,
         "conditions": {
@@ -279,12 +283,14 @@ def generate_question_vision_text(faces, audios, correct_answer, target_category
 def generate_question_text_vision(faces, audios, correct_answer, target_category, target_emotion):
     """Generate text -> vision question: read emotion label and choose the matching facial expression."""
     question = {
-        "question": f"Based on the emotion '{target_category.capitalize()} - {target_emotion.capitalize()}', which facial expression best represents this emotion? Answer with A, B, C, or D",
+        "question": f"You are given the emotion '{target_category.capitalize()} - {target_emotion.capitalize()}'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+        "task_description": "Emotion recognition from dialog: Match emotion label to facial expression",
         "target_emotion": target_emotion,
         "target_category": target_category,
         "conditions": {
             "modality": "Text",
             "input": f"{target_category.capitalize()} - {target_emotion.capitalize()}",
+            "instruction": f"Find the facial expression that matches the emotion: {target_category.capitalize()} - {target_emotion.capitalize()}"
         },
         "options": {
             "A": {"modality": "Video", "input": faces[0]['path'], "emotion": faces[0]['emotion'], "category": faces[0]['category']},
@@ -300,14 +306,16 @@ def generate_question_text_vision(faces, audios, correct_answer, target_category
 
 
 def generate_question_text_audio(faces, audios, correct_answer, target_category, target_emotion):
-    """Generate text -> audio question: read emotion label and choose the matching emotional speech."""
+    """Generate text -> audio question: read emotion label and choose the matching emotional dialog."""
     question = {
-        "question": f"Based on the emotion '{target_category.capitalize()} - {target_emotion.capitalize()}', which speech sample best expresses this emotion? Answer with A, B, C, or D",
+        "question": f"You are given the emotion '{target_category.capitalize()} - {target_emotion.capitalize()}'. Which dialog/speech audio sample best demonstrates this emotion through the speaker's voice and delivery? Choose A, B, C, or D.",
+        "task_description": "Emotion recognition from dialog: Match emotion label to speech emotion",
         "target_emotion": target_emotion,
         "target_category": target_category,
         "conditions": {
             "modality": "Text",
             "input": f"{target_category.capitalize()} - {target_emotion.capitalize()}",
+            "instruction": f"Find the speech sample that expresses the emotion: {target_category.capitalize()} - {target_emotion.capitalize()}"
         },
         "options": {
             "A": {"modality": "Audio", "input": audios[0]['path'], "emotion": audios[0]['emotion'], "category": audios[0]['category']},
@@ -323,7 +331,7 @@ def generate_question_text_audio(faces, audios, correct_answer, target_category,
 
 
 def generate_question_audio_text(faces, audios, correct_answer, target_category, target_emotion):
-    """Generate audio -> text question: listen to emotional speech and choose the emotion label."""
+    """Generate audio -> text question: listen to emotional dialog and choose the emotion label."""
     correct_idx = ord(correct_answer) - ord('A')
     correct_audio = audios[correct_idx]
     
@@ -331,7 +339,8 @@ def generate_question_audio_text(faces, audios, correct_answer, target_category,
     emotion_options = [f"{audios[i]['category'].capitalize()} - {audios[i]['emotion'].capitalize()}" for i in range(4)]
     
     question = {
-        "question": "Listen to this emotional speech. Which emotion is being expressed? Answer with A, B, C, or D",
+        "question": "Listen to the dialog audio clip and identify which emotion is being expressed. Choose A, B, C, or D.",
+        "task_description": "Emotion recognition from dialog: Identify emotion from speech patterns",
         "target_emotion": target_emotion,
         "target_category": target_category,
         "conditions": {
@@ -339,7 +348,8 @@ def generate_question_audio_text(faces, audios, correct_answer, target_category,
             "input": correct_audio['path'],
             "emotion": correct_audio['emotion'],
             "category": correct_audio['category'],
-            "source": correct_audio['source']
+            "source": correct_audio['source'],
+            "instruction": "Listen to the dialog and identify the emotion being expressed through vocal patterns"
         },
         "options": {
             "A": {"modality": "Text", "input": emotion_options[0]},
@@ -355,7 +365,7 @@ def generate_question_audio_text(faces, audios, correct_answer, target_category,
 
 
 def generate_all_modality_combinations(faces, audios, correct_answer, target_category, target_emotion):
-    """Generate all possible modality combinations for emotion classification."""
+    """Generate all possible modality combinations for emotion recognition from dialog."""
     questions = {}
     
     questions['audio_vision'] = generate_question_audio_vision(faces, audios, correct_answer, target_category, target_emotion)
@@ -380,18 +390,18 @@ if __name__ == "__main__":
     
     # Select modality combinations to generate
     GENERATE_COMBINATIONS = [
-        'audio_vision',  # Speech -> Face (Emotional speech -> Facial expression)
-        'vision_audio',  # Face -> Speech (Facial expression -> Emotional speech)
+        'audio_vision',  # Dialog -> Face (Emotional speech -> Facial expression)
+        'vision_audio',  # Face -> Dialog (Facial expression -> Emotional speech)
         'vision_text',   # Face -> Text (Facial expression -> Emotion label)
         'text_vision',   # Text -> Face (Emotion label -> Facial expression)
-        'text_audio',    # Text -> Speech (Emotion label -> Emotional speech)
-        'audio_text'     # Speech -> Text (Emotional speech -> Emotion label)
+        'text_audio',    # Text -> Dialog (Emotion label -> Emotional speech)
+        'audio_text'     # Dialog -> Text (Emotional speech -> Emotion label)
     ]
     
     export_dir = '/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/05_Exteral/emotion_classification'
     
     # Process the emotion datasets
-    print("Processing hierarchical emotion datasets...")
+    print("Processing hierarchical emotion datasets for dialog-based emotion recognition...")
     face_emotion_groups, audio_emotion_groups = process_hierarchical_emotion_dataset(face_dataset_dir, audio_dataset_dir)
     
     print(f"Face emotion groups loaded:")
@@ -429,7 +439,7 @@ if __name__ == "__main__":
     
     # Generate questions for each valid target emotion
     for target_category, target_emotion in valid_target_emotions:
-        print(f"\nGenerating questions with '{target_category} - {target_emotion}' as target...")
+        print(f"\nGenerating dialog emotion recognition questions with '{target_category} - {target_emotion}' as target...")
         emotion_questions = 0
         
         for i in range(N):
@@ -469,29 +479,30 @@ if __name__ == "__main__":
     # Save generation statistics
     stats = {
         "dataset": DATASET_NAME,
+        "task_type": "dialog_emotion_recognition_multimodal",
         "total_target_emotions": len(valid_target_emotions),
         "valid_target_emotions": [f"{cat}_{emo}" for cat, emo in valid_target_emotions],
         "questions_per_emotion": N,
         "total_questions_per_combination": sum(len(questions) for questions in all_questions.values()) // len(GENERATE_COMBINATIONS),
         "emotion_stats": emotion_stats,
         "combinations": GENERATE_COMBINATIONS,
-        "task_type": "hierarchical_emotion_matching_across_modalities",
         "sampling_strategy": "1_correct + 1_neutral + 2_opposite_category",
         "face_media_type": "mp4_videos",
-        "audio_media_type": "wav_files"
+        "audio_media_type": "wav_dialog_files",
+        "task_description": "Cross-modal emotion recognition from dialog and conversation data"
     }
     
     with open(f"{export_dir}/{DATASET_NAME}_generation_stats.json", "w") as f:
         json.dump(stats, f, indent=4)
     
-    print(f"\n=== Generation Summary ===")
+    print(f"\n=== Dialog Emotion Recognition Generation Summary ===")
     print(f"Dataset: {DATASET_NAME}")
+    print(f"Task: Cross-modal emotion recognition from dialog/conversation")
     print(f"Valid target emotions: {len(valid_target_emotions)}")
-    print(f"Task: Hierarchical emotion matching across modalities")
     print(f"Sampling strategy: 1 correct + 1 neutral + 2 from opposite category")
     print(f"Questions per target emotion: {N}")
     print(f"Face media: MP4 videos")
-    print(f"Audio media: WAV files")
+    print(f"Audio media: WAV dialog/speech files")
     print(f"Total questions per combination: {sum(len(questions) for questions in all_questions.values()) // len(GENERATE_COMBINATIONS)}")
     print(f"Generated combinations: {', '.join(GENERATE_COMBINATIONS)}")
     print(f"Export directory: {export_dir}")

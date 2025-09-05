@@ -345,7 +345,7 @@ if __name__ == "__main__":
     DATASET_NAME = 'vggss_order'  # or 'vggss'
     OBJECT_NAME = 'objects'
 
-    root_dir = "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/temporal_order"
+    root_dir = "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/temporal_audiobench"
     
     N = 0
     
@@ -361,11 +361,20 @@ if __name__ == "__main__":
      
     all_backup_choices = []
     for instance in os.listdir(root_dir):
+        if not instance.startswith('sample'):
+            continue
         all_choices = [os.path.join(root_dir, instance, f) for f in os.listdir(os.path.join(root_dir, instance))]
+        if len(all_choices) != 4:
+            print(f"Warning: {instance} has {len(all_choices)} choices")
         all_backup_choices.extend(all_choices)
+        
+    print(f"Found {len(all_backup_choices)} backup choices")
+    
     all_backup_choices = set(all_backup_choices)
     
     for instance in os.listdir(root_dir):
+        if not instance.startswith('sample'):
+            continue
         all_choices = [os.path.join(root_dir, instance, f) for f in os.listdir(os.path.join(root_dir, instance))]
         
         i = 0

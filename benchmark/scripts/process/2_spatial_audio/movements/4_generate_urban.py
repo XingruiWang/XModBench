@@ -8,12 +8,21 @@ import json
 
 def load_description(class_name, direction):
     if class_name == -1 or class_name == "-1":
-        return "There is no vehicle moving in the scene."
+        return "No vehicle is present in the scene."
     
-    return f"A {class_name} moving {direction}."
+    # More descriptive vehicle movement descriptions
+    direction_mapping = {
+        "from left to right": "moving horizontally from left to right across the scene",
+        "from right to left": "moving horizontally from right to left across the scene", 
+        "from close to far": "moving away from the camera/observer into the distance",
+        "from far to close": "approaching toward the camera/observer from the distance",
+        "empty": "no movement detected"
+    }
+    
+    enhanced_direction = direction_mapping.get(direction, direction)
+    return f"A {class_name} {enhanced_direction}."
 
 def generate_question_audio_vision(all_choices, correct_answer, object_name='objects'):
-
     correct_choice = all_choices[ord(correct_answer) - ord('A')]
     other_choices = [all_choices[i] for i in range(4) if i != ord(correct_answer) - ord('A')]
     
@@ -21,11 +30,10 @@ def generate_question_audio_vision(all_choices, correct_answer, object_name='obj
     correct_description = descriptions[ord(correct_answer) - ord('A')]
     
     image_paths = [choice['image_path'] for choice in all_choices]
-    
     audio_paths = [choice['audio_path'] for choice in all_choices]
     
     question = {
-        "question" : "Based on the spatial audio clip, try to imagine what the urban scene looks like—consider which direction the sound is coming from and how close the vehicle gets. Then select the video that best matches the expected position and type of vehicle. Choose A, B, C, or D.",
+        "question": "Listen carefully to the spatial audio clip from an urban street scene. Pay attention to:\n- The type of vehicle sound (car, bus, motorbike, or no vehicle)\n- The direction of movement (left-to-right, right-to-left, approaching, or receding)\n- The spatial positioning and distance changes\n\nBased on these audio cues, select the video that best matches the vehicle type and movement pattern you heard. Choose A, B, C, or D.",
 
         "conditions": {
             "modality": "Audio",
@@ -34,7 +42,7 @@ def generate_question_audio_vision(all_choices, correct_answer, object_name='obj
             },
         "options": {
             "A": {
-                "modality": "Video",
+                "modality": "Video", 
                 "input": image_paths[0],
                 "description": descriptions[0],
             },
@@ -61,7 +69,6 @@ def generate_question_audio_vision(all_choices, correct_answer, object_name='obj
 
 
 def generate_question_vision_audio(all_choices, correct_answer, object_name='objects'):
-    
     correct_choice = all_choices[ord(correct_answer) - ord('A')]
     other_choices = [all_choices[i] for i in range(4) if i != ord(correct_answer) - ord('A')]
     
@@ -71,7 +78,7 @@ def generate_question_vision_audio(all_choices, correct_answer, object_name='obj
     audio_paths = [choice['audio_path'] for choice in all_choices]
     
     question = {
-       "question": "Carefully observe the video clip of the urban scene. Pay attention to the vehicle's position and motion direction (e.g., moving toward the camera or from left to right). Then select the audio clip that best matches the expected sound of that movement and direction. Choose A, B, C, or D.",
+       "question": "Analyze the video clip of the urban street scene carefully. Identify:\n- The type of vehicle shown (car, bus, motorbike, or no vehicle)\n- The vehicle's movement direction and trajectory\n- How the vehicle's position changes relative to the camera\n\nBased on your visual analysis, select the audio clip that would realistically correspond to this vehicle's movement through 3D space. Consider how the sound would change as the vehicle moves. Choose A, B, C, or D.",
         "conditions": {
             "modality": "Video",
             "input":  correct_choice['image_path'],
@@ -107,7 +114,6 @@ def generate_question_vision_audio(all_choices, correct_answer, object_name='obj
 def generate_question_vision_text(all_choices, correct_answer, object_name='objects'):
     """
     Generate a question from vision to text.
-    Given an image, ask which text description most likely corresponds to their spatial arrangement from left to right.
     """
     correct_choice = all_choices[ord(correct_answer) - ord('A')]
     other_choices = [all_choices[i] for i in range(4) if i != ord(correct_answer) - ord('A')]
@@ -118,7 +124,7 @@ def generate_question_vision_text(all_choices, correct_answer, object_name='obje
     audio_paths = [choice['audio_path'] for choice in all_choices]
     
     question = {
-        "question": "Look closely at the video clip of the urban scene, including the type of vehicle, its size, position, and direction of motion. Based on this observation, which text best describes the vehicle's behavior in the scene? Choose A, B, C, or D.",
+        "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
         "conditions": {
             "modality": "Video",
             "input":  correct_choice['image_path'],
@@ -154,7 +160,6 @@ def generate_question_vision_text(all_choices, correct_answer, object_name='obje
 def generate_question_text_vision(all_choices, correct_answer, object_name='objects'):
     """
     Generate a question from text to vision.
-    Given a text description of the spatial arrangement of instruments from left to right, ask which video clip most likely corresponds to the spatial arrangement.
     """
     correct_choice = all_choices[ord(correct_answer) - ord('A')]
     other_choices = [all_choices[i] for i in range(4) if i != ord(correct_answer) - ord('A')]
@@ -165,7 +170,7 @@ def generate_question_text_vision(all_choices, correct_answer, object_name='obje
     audio_paths = [choice['audio_path'] for choice in all_choices]
     
     question = {
-        "question": "The text describes an event in an urban street scene, including the vehicle type and movement direction (e.g., a car approaching from the right). Which video clip best illustrates that situation? Choose A, B, C, or D.",
+        "question": "Read the text description of the urban street scene, which specifies:\n- The type of vehicle involved (or absence of vehicles)\n- The movement direction and pattern\n- The spatial trajectory through the scene\n\nBased on this description, identify which video clip visually demonstrates the described scenario. Look for matching vehicle type and movement pattern. Choose A, B, C, or D.",
         "conditions": {
             "modality": "Text",
             "input": correct_description,
@@ -201,7 +206,6 @@ def generate_question_text_vision(all_choices, correct_answer, object_name='obje
 def generate_question_audio_text(all_choices, correct_answer, object_name='objects'):
     """
     Generate a question from audio to text.
-    Given an audio clip, ask which text description most likely corresponds to the spatial arrangement.
     """
     correct_choice = all_choices[ord(correct_answer) - ord('A')]
     other_choices = [all_choices[i] for i in range(4) if i != ord(correct_answer) - ord('A')]
@@ -212,7 +216,7 @@ def generate_question_audio_text(all_choices, correct_answer, object_name='objec
     audio_paths = [choice['audio_path'] for choice in all_choices]
     
     question = {
-        "question": "Listen carefully to the spatial audio from an urban scene. Consider the vehicle type (if any), its movement direction, and distance. Which text description best matches what you hear? Choose A, B, C, or D.",
+        "question": "Listen to the spatial audio from the urban street scene. Analyze:\n- The vehicle engine sound characteristics to identify the vehicle type (car, bus, motorbike)\n- The audio's directional movement (left-to-right, right-to-left, approaching, receding)\n- Volume and frequency changes that indicate distance and movement\n- Whether any vehicle sound is present at all\n\nWhich text description best matches your audio analysis? Choose A, B, C, or D.",
         "conditions": {
             "modality": "Audio",
             "input": correct_choice['audio_path'],
@@ -248,7 +252,6 @@ def generate_question_audio_text(all_choices, correct_answer, object_name='objec
 def generate_question_text_audio(all_choices, correct_answer, object_name='objects'):
     """
     Generate a question from text to audio.
-    Given a text description, ask which audio clip most likely corresponds to the spatial arrangement.
     """
     correct_choice = all_choices[ord(correct_answer) - ord('A')]
     other_choices = [all_choices[i] for i in range(4) if i != ord(correct_answer) - ord('A')]
@@ -259,7 +262,7 @@ def generate_question_text_audio(all_choices, correct_answer, object_name='objec
     audio_paths = [choice['audio_path'] for choice in all_choices]
     
     question = {
-        "question": "Read the description of the vehicle movement in the urban scene, including direction and distance. Which audio clip best represents how that movement would sound in space? Choose A, B, C, or D.",
+        "question": "Read the description of the vehicle movement in the urban scene. It specifies:\n- The vehicle type (car, bus, motorbike, or no vehicle)\n- The direction and pattern of movement\n- The spatial relationship to the observer\n\nBased on this information, predict how this scenario would sound in real 3D space. Which audio clip best represents the described movement with appropriate spatial audio cues? Choose A, B, C, or D.",
         "conditions": {
             "modality": "Text",
             "input": correct_description,
@@ -292,6 +295,49 @@ def generate_question_text_audio(all_choices, correct_answer, object_name='objec
     
     return question
 
+
+# Additional helper function to improve choice generation
+def generate_better_distractors(sample, all_metadata_dict, all_class_names):
+    """Generate more strategic distractors for better evaluation"""
+    class_name = sample.get('label', 'empty')
+    direction = sample['direction']
+    
+    distractors = []
+    
+    # Distractor 1: Same vehicle type, opposite direction
+    if direction in ["from left to right", "from right to left"]:
+        opposite_direction = "from right to left" if direction == "from left to right" else "from left to right"
+    elif direction in ["from close to far", "from far to close"]:
+        opposite_direction = "from far to close" if direction == "from close to far" else "from close to far"
+    else:
+        opposite_direction = "empty"
+    
+    try:
+        if class_name != "empty" and opposite_direction in all_metadata_dict[class_name]:
+            distractor_1 = random.choice(all_metadata_dict[class_name][opposite_direction])
+        else:
+            distractor_1 = random.choice(all_metadata_dict['empty'])
+    except (KeyError, IndexError):
+        distractor_1 = random.choice(all_metadata_dict['empty'])
+    
+    # Distractor 2: Different vehicle type, same direction
+    try:
+        other_classes = list(all_class_names - {class_name})
+        if other_classes and class_name != "empty":
+            other_class = random.choice(other_classes)
+            if direction in all_metadata_dict[other_class]:
+                distractor_2 = random.choice(all_metadata_dict[other_class][direction])
+            else:
+                distractor_2 = random.choice(all_metadata_dict['empty'])
+        else:
+            distractor_2 = random.choice(all_metadata_dict['empty'])
+    except (KeyError, IndexError):
+        distractor_2 = random.choice(all_metadata_dict['empty'])
+    
+    # Distractor 3: Empty scene or random other scenario
+    distractor_3 = random.choice(all_metadata_dict['empty'])
+    
+    return [distractor_1, distractor_2, distractor_3]
 
 
 if __name__ == "__main__":
@@ -337,7 +383,7 @@ if __name__ == "__main__":
 
     id2class = {
         0: "car",
-        1: "bus",
+        1: "bus", 
         2: "motorbike",
         3: "truck",
         4: "offscene"
@@ -432,51 +478,26 @@ if __name__ == "__main__":
         if class_name == "empty" or class_name == "offscene":
             continue
         for direction in all_metadata_dict[class_name]:
-            # Sample 1: same class but opposite direction
-            # Sample 2: different class 
-            # empty scene
             for sample in all_metadata_dict[class_name][direction]:
-
-                if direction == "left_to_right":
-                    opposite_direction = "right_to_left"
-                elif direction == "right_to_left":
-                    opposite_direction = "left_to_right"
-                elif direction == "close_to_far":
-                    opposite_direction = "far_to_close"
-                elif direction == "far_to_close":
-                    opposite_direction = "close_to_far"
-                    
-                try:
-                    sample_1 = random.choice(all_metadata_dict[class_name][opposite_direction])
-                except IndexError:
-                    sample_1 = random.choice(all_metadata_dict['empty'])
-
+                # Use improved distractor generation
+                distractors = generate_better_distractors(sample, all_metadata_dict, all_class_names)
                 
-                sample_2_class = random.choice(list(all_class_names - {class_name}))
-                sample_2_direction = random.choice(list(all_metadata_dict[sample_2_class].keys()))
-                try:
-                    sample_2 = random.choice(all_metadata_dict[sample_2_class][sample_2_direction])
-                except IndexError:
-                    sample_2 = random.choice(all_metadata_dict['empty'])
-                    
-                sample_3 = random.choice(all_metadata_dict['empty'])
-
-                choises = [sample, sample_1, sample_2, sample_3]
+                choices = [sample] + distractors
             
-                # 
+                # Randomize order
                 order = [0, 1, 2, 3]
                 order = random.sample(order, 4)
                 
                 correct_answer = ['A', 'B', 'C', 'D'][order.index(0)]
                 
-                choises = [choises[i] for i in order]
+                choices = [choices[i] for i in order]
                 
-                question_audio_vision = generate_question_audio_vision(choises, correct_answer)
-                question_vision_audio = generate_question_vision_audio(choises, correct_answer)
-                question_vision_text = generate_question_vision_text(choises, correct_answer)
-                question_text_vision = generate_question_text_vision(choises, correct_answer)
-                question_audio_text = generate_question_audio_text(choises, correct_answer)
-                question_text_audio = generate_question_text_audio(choises, correct_answer)
+                question_audio_vision = generate_question_audio_vision(choices, correct_answer)
+                question_vision_audio = generate_question_vision_audio(choices, correct_answer)
+                question_vision_text = generate_question_vision_text(choices, correct_answer)
+                question_text_vision = generate_question_text_vision(choices, correct_answer)
+                question_audio_text = generate_question_audio_text(choices, correct_answer)
+                question_text_audio = generate_question_text_audio(choices, correct_answer)
                 
                 audio_vision_questions.append(question_audio_vision)
                 vision_audio_questions.append(question_vision_audio)
@@ -503,11 +524,3 @@ if __name__ == "__main__":
         json.dump(text_audio_questions, f, indent=4)
     with open(f"{export_dir}/{DATASET_NAME}_audio_bench_questions_audio_text.json", "w") as f:
         json.dump(audio_text_questions, f, indent=4)
-                  
-                
-                
-                
-        
-        
-        
-        
