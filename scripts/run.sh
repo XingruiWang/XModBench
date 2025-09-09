@@ -1,23 +1,12 @@
-#!/bin/bash
-#SBATCH --job-name=VLM_eval        
-#SBATCH --output=log/job_%j.out
-#SBATCH --error=log/job_%j.log    
-#SBATCH --ntasks=1                  
-#SBATCH --cpus-per-task=1  
-#SBATCH --exclude=ccvl37                                
-
-# echo "Running on host: $(hostname)"
-# echo "CUDA_VISIBLE_DEVICES=$CUDA_VISIBLE_DEVICES"
-
-# # Load user environment
-# source ~/.bashrc
-# module load conda
-# conda activate vlm
+#! /bin/bash
 
 export audioBench='/home/xwang378/scratch/2025/AudioBench'
 
 # Configuration
-MODEL="gemini-2.0-pro"
+# MODEL="qwen2.5_omni"
+MODEL="vita"
+# MODEL="echoink"
+MINI_BENCHMARK="true"
 
 # Function to run evaluation
 run_evaluation() {
@@ -30,40 +19,47 @@ run_evaluation() {
     
     echo "Running: Model=${model}, Task=${task_name}"
     
-    python $audioBench/scripts/run.py \
-        --model $model \
-        --task_name $task_name \
-        --sample 5
+    if [ "$MINI_BENCHMARK" = "true" ]; then
+        CUDA_VISIBLE_DEVICES=0 python $audioBench/scripts/run.py \
+            --model $model \
+            --task_name $task_name \
+            --sample 97 \
+            --mini_benchmark
+    else
+        CUDA_VISIBLE_DEVICES=0 python $audioBench/scripts/run.py \
+            --model $model \
+            --task_name $task_name
+    fi
 }
 
 # Main execution - uncomment the tasks you want to run
 TASKS_TO_RUN=(
-    # Perception tasks
+    # # Perception tasks
     "perception/general"
-    # "perception/finegrained"
-    # "perception/instruments"
-    # "perception/instruments_comp"
-    # "perception/natures"
+    "perception/finegrained"
+    "perception/instruments"
+    "perception/instruments_comp"
+    "perception/natures"
     
-    # # Spatial tasks
-    # "spatial/arrangements"
-    # "spatial/3D_movements"
-    # "spatial/panaroma"
+    # Spatial tasks
+    "spatial/arrangements"
+    "spatial/3D_movements"
+    "spatial/panaroma"
     
-    # # Speech tasks
-    # "speech/recognition"
-    # "speech/translation"
+    # Speech tasks
+    "speech/recognition"
+    "speech/translation"
     
-    # # Temporal tasks
-    # "temporal/count"
-    # "temporal/calculation"
-    # "temporal/order"
+    # Temporal tasks
+    "temporal/count"
+    "temporal/calculation"
+    "temporal/order"
     
-    # # External tasks
-    # "external/music_genre_classification"
-    # "external/emotion_classification"
-    # "external/movie_matching"
-    # "external/singer_identification"
+    # External tasks
+    "external/music_genre_classification"
+    "external/emotion_classification"
+    "external/movie_matching"
+    "external/singer_identification"
 )
 
 # Run evaluations

@@ -1,0 +1,78 @@
+{
+    "task_name": "spatial/panaroma_text_vision",
+    "score": 30.0,
+    "correct_count": 3,
+    "all_count": 10,
+    "results": {
+        "0": {
+            "question": "Select the panoramic video view with red bbox that matches the text-described direction. (The middle of the image is front. Angles range from -180\u00b0 to 180\u00b0, increasing counter-clockwise: 0\u00b0 = front, +90\u00b0 = left, \u221290\u00b0 = right, \u00b1180\u00b0 = back)",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 0,
+            "is_correct": false
+        },
+        "1": {
+            "question": "Select the panoramic video view with red bbox that matches the text-described direction. (The middle of the image is front. Angles range from -180\u00b0 to 180\u00b0, increasing counter-clockwise: 0\u00b0 = front, +90\u00b0 = left, \u221290\u00b0 = right, \u00b1180\u00b0 = back)",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 1,
+            "is_correct": true
+        },
+        "2": {
+            "question": "Select the panoramic video view with red bbox that matches the text-described direction. (The middle of the image is front. Angles range from -180\u00b0 to 180\u00b0, increasing counter-clockwise: 0\u00b0 = front, +90\u00b0 = left, \u221290\u00b0 = right, \u00b1180\u00b0 = back)",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 2,
+            "is_correct": true
+        },
+        "3": {
+            "question": "Select the panoramic video view with red bbox that matches the text-described direction. (The middle of the image is front. Angles range from -180\u00b0 to 180\u00b0, increasing counter-clockwise: 0\u00b0 = front, +90\u00b0 = left, \u221290\u00b0 = right, \u00b1180\u00b0 = back)",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 3,
+            "is_correct": false
+        },
+        "4": {
+            "question": "Select the panoramic video view with red bbox that matches the text-described direction. (The middle of the image is front. Angles range from -180\u00b0 to 180\u00b0, increasing counter-clockwise: 0\u00b0 = front, +90\u00b0 = left, \u221290\u00b0 = right, \u00b1180\u00b0 = back)",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 4,
+            "is_correct": true
+        },
+        "5": {
+            "question": "Select the panoramic video view with red bbox that matches the text-described direction. (The middle of the image is front. Angles range from -180\u00b0 to 180\u00b0, increasing counter-clockwise: 0\u00b0 = front, +90\u00b0 = left, \u221290\u00b0 = right, \u00b1180\u00b0 = back)",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 5,
+            "is_correct": false
+        },
+        "6": {
+            "question": "Select the panoramic video view with red bbox that matches the text-described direction. (The middle of the image is front. Angles range from -180\u00b0 to 180\u00b0, increasing counter-clockwise: 0\u00b0 = front, +90\u00b0 = left, \u221290\u00b0 = right, \u00b1180\u00b0 = back)",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 6,
+            "is_correct": false
+        },
+        "7": {
+            "question": "Select the panoramic video view with red bbox that matches the text-described direction. (The middle of the image is front. Angles range from -180\u00b0 to 180\u00b0, increasing counter-clockwise: 0\u00b0 = front, +90\u00b0 = left, \u221290\u00b0 = right, \u00b1180\u00b0 = back)",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 7,
+            "is_correct": false
+        },
+        "8": {
+            "question": "Select the panoramic video view with red bbox that matches the text-described direction. (The middle of the image is front. Angles range from -180\u00b0 to 180\u00b0, increasing counter-clockwise: 0\u00b0 = front, +90\u00b0 = left, \u221290\u00b0 = right, \u00b1180\u00b0 = back)",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 8,
+            "is_correct": false
+        },
+        "9": {
+            "question": "Select the panoramic video view with red bbox that matches the text-described direction. (The middle of the image is front. Angles range from -180\u00b0 to 180\u00b0, increasing counter-clockwise: 0\u00b0 = front, +90\u00b0 = left, \u221290\u00b0 = right, \u00b1180\u00b0 = back)",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nSelect the panoramic video view with red bbox that matches the text-described direction. (The middle of the image is front. Angles range from -180\u00b0 to 180\u00b0, increasing counter-clockwise: 0\u00b0 = front, +90\u00b0 = left, \u221290\u00b0 = right, \u00b1180\u00b0 = back)Text:A male speech sound is toward the front-right (-88\u00b0). A:B:C:D:Give the letter of the correct answer (A, B, C, or D).\nassistant\nHmm, let's see. The male speech sound is toward the front-right, which is -88\u00b0. So, the correct answer is A. What do you think?",
+            "correct_answer": "A",
+            "index": 9,
+            "is_correct": false
+        }
+    }
+}

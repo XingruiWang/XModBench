@@ -1,0 +1,687 @@
+{
+    "task_name": "perception/finegrained_vision_text",
+    "score": 73.19587628865979,
+    "correct_count": 71,
+    "all_count": 97,
+    "results": {
+        "0": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 0,
+            "is_correct": true
+        },
+        "1": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 1,
+            "is_correct": true
+        },
+        "2": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 2,
+            "is_correct": true
+        },
+        "3": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 3,
+            "is_correct": false
+        },
+        "4": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 4,
+            "is_correct": true
+        },
+        "5": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 5,
+            "is_correct": true
+        },
+        "6": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 6,
+            "is_correct": true
+        },
+        "7": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 7,
+            "is_correct": true
+        },
+        "8": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 8,
+            "is_correct": false
+        },
+        "9": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 9,
+            "is_correct": true
+        },
+        "10": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 10,
+            "is_correct": false
+        },
+        "11": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 11,
+            "is_correct": false
+        },
+        "12": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 12,
+            "is_correct": true
+        },
+        "13": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 13,
+            "is_correct": false
+        },
+        "14": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 14,
+            "is_correct": true
+        },
+        "15": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 15,
+            "is_correct": true
+        },
+        "16": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 16,
+            "is_correct": true
+        },
+        "17": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 17,
+            "is_correct": true
+        },
+        "18": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 18,
+            "is_correct": false
+        },
+        "19": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 19,
+            "is_correct": true
+        },
+        "20": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 20,
+            "is_correct": false
+        },
+        "21": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 21,
+            "is_correct": false
+        },
+        "22": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 22,
+            "is_correct": true
+        },
+        "23": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 23,
+            "is_correct": false
+        },
+        "24": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 24,
+            "is_correct": true
+        },
+        "25": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 25,
+            "is_correct": true
+        },
+        "26": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 26,
+            "is_correct": true
+        },
+        "27": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 27,
+            "is_correct": true
+        },
+        "28": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 28,
+            "is_correct": true
+        },
+        "29": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 29,
+            "is_correct": true
+        },
+        "30": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 30,
+            "is_correct": true
+        },
+        "31": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 31,
+            "is_correct": true
+        },
+        "32": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 32,
+            "is_correct": true
+        },
+        "33": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 33,
+            "is_correct": true
+        },
+        "34": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 34,
+            "is_correct": true
+        },
+        "35": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 35,
+            "is_correct": false
+        },
+        "36": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 36,
+            "is_correct": true
+        },
+        "37": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 37,
+            "is_correct": true
+        },
+        "38": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 38,
+            "is_correct": true
+        },
+        "39": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 39,
+            "is_correct": true
+        },
+        "40": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 40,
+            "is_correct": true
+        },
+        "41": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 41,
+            "is_correct": true
+        },
+        "42": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 42,
+            "is_correct": true
+        },
+        "43": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 43,
+            "is_correct": true
+        },
+        "44": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 44,
+            "is_correct": false
+        },
+        "45": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 45,
+            "is_correct": true
+        },
+        "46": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 46,
+            "is_correct": false
+        },
+        "47": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 47,
+            "is_correct": true
+        },
+        "48": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 48,
+            "is_correct": true
+        },
+        "49": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 49,
+            "is_correct": false
+        },
+        "50": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 50,
+            "is_correct": true
+        },
+        "51": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 51,
+            "is_correct": true
+        },
+        "52": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 52,
+            "is_correct": true
+        },
+        "53": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 53,
+            "is_correct": true
+        },
+        "54": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 54,
+            "is_correct": false
+        },
+        "55": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 55,
+            "is_correct": true
+        },
+        "56": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 56,
+            "is_correct": true
+        },
+        "57": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 57,
+            "is_correct": true
+        },
+        "58": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 58,
+            "is_correct": true
+        },
+        "59": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 59,
+            "is_correct": true
+        },
+        "60": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 60,
+            "is_correct": true
+        },
+        "61": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 61,
+            "is_correct": false
+        },
+        "62": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 62,
+            "is_correct": false
+        },
+        "63": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 63,
+            "is_correct": false
+        },
+        "64": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 64,
+            "is_correct": true
+        },
+        "65": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 65,
+            "is_correct": true
+        },
+        "66": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 66,
+            "is_correct": true
+        },
+        "67": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 67,
+            "is_correct": true
+        },
+        "68": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 68,
+            "is_correct": false
+        },
+        "69": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 69,
+            "is_correct": true
+        },
+        "70": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 70,
+            "is_correct": true
+        },
+        "71": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 71,
+            "is_correct": true
+        },
+        "72": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 72,
+            "is_correct": false
+        },
+        "73": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 73,
+            "is_correct": false
+        },
+        "74": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 74,
+            "is_correct": false
+        },
+        "75": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 75,
+            "is_correct": true
+        },
+        "76": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 76,
+            "is_correct": true
+        },
+        "77": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 77,
+            "is_correct": true
+        },
+        "78": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 78,
+            "is_correct": true
+        },
+        "79": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 79,
+            "is_correct": true
+        },
+        "80": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 80,
+            "is_correct": true
+        },
+        "81": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 81,
+            "is_correct": true
+        },
+        "82": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 82,
+            "is_correct": false
+        },
+        "83": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 83,
+            "is_correct": false
+        },
+        "84": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 84,
+            "is_correct": true
+        },
+        "85": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 85,
+            "is_correct": true
+        },
+        "86": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 86,
+            "is_correct": false
+        },
+        "87": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 87,
+            "is_correct": true
+        },
+        "88": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 88,
+            "is_correct": true
+        },
+        "89": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 89,
+            "is_correct": true
+        },
+        "90": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 90,
+            "is_correct": true
+        },
+        "91": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 91,
+            "is_correct": false
+        },
+        "92": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 92,
+            "is_correct": true
+        },
+        "93": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 93,
+            "is_correct": true
+        },
+        "94": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 94,
+            "is_correct": false
+        },
+        "95": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 95,
+            "is_correct": true
+        },
+        "96": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 96,
+            "is_correct": true
+        }
+    }
+}

@@ -1,0 +1,91 @@
+{
+  "session_id": "21d42d7f",
+  "timestamp": "20250828_000655",
+  "task": "01_perception",
+  "subtask": "Finegrained",
+  "total_questions": 6,
+  "user_answers": [
+    "B",
+    "C",
+    "D",
+    "D",
+    "D",
+    ""
+  ],
+  "correct_answers": [
+    "B",
+    "C",
+    "D",
+    "D",
+    "D",
+    "A"
+  ],
+  "questions_per_type": 1,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "Based on this description: 'missile launch', which image best matches what is described? Answer with A, B, C, or D",
+      "user_answer": "B",
+      "correct_answer": "B",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/general_activities/general_activities_questions_text_vision.json",
+      "question_id": "general_activities_questions_text_vision_1251",
+      "question_type": "general_activities_questions_text_vision"
+    },
+    {
+      "question_number": 2,
+      "question_text": "Which image most likely belongs to the object that makes this sound you hear? Answer with A, B, C, or D",
+      "user_answer": "C",
+      "correct_answer": "C",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/general_activities/general_activities_questions_audio_vision.json",
+      "question_id": "general_activities_questions_audio_vision_677",
+      "question_type": "general_activities_questions_audio_vision"
+    },
+    {
+      "question_number": 3,
+      "question_text": "Listen to this audio clip. Which text description best matches the sound you hear? Answer with A, B, C, or D",
+      "user_answer": "D",
+      "correct_answer": "D",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/general_activities/general_activities_questions_audio_text.json",
+      "question_id": "general_activities_questions_audio_text_1158",
+      "question_type": "general_activities_questions_audio_text"
+    },
+    {
+      "question_number": 4,
+      "question_text": "Based on this description: 'people shuffling', which audio clip best matches what is described? Answer with A, B, C, or D",
+      "user_answer": "D",
+      "correct_answer": "D",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/general_activities/general_activities_questions_text_audio.json",
+      "question_id": "general_activities_questions_text_audio_1861",
+      "question_type": "general_activities_questions_text_audio"
+    },
+    {
+      "question_number": 5,
+      "question_text": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+      "user_answer": "D",
+      "correct_answer": "D",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/general_activities/general_activities_questions_vision_text.json",
+      "question_id": "general_activities_questions_vision_text_69",
+      "question_type": "general_activities_questions_vision_text"
+    },
+    {
+      "question_number": 6,
+      "question_text": "Look at this image. Which audio clip is most likely produced by what you see? Answer with A, B, C, or D",
+      "user_answer": "",
+      "correct_answer": "A",
+      "is_correct": false,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/general_activities/general_activities_questions_vision_audio.json",
+      "question_id": "general_activities_questions_vision_audio_185",
+      "question_type": "general_activities_questions_vision_audio"
+    }
+  ],
+  "score": {
+    "correct": 5,
+    "total": 6,
+    "percentage": 83.33333333333334
+  }
+}

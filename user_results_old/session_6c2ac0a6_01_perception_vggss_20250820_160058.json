@@ -1,0 +1,40 @@
+{
+  "session_id": "6c2ac0a6",
+  "timestamp": "20250820_160058",
+  "task": "01_perception",
+  "subtask": "vggss",
+  "total_questions": 2,
+  "user_answers": [
+    "A",
+    "B"
+  ],
+  "correct_answers": [
+    "C",
+    "A"
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "Which image is most likely to belongs to this phrase? Answer the question with A, B, C, or D",
+      "user_answer": "A",
+      "correct_answer": "C",
+      "is_correct": false,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/vggss/vggss_audio_bench_questions_text_vision.json",
+      "question_id": 589
+    },
+    {
+      "question_number": 2,
+      "question_text": "Which phrase is most likely to describe the object in this image? Answer the question with A, B, C, or D",
+      "user_answer": "B",
+      "correct_answer": "A",
+      "is_correct": false,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/vggss/vggss_audio_bench_questions_vision_text.json",
+      "question_id": 961
+    }
+  ],
+  "score": {
+    "correct": 0,
+    "total": 2,
+    "percentage": 0.0
+  }
+}

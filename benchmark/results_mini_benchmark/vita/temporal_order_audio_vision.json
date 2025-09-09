@@ -1,0 +1,687 @@
+{
+    "task_name": "temporal/order_audio_vision",
+    "score": 16.49484536082474,
+    "correct_count": 16,
+    "all_count": 97,
+    "results": {
+        "0": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 0,
+            "is_correct": false
+        },
+        "1": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 1,
+            "is_correct": false
+        },
+        "2": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 2,
+            "is_correct": false
+        },
+        "3": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 3,
+            "is_correct": false
+        },
+        "4": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 4,
+            "is_correct": false
+        },
+        "5": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 5,
+            "is_correct": false
+        },
+        "6": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 6,
+            "is_correct": false
+        },
+        "7": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 7,
+            "is_correct": false
+        },
+        "8": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 8,
+            "is_correct": true
+        },
+        "9": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 9,
+            "is_correct": false
+        },
+        "10": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 10,
+            "is_correct": false
+        },
+        "11": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 11,
+            "is_correct": false
+        },
+        "12": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 12,
+            "is_correct": false
+        },
+        "13": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 13,
+            "is_correct": false
+        },
+        "14": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 14,
+            "is_correct": false
+        },
+        "15": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 15,
+            "is_correct": false
+        },
+        "16": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 16,
+            "is_correct": false
+        },
+        "17": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 17,
+            "is_correct": false
+        },
+        "18": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 18,
+            "is_correct": false
+        },
+        "19": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 19,
+            "is_correct": false
+        },
+        "20": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 20,
+            "is_correct": false
+        },
+        "21": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 21,
+            "is_correct": true
+        },
+        "22": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 22,
+            "is_correct": false
+        },
+        "23": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 23,
+            "is_correct": false
+        },
+        "24": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 24,
+            "is_correct": false
+        },
+        "25": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 25,
+            "is_correct": false
+        },
+        "26": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 26,
+            "is_correct": false
+        },
+        "27": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 27,
+            "is_correct": false
+        },
+        "28": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 28,
+            "is_correct": false
+        },
+        "29": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 29,
+            "is_correct": true
+        },
+        "30": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 30,
+            "is_correct": false
+        },
+        "31": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 31,
+            "is_correct": false
+        },
+        "32": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 32,
+            "is_correct": true
+        },
+        "33": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 33,
+            "is_correct": false
+        },
+        "34": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 34,
+            "is_correct": false
+        },
+        "35": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 35,
+            "is_correct": true
+        },
+        "36": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 36,
+            "is_correct": false
+        },
+        "37": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 37,
+            "is_correct": true
+        },
+        "38": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 38,
+            "is_correct": false
+        },
+        "39": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 39,
+            "is_correct": false
+        },
+        "40": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 40,
+            "is_correct": false
+        },
+        "41": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 41,
+            "is_correct": false
+        },
+        "42": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 42,
+            "is_correct": false
+        },
+        "43": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 43,
+            "is_correct": false
+        },
+        "44": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 44,
+            "is_correct": false
+        },
+        "45": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 45,
+            "is_correct": false
+        },
+        "46": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 46,
+            "is_correct": false
+        },
+        "47": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 47,
+            "is_correct": false
+        },
+        "48": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 48,
+            "is_correct": false
+        },
+        "49": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 49,
+            "is_correct": false
+        },
+        "50": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 50,
+            "is_correct": false
+        },
+        "51": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 51,
+            "is_correct": false
+        },
+        "52": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 52,
+            "is_correct": true
+        },
+        "53": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 53,
+            "is_correct": false
+        },
+        "54": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 54,
+            "is_correct": false
+        },
+        "55": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 55,
+            "is_correct": true
+        },
+        "56": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 56,
+            "is_correct": false
+        },
+        "57": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 57,
+            "is_correct": false
+        },
+        "58": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 58,
+            "is_correct": false
+        },
+        "59": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 59,
+            "is_correct": false
+        },
+        "60": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 60,
+            "is_correct": false
+        },
+        "61": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 61,
+            "is_correct": false
+        },
+        "62": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 62,
+            "is_correct": false
+        },
+        "63": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 63,
+            "is_correct": false
+        },
+        "64": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 64,
+            "is_correct": false
+        },
+        "65": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 65,
+            "is_correct": false
+        },
+        "66": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 66,
+            "is_correct": false
+        },
+        "67": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 67,
+            "is_correct": false
+        },
+        "68": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 68,
+            "is_correct": true
+        },
+        "69": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 69,
+            "is_correct": false
+        },
+        "70": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 70,
+            "is_correct": false
+        },
+        "71": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 71,
+            "is_correct": false
+        },
+        "72": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 72,
+            "is_correct": false
+        },
+        "73": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 73,
+            "is_correct": false
+        },
+        "74": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 74,
+            "is_correct": false
+        },
+        "75": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 75,
+            "is_correct": false
+        },
+        "76": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 76,
+            "is_correct": false
+        },
+        "77": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 77,
+            "is_correct": false
+        },
+        "78": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 78,
+            "is_correct": true
+        },
+        "79": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 79,
+            "is_correct": false
+        },
+        "80": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 80,
+            "is_correct": false
+        },
+        "81": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 81,
+            "is_correct": true
+        },
+        "82": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 82,
+            "is_correct": true
+        },
+        "83": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 83,
+            "is_correct": false
+        },
+        "84": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 84,
+            "is_correct": false
+        },
+        "85": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 85,
+            "is_correct": false
+        },
+        "86": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 86,
+            "is_correct": false
+        },
+        "87": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 87,
+            "is_correct": true
+        },
+        "88": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 88,
+            "is_correct": false
+        },
+        "89": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 89,
+            "is_correct": false
+        },
+        "90": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 90,
+            "is_correct": false
+        },
+        "91": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 91,
+            "is_correct": false
+        },
+        "92": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 92,
+            "is_correct": false
+        },
+        "93": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 93,
+            "is_correct": true
+        },
+        "94": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 94,
+            "is_correct": true
+        },
+        "95": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 95,
+            "is_correct": false
+        },
+        "96": {
+            "question": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 96,
+            "is_correct": true
+        }
+    }
+}

@@ -2,7 +2,7 @@ import os
 import re
 import random
 import json
-
+import numpy as np
 
 # ==================== 1. Main function: Load model and answer one question ====================
 
@@ -12,10 +12,10 @@ def load_description(class_name, direction):
     
     # More descriptive vehicle movement descriptions
     direction_mapping = {
-        "from left to right": "moving horizontally from left to right across the scene",
-        "from right to left": "moving horizontally from right to left across the scene", 
-        "from close to far": "moving away from the camera/observer into the distance",
-        "from far to close": "approaching toward the camera/observer from the distance",
+        "left_to_right": "moving horizontally from left to right across the scene",
+        "right_to_left": "moving horizontally from right to left across the scene", 
+        "close_to_far": "moving away from the camera/observer into the distance",
+        "far_to_close": "approaching toward the camera/observer from the distance",
         "empty": "no movement detected"
     }
     
@@ -300,39 +300,50 @@ def generate_question_text_audio(all_choices, correct_answer, object_name='objec
 def generate_better_distractors(sample, all_metadata_dict, all_class_names):
     """Generate more strategic distractors for better evaluation"""
     class_name = sample.get('label', 'empty')
+    
+    if class_name == "empty":
+        raise ValueError("Empty class name")
     direction = sample['direction']
     
     distractors = []
     
     # Distractor 1: Same vehicle type, opposite direction
-    if direction in ["from left to right", "from right to left"]:
-        opposite_direction = "from right to left" if direction == "from left to right" else "from left to right"
-    elif direction in ["from close to far", "from far to close"]:
-        opposite_direction = "from far to close" if direction == "from close to far" else "from close to far"
+    if direction in ["left_to_right", "right_to_left"]:
+        opposite_direction = "right_to_left" if direction == "left_to_right" else "left_to_right"
+    elif direction in ["close_to_far", "far_to_close"]:
+        opposite_direction = "far_to_close" if direction == "close_to_far" else "close_to_far"
     else:
         opposite_direction = "empty"
+        import ipdb; ipdb.set_trace()
     
     try:
         if class_name != "empty" and opposite_direction in all_metadata_dict[class_name]:
             distractor_1 = random.choice(all_metadata_dict[class_name][opposite_direction])
         else:
-            distractor_1 = random.choice(all_metadata_dict['empty'])
+            distractor_1 = random.choice(all_metadata_dict['car'][opposite_direction])
     except (KeyError, IndexError):
         distractor_1 = random.choice(all_metadata_dict['empty'])
     
     # Distractor 2: Different vehicle type, same direction
     try:
-        other_classes = list(all_class_names - {class_name})
-        if other_classes and class_name != "empty":
-            other_class = random.choice(other_classes)
-            if direction in all_metadata_dict[other_class]:
-                distractor_2 = random.choice(all_metadata_dict[other_class][direction])
-            else:
-                distractor_2 = random.choice(all_metadata_dict['empty'])
+        other_classes = list(all_class_names - {class_name, "empty"})
+        other_class = random.choice(other_classes)
+        # import ipdb; ipdb.set_trace()
+        if direction in all_metadata_dict[other_class] and len(all_metadata_dict[other_class][direction]) > 0:
+            distractor_2 = random.choice(all_metadata_dict[other_class][direction])
         else:
-            distractor_2 = random.choice(all_metadata_dict['empty'])
+            distractor_2 = None
+            for other_class in other_classes:
+                if direction in all_metadata_dict[other_class] and len(all_metadata_dict[other_class][direction]) > 0:
+                    distractor_2 = random.choice(all_metadata_dict[other_class][direction])
+                    break
+            
+            if distractor_2 is None:
+                import ipdb; ipdb.set_trace()
+                raise ValueError(f"No distractor found for {class_name}, {direction}, {other_classes}, {other_class}")
+
     except (KeyError, IndexError):
-        distractor_2 = random.choice(all_metadata_dict['empty'])
+        raise ValueError(f"KeyError or IndexError: {class_name}, {direction}, {other_classes}, {other_class}")
     
     # Distractor 3: Empty scene or random other scenario
     distractor_3 = random.choice(all_metadata_dict['empty'])
@@ -424,7 +435,7 @@ if __name__ == "__main__":
                 continue
             direction_x = float(direction_x)
             direction_y = float(direction_y)
-            if direction_x > 100:
+            if direction_x > 300:
                 all_metadata_dict[class_name]["left_to_right"].append({
                         "clip_id": clip_id,
                         "label": label,
@@ -434,9 +445,9 @@ if __name__ == "__main__":
                         "direction_y": direction_y,
                         "audio_path": audio_clip,
                         "image_path": image_path,
-                        "direction": "from left to right"
+                        "direction": "left_to_right"
                     })
-            elif direction_x < -100:
+            elif direction_x < -300:
                 all_metadata_dict[class_name]["right_to_left"].append({
                         "clip_id": clip_id,
                         "label": label,
@@ -446,9 +457,9 @@ if __name__ == "__main__":
                         "direction_y": direction_y,
                         "audio_path": audio_clip,
                         "image_path": image_path,
-                        "direction": "from right to left"
+                        "direction": "right_to_left"
                     })
-            if direction_y > 100:
+            if direction_y > 200 and np.abs(direction_x) < 100:
                 all_metadata_dict[class_name]["close_to_far"].append({
                         "clip_id": clip_id,
                         "label": label,
@@ -458,9 +469,9 @@ if __name__ == "__main__":
                         "direction_y": direction_y,
                         "audio_path": audio_clip,
                         "image_path": image_path,
-                        "direction": "from close to far"
+                        "direction": "close_to_far"
                     })
-            elif direction_y < -100:
+            elif direction_y < -200 and np.abs(direction_x) < 100:
                 all_metadata_dict[class_name]["far_to_close"].append({
                         "clip_id": clip_id,
                         "label": label,
@@ -470,7 +481,7 @@ if __name__ == "__main__":
                         "direction_y": direction_y,
                         "audio_path": audio_clip,
                         "image_path": image_path,
-                        "direction": "from far to close"
+                        "direction": "far_to_close"
                     })
     
     all_class_names = set(all_metadata_dict.keys()) - {"empty", "offscene"}

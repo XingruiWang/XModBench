@@ -1,0 +1,51 @@
+{
+  "session_id": "32353af7",
+  "timestamp": "20250825_112809",
+  "task": "02_spatial",
+  "subtask": "3D_movements",
+  "total_questions": 3,
+  "user_answers": [
+    "A",
+    "A",
+    "D"
+  ],
+  "correct_answers": [
+    "C",
+    "A",
+    "C"
+  ],
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "Listen carefully to the spatial audio from an urban scene. Consider the vehicle type (if any), its movement direction, and distance. Which text description best matches what you hear? Choose A, B, C, or D.",
+      "user_answer": "A",
+      "correct_answer": "C",
+      "is_correct": false,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/02_spatial/3D_movements/urbansas_audio_bench_questions_audio_text.json",
+      "question_id": 413
+    },
+    {
+      "question_number": 2,
+      "question_text": "Based on the spatial audio clip, try to imagine what the urban scene looks like, consider which direction the sound is coming from and how close the vehicle gets. Then select the video that best matches the expected position and type of vehicle. Choose A, B, C, or D.",
+      "user_answer": "A",
+      "correct_answer": "A",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/02_spatial/3D_movements/urbansas_audio_bench_questions_audio_vision.json",
+      "question_id": 349
+    },
+    {
+      "question_number": 3,
+      "question_text": "Listen carefully to the spatial audio from an urban scene. Consider the vehicle type (if any), its movement direction, and distance. Which text description best matches what you hear? Choose A, B, C, or D.",
+      "user_answer": "D",
+      "correct_answer": "C",
+      "is_correct": false,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/02_spatial/3D_movements/urbansas_audio_bench_questions_audio_text.json",
+      "question_id": 370
+    }
+  ],
+  "score": {
+    "correct": 1,
+    "total": 3,
+    "percentage": 33.33333333333333
+  }
+}

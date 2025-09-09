@@ -1,0 +1,235 @@
+{
+  "session_id": "77ea54c8",
+  "timestamp": "20250829_151420",
+  "task": "02_spatial",
+  "subtask": null,
+  "total_questions": 18,
+  "user_answers": [
+    "A",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    "",
+    ""
+  ],
+  "correct_answers": [
+    "B",
+    "B",
+    "A",
+    "D",
+    "A",
+    "C",
+    "B",
+    "A",
+    "C",
+    "B",
+    "C",
+    "C",
+    "B",
+    "A",
+    "A",
+    "C",
+    "B",
+    "A"
+  ],
+  "questions_per_type": 3,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "Which image most likely belongs to the object that makes this sound you hear? Answer with A, B, C, or D",
+      "user_answer": "A",
+      "correct_answer": "B",
+      "is_correct": false,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/Finegrained/vggss_questions_audio_vision.json",
+      "question_id": "vggss_questions_audio_vision_2560",
+      "question_type": "vggss_questions_audio_vision"
+    },
+    {
+      "question_number": 2,
+      "question_text": "Based on this description: 'beat boxing', which audio clip best matches what is described? Answer with A, B, C, or D",
+      "user_answer": "",
+      "correct_answer": "B",
+      "is_correct": false,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/Finegrained/vggss_questions_text_audio.json",
+      "question_id": "vggss_questions_text_audio_598",
+      "question_type": "vggss_questions_text_audio"
+    },
+    {
+      "question_number": 3,
+      "question_text": "Based on this description: 'train whistling', which image best matches what is described? Answer with A, B, C, or D",
+      "user_answer": "",
+      "correct_answer": "A",
+      "is_correct": false,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/Finegrained/vggss_questions_text_vision.json",
+      "question_id": "vggss_questions_text_vision_2082",
+      "question_type": "vggss_questions_text_vision"
+    },
+    {
+      "question_number": 4,
+      "question_text": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+      "user_answer": "",
+      "correct_answer": "D",
+      "is_correct": false,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/Finegrained/vggss_questions_vision_text.json",
+      "question_id": "vggss_questions_vision_text_2973",
+      "question_type": "vggss_questions_vision_text"
+    },
+    {
+      "question_number": 5,
+      "question_text": "Look at this image. Which audio clip is most likely produced by what you see? Answer with A, B, C, or D",
+      "user_answer": "",
+      "correct_answer": "A",
+      "is_correct": false,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/Finegrained/vggss_questions_vision_audio.json",
+      "question_id": "vggss_questions_vision_audio_274",
+      "question_type": "vggss_questions_vision_audio"
+    },
+    {
+      "question_number": 6,
+      "question_text": "Which image most likely belongs to the object that makes this sound you hear? Answer with A, B, C, or D",
+      "user_answer": "",
+      "correct_answer": "C",
+      "is_correct": false,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/Finegrained/vggss_questions_audio_vision.json",
+      "question_id": "vggss_questions_audio_vision_3821",
+      "question_type": "vggss_questions_audio_vision"
+    },
+    {
+      "question_number": 7,
+      "question_text": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+      "user_answer": "",
+      "correct_answer": "B",
+      "is_correct": false,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/Finegrained/vggss_questions_vision_text.json",
+      "question_id": "vggss_questions_vision_text_2063",
+      "question_type": "vggss_questions_vision_text"
+    },
+    {
+      "question_number": 8,
+      "question_text": "Based on this description: 'ice cream truck, ice cream van', which audio clip best matches what is described? Answer with A, B, C, or D",
+      "user_answer": "",
+      "correct_answer": "A",
+      "is_correct": false,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/Finegrained/vggss_questions_text_audio.json",
+      "question_id": "vggss_questions_text_audio_1617",
+      "question_type": "vggss_questions_text_audio"
+    },
+    {
+      "question_number": 9,
+      "question_text": "Based on this description: 'female speech, woman speaking', which image best matches what is described? Answer with A, B, C, or D",
+      "user_answer": "",
+      "correct_answer": "C",
+      "is_correct": false,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/Finegrained/vggss_questions_text_vision.json",
+      "question_id": "vggss_questions_text_vision_3716",
+      "question_type": "vggss_questions_text_vision"
+    },
+    {
+      "question_number": 10,
+      "question_text": "Listen to this audio clip. Which text description best matches the sound you hear? Answer with A, B, C, or D",
+      "user_answer": "",
+      "correct_answer": "B",
+      "is_correct": false,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/Finegrained/vggss_questions_audio_text.json",
+      "question_id": "vggss_questions_audio_text_1683",
+      "question_type": "vggss_questions_audio_text"
+    },
+    {
+      "question_number": 11,
+      "question_text": "Based on this description: 'forging swords', which audio clip best matches what is described? Answer with A, B, C, or D",
+      "user_answer": "",
+      "correct_answer": "C",
+      "is_correct": false,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/Finegrained/vggss_questions_text_audio.json",
+      "question_id": "vggss_questions_text_audio_2639",
+      "question_type": "vggss_questions_text_audio"
+    },
+    {
+      "question_number": 12,
+      "question_text": "Look at this image. Which audio clip is most likely produced by what you see? Answer with A, B, C, or D",
+      "user_answer": "",
+      "correct_answer": "C",
+      "is_correct": false,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/Finegrained/vggss_questions_vision_audio.json",
+      "question_id": "vggss_questions_vision_audio_970",
+      "question_type": "vggss_questions_vision_audio"
+    },
+    {
+      "question_number": 13,
+      "question_text": "Which image most likely belongs to the object that makes this sound you hear? Answer with A, B, C, or D",
+      "user_answer": "",
+      "correct_answer": "B",
+      "is_correct": false,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/Finegrained/vggss_questions_audio_vision.json",
+      "question_id": "vggss_questions_audio_vision_1737",
+      "question_type": "vggss_questions_audio_vision"
+    },
+    {
+      "question_number": 14,
+      "question_text": "Based on this description: 'reversing beeps', which image best matches what is described? Answer with A, B, C, or D",
+      "user_answer": "",
+      "correct_answer": "A",
+      "is_correct": false,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/Finegrained/vggss_questions_text_vision.json",
+      "question_id": "vggss_questions_text_vision_1734",
+      "question_type": "vggss_questions_text_vision"
+    },
+    {
+      "question_number": 15,
+      "question_text": "Listen to this audio clip. Which text description best matches the sound you hear? Answer with A, B, C, or D",
+      "user_answer": "",
+      "correct_answer": "A",
+      "is_correct": false,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/Finegrained/vggss_questions_audio_text.json",
+      "question_id": "vggss_questions_audio_text_1809",
+      "question_type": "vggss_questions_audio_text"
+    },
+    {
+      "question_number": 16,
+      "question_text": "Look at this image. Which audio clip is most likely produced by what you see? Answer with A, B, C, or D",
+      "user_answer": "",
+      "correct_answer": "C",
+      "is_correct": false,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/Finegrained/vggss_questions_vision_audio.json",
+      "question_id": "vggss_questions_vision_audio_2674",
+      "question_type": "vggss_questions_vision_audio"
+    },
+    {
+      "question_number": 17,
+      "question_text": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+      "user_answer": "",
+      "correct_answer": "B",
+      "is_correct": false,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/Finegrained/vggss_questions_vision_text.json",
+      "question_id": "vggss_questions_vision_text_1252",
+      "question_type": "vggss_questions_vision_text"
+    },
+    {
+      "question_number": 18,
+      "question_text": "Listen to this audio clip. Which text description best matches the sound you hear? Answer with A, B, C, or D",
+      "user_answer": "",
+      "correct_answer": "A",
+      "is_correct": false,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/Finegrained/vggss_questions_audio_text.json",
+      "question_id": "vggss_questions_audio_text_1006",
+      "question_type": "vggss_questions_audio_text"
+    }
+  ],
+  "score": {
+    "correct": 0,
+    "total": 18,
+    "percentage": 0.0
+  }
+}

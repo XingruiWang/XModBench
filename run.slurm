@@ -6,423 +6,89 @@
 #SBATCH --gpus-per-node=4
 
 module load conda
+conda activate omni
 echo "Running on host: $(hostname)"
 echo "CUDA_VISIBLE_DEVICES=$CUDA_VISIBLE_DEVICES"
 
 export audioBench='/home/xwang378/scratch/2025/AudioBench'
-export MODEL_NAME='qwen2.5_omni'
 
-conda activate omni
-
-
-######################## Qwen2.5-Omni; VGGSS ########################
-
-for TASK in {perception,acr,ocr_translation,temporal,spatial,spatial_outdoor,count,count_reasoning}
-
-# python $audioBench/scripts/run.py \
-#         --model $MODEL_NAME \
-#         --task_name perception/vggss_audio_text \
-#         --sample 1000
-
-# python $audioBench/scripts/run.py \
-#         --model $MODEL_NAME \
-#         --task_name perception/vggss_vision_text \
-#         --sample 1000
-
-# CUDA_VISIBLE_DEVICES=1 python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name perception/general_text_vision \
-#     --sample 1000
-
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name perception/vggss_text_audio \
-#     --sample 1000
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name perception/vggss_vision_audio \
-#     --sample 1000
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name perception/vggss_audio_vision \
-#     --sample 1000
-
-######################## Qwen2.5-Omni; SOLOS ########################
-
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name perception/solos_vision_audio \
-#     --sample 1000
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name perception/solos_audio_vision \
-#     --sample 1000
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name perception/solos_vision_text \
-#     --sample 1000
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name perception/solos_audio_text \
-#     --sample 1000
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name perception/solos_text_vision \
-#     --sample 1000
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name perception/solos_text_audio \
-#     --sample 1000
-
-
-######################## Qwen2.5-Omni; URMP ########################
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name perception/urmp_vision_audio \
-#     --sample 200
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name perception/urmp_audio_vision \
-#     --sample 200
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name perception/urmp_audio_text \
-#     --sample 200
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name perception/urmp_text_audio \
-#     --sample 200
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name perception/urmp_text_vision \
-#     --sample 200
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name perception/urmp_vision_text \
-#     --sample 200
-
-########################## Landscapes ########################
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name perception/landscapes_audio_vision \
-#     --sample 500
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name perception/landscapes_vision_audio \
-#     --sample 500
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name perception/landscapes_audio_text \
-#     --sample 500
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name perception/landscapes_text_audio \
-#     --sample 500
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name perception/landscapes_text_vision \
-#     --sample 500
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name perception/landscapes_vision_text \
-#     --sample 500
-
-########################## ACR ########################
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name acr/acr_audio_vision \
-#     --sample 1000
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name acr/acr_vision_audio \
-#     --sample 1000
-
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name acr/acr_audio_text \
-#     --sample 1000
-
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name acr/acr_text_audio \
-#     --sample 1000
-
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name acr/acr_vision_text \
-#     --sample 1000
-
-
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name acr/acr_text_vision \
-#     --sample 1000
-
-########################## Spatial ########################
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name spatial/urmp_audio_vision \
-#     --sample 500
-
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name spatial/urmp_vision_audio \
-#     --sample 500
-
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name spatial/urmp_audio_text \
-#     --sample 500
-
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name spatial/urmp_text_audio \
-#     --sample 500
-
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name spatial/urmp_vision_text \
-#     --sample 500
-
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name spatial/urmp_text_vision \
-#     --sample 500
-
-########################## OCR Translation ########################
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name ocr_translation_Chinese/ocr_translation_audio_text \
-#     --sample 500
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name ocr_translation_Chinese/ocr_translation_text_audio \
-#     --sample 500
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name ocr_translation_Chinese/ocr_translation_text_vision \
-#     --sample 500
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name ocr_translation_Chinese/ocr_translation_vision_text \
-#     --sample 500
-
-########################## ACR Hard ########################
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name acr/acr_hard_audio_text \
-#     --sample -1
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name acr/acr_hard_vision_text \
-#     --sample -1
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name acr/acr_hard_text_audio \
-#     --sample -1
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name acr/acr_hard_vision_audio \
-#     --sample -1
-
-########################## OCR Translation Hard ########################
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name acr_translation_Chinese_hard/ocr_translation_text_audio \
-#     --sample -1
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name acr_translation_Chinese_hard/ocr_translation_vision_text \
-#     --sample -1
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name acr_translation_Chinese_hard/ocr_translation_vision_audio \
-#     --sample -1
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name acr_translation_Chinese_hard/ocr_translation_audio_text \
-#     --sample -1
-
-
-
-################ Temporal Order ################ 
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name temporal_order/vggss_order_audio_text \
-#     --sample 500
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name temporal_order/vggss_order_text_audio \
-#     --sample 500
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name temporal_order/vggss_order_vision_text \
-#     --sample 500
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name temporal_order/vggss_order_text_vision \
-#     --sample 500
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name temporal_order/vggss_order_vision_audio \
-#     --sample 500
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name temporal_order/vggss_order_audio_vision \
-#     --sample 49
-
-# ############### Spatial Outdoor ################
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name spatial_outdoor/urbansas_audio_vision \
-#     --sample 98
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name spatial_outdoor/urbansas_vision_audio \
-#     --sample 98
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name spatial_outdoor/urbansas_audio_text \
-#     --sample 98
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name spatial_outdoor/urbansas_text_audio \
-#     --sample 98
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name spatial_outdoor/urbansas_vision_text \
-#     --sample 98
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name spatial_outdoor/urbansas_text_vision \
-#     --sample 98
-
-
-########################## Count ########################
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name temporal_count/countixav_audio_text \
-#     --sample 47
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name temporal_count/countixav_text_audio \
-#     --sample 47
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name temporal_count/countixav_vision_text \
-#     --sample 47
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name temporal_count/countixav_text_vision \
-#     --sample 47
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name temporal_count/countixav_audio_vision \
-#     --sample 47
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name temporal_count/countixav_vision_audio \
-#     --sample 47
-
-########################### Count Reasoning ########################
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name temporal_count_reasoning/countixav_vision_audio \
-#     --sample 47
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name temporal_count_reasoning/countixav_audio_vision \
-#     --sample 47
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name temporal_count_reasoning/countixav_vision_text \
-#     --sample 47
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name temporal_count_reasoning/countixav_text_vision \
-#     --sample 47
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name temporal_count_reasoning/countixav_text_audio \
-#     --sample 47
-
-# python $audioBench/scripts/run.py \
-#     --model $MODEL_NAME \
-#     --task_name temporal_count_reasoning/countixav_audio_text \
-#     --sample 47
-
-
-
-
-
-
-CUDA_VISIBLE_DEVICES=1 python scripts/run.py \
-    --model qwen2.5_omni \
-    --task_name external/emotion_classification_audio_vision \
-    --sample 1000
+# Configuration
+MODEL="qwen2.5_omni"
+#MODEL="vita"
+# MODEL="echoink"
+MINI_BENCHMARK="false"
+
+# Function to run evaluation
+run_evaluation() {
+    local model=$1
+    local task=$2
+    local subtask=$3
+    local modality=$4
+    
+    local task_name="${task}/${subtask}_${modality}"
+    
+    echo "Running: Model=${model}, Task=${task_name}"
+    
+    if [ "$MINI_BENCHMARK" = "true" ]; then
+        CUDA_VISIBLE_DEVICES=0,1,2,3 python $audioBench/scripts/run.py \
+            --model $model \
+            --task_name $task_name \
+            --sample 97 \
+            --mini_benchmark
+    else
+        CUDA_VISIBLE_DEVICES=0,1,2,3 python $audioBench/scripts/run.py \
+            --model $model \
+            --task_name $task_name \
+            --sample 1000
+    fi
+}
+
+# Main execution - uncomment the tasks you want to run
+TASKS_TO_RUN=(
+    # Perception tasks
+    "perception/general"
+    # "perception/finegrained"
+    # "perception/instruments"
+    # "perception/instruments_comp"
+    # "perception/natures"
+    
+    # # Spatial tasks
+    # "spatial/arrangements"
+    # "spatial/3D_movements"
+    # "spatial/panaroma"
+    
+    # # Speech tasks
+    # "speech/recognition"
+    # "speech/translation"
+    
+    # # Temporal tasks
+    # "temporal/count"
+    # "temporal/calculation"
+    # "temporal/order"
+    
+    # External tasks
+    # "external/music_genre_classification"
+    # "external/emotion_classification"
+    # "external/movie_matching"
+    # "external/singer_identification"
+)
+
+# Run evaluations
+for task_key in "${TASKS_TO_RUN[@]}"; do
+    task=$(echo $task_key | cut -d'/' -f1)
+    subtask=$(echo $task_key | cut -d'/' -f2)
+    modalities="audio_vision vision_audio vision_text text_vision text_audio audio_text"
+    
+    echo "Processing task: $task_key"
+    echo "Modalities: $modalities"
+    echo "----------------------------------------"
+    
+    for modality in $modalities; do
+        run_evaluation $MODEL $task $subtask $modality 
+    done
+    
+    echo "Completed task: $task_key"
+    echo "========================================"
+done
+
+echo "All evaluations completed!"

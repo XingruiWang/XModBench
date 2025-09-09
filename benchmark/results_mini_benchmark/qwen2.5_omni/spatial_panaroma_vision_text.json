@@ -1,0 +1,78 @@
+{
+    "task_name": "spatial/panaroma_vision_text",
+    "score": 30.0,
+    "correct_count": 3,
+    "all_count": 10,
+    "results": {
+        "0": {
+            "question": "Watch the panoramic video with a red bounding box indicating the expected sound source. Which text best matches the indicated direction? (The middle of the image is front. Angles range from -180\u00b0 to 180\u00b0, increasing counter-clockwise: 0\u00b0 = front, +90\u00b0 = left, \u221290\u00b0 = right, \u00b1180\u00b0 = back)",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 0,
+            "is_correct": false
+        },
+        "1": {
+            "question": "Watch the panoramic video with a red bounding box indicating the expected sound source. Which text best matches the indicated direction? (The middle of the image is front. Angles range from -180\u00b0 to 180\u00b0, increasing counter-clockwise: 0\u00b0 = front, +90\u00b0 = left, \u221290\u00b0 = right, \u00b1180\u00b0 = back)",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 1,
+            "is_correct": false
+        },
+        "2": {
+            "question": "Watch the panoramic video with a red bounding box indicating the expected sound source. Which text best matches the indicated direction? (The middle of the image is front. Angles range from -180\u00b0 to 180\u00b0, increasing counter-clockwise: 0\u00b0 = front, +90\u00b0 = left, \u221290\u00b0 = right, \u00b1180\u00b0 = back)",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 2,
+            "is_correct": true
+        },
+        "3": {
+            "question": "Watch the panoramic video with a red bounding box indicating the expected sound source. Which text best matches the indicated direction? (The middle of the image is front. Angles range from -180\u00b0 to 180\u00b0, increasing counter-clockwise: 0\u00b0 = front, +90\u00b0 = left, \u221290\u00b0 = right, \u00b1180\u00b0 = back)",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 3,
+            "is_correct": false
+        },
+        "4": {
+            "question": "Watch the panoramic video with a red bounding box indicating the expected sound source. Which text best matches the indicated direction? (The middle of the image is front. Angles range from -180\u00b0 to 180\u00b0, increasing counter-clockwise: 0\u00b0 = front, +90\u00b0 = left, \u221290\u00b0 = right, \u00b1180\u00b0 = back)",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 4,
+            "is_correct": false
+        },
+        "5": {
+            "question": "Watch the panoramic video with a red bounding box indicating the expected sound source. Which text best matches the indicated direction? (The middle of the image is front. Angles range from -180\u00b0 to 180\u00b0, increasing counter-clockwise: 0\u00b0 = front, +90\u00b0 = left, \u221290\u00b0 = right, \u00b1180\u00b0 = back)",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 5,
+            "is_correct": true
+        },
+        "6": {
+            "question": "Watch the panoramic video with a red bounding box indicating the expected sound source. Which text best matches the indicated direction? (The middle of the image is front. Angles range from -180\u00b0 to 180\u00b0, increasing counter-clockwise: 0\u00b0 = front, +90\u00b0 = left, \u221290\u00b0 = right, \u00b1180\u00b0 = back)",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 6,
+            "is_correct": false
+        },
+        "7": {
+            "question": "Watch the panoramic video with a red bounding box indicating the expected sound source. Which text best matches the indicated direction? (The middle of the image is front. Angles range from -180\u00b0 to 180\u00b0, increasing counter-clockwise: 0\u00b0 = front, +90\u00b0 = left, \u221290\u00b0 = right, \u00b1180\u00b0 = back)",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 7,
+            "is_correct": false
+        },
+        "8": {
+            "question": "Watch the panoramic video with a red bounding box indicating the expected sound source. Which text best matches the indicated direction? (The middle of the image is front. Angles range from -180\u00b0 to 180\u00b0, increasing counter-clockwise: 0\u00b0 = front, +90\u00b0 = left, \u221290\u00b0 = right, \u00b1180\u00b0 = back)",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 8,
+            "is_correct": false
+        },
+        "9": {
+            "question": "Watch the panoramic video with a red bounding box indicating the expected sound source. Which text best matches the indicated direction? (The middle of the image is front. Angles range from -180\u00b0 to 180\u00b0, increasing counter-clockwise: 0\u00b0 = front, +90\u00b0 = left, \u221290\u00b0 = right, \u00b1180\u00b0 = back)",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 9,
+            "is_correct": true
+        }
+    }
+}
