@@ -1,0 +1,78 @@
+{
+    "task_name": "external/music_genre_classification_text_vision",
+    "score": 80.0,
+    "correct_count": 8,
+    "all_count": 10,
+    "results": {
+        "0": {
+            "question": "Based on the music genre 'pop', which album cover is most likely from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 0,
+            "is_correct": true
+        },
+        "1": {
+            "question": "Based on the music genre 'pop', which album cover is most likely from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 1,
+            "is_correct": true
+        },
+        "2": {
+            "question": "Based on the music genre 'pop', which album cover is most likely from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 2,
+            "is_correct": true
+        },
+        "3": {
+            "question": "Based on the music genre 'pop', which album cover is most likely from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 3,
+            "is_correct": true
+        },
+        "4": {
+            "question": "Based on the music genre 'pop', which album cover is most likely from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 4,
+            "is_correct": true
+        },
+        "5": {
+            "question": "Based on the music genre 'pop', which album cover is most likely from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 5,
+            "is_correct": true
+        },
+        "6": {
+            "question": "Based on the music genre 'pop', which album cover is most likely from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 6,
+            "is_correct": true
+        },
+        "7": {
+            "question": "Based on the music genre 'pop', which album cover is most likely from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 7,
+            "is_correct": true
+        },
+        "8": {
+            "question": "Based on the music genre 'pop', which album cover is most likely from this genre? Answer with A, B, C, or D",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nBased on the music genre 'pop', which album cover is most likely from this genre? Answer with A, B, C, or DText:popA:B:C:D:Give the letter of the correct answer (A, B, C, or D).\nassistant\nHmm, I'd say it's C. What do you think?",
+            "correct_answer": "C",
+            "index": 8,
+            "is_correct": false
+        },
+        "9": {
+            "question": "Based on the music genre 'pop', which album cover is most likely from this genre? Answer with A, B, C, or D",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nBased on the music genre 'pop', which album cover is most likely from this genre? Answer with A, B, C, or DText:popA:B:C:D:Give the letter of the correct answer (A, B, C, or D).\nassistant\nHmm, I'd say it's B. What do you think?",
+            "correct_answer": "A",
+            "index": 9,
+            "is_correct": false
+        }
+    }
+}

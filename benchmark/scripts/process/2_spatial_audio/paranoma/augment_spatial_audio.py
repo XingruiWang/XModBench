@@ -316,15 +316,20 @@ def process_audio_folder(folder_path, sofa_path, output_dir):
             print(f"[PID:{os.getpid()}] Processing event: {event_name}")
             
             output_metadata_file = output_dir / f"{event_name}_metadata.json"
-            if output_metadata_file.exists():
+            metadata_file_out = output_dir / f"{event_name}_metadata_add_on.json"
+
+            if output_metadata_file.exists() or metadata_file_out.exists():
                 print(f"  Metadata file already exists: {output_metadata_file}")
                 mp4_files = list(output_dir.glob(f"{event_name}*.mp4"))
                 mp4_files = [mp4_file for mp4_file in mp4_files if 'temp' not in mp4_file.name or 'tmp' not in mp4_file.name]
+                tmp_mp4_files = [mp4_file for mp4_file in mp4_files if 'temp' in mp4_file.name or 'tmp' in mp4_file.name]
                 wav_files = list(output_dir.glob(f"{event_name}*.wav"))
                 wav_files = [wav_file for wav_file in wav_files if 'temp' not in wav_file.name or 'tmp' not in wav_file.name]
-                if len(wav_files) + len(mp4_files) >= 5:
-                    print(f"  Event {event_name} has already 5 files, skipping")
-                    continue
+                tmp_wav_files = [wav_file for wav_file in wav_files if 'temp' in wav_file.name or 'tmp' in wav_file.name]
+                if not len(tmp_wav_files) + len(tmp_mp4_files) > 0:
+                    if len(wav_files) + len(mp4_files) >= 5:
+                        print(f"  Event {event_name} has already 5 files, skipping")
+                        continue 
             
             # Get event info
             event_info = metadata.get("event_info", {})
@@ -339,18 +344,17 @@ def process_audio_folder(folder_path, sofa_path, output_dir):
                 if input_audio_file.exists():
                     audio_data, sr = sf.read(input_audio_file)
                     # Check if base azimuth is in quality range
-                    if is_in_quality_range(base_azimuth):
-                        high_quality_events.append(event_name)
-                        print(f"  Event {event_name} added to high quality (azimuth: {base_azimuth})")
-                    else:
+                    if not is_in_quality_range(base_azimuth):
                         high_quality_azimuth = sample_high_quality_azimuth()
                         add_on_azimuth = high_quality_azimuth - base_azimuth
                         base_azimuth = high_quality_azimuth
-                        audio_data = rotate_audio_azimuth_mic(audio_data, mic_dirs, add_on_azimuth)
-                        event_info["azimuth"] = base_azimuth
-                        metadata_file_out = output_dir / f"{event_name}_metadata.json"
-                        with open(metadata_file_out, 'w') as f:
-                            json.dump(metadata, f, indent=4)
+                    else:
+                        add_on_azimuth = 0
+                    audio_data = rotate_audio_azimuth_mic(audio_data, mic_dirs, add_on_azimuth)
+                    event_info["azimuth"] = base_azimuth
+                    metadata_file_out = output_dir / f"{event_name}_metadata.json"
+                    with open(metadata_file_out, 'w') as f:
+                        json.dump(metadata, f, indent=4)
                         
                     augmented_audio = apply_spatial_augmentation(audio_data, base_azimuth, sofa_path, sr)
                     
@@ -377,31 +381,30 @@ def process_audio_folder(folder_path, sofa_path, output_dir):
             
             # Process choice audio files
             choice_rotations = metadata.get("choice_audio_rotations", [])
-            if is_in_quality_range(base_azimuth):
-                if event_name not in high_quality_events:
-                    high_quality_events.append(event_name)
-            else:
+            if not is_in_quality_range(base_azimuth):
                 high_quality_azimuth = sample_high_quality_azimuth()
                 add_on_azimuth = high_quality_azimuth - base_azimuth
                 base_azimuth = high_quality_azimuth
                 event_info["azimuth"] = base_azimuth
-                metadata_file_out = output_dir / f"{event_name}_metadata_add_on.json"
-                with open(metadata_file_out, 'w') as f:
-                    json.dump(metadata, f, indent=4)
+            else:
+                add_on_azimuth = 0
+            metadata_file_out = output_dir / f"{event_name}_metadata.json"
+            with open(metadata_file_out, 'w') as f:
+                json.dump(metadata, f, indent=4)
                             
-                for i, rotation in enumerate(choice_rotations):
-                    choice_file = folder_path / f"{event_name}_choice_{i}.wav"
-                    if choice_file.exists():
-                        audio_data, sr = sf.read(choice_file)
-                        audio_data = rotate_audio_azimuth_mic(audio_data, mic_dirs, add_on_azimuth)
-                        
-                        final_azimuth = base_azimuth + rotation
-                        
-                        augmented_audio = apply_spatial_augmentation(audio_data, final_azimuth, sofa_path, sr)
-                        
-                        output_file = output_dir / f"{event_name}_choice_{i}.wav"
-                        sf.write(output_file, augmented_audio, sr)
-                        print(f"  Processed choice {i} (azimuth: {final_azimuth}) -> {output_file}")
+            for i, rotation in enumerate(choice_rotations):
+                choice_file = folder_path / f"{event_name}_choice_{i}.wav"
+                if choice_file.exists():
+                    audio_data, sr = sf.read(choice_file)
+                    audio_data = rotate_audio_azimuth_mic(audio_data, mic_dirs, add_on_azimuth)
+                    
+                    final_azimuth = base_azimuth + rotation
+                    
+                    augmented_audio = apply_spatial_augmentation(audio_data, final_azimuth, sofa_path, sr)
+                    
+                    output_file = output_dir / f"{event_name}_choice_{i}.wav"
+                    sf.write(output_file, augmented_audio, sr)
+                    print(f"  Processed choice {i} (azimuth: {final_azimuth}) -> {output_file}")
                         
                 video_input_file = folder_path / f"{event_name}_input_video.mp4"
                 if video_input_file.exists():
@@ -427,7 +430,7 @@ def main():
     parser.add_argument("--input_dir", required=True, help="Root directory containing audio folders")
     parser.add_argument("--sofa", required=True, help="Path to SOFA file for spatial processing")
     parser.add_argument("--output_dir", required=True, help="Output directory for augmented files")
-    parser.add_argument("--processes", type=int, default=None, help="Number of parallel processes (default: CPU count)")
+    parser.add_argument("--processes", type=int, default=8, help="Number of parallel processes (default: CPU count)")
      
     args = parser.parse_args()
     
@@ -450,8 +453,8 @@ def main():
     
     # for subfolder in input_dir.iterdir():
     for subfolder in input_dir.iterdir():
-        if 'audio_choice' in subfolder.name:
-            continue
+        # if 'audio_choice' in subfolder.name:
+            # continue
         if subfolder.is_dir():
             for subsubfolder in subfolder.iterdir():
                 # if 'sony' in subsubfolder.name:

@@ -1,0 +1,163 @@
+{
+  "session_id": "e1fd2e7a",
+  "timestamp": "20250907_130618",
+  "task": "03_speech",
+  "subtask": "recognition",
+  "total_questions": 12,
+  "user_answers": [
+    "C",
+    "B",
+    "B",
+    "B",
+    "C",
+    "B",
+    "D",
+    "C",
+    "A",
+    "B",
+    "A",
+    "A"
+  ],
+  "correct_answers": [
+    "C",
+    "B",
+    "B",
+    "B",
+    "C",
+    "B",
+    "D",
+    "B",
+    "A",
+    "B",
+    "A",
+    "A"
+  ],
+  "questions_per_type": 2,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "Which text most likely has the same content as this audio? Answer the question with A, B, C, or D",
+      "user_answer": "C",
+      "correct_answer": "C",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/03_speech/recognition/acr_audio_bench_questions_audio_text.json",
+      "question_id": "acr_audio_bench_questions_audio_text_402",
+      "question_type": "acr_audio_bench_questions_audio_text"
+    },
+    {
+      "question_number": 2,
+      "question_text": "Which text most likely has the same content as this audio? Answer the question with A, B, C, or D",
+      "user_answer": "B",
+      "correct_answer": "B",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/03_speech/recognition/acr_audio_bench_questions_audio_text.json",
+      "question_id": "acr_audio_bench_questions_audio_text_605",
+      "question_type": "acr_audio_bench_questions_audio_text"
+    },
+    {
+      "question_number": 3,
+      "question_text": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+      "user_answer": "B",
+      "correct_answer": "B",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/03_speech/recognition/acr_audio_bench_questions_vision_text.json",
+      "question_id": "acr_audio_bench_questions_vision_text_83",
+      "question_type": "acr_audio_bench_questions_vision_text"
+    },
+    {
+      "question_number": 4,
+      "question_text": "Which image has text that matches the sentence in this audio? Answer the question with A, B, C, or D",
+      "user_answer": "B",
+      "correct_answer": "B",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/03_speech/recognition/acr_audio_bench_questions_audio_vision.json",
+      "question_id": "acr_audio_bench_questions_audio_vision_415",
+      "question_type": "acr_audio_bench_questions_audio_vision"
+    },
+    {
+      "question_number": 5,
+      "question_text": "Which image has text that matches the sentence in this audio? Answer the question with A, B, C, or D",
+      "user_answer": "C",
+      "correct_answer": "C",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/03_speech/recognition/acr_audio_bench_questions_audio_vision.json",
+      "question_id": "acr_audio_bench_questions_audio_vision_330",
+      "question_type": "acr_audio_bench_questions_audio_vision"
+    },
+    {
+      "question_number": 6,
+      "question_text": "Which audio most likely contains the same content as this text? Answer the question with A, B, C, or D",
+      "user_answer": "B",
+      "correct_answer": "B",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/03_speech/recognition/acr_audio_bench_questions_text_audio.json",
+      "question_id": "acr_audio_bench_questions_text_audio_533",
+      "question_type": "acr_audio_bench_questions_text_audio"
+    },
+    {
+      "question_number": 7,
+      "question_text": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+      "user_answer": "D",
+      "correct_answer": "D",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/03_speech/recognition/acr_audio_bench_questions_vision_text.json",
+      "question_id": "acr_audio_bench_questions_vision_text_341",
+      "question_type": "acr_audio_bench_questions_vision_text"
+    },
+    {
+      "question_number": 8,
+      "question_text": "Which audio most likely matches the text shown in the image? Answer the question with A, B, C, or D",
+      "user_answer": "C",
+      "correct_answer": "B",
+      "is_correct": false,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/03_speech/recognition/acr_audio_bench_questions_vision_audio.json",
+      "question_id": "acr_audio_bench_questions_vision_audio_575",
+      "question_type": "acr_audio_bench_questions_vision_audio"
+    },
+    {
+      "question_number": 9,
+      "question_text": "Which audio most likely matches the text shown in the image? Answer the question with A, B, C, or D",
+      "user_answer": "A",
+      "correct_answer": "A",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/03_speech/recognition/acr_audio_bench_questions_vision_audio.json",
+      "question_id": "acr_audio_bench_questions_vision_audio_189",
+      "question_type": "acr_audio_bench_questions_vision_audio"
+    },
+    {
+      "question_number": 10,
+      "question_text": "Which image has text that matches the content of this text? Answer the question with A, B, C, or D",
+      "user_answer": "B",
+      "correct_answer": "B",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/03_speech/recognition/acr_audio_bench_questions_text_vision.json",
+      "question_id": "acr_audio_bench_questions_text_vision_76",
+      "question_type": "acr_audio_bench_questions_text_vision"
+    },
+    {
+      "question_number": 11,
+      "question_text": "Which audio most likely contains the same content as this text? Answer the question with A, B, C, or D",
+      "user_answer": "A",
+      "correct_answer": "A",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/03_speech/recognition/acr_audio_bench_questions_text_audio.json",
+      "question_id": "acr_audio_bench_questions_text_audio_614",
+      "question_type": "acr_audio_bench_questions_text_audio"
+    },
+    {
+      "question_number": 12,
+      "question_text": "Which image has text that matches the content of this text? Answer the question with A, B, C, or D",
+      "user_answer": "A",
+      "correct_answer": "A",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/03_speech/recognition/acr_audio_bench_questions_text_vision.json",
+      "question_id": "acr_audio_bench_questions_text_vision_663",
+      "question_type": "acr_audio_bench_questions_text_vision"
+    }
+  ],
+  "score": {
+    "correct": 11,
+    "total": 12,
+    "percentage": 91.66666666666666
+  }
+}

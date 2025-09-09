@@ -1,0 +1,687 @@
+{
+    "task_name": "temporal/order_text_vision",
+    "score": 22.68041237113402,
+    "correct_count": 22,
+    "all_count": 97,
+    "results": {
+        "0": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 0,
+            "is_correct": true
+        },
+        "1": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 1,
+            "is_correct": false
+        },
+        "2": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 2,
+            "is_correct": false
+        },
+        "3": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 3,
+            "is_correct": false
+        },
+        "4": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 4,
+            "is_correct": false
+        },
+        "5": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 5,
+            "is_correct": false
+        },
+        "6": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 6,
+            "is_correct": false
+        },
+        "7": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 7,
+            "is_correct": false
+        },
+        "8": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 8,
+            "is_correct": true
+        },
+        "9": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 9,
+            "is_correct": true
+        },
+        "10": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 10,
+            "is_correct": false
+        },
+        "11": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 11,
+            "is_correct": false
+        },
+        "12": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 12,
+            "is_correct": false
+        },
+        "13": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 13,
+            "is_correct": false
+        },
+        "14": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 14,
+            "is_correct": false
+        },
+        "15": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 15,
+            "is_correct": false
+        },
+        "16": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 16,
+            "is_correct": false
+        },
+        "17": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 17,
+            "is_correct": false
+        },
+        "18": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 18,
+            "is_correct": false
+        },
+        "19": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 19,
+            "is_correct": true
+        },
+        "20": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 20,
+            "is_correct": false
+        },
+        "21": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 21,
+            "is_correct": true
+        },
+        "22": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 22,
+            "is_correct": false
+        },
+        "23": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 23,
+            "is_correct": true
+        },
+        "24": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 24,
+            "is_correct": false
+        },
+        "25": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 25,
+            "is_correct": false
+        },
+        "26": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 26,
+            "is_correct": false
+        },
+        "27": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 27,
+            "is_correct": false
+        },
+        "28": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 28,
+            "is_correct": false
+        },
+        "29": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 29,
+            "is_correct": true
+        },
+        "30": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 30,
+            "is_correct": false
+        },
+        "31": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 31,
+            "is_correct": false
+        },
+        "32": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 32,
+            "is_correct": true
+        },
+        "33": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 33,
+            "is_correct": false
+        },
+        "34": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 34,
+            "is_correct": false
+        },
+        "35": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 35,
+            "is_correct": false
+        },
+        "36": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 36,
+            "is_correct": false
+        },
+        "37": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 37,
+            "is_correct": true
+        },
+        "38": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 38,
+            "is_correct": false
+        },
+        "39": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 39,
+            "is_correct": false
+        },
+        "40": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 40,
+            "is_correct": false
+        },
+        "41": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 41,
+            "is_correct": true
+        },
+        "42": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 42,
+            "is_correct": false
+        },
+        "43": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 43,
+            "is_correct": false
+        },
+        "44": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 44,
+            "is_correct": false
+        },
+        "45": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 45,
+            "is_correct": false
+        },
+        "46": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 46,
+            "is_correct": false
+        },
+        "47": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 47,
+            "is_correct": true
+        },
+        "48": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 48,
+            "is_correct": false
+        },
+        "49": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 49,
+            "is_correct": false
+        },
+        "50": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 50,
+            "is_correct": false
+        },
+        "51": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 51,
+            "is_correct": false
+        },
+        "52": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 52,
+            "is_correct": true
+        },
+        "53": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 53,
+            "is_correct": true
+        },
+        "54": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 54,
+            "is_correct": false
+        },
+        "55": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 55,
+            "is_correct": false
+        },
+        "56": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 56,
+            "is_correct": false
+        },
+        "57": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 57,
+            "is_correct": false
+        },
+        "58": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 58,
+            "is_correct": false
+        },
+        "59": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 59,
+            "is_correct": false
+        },
+        "60": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 60,
+            "is_correct": false
+        },
+        "61": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 61,
+            "is_correct": false
+        },
+        "62": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 62,
+            "is_correct": false
+        },
+        "63": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 63,
+            "is_correct": false
+        },
+        "64": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 64,
+            "is_correct": false
+        },
+        "65": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 65,
+            "is_correct": false
+        },
+        "66": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 66,
+            "is_correct": false
+        },
+        "67": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 67,
+            "is_correct": false
+        },
+        "68": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 68,
+            "is_correct": true
+        },
+        "69": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 69,
+            "is_correct": false
+        },
+        "70": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 70,
+            "is_correct": false
+        },
+        "71": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 71,
+            "is_correct": true
+        },
+        "72": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 72,
+            "is_correct": false
+        },
+        "73": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 73,
+            "is_correct": false
+        },
+        "74": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 74,
+            "is_correct": false
+        },
+        "75": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 75,
+            "is_correct": false
+        },
+        "76": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 76,
+            "is_correct": false
+        },
+        "77": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 77,
+            "is_correct": false
+        },
+        "78": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 78,
+            "is_correct": true
+        },
+        "79": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 79,
+            "is_correct": false
+        },
+        "80": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 80,
+            "is_correct": false
+        },
+        "81": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 81,
+            "is_correct": true
+        },
+        "82": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 82,
+            "is_correct": true
+        },
+        "83": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 83,
+            "is_correct": false
+        },
+        "84": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 84,
+            "is_correct": false
+        },
+        "85": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 85,
+            "is_correct": true
+        },
+        "86": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 86,
+            "is_correct": false
+        },
+        "87": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 87,
+            "is_correct": true
+        },
+        "88": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 88,
+            "is_correct": false
+        },
+        "89": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 89,
+            "is_correct": false
+        },
+        "90": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 90,
+            "is_correct": false
+        },
+        "91": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 91,
+            "is_correct": false
+        },
+        "92": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 92,
+            "is_correct": false
+        },
+        "93": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 93,
+            "is_correct": true
+        },
+        "94": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 94,
+            "is_correct": false
+        },
+        "95": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 95,
+            "is_correct": false
+        },
+        "96": {
+            "question": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 96,
+            "is_correct": true
+        }
+    }
+}

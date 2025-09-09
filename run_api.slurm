@@ -40,11 +40,11 @@ run_evaluation() {
 # Main execution - uncomment the tasks you want to run
 TASKS_TO_RUN=(
     # Perception tasks
-    "perception/general"
-    "perception/finegrained"
-    "perception/instruments"
-    "perception/instruments_comp"
-    "perception/natures"
+    # "perception/general"
+    # "perception/finegrained"
+    # "perception/instruments"
+    # "perception/instruments_comp"
+    # "perception/natures"
     
     # # Spatial tasks
     # "spatial/arrangements"
@@ -61,28 +61,30 @@ TASKS_TO_RUN=(
     # "temporal/order"
     
     # # External tasks
-    # "external/music_genre_classification"
+    "external/music_genre_classification"
     # "external/emotion_classification"
     # "external/movie_matching"
     # "external/singer_identification"
 )
 
 # Run evaluations
-for task_key in "${TASKS_TO_RUN[@]}"; do
-    task=$(echo $task_key | cut -d'/' -f1)
-    subtask=$(echo $task_key | cut -d'/' -f2)
-    modalities="audio_vision vision_audio vision_text text_vision text_audio audio_text"
-    
-    echo "Processing task: $task_key"
-    echo "Modalities: $modalities"
-    echo "----------------------------------------"
-    
-    for modality in $modalities; do
-        run_evaluation $MODEL $task $subtask $modality 
+for MODEL in gemini-2.5-pro gemini-2.5-flash gemini-2.0-pro gemini-2.0-flash; do
+    for task_key in "${TASKS_TO_RUN[@]}"; do
+        task=$(echo $task_key | cut -d'/' -f1)
+        subtask=$(echo $task_key | cut -d'/' -f2)
+        modalities="audio_vision vision_audio vision_text text_vision text_audio audio_text"
+        
+        echo "Processing task: $task_key"
+        echo "Modalities: $modalities"
+        echo "----------------------------------------"
+        
+        for modality in $modalities; do
+            run_evaluation $MODEL $task $subtask $modality 
+        done
+        
+        echo "Completed task: $task_key"
+        echo "========================================"
     done
-    
-    echo "Completed task: $task_key"
-    echo "========================================"
 done
 
 echo "All evaluations completed!"

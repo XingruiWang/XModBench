@@ -1,0 +1,687 @@
+{
+    "task_name": "perception/natures_audio_vision",
+    "score": 28.865979381443296,
+    "correct_count": 28,
+    "all_count": 97,
+    "results": {
+        "0": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 0,
+            "is_correct": true
+        },
+        "1": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 1,
+            "is_correct": false
+        },
+        "2": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 2,
+            "is_correct": false
+        },
+        "3": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 3,
+            "is_correct": false
+        },
+        "4": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 4,
+            "is_correct": true
+        },
+        "5": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 5,
+            "is_correct": false
+        },
+        "6": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 6,
+            "is_correct": false
+        },
+        "7": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 7,
+            "is_correct": false
+        },
+        "8": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 8,
+            "is_correct": false
+        },
+        "9": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 9,
+            "is_correct": false
+        },
+        "10": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 10,
+            "is_correct": false
+        },
+        "11": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 11,
+            "is_correct": false
+        },
+        "12": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 12,
+            "is_correct": false
+        },
+        "13": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 13,
+            "is_correct": true
+        },
+        "14": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 14,
+            "is_correct": false
+        },
+        "15": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 15,
+            "is_correct": false
+        },
+        "16": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 16,
+            "is_correct": false
+        },
+        "17": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 17,
+            "is_correct": false
+        },
+        "18": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 18,
+            "is_correct": true
+        },
+        "19": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 19,
+            "is_correct": false
+        },
+        "20": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 20,
+            "is_correct": false
+        },
+        "21": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 21,
+            "is_correct": true
+        },
+        "22": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 22,
+            "is_correct": false
+        },
+        "23": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 23,
+            "is_correct": false
+        },
+        "24": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 24,
+            "is_correct": false
+        },
+        "25": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 25,
+            "is_correct": false
+        },
+        "26": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 26,
+            "is_correct": false
+        },
+        "27": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 27,
+            "is_correct": false
+        },
+        "28": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 28,
+            "is_correct": true
+        },
+        "29": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 29,
+            "is_correct": true
+        },
+        "30": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 30,
+            "is_correct": false
+        },
+        "31": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 31,
+            "is_correct": false
+        },
+        "32": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 32,
+            "is_correct": false
+        },
+        "33": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 33,
+            "is_correct": false
+        },
+        "34": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 34,
+            "is_correct": false
+        },
+        "35": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 35,
+            "is_correct": true
+        },
+        "36": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 36,
+            "is_correct": false
+        },
+        "37": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 37,
+            "is_correct": false
+        },
+        "38": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 38,
+            "is_correct": false
+        },
+        "39": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 39,
+            "is_correct": true
+        },
+        "40": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 40,
+            "is_correct": true
+        },
+        "41": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 41,
+            "is_correct": false
+        },
+        "42": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 42,
+            "is_correct": true
+        },
+        "43": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 43,
+            "is_correct": false
+        },
+        "44": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 44,
+            "is_correct": false
+        },
+        "45": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 45,
+            "is_correct": false
+        },
+        "46": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 46,
+            "is_correct": true
+        },
+        "47": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 47,
+            "is_correct": false
+        },
+        "48": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 48,
+            "is_correct": false
+        },
+        "49": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 49,
+            "is_correct": false
+        },
+        "50": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 50,
+            "is_correct": true
+        },
+        "51": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 51,
+            "is_correct": false
+        },
+        "52": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 52,
+            "is_correct": true
+        },
+        "53": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 53,
+            "is_correct": false
+        },
+        "54": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 54,
+            "is_correct": true
+        },
+        "55": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 55,
+            "is_correct": false
+        },
+        "56": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 56,
+            "is_correct": true
+        },
+        "57": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 57,
+            "is_correct": false
+        },
+        "58": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 58,
+            "is_correct": false
+        },
+        "59": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 59,
+            "is_correct": false
+        },
+        "60": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 60,
+            "is_correct": true
+        },
+        "61": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 61,
+            "is_correct": false
+        },
+        "62": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 62,
+            "is_correct": true
+        },
+        "63": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 63,
+            "is_correct": false
+        },
+        "64": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 64,
+            "is_correct": false
+        },
+        "65": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 65,
+            "is_correct": false
+        },
+        "66": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 66,
+            "is_correct": false
+        },
+        "67": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 67,
+            "is_correct": true
+        },
+        "68": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 68,
+            "is_correct": false
+        },
+        "69": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 69,
+            "is_correct": false
+        },
+        "70": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 70,
+            "is_correct": false
+        },
+        "71": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 71,
+            "is_correct": false
+        },
+        "72": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 72,
+            "is_correct": false
+        },
+        "73": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 73,
+            "is_correct": true
+        },
+        "74": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 74,
+            "is_correct": false
+        },
+        "75": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 75,
+            "is_correct": false
+        },
+        "76": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 76,
+            "is_correct": false
+        },
+        "77": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 77,
+            "is_correct": false
+        },
+        "78": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 78,
+            "is_correct": false
+        },
+        "79": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 79,
+            "is_correct": false
+        },
+        "80": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 80,
+            "is_correct": true
+        },
+        "81": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 81,
+            "is_correct": false
+        },
+        "82": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 82,
+            "is_correct": true
+        },
+        "83": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 83,
+            "is_correct": false
+        },
+        "84": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 84,
+            "is_correct": true
+        },
+        "85": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 85,
+            "is_correct": true
+        },
+        "86": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 86,
+            "is_correct": false
+        },
+        "87": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 87,
+            "is_correct": true
+        },
+        "88": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 88,
+            "is_correct": false
+        },
+        "89": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 89,
+            "is_correct": false
+        },
+        "90": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 90,
+            "is_correct": false
+        },
+        "91": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 91,
+            "is_correct": true
+        },
+        "92": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 92,
+            "is_correct": false
+        },
+        "93": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 93,
+            "is_correct": false
+        },
+        "94": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 94,
+            "is_correct": true
+        },
+        "95": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 95,
+            "is_correct": false
+        },
+        "96": {
+            "question": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 96,
+            "is_correct": true
+        }
+    }
+}

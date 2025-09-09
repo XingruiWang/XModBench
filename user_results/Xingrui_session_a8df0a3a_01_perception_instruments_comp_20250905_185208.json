@@ -1,0 +1,235 @@
+{
+  "session_id": "a8df0a3a",
+  "timestamp": "20250905_185208",
+  "task": "01_perception",
+  "subtask": "instruments_comp",
+  "total_questions": 18,
+  "user_answers": [
+    "D",
+    "C",
+    "D",
+    "B",
+    "D",
+    "A",
+    "D",
+    "D",
+    "A",
+    "C",
+    "B",
+    "A",
+    "C",
+    "B",
+    "A",
+    "B",
+    "C",
+    "B"
+  ],
+  "correct_answers": [
+    "D",
+    "C",
+    "D",
+    "B",
+    "D",
+    "A",
+    "D",
+    "B",
+    "A",
+    "C",
+    "B",
+    "A",
+    "C",
+    "B",
+    "D",
+    "B",
+    "C",
+    "B"
+  ],
+  "questions_per_type": 3,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "Based on this description: 'Bassoon, Clarinet, Flute, and Oboe', which image best matches the instruments composition described? Answer with A, B, C, or D",
+      "user_answer": "D",
+      "correct_answer": "D",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/instruments_comp/URMP_questions_text_vision.json",
+      "question_id": "URMP_questions_text_vision_474",
+      "question_type": "URMP_questions_text_vision"
+    },
+    {
+      "question_number": 2,
+      "question_text": "Which image most likely belongs to the instruments composition that makes this sound you hear? Answer with A, B, C, or D",
+      "user_answer": "C",
+      "correct_answer": "C",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/instruments_comp/URMP_questions_audio_vision.json",
+      "question_id": "URMP_questions_audio_vision_56",
+      "question_type": "URMP_questions_audio_vision"
+    },
+    {
+      "question_number": 3,
+      "question_text": "Look at this image. Which text description best matches the instruments composition you see? Answer with A, B, C, or D",
+      "user_answer": "D",
+      "correct_answer": "D",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/instruments_comp/URMP_questions_vision_text.json",
+      "question_id": "URMP_questions_vision_text_46",
+      "question_type": "URMP_questions_vision_text"
+    },
+    {
+      "question_number": 4,
+      "question_text": "Which image most likely belongs to the instruments composition that makes this sound you hear? Answer with A, B, C, or D",
+      "user_answer": "B",
+      "correct_answer": "B",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/instruments_comp/URMP_questions_audio_vision.json",
+      "question_id": "URMP_questions_audio_vision_428",
+      "question_type": "URMP_questions_audio_vision"
+    },
+    {
+      "question_number": 5,
+      "question_text": "Listen to this audio clip. Which text description best matches the instruments composition that makes this sound? Answer with A, B, C, or D",
+      "user_answer": "D",
+      "correct_answer": "D",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/instruments_comp/URMP_questions_audio_text.json",
+      "question_id": "URMP_questions_audio_text_326",
+      "question_type": "URMP_questions_audio_text"
+    },
+    {
+      "question_number": 6,
+      "question_text": "Look at this image. Which text description best matches the instruments composition you see? Answer with A, B, C, or D",
+      "user_answer": "A",
+      "correct_answer": "A",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/instruments_comp/URMP_questions_vision_text.json",
+      "question_id": "URMP_questions_vision_text_130",
+      "question_type": "URMP_questions_vision_text"
+    },
+    {
+      "question_number": 7,
+      "question_text": "Based on this description: 'Saxophone, Trombone, and Tuba', which audio clip best matches the instruments composition described? Answer with A, B, C, or D",
+      "user_answer": "D",
+      "correct_answer": "D",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/instruments_comp/URMP_questions_text_audio.json",
+      "question_id": "URMP_questions_text_audio_87",
+      "question_type": "URMP_questions_text_audio"
+    },
+    {
+      "question_number": 8,
+      "question_text": "Listen to this audio clip. Which text description best matches the instruments composition that makes this sound? Answer with A, B, C, or D",
+      "user_answer": "D",
+      "correct_answer": "B",
+      "is_correct": false,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/instruments_comp/URMP_questions_audio_text.json",
+      "question_id": "URMP_questions_audio_text_246",
+      "question_type": "URMP_questions_audio_text"
+    },
+    {
+      "question_number": 9,
+      "question_text": "Based on this description: 'Clarinet and Flute', which audio clip best matches the instruments composition described? Answer with A, B, C, or D",
+      "user_answer": "A",
+      "correct_answer": "A",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/instruments_comp/URMP_questions_text_audio.json",
+      "question_id": "URMP_questions_text_audio_149",
+      "question_type": "URMP_questions_text_audio"
+    },
+    {
+      "question_number": 10,
+      "question_text": "Look at this image. Which audio clip is most likely produced by the instruments composition you see? Answer with A, B, C, or D",
+      "user_answer": "C",
+      "correct_answer": "C",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/instruments_comp/URMP_questions_vision_audio.json",
+      "question_id": "URMP_questions_vision_audio_306",
+      "question_type": "URMP_questions_vision_audio"
+    },
+    {
+      "question_number": 11,
+      "question_text": "Based on this description: 'Trombone and Trumpet', which image best matches the instruments composition described? Answer with A, B, C, or D",
+      "user_answer": "B",
+      "correct_answer": "B",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/instruments_comp/URMP_questions_text_vision.json",
+      "question_id": "URMP_questions_text_vision_188",
+      "question_type": "URMP_questions_text_vision"
+    },
+    {
+      "question_number": 12,
+      "question_text": "Listen to this audio clip. Which text description best matches the instruments composition that makes this sound? Answer with A, B, C, or D",
+      "user_answer": "A",
+      "correct_answer": "A",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/instruments_comp/URMP_questions_audio_text.json",
+      "question_id": "URMP_questions_audio_text_409",
+      "question_type": "URMP_questions_audio_text"
+    },
+    {
+      "question_number": 13,
+      "question_text": "Which image most likely belongs to the instruments composition that makes this sound you hear? Answer with A, B, C, or D",
+      "user_answer": "C",
+      "correct_answer": "C",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/instruments_comp/URMP_questions_audio_vision.json",
+      "question_id": "URMP_questions_audio_vision_458",
+      "question_type": "URMP_questions_audio_vision"
+    },
+    {
+      "question_number": 14,
+      "question_text": "Based on this description: '2 Flutes, Bassoon, Oboe, and Saxophone', which image best matches the instruments composition described? Answer with A, B, C, or D",
+      "user_answer": "B",
+      "correct_answer": "B",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/instruments_comp/URMP_questions_text_vision.json",
+      "question_id": "URMP_questions_text_vision_120",
+      "question_type": "URMP_questions_text_vision"
+    },
+    {
+      "question_number": 15,
+      "question_text": "Look at this image. Which audio clip is most likely produced by the instruments composition you see? Answer with A, B, C, or D",
+      "user_answer": "A",
+      "correct_answer": "D",
+      "is_correct": false,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/instruments_comp/URMP_questions_vision_audio.json",
+      "question_id": "URMP_questions_vision_audio_201",
+      "question_type": "URMP_questions_vision_audio"
+    },
+    {
+      "question_number": 16,
+      "question_text": "Look at this image. Which audio clip is most likely produced by the instruments composition you see? Answer with A, B, C, or D",
+      "user_answer": "B",
+      "correct_answer": "B",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/instruments_comp/URMP_questions_vision_audio.json",
+      "question_id": "URMP_questions_vision_audio_314",
+      "question_type": "URMP_questions_vision_audio"
+    },
+    {
+      "question_number": 17,
+      "question_text": "Look at this image. Which text description best matches the instruments composition you see? Answer with A, B, C, or D",
+      "user_answer": "C",
+      "correct_answer": "C",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/instruments_comp/URMP_questions_vision_text.json",
+      "question_id": "URMP_questions_vision_text_394",
+      "question_type": "URMP_questions_vision_text"
+    },
+    {
+      "question_number": 18,
+      "question_text": "Based on this description: 'Saxophone and Trumpet', which audio clip best matches the instruments composition described? Answer with A, B, C, or D",
+      "user_answer": "B",
+      "correct_answer": "B",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/instruments_comp/URMP_questions_text_audio.json",
+      "question_id": "URMP_questions_text_audio_118",
+      "question_type": "URMP_questions_text_audio"
+    }
+  ],
+  "score": {
+    "correct": 16,
+    "total": 18,
+    "percentage": 88.88888888888889
+  }
+}

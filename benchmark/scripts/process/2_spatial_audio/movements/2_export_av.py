@@ -64,6 +64,7 @@ def extract_clip_audio_video(row_data, video_root, audio_root, output_root, fps=
         output_dir = os.path.join(output_root, f"{clip_id}_{start:.2f}_{end:.2f}")
         os.makedirs(output_dir, exist_ok=True)
         
+        new_bounding_box = []
         for fid in range(start_frame, end_frame + 1):
             cap.set(cv2.CAP_PROP_POS_FRAMES, fid)
             ret, frame = cap.read()
@@ -76,12 +77,12 @@ def extract_clip_audio_video(row_data, video_root, audio_root, output_root, fps=
                     x, y, w, h, frame_time = bounding_box[visible_frame_time.index(fid)]
                     x, y, w, h = int(x), int(y), int(w), int(h)
                     cv2.rectangle(frame, (x, y), (x + w, y + h), (0, 0, 255), 2)
-                
+                    new_bounding_box.append([x, y, w, h, frame_time])
                 cv2.imwrite(os.path.join(output_dir, f"frame_{fid}.jpg"), frame)
                     
         cap.release()
 
-        # Audio extraction
+        # # Audio extraction
         audio_output_path = os.path.join(output_root, f"{clip_id}_{start:.2f}_{end:.2f}.wav")
         ffmpeg_cmd = (
             f"ffmpeg -y -i '{audio_path}' -ss {start} -to {end} -c copy "
@@ -99,7 +100,8 @@ def extract_clip_audio_video(row_data, video_root, audio_root, output_root, fps=
             "direction_y": direction_y,
             "audio_clip": audio_output_path,
             "video_clip": output_dir,
-            "frames": frame_list
+            "frames": frame_list,
+            "bounding_box": new_bounding_box,
         }
         
     except Exception as e:

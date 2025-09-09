@@ -1,0 +1,78 @@
+{
+    "task_name": "perception/natures_text_vision",
+    "score": 60.0,
+    "correct_count": 6,
+    "all_count": 10,
+    "results": {
+        "0": {
+            "question": "Which image is most likely to belong to this description of this scene? Answer the question with A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 0,
+            "is_correct": true
+        },
+        "1": {
+            "question": "Which image is most likely to belong to this description of this scene? Answer the question with A, B, C, or D.",
+            "response": "system\nYou are Qwen, a virtual human developed by the Qwen Team, Alibaba Group, capable of perceiving auditory and visual inputs, as well as generating text and speech.\nuser\nWhich image is most likely to belong to this description of this scene? Answer the question with A, B, C, or D.Text:Squishing waterA:B:C:D:Give the letter of the correct answer (A, B, C, or D).\nassistant\nHmm, I'd say it's C. What do you think?",
+            "correct_answer": "B",
+            "index": 1,
+            "is_correct": false
+        },
+        "2": {
+            "question": "Which image is most likely to belong to this description of this scene? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 2,
+            "is_correct": true
+        },
+        "3": {
+            "question": "Which image is most likely to belong to this description of this scene? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 3,
+            "is_correct": true
+        },
+        "4": {
+            "question": "Which image is most likely to belong to this description of this scene? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 4,
+            "is_correct": false
+        },
+        "5": {
+            "question": "Which image is most likely to belong to this description of this scene? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 5,
+            "is_correct": false
+        },
+        "6": {
+            "question": "Which image is most likely to belong to this description of this scene? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 6,
+            "is_correct": true
+        },
+        "7": {
+            "question": "Which image is most likely to belong to this description of this scene? Answer the question with A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 7,
+            "is_correct": true
+        },
+        "8": {
+            "question": "Which image is most likely to belong to this description of this scene? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 8,
+            "is_correct": true
+        },
+        "9": {
+            "question": "Which image is most likely to belong to this description of this scene? Answer the question with A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 9,
+            "is_correct": false
+        }
+    }
+}

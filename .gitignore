@@ -1,6 +1,7 @@
 .envs
 benchmark/Data
 benchmark/results/
+benchmark/results-old/
 Data/
 log
 models/AnyGPT

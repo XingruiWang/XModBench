@@ -1,0 +1,163 @@
+{
+  "session_id": "e1fd2e7a",
+  "timestamp": "20250907_113958",
+  "task": "02_spatial",
+  "subtask": "3D_movements",
+  "total_questions": 12,
+  "user_answers": [
+    "D",
+    "B",
+    "C",
+    "D",
+    "C",
+    "D",
+    "A",
+    "A",
+    "C",
+    "D",
+    "A",
+    "C"
+  ],
+  "correct_answers": [
+    "D",
+    "B",
+    "C",
+    "D",
+    "C",
+    "D",
+    "A",
+    "A",
+    "C",
+    "B",
+    "C",
+    "C"
+  ],
+  "questions_per_type": 2,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "Read the text description of the urban street scene, which specifies:\n- The type of vehicle involved (or absence of vehicles)\n- The movement direction and pattern\n- The spatial trajectory through the scene\n\nBased on this description, identify which video clip visually demonstrates the described scenario. Look for matching vehicle type and movement pattern. Choose A, B, C, or D.",
+      "user_answer": "D",
+      "correct_answer": "D",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/02_spatial/3D_movements/urbansas_audio_bench_questions_text_vision.json",
+      "question_id": "urbansas_audio_bench_questions_text_vision_297",
+      "question_type": "urbansas_audio_bench_questions_text_vision"
+    },
+    {
+      "question_number": 2,
+      "question_text": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+      "user_answer": "B",
+      "correct_answer": "B",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/02_spatial/3D_movements/urbansas_audio_bench_questions_vision_text.json",
+      "question_id": "urbansas_audio_bench_questions_vision_text_95",
+      "question_type": "urbansas_audio_bench_questions_vision_text"
+    },
+    {
+      "question_number": 3,
+      "question_text": "Analyze the video clip of the urban street scene carefully. Identify:\n- The type of vehicle shown (car, bus, motorbike, or no vehicle)\n- The vehicle's movement direction and trajectory\n- How the vehicle's position changes relative to the camera\n\nBased on your visual analysis, select the audio clip that would realistically correspond to this vehicle's movement through 3D space. Consider how the sound would change as the vehicle moves. Choose A, B, C, or D.",
+      "user_answer": "C",
+      "correct_answer": "C",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/02_spatial/3D_movements/urbansas_audio_bench_questions_vision_audio.json",
+      "question_id": "urbansas_audio_bench_questions_vision_audio_288",
+      "question_type": "urbansas_audio_bench_questions_vision_audio"
+    },
+    {
+      "question_number": 4,
+      "question_text": "Listen to the spatial audio from the urban street scene. Analyze:\n- The vehicle engine sound characteristics to identify the vehicle type (car, bus, motorbike)\n- The audio's directional movement (left-to-right, right-to-left, approaching, receding)\n- Volume and frequency changes that indicate distance and movement\n- Whether any vehicle sound is present at all\n\nWhich text description best matches your audio analysis? Choose A, B, C, or D.",
+      "user_answer": "D",
+      "correct_answer": "D",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/02_spatial/3D_movements/urbansas_audio_bench_questions_audio_text.json",
+      "question_id": "urbansas_audio_bench_questions_audio_text_345",
+      "question_type": "urbansas_audio_bench_questions_audio_text"
+    },
+    {
+      "question_number": 5,
+      "question_text": "Read the text description of the urban street scene, which specifies:\n- The type of vehicle involved (or absence of vehicles)\n- The movement direction and pattern\n- The spatial trajectory through the scene\n\nBased on this description, identify which video clip visually demonstrates the described scenario. Look for matching vehicle type and movement pattern. Choose A, B, C, or D.",
+      "user_answer": "C",
+      "correct_answer": "C",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/02_spatial/3D_movements/urbansas_audio_bench_questions_text_vision.json",
+      "question_id": "urbansas_audio_bench_questions_text_vision_325",
+      "question_type": "urbansas_audio_bench_questions_text_vision"
+    },
+    {
+      "question_number": 6,
+      "question_text": "Listen carefully to the spatial audio clip from an urban street scene. Pay attention to:\n- The type of vehicle sound (car, bus, motorbike, or no vehicle)\n- The direction of movement (left-to-right, right-to-left, approaching, or receding)\n- The spatial positioning and distance changes\n\nBased on these audio cues, select the video that best matches the vehicle type and movement pattern you heard. Choose A, B, C, or D.",
+      "user_answer": "D",
+      "correct_answer": "D",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/02_spatial/3D_movements/urbansas_audio_bench_questions_audio_vision.json",
+      "question_id": "urbansas_audio_bench_questions_audio_vision_339",
+      "question_type": "urbansas_audio_bench_questions_audio_vision"
+    },
+    {
+      "question_number": 7,
+      "question_text": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+      "user_answer": "A",
+      "correct_answer": "A",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/02_spatial/3D_movements/urbansas_audio_bench_questions_vision_text.json",
+      "question_id": "urbansas_audio_bench_questions_vision_text_131",
+      "question_type": "urbansas_audio_bench_questions_vision_text"
+    },
+    {
+      "question_number": 8,
+      "question_text": "Read the description of the vehicle movement in the urban scene. It specifies:\n- The vehicle type (car, bus, motorbike, or no vehicle)\n- The direction and pattern of movement\n- The spatial relationship to the observer\n\nBased on this information, predict how this scenario would sound in real 3D space. Which audio clip best represents the described movement with appropriate spatial audio cues? Choose A, B, C, or D.",
+      "user_answer": "A",
+      "correct_answer": "A",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/02_spatial/3D_movements/urbansas_audio_bench_questions_text_audio.json",
+      "question_id": "urbansas_audio_bench_questions_text_audio_166",
+      "question_type": "urbansas_audio_bench_questions_text_audio"
+    },
+    {
+      "question_number": 9,
+      "question_text": "Read the description of the vehicle movement in the urban scene. It specifies:\n- The vehicle type (car, bus, motorbike, or no vehicle)\n- The direction and pattern of movement\n- The spatial relationship to the observer\n\nBased on this information, predict how this scenario would sound in real 3D space. Which audio clip best represents the described movement with appropriate spatial audio cues? Choose A, B, C, or D.",
+      "user_answer": "C",
+      "correct_answer": "C",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/02_spatial/3D_movements/urbansas_audio_bench_questions_text_audio.json",
+      "question_id": "urbansas_audio_bench_questions_text_audio_133",
+      "question_type": "urbansas_audio_bench_questions_text_audio"
+    },
+    {
+      "question_number": 10,
+      "question_text": "Listen to the spatial audio from the urban street scene. Analyze:\n- The vehicle engine sound characteristics to identify the vehicle type (car, bus, motorbike)\n- The audio's directional movement (left-to-right, right-to-left, approaching, receding)\n- Volume and frequency changes that indicate distance and movement\n- Whether any vehicle sound is present at all\n\nWhich text description best matches your audio analysis? Choose A, B, C, or D.",
+      "user_answer": "D",
+      "correct_answer": "B",
+      "is_correct": false,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/02_spatial/3D_movements/urbansas_audio_bench_questions_audio_text.json",
+      "question_id": "urbansas_audio_bench_questions_audio_text_86",
+      "question_type": "urbansas_audio_bench_questions_audio_text"
+    },
+    {
+      "question_number": 11,
+      "question_text": "Analyze the video clip of the urban street scene carefully. Identify:\n- The type of vehicle shown (car, bus, motorbike, or no vehicle)\n- The vehicle's movement direction and trajectory\n- How the vehicle's position changes relative to the camera\n\nBased on your visual analysis, select the audio clip that would realistically correspond to this vehicle's movement through 3D space. Consider how the sound would change as the vehicle moves. Choose A, B, C, or D.",
+      "user_answer": "A",
+      "correct_answer": "C",
+      "is_correct": false,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/02_spatial/3D_movements/urbansas_audio_bench_questions_vision_audio.json",
+      "question_id": "urbansas_audio_bench_questions_vision_audio_200",
+      "question_type": "urbansas_audio_bench_questions_vision_audio"
+    },
+    {
+      "question_number": 12,
+      "question_text": "Listen carefully to the spatial audio clip from an urban street scene. Pay attention to:\n- The type of vehicle sound (car, bus, motorbike, or no vehicle)\n- The direction of movement (left-to-right, right-to-left, approaching, or receding)\n- The spatial positioning and distance changes\n\nBased on these audio cues, select the video that best matches the vehicle type and movement pattern you heard. Choose A, B, C, or D.",
+      "user_answer": "C",
+      "correct_answer": "C",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/02_spatial/3D_movements/urbansas_audio_bench_questions_audio_vision.json",
+      "question_id": "urbansas_audio_bench_questions_audio_vision_6",
+      "question_type": "urbansas_audio_bench_questions_audio_vision"
+    }
+  ],
+  "score": {
+    "correct": 10,
+    "total": 12,
+    "percentage": 83.33333333333334
+  }
+}

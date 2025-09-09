@@ -41,8 +41,10 @@ class BenchmarkMetric:
 
     def analysis_all_model(self):
         result_dict = {}
-        for model in os.listdir(self.result_root):
-            if model.startswith("."):
+        models = ['gemini-2.5-flash', 'gemini-2.0-pro', 'gemini-2.5-pro', 'gemini-2.0-flash', 'qwen2.5_omni', 'vita']
+
+        for model in models:
+            if model.startswith(".") or model.startswith("_"):
                 continue
             if model not in result_dict:
                 result_dict[model] = {}
@@ -56,8 +58,11 @@ class BenchmarkMetric:
                 for modality in modalities:
                     result_file = os.path.join(self.result_root, model, f"{task_name}_{subtask}_{modality}.json")
                     if not os.path.exists(result_file):
-                        print(f"No result file for {task_name} {subtask} {modality} for model {model}")
-                        continue
+                        mini_result_file = os.path.join(self.result_root.replace("results", "results_mini_benchmark"), model, f"{task_name}_{subtask}_{modality}.json")
+                        if not os.path.exists(mini_result_file):
+                            print(f"No result file for {task_name} {subtask} {modality} for model {model}")
+                            continue
+                        result_file = mini_result_file
                     with open(result_file, "r") as f:
                         result = json.load(f)
                     score = result["score"]
@@ -65,6 +70,44 @@ class BenchmarkMetric:
         with open(self.save_result_json, "w") as f:
             json.dump(result_dict, f)
 
+    def get_task_statistics(self):
+        """
+        Extract all_count statistics from result files for each task/modality combination
+        """
+        task_stats = {}
+        
+        # Get any model to extract statistics (assuming all models have same task structure)
+        models = [m for m in os.listdir(self.result_root) if not m.startswith(".") and not m.startswith("_")]
+        if not models:
+            return task_stats
+            
+        # Use the first available model to get statistics
+        sample_model = models[0]
+        
+        for task in TASKS_TO_RUN:
+            task_name, subtask = task.split("/")
+            if task_name not in task_stats:
+                task_stats[task_name] = {}
+            if subtask not in task_stats[task_name]:
+                task_stats[task_name][subtask] = {}
+
+            for modality in modalities:
+                result_file = os.path.join(self.result_root, sample_model, f"{task_name}_{subtask}_{modality}.json")
+                if os.path.exists(result_file):
+                    try:
+                        with open(result_file, "r") as f:
+                            result = json.load(f)
+                        # Extract all_count if it exists
+                        if "all_count" in result:
+                            task_stats[task_name][subtask][modality] = result["all_count"]
+                        else:
+                            task_stats[task_name][subtask][modality] = "N/A"
+                    except (json.JSONDecodeError, KeyError):
+                        task_stats[task_name][subtask][modality] = "N/A"
+                else:
+                    task_stats[task_name][subtask][modality] = "N/A"
+        
+        return task_stats
 
     def to_csv(self, csv_file='benchmark_results.csv'):
         """
@@ -154,8 +197,27 @@ class BenchmarkMetric:
         with open(self.save_result_json, 'r') as f:
             result_dict = json.load(f)
 
+        # Get task statistics
+        task_stats = self.get_task_statistics()
+
         # Prepare CSV data
         csv_data = []
+        
+        # Add statistics row at the top
+        stats_row = ['Statistics (all_count)', ''] + [''] * (len(headers) - 2)
+        for task_name, task_data in task_stats.items():
+            for subtask_name, subtask_data in task_data.items():
+                column_idx = task_column_map.get((task_name, subtask_name))
+                if column_idx is not None:
+                    # Get the first available modality's count (assuming counts are same across modalities)
+                    for modality, count in subtask_data.items():
+                        if count != "N/A":
+                            stats_row[column_idx] = str(count)
+                            break
+                    else:
+                        stats_row[column_idx] = "N/A"
+        
+        csv_data.append(stats_row)
         csv_data.append(headers)
         csv_data.append(sub_headers)
 
@@ -207,13 +269,14 @@ class BenchmarkMetric:
         
         print(f"CSV file '{csv_file}' has been created successfully!")
         print(f"Exported results for {len(result_dict)} models")
+        print(f"Added statistics row showing all_count for each task")
         
         # Print preview
         print("\nCSV Preview:")
         print("-" * 120)
-        for i, row in enumerate(csv_data[:8]):  # Show first few rows
+        for i, row in enumerate(csv_data[:10]):  # Show first few rows including stats
             print(','.join(str(cell)[:10] for cell in row))  # Truncate long values for display
-            if i == 1:  # Add separator after headers
+            if i == 0 or i == 2:  # Add separator after stats row and sub-headers
                 print("-" * 120)
         
         return csv_data
@@ -227,5 +290,3 @@ if __name__ == "__main__":
     )
     benchmark_metric.analysis_all_model()
     csv_data = benchmark_metric.to_csv()
-
-

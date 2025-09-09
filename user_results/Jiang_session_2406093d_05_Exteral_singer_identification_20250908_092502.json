@@ -1,0 +1,163 @@
+{
+  "session_id": "2406093d",
+  "timestamp": "20250908_092502",
+  "task": "05_Exteral",
+  "subtask": "singer_identification",
+  "total_questions": 12,
+  "user_answers": [
+    "D",
+    "C",
+    "B",
+    "B",
+    "B",
+    "C",
+    "B",
+    "B",
+    "D",
+    "D",
+    "C",
+    "C"
+  ],
+  "correct_answers": [
+    "D",
+    "C",
+    "B",
+    "B",
+    "B",
+    "C",
+    "B",
+    "B",
+    "D",
+    "D",
+    "C",
+    "C"
+  ],
+  "questions_per_type": 2,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "Based on the singer name 'Ariana Grande', which photo shows this artist? Answer with A, B, C, or D",
+      "user_answer": "D",
+      "correct_answer": "D",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/05_Exteral/singer_identification/singer_identification_questions_text_vision.json",
+      "question_id": "singer_identification_questions_text_vision_43",
+      "question_type": "singer_identification_questions_text_vision"
+    },
+    {
+      "question_number": 2,
+      "question_text": "Look at this singer's photo. Which song is performed by this artist? Answer with A, B, C, or D",
+      "user_answer": "C",
+      "correct_answer": "C",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/05_Exteral/singer_identification/singer_identification_questions_vision_audio.json",
+      "question_id": "singer_identification_questions_vision_audio_142",
+      "question_type": "singer_identification_questions_vision_audio"
+    },
+    {
+      "question_number": 3,
+      "question_text": "Look at this singer's photo. Which song is performed by this artist? Answer with A, B, C, or D",
+      "user_answer": "B",
+      "correct_answer": "B",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/05_Exteral/singer_identification/singer_identification_questions_vision_audio.json",
+      "question_id": "singer_identification_questions_vision_audio_28",
+      "question_type": "singer_identification_questions_vision_audio"
+    },
+    {
+      "question_number": 4,
+      "question_text": "Listen to this song. Which photo shows the singer performing this music? Answer with A, B, C, or D",
+      "user_answer": "B",
+      "correct_answer": "B",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/05_Exteral/singer_identification/singer_identification_questions_audio_vision.json",
+      "question_id": "singer_identification_questions_audio_vision_32",
+      "question_type": "singer_identification_questions_audio_vision"
+    },
+    {
+      "question_number": 5,
+      "question_text": "Based on the singer name 'Harry Styles', which song is performed by this artist? Answer with A, B, C, or D",
+      "user_answer": "B",
+      "correct_answer": "B",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/05_Exteral/singer_identification/singer_identification_questions_text_audio.json",
+      "question_id": "singer_identification_questions_text_audio_47",
+      "question_type": "singer_identification_questions_text_audio"
+    },
+    {
+      "question_number": 6,
+      "question_text": "Listen to this song. Which photo shows the singer performing this music? Answer with A, B, C, or D",
+      "user_answer": "C",
+      "correct_answer": "C",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/05_Exteral/singer_identification/singer_identification_questions_audio_vision.json",
+      "question_id": "singer_identification_questions_audio_vision_144",
+      "question_type": "singer_identification_questions_audio_vision"
+    },
+    {
+      "question_number": 7,
+      "question_text": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+      "user_answer": "B",
+      "correct_answer": "B",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/05_Exteral/singer_identification/singer_identification_questions_vision_text.json",
+      "question_id": "singer_identification_questions_vision_text_72",
+      "question_type": "singer_identification_questions_vision_text"
+    },
+    {
+      "question_number": 8,
+      "question_text": "Listen to this song. Which artist is performing this music? Answer with A, B, C, or D",
+      "user_answer": "B",
+      "correct_answer": "B",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/05_Exteral/singer_identification/singer_identification_questions_audio_text.json",
+      "question_id": "singer_identification_questions_audio_text_22",
+      "question_type": "singer_identification_questions_audio_text"
+    },
+    {
+      "question_number": 9,
+      "question_text": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+      "user_answer": "D",
+      "correct_answer": "D",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/05_Exteral/singer_identification/singer_identification_questions_vision_text.json",
+      "question_id": "singer_identification_questions_vision_text_27",
+      "question_type": "singer_identification_questions_vision_text"
+    },
+    {
+      "question_number": 10,
+      "question_text": "Based on the singer name 'G.E.M.', which song is performed by this artist? Answer with A, B, C, or D",
+      "user_answer": "D",
+      "correct_answer": "D",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/05_Exteral/singer_identification/singer_identification_questions_text_audio.json",
+      "question_id": "singer_identification_questions_text_audio_119",
+      "question_type": "singer_identification_questions_text_audio"
+    },
+    {
+      "question_number": 11,
+      "question_text": "Listen to this song. Which artist is performing this music? Answer with A, B, C, or D",
+      "user_answer": "C",
+      "correct_answer": "C",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/05_Exteral/singer_identification/singer_identification_questions_audio_text.json",
+      "question_id": "singer_identification_questions_audio_text_132",
+      "question_type": "singer_identification_questions_audio_text"
+    },
+    {
+      "question_number": 12,
+      "question_text": "Based on the singer name 'Lady Gaga', which photo shows this artist? Answer with A, B, C, or D",
+      "user_answer": "C",
+      "correct_answer": "C",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/05_Exteral/singer_identification/singer_identification_questions_text_vision.json",
+      "question_id": "singer_identification_questions_text_vision_147",
+      "question_type": "singer_identification_questions_text_vision"
+    }
+  ],
+  "score": {
+    "correct": 12,
+    "total": 12,
+    "percentage": 100.0
+  }
+}

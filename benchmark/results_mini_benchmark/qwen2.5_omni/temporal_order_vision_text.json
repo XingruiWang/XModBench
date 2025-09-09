@@ -1,0 +1,78 @@
+{
+    "task_name": "temporal/order_vision_text",
+    "score": 70.0,
+    "correct_count": 7,
+    "all_count": 10,
+    "results": {
+        "0": {
+            "question": "The video below shows a sequence of events occurring chronologically over time, representing the temporal order in which they occur. Which text description best corresponds to this temporal sequence? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 0,
+            "is_correct": false
+        },
+        "1": {
+            "question": "The video below shows a sequence of events occurring chronologically over time, representing the temporal order in which they occur. Which text description best corresponds to this temporal sequence? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 1,
+            "is_correct": false
+        },
+        "2": {
+            "question": "The video below shows a sequence of events occurring chronologically over time, representing the temporal order in which they occur. Which text description best corresponds to this temporal sequence? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 2,
+            "is_correct": true
+        },
+        "3": {
+            "question": "The video below shows a sequence of events occurring chronologically over time, representing the temporal order in which they occur. Which text description best corresponds to this temporal sequence? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 3,
+            "is_correct": true
+        },
+        "4": {
+            "question": "The video below shows a sequence of events occurring chronologically over time, representing the temporal order in which they occur. Which text description best corresponds to this temporal sequence? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 4,
+            "is_correct": true
+        },
+        "5": {
+            "question": "The video below shows a sequence of events occurring chronologically over time, representing the temporal order in which they occur. Which text description best corresponds to this temporal sequence? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 5,
+            "is_correct": true
+        },
+        "6": {
+            "question": "The video below shows a sequence of events occurring chronologically over time, representing the temporal order in which they occur. Which text description best corresponds to this temporal sequence? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 6,
+            "is_correct": true
+        },
+        "7": {
+            "question": "The video below shows a sequence of events occurring chronologically over time, representing the temporal order in which they occur. Which text description best corresponds to this temporal sequence? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 7,
+            "is_correct": true
+        },
+        "8": {
+            "question": "The video below shows a sequence of events occurring chronologically over time, representing the temporal order in which they occur. Which text description best corresponds to this temporal sequence? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 8,
+            "is_correct": false
+        },
+        "9": {
+            "question": "The video below shows a sequence of events occurring chronologically over time, representing the temporal order in which they occur. Which text description best corresponds to this temporal sequence? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 9,
+            "is_correct": true
+        }
+    }
+}

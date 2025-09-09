@@ -1,0 +1,235 @@
+{
+  "session_id": "a8df0a3a",
+  "timestamp": "20250905_185528",
+  "task": "01_perception",
+  "subtask": "natures",
+  "total_questions": 18,
+  "user_answers": [
+    "D",
+    "D",
+    "C",
+    "D",
+    "D",
+    "A",
+    "B",
+    "D",
+    "A",
+    "A",
+    "B",
+    "D",
+    "B",
+    "D",
+    "A",
+    "C",
+    "B",
+    "A"
+  ],
+  "correct_answers": [
+    "D",
+    "D",
+    "C",
+    "D",
+    "D",
+    "A",
+    "B",
+    "D",
+    "C",
+    "A",
+    "B",
+    "D",
+    "B",
+    "D",
+    "A",
+    "C",
+    "A",
+    "A"
+  ],
+  "questions_per_type": 3,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "Which phrase is most likely to describe this scene in this audio? Answer the question with A, B, C, or D.",
+      "user_answer": "D",
+      "correct_answer": "D",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/natures/landscapes_audio_bench_questions_audio_text.json",
+      "question_id": "landscapes_audio_bench_questions_audio_text_432",
+      "question_type": "landscapes_audio_bench_questions_audio_text"
+    },
+    {
+      "question_number": 2,
+      "question_text": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+      "user_answer": "D",
+      "correct_answer": "D",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/natures/landscapes_audio_bench_questions_audio_vision.json",
+      "question_id": "landscapes_audio_bench_questions_audio_vision_125",
+      "question_type": "landscapes_audio_bench_questions_audio_vision"
+    },
+    {
+      "question_number": 3,
+      "question_text": "Which phrase is most likely to describe this scene in this image? Answer the question with A, B, C, or D",
+      "user_answer": "C",
+      "correct_answer": "C",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/natures/landscapes_audio_bench_questions_vision_text.json",
+      "question_id": "landscapes_audio_bench_questions_vision_text_345",
+      "question_type": "landscapes_audio_bench_questions_vision_text"
+    },
+    {
+      "question_number": 4,
+      "question_text": "Which phrase is most likely to describe this scene in this audio? Answer the question with A, B, C, or D.",
+      "user_answer": "D",
+      "correct_answer": "D",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/natures/landscapes_audio_bench_questions_audio_text.json",
+      "question_id": "landscapes_audio_bench_questions_audio_text_249",
+      "question_type": "landscapes_audio_bench_questions_audio_text"
+    },
+    {
+      "question_number": 5,
+      "question_text": "Which sound is most likely made by the natural scenes from this image? Answer the question with A, B, C, or D",
+      "user_answer": "D",
+      "correct_answer": "D",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/natures/landscapes_audio_bench_questions_vision_audio.json",
+      "question_id": "landscapes_audio_bench_questions_vision_audio_336",
+      "question_type": "landscapes_audio_bench_questions_vision_audio"
+    },
+    {
+      "question_number": 6,
+      "question_text": "Which phrase is most likely to describe this scene in this image? Answer the question with A, B, C, or D",
+      "user_answer": "A",
+      "correct_answer": "A",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/natures/landscapes_audio_bench_questions_vision_text.json",
+      "question_id": "landscapes_audio_bench_questions_vision_text_108",
+      "question_type": "landscapes_audio_bench_questions_vision_text"
+    },
+    {
+      "question_number": 7,
+      "question_text": "Which image is most likely to belong to this description of this scene? Answer the question with A, B, C, or D.",
+      "user_answer": "B",
+      "correct_answer": "B",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/natures/landscapes_audio_bench_questions_text_vision.json",
+      "question_id": "landscapes_audio_bench_questions_text_vision_483",
+      "question_type": "landscapes_audio_bench_questions_text_vision"
+    },
+    {
+      "question_number": 8,
+      "question_text": "Which image is most likely to belong to this description of this scene? Answer the question with A, B, C, or D.",
+      "user_answer": "D",
+      "correct_answer": "D",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/natures/landscapes_audio_bench_questions_text_vision.json",
+      "question_id": "landscapes_audio_bench_questions_text_vision_328",
+      "question_type": "landscapes_audio_bench_questions_text_vision"
+    },
+    {
+      "question_number": 9,
+      "question_text": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+      "user_answer": "A",
+      "correct_answer": "C",
+      "is_correct": false,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/natures/landscapes_audio_bench_questions_audio_vision.json",
+      "question_id": "landscapes_audio_bench_questions_audio_vision_229",
+      "question_type": "landscapes_audio_bench_questions_audio_vision"
+    },
+    {
+      "question_number": 10,
+      "question_text": "Which sound is most likely made by the natural scenes from this image? Answer the question with A, B, C, or D",
+      "user_answer": "A",
+      "correct_answer": "A",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/natures/landscapes_audio_bench_questions_vision_audio.json",
+      "question_id": "landscapes_audio_bench_questions_vision_audio_375",
+      "question_type": "landscapes_audio_bench_questions_vision_audio"
+    },
+    {
+      "question_number": 11,
+      "question_text": "Which sound is most likely made by the natural scenes from this image? Answer the question with A, B, C, or D",
+      "user_answer": "B",
+      "correct_answer": "B",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/natures/landscapes_audio_bench_questions_vision_audio.json",
+      "question_id": "landscapes_audio_bench_questions_vision_audio_160",
+      "question_type": "landscapes_audio_bench_questions_vision_audio"
+    },
+    {
+      "question_number": 12,
+      "question_text": "Which audio is most likely to belong to this description of this scene? Answer the question with A, B, C, or D.",
+      "user_answer": "D",
+      "correct_answer": "D",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/natures/landscapes_audio_bench_questions_text_audio.json",
+      "question_id": "landscapes_audio_bench_questions_text_audio_110",
+      "question_type": "landscapes_audio_bench_questions_text_audio"
+    },
+    {
+      "question_number": 13,
+      "question_text": "Which image is most likely to belong to this description of this scene? Answer the question with A, B, C, or D.",
+      "user_answer": "B",
+      "correct_answer": "B",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/natures/landscapes_audio_bench_questions_text_vision.json",
+      "question_id": "landscapes_audio_bench_questions_text_vision_396",
+      "question_type": "landscapes_audio_bench_questions_text_vision"
+    },
+    {
+      "question_number": 14,
+      "question_text": "Which phrase is most likely to describe this scene in this audio? Answer the question with A, B, C, or D.",
+      "user_answer": "D",
+      "correct_answer": "D",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/natures/landscapes_audio_bench_questions_audio_text.json",
+      "question_id": "landscapes_audio_bench_questions_audio_text_196",
+      "question_type": "landscapes_audio_bench_questions_audio_text"
+    },
+    {
+      "question_number": 15,
+      "question_text": "Which audio is most likely to belong to this description of this scene? Answer the question with A, B, C, or D.",
+      "user_answer": "A",
+      "correct_answer": "A",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/natures/landscapes_audio_bench_questions_text_audio.json",
+      "question_id": "landscapes_audio_bench_questions_text_audio_292",
+      "question_type": "landscapes_audio_bench_questions_text_audio"
+    },
+    {
+      "question_number": 16,
+      "question_text": "Which phrase is most likely to describe this scene in this image? Answer the question with A, B, C, or D",
+      "user_answer": "C",
+      "correct_answer": "C",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/natures/landscapes_audio_bench_questions_vision_text.json",
+      "question_id": "landscapes_audio_bench_questions_vision_text_468",
+      "question_type": "landscapes_audio_bench_questions_vision_text"
+    },
+    {
+      "question_number": 17,
+      "question_text": "Which image most likely belongs to the scene that make this sound? Answer the question with A, B, C, or D",
+      "user_answer": "B",
+      "correct_answer": "A",
+      "is_correct": false,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/natures/landscapes_audio_bench_questions_audio_vision.json",
+      "question_id": "landscapes_audio_bench_questions_audio_vision_369",
+      "question_type": "landscapes_audio_bench_questions_audio_vision"
+    },
+    {
+      "question_number": 18,
+      "question_text": "Which audio is most likely to belong to this description of this scene? Answer the question with A, B, C, or D.",
+      "user_answer": "A",
+      "correct_answer": "A",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/natures/landscapes_audio_bench_questions_text_audio.json",
+      "question_id": "landscapes_audio_bench_questions_text_audio_170",
+      "question_type": "landscapes_audio_bench_questions_text_audio"
+    }
+  ],
+  "score": {
+    "correct": 16,
+    "total": 18,
+    "percentage": 88.88888888888889
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "session_id": "2406093d",
+  "timestamp": "20250908_094256",
+  "task": "04_temporal",
+  "subtask": "order",
+  "total_questions": 12,
+  "user_answers": [
+    "B",
+    "D",
+    "B",
+    "A",
+    "B",
+    "B",
+    "D",
+    "D",
+    "A",
+    "D",
+    "A",
+    "C"
+  ],
+  "correct_answers": [
+    "B",
+    "D",
+    "B",
+    "A",
+    "B",
+    "B",
+    "D",
+    "D",
+    "A",
+    "D",
+    "A",
+    "C"
+  ],
+  "questions_per_type": 2,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "Listen to the audio clip below, which features multiple sounds occurring in a specific temporal sequence. Pay close attention to the chronological order in which each sound appears. Which text best describes the temporal order of the events (from first to last)? Choose A, B, C, or D.",
+      "user_answer": "B",
+      "correct_answer": "B",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/04_temporal/order/vggss_order_audio_bench_questions_text_audio.json",
+      "question_id": "vggss_order_audio_bench_questions_text_audio_90",
+      "question_type": "vggss_order_audio_bench_questions_text_audio"
+    },
+    {
+      "question_number": 2,
+      "question_text": "The video below shows a sequence of events occurring in chronological order over time, representing the temporal order in which they should occur. Listen carefully to each audio clip and determine the temporal sequence of events. Which audio clip matches the chronological order shown in the video? Choose A, B, C, or D.",
+      "user_answer": "D",
+      "correct_answer": "D",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/04_temporal/order/vggss_order_audio_bench_questions_vision_audio.json",
+      "question_id": "vggss_order_audio_bench_questions_vision_audio_16",
+      "question_type": "vggss_order_audio_bench_questions_vision_audio"
+    },
+    {
+      "question_number": 3,
+      "question_text": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+      "user_answer": "B",
+      "correct_answer": "B",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/04_temporal/order/vggss_order_audio_bench_questions_text_vision.json",
+      "question_id": "vggss_order_audio_bench_questions_text_vision_308",
+      "question_type": "vggss_order_audio_bench_questions_text_vision"
+    },
+    {
+      "question_number": 4,
+      "question_text": "Listen to the audio clip below, which features multiple sounds occurring in a specific temporal sequence. Pay close attention to the chronological order in which each sound appears. Which text best describes the temporal order of the events (from first to last)? Choose A, B, C, or D.",
+      "user_answer": "A",
+      "correct_answer": "A",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/04_temporal/order/vggss_order_audio_bench_questions_text_audio.json",
+      "question_id": "vggss_order_audio_bench_questions_text_audio_19",
+      "question_type": "vggss_order_audio_bench_questions_text_audio"
+    },
+    {
+      "question_number": 5,
+      "question_text": "The video below shows a sequence of events occurring in chronological order over time, representing the temporal order in which they should occur. Listen carefully to each audio clip and determine the temporal sequence of events. Which audio clip matches the chronological order shown in the video? Choose A, B, C, or D.",
+      "user_answer": "B",
+      "correct_answer": "B",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/04_temporal/order/vggss_order_audio_bench_questions_vision_audio.json",
+      "question_id": "vggss_order_audio_bench_questions_vision_audio_145",
+      "question_type": "vggss_order_audio_bench_questions_vision_audio"
+    },
+    {
+      "question_number": 6,
+      "question_text": "The text below describes the chronological sequence of events occurring over time (from first to last). Which video best represents this temporal order, with events occurring sequentially over time? Answer the question with A, B, C, or D.",
+      "user_answer": "B",
+      "correct_answer": "B",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/04_temporal/order/vggss_order_audio_bench_questions_text_vision.json",
+      "question_id": "vggss_order_audio_bench_questions_text_vision_86",
+      "question_type": "vggss_order_audio_bench_questions_text_vision"
+    },
+    {
+      "question_number": 7,
+      "question_text": "The text below describes the temporal sequence in which several events occur over time (from first to last). Listen carefully to each audio clip and pay attention to the chronological order of the sounds. Which audio clip best matches this temporal sequence? Choose A, B, C, or D.",
+      "user_answer": "D",
+      "correct_answer": "D",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/04_temporal/order/vggss_order_audio_bench_questions_audio_text.json",
+      "question_id": "vggss_order_audio_bench_questions_audio_text_75",
+      "question_type": "vggss_order_audio_bench_questions_audio_text"
+    },
+    {
+      "question_number": 8,
+      "question_text": "The text below describes the temporal sequence in which several events occur over time (from first to last). Listen carefully to each audio clip and pay attention to the chronological order of the sounds. Which audio clip best matches this temporal sequence? Choose A, B, C, or D.",
+      "user_answer": "D",
+      "correct_answer": "D",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/04_temporal/order/vggss_order_audio_bench_questions_audio_text.json",
+      "question_id": "vggss_order_audio_bench_questions_audio_text_76",
+      "question_type": "vggss_order_audio_bench_questions_audio_text"
+    },
+    {
+      "question_number": 9,
+      "question_text": "The video below shows a sequence of events occurring chronologically over time, representing the temporal order in which they occur. Which text description best corresponds to this temporal sequence? Choose A, B, C, or D.",
+      "user_answer": "A",
+      "correct_answer": "A",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/04_temporal/order/vggss_order_audio_bench_questions_vision_text.json",
+      "question_id": "vggss_order_audio_bench_questions_vision_text_431",
+      "question_type": "vggss_order_audio_bench_questions_vision_text"
+    },
+    {
+      "question_number": 10,
+      "question_text": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+      "user_answer": "D",
+      "correct_answer": "D",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/04_temporal/order/vggss_order_audio_bench_questions_audio_vision.json",
+      "question_id": "vggss_order_audio_bench_questions_audio_vision_163",
+      "question_type": "vggss_order_audio_bench_questions_audio_vision"
+    },
+    {
+      "question_number": 11,
+      "question_text": "The video below shows a sequence of events occurring chronologically over time, representing the temporal order in which they occur. Which text description best corresponds to this temporal sequence? Choose A, B, C, or D.",
+      "user_answer": "A",
+      "correct_answer": "A",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/04_temporal/order/vggss_order_audio_bench_questions_vision_text.json",
+      "question_id": "vggss_order_audio_bench_questions_vision_text_406",
+      "question_type": "vggss_order_audio_bench_questions_vision_text"
+    },
+    {
+      "question_number": 12,
+      "question_text": "Listen to this audio sequence where multiple sounds occur one after another in a specific temporal order. Which video best represents the correct chronological sequence of events as they appear in the audio? The video shows the temporal order of events occurring sequentially over time. Answer the question with A, B, C, or D.",
+      "user_answer": "C",
+      "correct_answer": "C",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/04_temporal/order/vggss_order_audio_bench_questions_audio_vision.json",
+      "question_id": "vggss_order_audio_bench_questions_audio_vision_124",
+      "question_type": "vggss_order_audio_bench_questions_audio_vision"
+    }
+  ],
+  "score": {
+    "correct": 12,
+    "total": 12,
+    "percentage": 100.0
+  }
+}

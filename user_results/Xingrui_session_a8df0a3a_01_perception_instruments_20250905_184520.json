@@ -1,0 +1,235 @@
+{
+  "session_id": "a8df0a3a",
+  "timestamp": "20250905_184520",
+  "task": "01_perception",
+  "subtask": "instruments",
+  "total_questions": 18,
+  "user_answers": [
+    "A",
+    "C",
+    "A",
+    "D",
+    "A",
+    "B",
+    "D",
+    "A",
+    "C",
+    "A",
+    "C",
+    "B",
+    "A",
+    "D",
+    "D",
+    "B",
+    "B",
+    "C"
+  ],
+  "correct_answers": [
+    "A",
+    "A",
+    "A",
+    "D",
+    "A",
+    "B",
+    "D",
+    "A",
+    "B",
+    "A",
+    "C",
+    "D",
+    "A",
+    "D",
+    "D",
+    "B",
+    "B",
+    "D"
+  ],
+  "questions_per_type": 3,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "Which phrase is most likely to describe the object in this image? Answer the question with A, B, C, or D",
+      "user_answer": "A",
+      "correct_answer": "A",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/instruments/solos_audio_bench_questions_vision_text.json",
+      "question_id": "solos_audio_bench_questions_vision_text_14",
+      "question_type": "solos_audio_bench_questions_vision_text"
+    },
+    {
+      "question_number": 2,
+      "question_text": "Which phrase is most likely to describe the sound in this audio? Answer the question with A, B, C, or D.",
+      "user_answer": "C",
+      "correct_answer": "A",
+      "is_correct": false,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/instruments/solos_audio_bench_questions_audio_text.json",
+      "question_id": "solos_audio_bench_questions_audio_text_253",
+      "question_type": "solos_audio_bench_questions_audio_text"
+    },
+    {
+      "question_number": 3,
+      "question_text": "Which phrase is most likely to describe the object in this image? Answer the question with A, B, C, or D",
+      "user_answer": "A",
+      "correct_answer": "A",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/instruments/solos_audio_bench_questions_vision_text.json",
+      "question_id": "solos_audio_bench_questions_vision_text_241",
+      "question_type": "solos_audio_bench_questions_vision_text"
+    },
+    {
+      "question_number": 4,
+      "question_text": "Which phrase is most likely to describe the sound in this audio? Answer the question with A, B, C, or D.",
+      "user_answer": "D",
+      "correct_answer": "D",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/instruments/solos_audio_bench_questions_audio_text.json",
+      "question_id": "solos_audio_bench_questions_audio_text_709",
+      "question_type": "solos_audio_bench_questions_audio_text"
+    },
+    {
+      "question_number": 5,
+      "question_text": "Which audio is most likely to belong to this phrase? Answer the question with A, B, C, or D.",
+      "user_answer": "A",
+      "correct_answer": "A",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/instruments/solos_audio_bench_questions_text_audio.json",
+      "question_id": "solos_audio_bench_questions_text_audio_150",
+      "question_type": "solos_audio_bench_questions_text_audio"
+    },
+    {
+      "question_number": 6,
+      "question_text": "Which phrase is most likely to describe the object in this image? Answer the question with A, B, C, or D",
+      "user_answer": "B",
+      "correct_answer": "B",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/instruments/solos_audio_bench_questions_vision_text.json",
+      "question_id": "solos_audio_bench_questions_vision_text_148",
+      "question_type": "solos_audio_bench_questions_vision_text"
+    },
+    {
+      "question_number": 7,
+      "question_text": "Which image is most likely to belong to this phrase? Answer the question with A, B, C, or D.",
+      "user_answer": "D",
+      "correct_answer": "D",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/instruments/solos_audio_bench_questions_text_vision.json",
+      "question_id": "solos_audio_bench_questions_text_vision_818",
+      "question_type": "solos_audio_bench_questions_text_vision"
+    },
+    {
+      "question_number": 8,
+      "question_text": "Which audio is most likely to belong to this phrase? Answer the question with A, B, C, or D.",
+      "user_answer": "A",
+      "correct_answer": "A",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/instruments/solos_audio_bench_questions_text_audio.json",
+      "question_id": "solos_audio_bench_questions_text_audio_470",
+      "question_type": "solos_audio_bench_questions_text_audio"
+    },
+    {
+      "question_number": 9,
+      "question_text": "Which sound is most likely made by the object from this image? Answer the question with A, B, C, or D",
+      "user_answer": "C",
+      "correct_answer": "B",
+      "is_correct": false,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/instruments/solos_audio_bench_questions_vision_audio.json",
+      "question_id": "solos_audio_bench_questions_vision_audio_418",
+      "question_type": "solos_audio_bench_questions_vision_audio"
+    },
+    {
+      "question_number": 10,
+      "question_text": "Which image is most likely to belong to this phrase? Answer the question with A, B, C, or D.",
+      "user_answer": "A",
+      "correct_answer": "A",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/instruments/solos_audio_bench_questions_text_vision.json",
+      "question_id": "solos_audio_bench_questions_text_vision_402",
+      "question_type": "solos_audio_bench_questions_text_vision"
+    },
+    {
+      "question_number": 11,
+      "question_text": "Which image is most likely to belong to this phrase? Answer the question with A, B, C, or D.",
+      "user_answer": "C",
+      "correct_answer": "C",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/instruments/solos_audio_bench_questions_text_vision.json",
+      "question_id": "solos_audio_bench_questions_text_vision_326",
+      "question_type": "solos_audio_bench_questions_text_vision"
+    },
+    {
+      "question_number": 12,
+      "question_text": "Which sound is most likely made by the object from this image? Answer the question with A, B, C, or D",
+      "user_answer": "B",
+      "correct_answer": "D",
+      "is_correct": false,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/instruments/solos_audio_bench_questions_vision_audio.json",
+      "question_id": "solos_audio_bench_questions_vision_audio_590",
+      "question_type": "solos_audio_bench_questions_vision_audio"
+    },
+    {
+      "question_number": 13,
+      "question_text": "Which image most likely belongs to the object that make this sound? Answer the question with A, B, C, or D",
+      "user_answer": "A",
+      "correct_answer": "A",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/instruments/solos_audio_bench_questions_audio_vision.json",
+      "question_id": "solos_audio_bench_questions_audio_vision_305",
+      "question_type": "solos_audio_bench_questions_audio_vision"
+    },
+    {
+      "question_number": 14,
+      "question_text": "Which image most likely belongs to the object that make this sound? Answer the question with A, B, C, or D",
+      "user_answer": "D",
+      "correct_answer": "D",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/instruments/solos_audio_bench_questions_audio_vision.json",
+      "question_id": "solos_audio_bench_questions_audio_vision_143",
+      "question_type": "solos_audio_bench_questions_audio_vision"
+    },
+    {
+      "question_number": 15,
+      "question_text": "Which sound is most likely made by the object from this image? Answer the question with A, B, C, or D",
+      "user_answer": "D",
+      "correct_answer": "D",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/instruments/solos_audio_bench_questions_vision_audio.json",
+      "question_id": "solos_audio_bench_questions_vision_audio_120",
+      "question_type": "solos_audio_bench_questions_vision_audio"
+    },
+    {
+      "question_number": 16,
+      "question_text": "Which audio is most likely to belong to this phrase? Answer the question with A, B, C, or D.",
+      "user_answer": "B",
+      "correct_answer": "B",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/instruments/solos_audio_bench_questions_text_audio.json",
+      "question_id": "solos_audio_bench_questions_text_audio_444",
+      "question_type": "solos_audio_bench_questions_text_audio"
+    },
+    {
+      "question_number": 17,
+      "question_text": "Which phrase is most likely to describe the sound in this audio? Answer the question with A, B, C, or D.",
+      "user_answer": "B",
+      "correct_answer": "B",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/instruments/solos_audio_bench_questions_audio_text.json",
+      "question_id": "solos_audio_bench_questions_audio_text_573",
+      "question_type": "solos_audio_bench_questions_audio_text"
+    },
+    {
+      "question_number": 18,
+      "question_text": "Which image most likely belongs to the object that make this sound? Answer the question with A, B, C, or D",
+      "user_answer": "C",
+      "correct_answer": "D",
+      "is_correct": false,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/instruments/solos_audio_bench_questions_audio_vision.json",
+      "question_id": "solos_audio_bench_questions_audio_vision_601",
+      "question_type": "solos_audio_bench_questions_audio_vision"
+    }
+  ],
+  "score": {
+    "correct": 14,
+    "total": 18,
+    "percentage": 77.77777777777779
+  }
+}
