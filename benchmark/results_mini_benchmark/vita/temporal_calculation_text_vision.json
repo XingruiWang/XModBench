@@ -1,0 +1,1815 @@
+{
+    "task_name": "temporal/calculation_text_vision",
+    "score": 25.581395348837212,
+    "correct_count": 66,
+    "all_count": 258,
+    "error_count": 39,
+    "results": {
+        "0": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 0,
+            "is_correct": false
+        },
+        "1": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 1,
+            "is_correct": false
+        },
+        "2": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 1) * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 2,
+            "is_correct": false
+        },
+        "3": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 3) * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 3,
+            "is_correct": false
+        },
+        "4": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 1) * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 4,
+            "is_correct": false
+        },
+        "5": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 3) * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 5,
+            "is_correct": false
+        },
+        "6": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 2) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 6,
+            "is_correct": false
+        },
+        "7": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 1) * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 7,
+            "is_correct": true
+        },
+        "8": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 8,
+            "is_correct": false
+        },
+        "9": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 9,
+            "is_correct": false
+        },
+        "11": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 2) * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 11,
+            "is_correct": true
+        },
+        "12": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 3) * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 12,
+            "is_correct": false
+        },
+        "13": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 3) * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 13,
+            "is_correct": false
+        },
+        "14": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 14,
+            "is_correct": false
+        },
+        "15": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 1) * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 15,
+            "is_correct": true
+        },
+        "17": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 1) * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 17,
+            "is_correct": false
+        },
+        "18": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 1) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 18,
+            "is_correct": false
+        },
+        "20": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 1) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 20,
+            "is_correct": false
+        },
+        "21": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 2) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 21,
+            "is_correct": false
+        },
+        "22": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 2) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 22,
+            "is_correct": false
+        },
+        "23": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 1) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 23,
+            "is_correct": false
+        },
+        "24": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 24,
+            "is_correct": false
+        },
+        "26": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 26,
+            "is_correct": true
+        },
+        "28": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 2) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 28,
+            "is_correct": false
+        },
+        "29": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 2) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 29,
+            "is_correct": false
+        },
+        "30": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 2) * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 30,
+            "is_correct": false
+        },
+        "31": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 2) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 31,
+            "is_correct": true
+        },
+        "32": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 32,
+            "is_correct": false
+        },
+        "33": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 1) * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 33,
+            "is_correct": true
+        },
+        "34": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 2) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 34,
+            "is_correct": false
+        },
+        "35": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 35,
+            "is_correct": false
+        },
+        "36": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 36,
+            "is_correct": false
+        },
+        "39": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 2) * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 39,
+            "is_correct": false
+        },
+        "40": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 1) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 40,
+            "is_correct": false
+        },
+        "41": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 41,
+            "is_correct": false
+        },
+        "42": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 2) * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 42,
+            "is_correct": true
+        },
+        "43": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 1) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 43,
+            "is_correct": false
+        },
+        "44": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 3) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 44,
+            "is_correct": true
+        },
+        "45": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 3) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 45,
+            "is_correct": false
+        },
+        "46": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 3) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 46,
+            "is_correct": false
+        },
+        "47": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 47,
+            "is_correct": false
+        },
+        "49": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 2) * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 49,
+            "is_correct": false
+        },
+        "50": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 2) * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 50,
+            "is_correct": true
+        },
+        "51": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 2) * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 51,
+            "is_correct": true
+        },
+        "52": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 2) * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 52,
+            "is_correct": true
+        },
+        "53": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 53,
+            "is_correct": true
+        },
+        "54": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 1) * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 54,
+            "is_correct": true
+        },
+        "55": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 3) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 55,
+            "is_correct": false
+        },
+        "56": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 56,
+            "is_correct": false
+        },
+        "57": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 2) * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 57,
+            "is_correct": false
+        },
+        "58": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 3) * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 58,
+            "is_correct": false
+        },
+        "59": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 2) * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 59,
+            "is_correct": false
+        },
+        "60": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 60,
+            "is_correct": false
+        },
+        "62": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 3) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 62,
+            "is_correct": false
+        },
+        "63": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 3) * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 63,
+            "is_correct": false
+        },
+        "64": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 2) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 64,
+            "is_correct": false
+        },
+        "65": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 1) * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 65,
+            "is_correct": false
+        },
+        "66": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 66,
+            "is_correct": false
+        },
+        "67": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 67,
+            "is_correct": false
+        },
+        "69": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 69,
+            "is_correct": false
+        },
+        "70": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 1) * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 70,
+            "is_correct": false
+        },
+        "71": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 1) * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 71,
+            "is_correct": true
+        },
+        "74": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 1) * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 74,
+            "is_correct": false
+        },
+        "75": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 3) * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 75,
+            "is_correct": false
+        },
+        "77": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 77,
+            "is_correct": false
+        },
+        "78": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 1) * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 78,
+            "is_correct": false
+        },
+        "79": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 1) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 79,
+            "is_correct": true
+        },
+        "81": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 81,
+            "is_correct": true
+        },
+        "82": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 82,
+            "is_correct": true
+        },
+        "83": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 2) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 83,
+            "is_correct": true
+        },
+        "84": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 2) * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 84,
+            "is_correct": false
+        },
+        "87": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 87,
+            "is_correct": false
+        },
+        "88": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 2) * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 88,
+            "is_correct": false
+        },
+        "89": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 3) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 89,
+            "is_correct": false
+        },
+        "90": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 2) * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 90,
+            "is_correct": true
+        },
+        "91": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 1) * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 91,
+            "is_correct": false
+        },
+        "92": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 92,
+            "is_correct": false
+        },
+        "93": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 3) * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 93,
+            "is_correct": true
+        },
+        "94": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 94,
+            "is_correct": true
+        },
+        "95": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 95,
+            "is_correct": false
+        },
+        "96": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 96,
+            "is_correct": false
+        },
+        "97": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 2) * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 97,
+            "is_correct": false
+        },
+        "98": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 1) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 98,
+            "is_correct": false
+        },
+        "99": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 3) * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 99,
+            "is_correct": false
+        },
+        "100": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 2) * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 100,
+            "is_correct": false
+        },
+        "101": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 1) * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 101,
+            "is_correct": false
+        },
+        "102": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 1) * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 102,
+            "is_correct": false
+        },
+        "103": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 103,
+            "is_correct": true
+        },
+        "104": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 2) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 104,
+            "is_correct": false
+        },
+        "105": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 2) * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 105,
+            "is_correct": false
+        },
+        "107": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 1) * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 107,
+            "is_correct": false
+        },
+        "108": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 1) * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 108,
+            "is_correct": false
+        },
+        "109": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 109,
+            "is_correct": false
+        },
+        "110": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 110,
+            "is_correct": false
+        },
+        "111": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 1) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 111,
+            "is_correct": false
+        },
+        "112": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 112,
+            "is_correct": false
+        },
+        "113": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 113,
+            "is_correct": true
+        },
+        "114": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 2) * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 114,
+            "is_correct": false
+        },
+        "115": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 2) * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 115,
+            "is_correct": false
+        },
+        "116": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 2) * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 116,
+            "is_correct": true
+        },
+        "117": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 3) * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 117,
+            "is_correct": false
+        },
+        "118": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 118,
+            "is_correct": true
+        },
+        "122": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 122,
+            "is_correct": false
+        },
+        "123": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 2) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 123,
+            "is_correct": false
+        },
+        "124": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 124,
+            "is_correct": false
+        },
+        "125": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 2) * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 125,
+            "is_correct": false
+        },
+        "127": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 1) * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 127,
+            "is_correct": true
+        },
+        "128": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 3) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 128,
+            "is_correct": false
+        },
+        "129": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 3) * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 129,
+            "is_correct": true
+        },
+        "130": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 130,
+            "is_correct": false
+        },
+        "131": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 1) * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 131,
+            "is_correct": false
+        },
+        "132": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 1) * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 132,
+            "is_correct": false
+        },
+        "133": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 2) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 133,
+            "is_correct": true
+        },
+        "134": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 1) * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 134,
+            "is_correct": true
+        },
+        "135": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 2) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 135,
+            "is_correct": false
+        },
+        "136": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 136,
+            "is_correct": false
+        },
+        "137": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 2) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 137,
+            "is_correct": false
+        },
+        "138": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 3) * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 138,
+            "is_correct": false
+        },
+        "139": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 2) * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 139,
+            "is_correct": false
+        },
+        "140": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 1) * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 140,
+            "is_correct": false
+        },
+        "141": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 141,
+            "is_correct": true
+        },
+        "142": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 2) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 142,
+            "is_correct": false
+        },
+        "143": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 1) * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 143,
+            "is_correct": true
+        },
+        "144": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 2) * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 144,
+            "is_correct": true
+        },
+        "145": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 2) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 145,
+            "is_correct": false
+        },
+        "146": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 146,
+            "is_correct": false
+        },
+        "147": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 147,
+            "is_correct": false
+        },
+        "148": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 2) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 148,
+            "is_correct": false
+        },
+        "149": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 149,
+            "is_correct": false
+        },
+        "150": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 1) * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 150,
+            "is_correct": false
+        },
+        "151": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 151,
+            "is_correct": false
+        },
+        "152": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 2) * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 152,
+            "is_correct": false
+        },
+        "153": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 153,
+            "is_correct": true
+        },
+        "154": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 1) * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 154,
+            "is_correct": false
+        },
+        "155": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 155,
+            "is_correct": false
+        },
+        "156": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 2) * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 156,
+            "is_correct": true
+        },
+        "157": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 1) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 157,
+            "is_correct": false
+        },
+        "158": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 158,
+            "is_correct": false
+        },
+        "159": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 2) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 159,
+            "is_correct": false
+        },
+        "160": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 160,
+            "is_correct": false
+        },
+        "161": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 2) * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 161,
+            "is_correct": false
+        },
+        "162": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 3) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 162,
+            "is_correct": false
+        },
+        "163": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 3) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 163,
+            "is_correct": true
+        },
+        "164": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 1) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 164,
+            "is_correct": false
+        },
+        "165": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 3) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 165,
+            "is_correct": false
+        },
+        "166": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 3) * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 166,
+            "is_correct": false
+        },
+        "168": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 168,
+            "is_correct": false
+        },
+        "169": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 169,
+            "is_correct": false
+        },
+        "170": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 170,
+            "is_correct": false
+        },
+        "172": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 3) * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 172,
+            "is_correct": false
+        },
+        "173": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 173,
+            "is_correct": true
+        },
+        "174": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 174,
+            "is_correct": false
+        },
+        "175": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 1) * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 175,
+            "is_correct": true
+        },
+        "176": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 176,
+            "is_correct": false
+        },
+        "177": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 2) * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 177,
+            "is_correct": false
+        },
+        "179": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 3) * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 179,
+            "is_correct": false
+        },
+        "180": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 3) * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 180,
+            "is_correct": false
+        },
+        "181": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 181,
+            "is_correct": false
+        },
+        "182": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 3) * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 182,
+            "is_correct": false
+        },
+        "183": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 1) * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 183,
+            "is_correct": false
+        },
+        "184": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 184,
+            "is_correct": false
+        },
+        "186": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 1) * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 186,
+            "is_correct": false
+        },
+        "187": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 2) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 187,
+            "is_correct": true
+        },
+        "188": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 188,
+            "is_correct": false
+        },
+        "189": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 3) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 189,
+            "is_correct": true
+        },
+        "190": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 1) * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 190,
+            "is_correct": true
+        },
+        "191": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 191,
+            "is_correct": false
+        },
+        "192": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 2) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 192,
+            "is_correct": true
+        },
+        "193": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 193,
+            "is_correct": false
+        },
+        "194": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 194,
+            "is_correct": false
+        },
+        "195": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 1) * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 195,
+            "is_correct": false
+        },
+        "196": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 3) * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 196,
+            "is_correct": false
+        },
+        "197": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 1) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 197,
+            "is_correct": true
+        },
+        "198": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 1) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 198,
+            "is_correct": false
+        },
+        "199": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 1) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 199,
+            "is_correct": false
+        },
+        "200": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 2) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 200,
+            "is_correct": false
+        },
+        "201": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 2) * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 201,
+            "is_correct": false
+        },
+        "202": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 202,
+            "is_correct": false
+        },
+        "203": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 1) * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 203,
+            "is_correct": false
+        },
+        "204": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 2) * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 204,
+            "is_correct": false
+        },
+        "205": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 3) * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 205,
+            "is_correct": true
+        },
+        "206": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 206,
+            "is_correct": false
+        },
+        "207": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 207,
+            "is_correct": false
+        },
+        "208": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 3) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 208,
+            "is_correct": false
+        },
+        "209": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 2) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 209,
+            "is_correct": true
+        },
+        "210": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 210,
+            "is_correct": false
+        },
+        "211": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 211,
+            "is_correct": true
+        },
+        "212": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 1) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 212,
+            "is_correct": false
+        },
+        "213": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 213,
+            "is_correct": false
+        },
+        "214": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 3) * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 214,
+            "is_correct": false
+        },
+        "215": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 1) * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 215,
+            "is_correct": true
+        },
+        "216": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 216,
+            "is_correct": false
+        },
+        "218": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 1) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 218,
+            "is_correct": false
+        },
+        "219": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 1) * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 219,
+            "is_correct": false
+        },
+        "220": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 220,
+            "is_correct": true
+        },
+        "222": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 222,
+            "is_correct": false
+        },
+        "223": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 223,
+            "is_correct": false
+        },
+        "224": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 224,
+            "is_correct": false
+        },
+        "225": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 1) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 225,
+            "is_correct": false
+        },
+        "226": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 1) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 226,
+            "is_correct": true
+        },
+        "227": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 3) * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 227,
+            "is_correct": false
+        },
+        "229": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 229,
+            "is_correct": false
+        },
+        "230": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 1) * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 230,
+            "is_correct": false
+        },
+        "231": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 231,
+            "is_correct": false
+        },
+        "232": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 1) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 232,
+            "is_correct": false
+        },
+        "233": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 1) * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 233,
+            "is_correct": true
+        },
+        "234": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 1) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 234,
+            "is_correct": true
+        },
+        "235": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 235,
+            "is_correct": false
+        },
+        "236": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 3) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 236,
+            "is_correct": false
+        },
+        "237": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 1) * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 237,
+            "is_correct": false
+        },
+        "239": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 239,
+            "is_correct": true
+        },
+        "240": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 2) * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 240,
+            "is_correct": true
+        },
+        "241": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 2) * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 241,
+            "is_correct": false
+        },
+        "242": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 2) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 242,
+            "is_correct": true
+        },
+        "243": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 243,
+            "is_correct": false
+        },
+        "244": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 244,
+            "is_correct": true
+        },
+        "245": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 245,
+            "is_correct": false
+        },
+        "246": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 2) * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 246,
+            "is_correct": true
+        },
+        "247": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 2) * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 247,
+            "is_correct": false
+        },
+        "248": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 248,
+            "is_correct": true
+        },
+        "249": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 3) * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 249,
+            "is_correct": true
+        },
+        "250": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 1) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 250,
+            "is_correct": true
+        },
+        "251": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 251,
+            "is_correct": false
+        },
+        "252": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 252,
+            "is_correct": false
+        },
+        "254": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 1) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 254,
+            "is_correct": false
+        },
+        "255": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 255,
+            "is_correct": false
+        },
+        "256": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 3) * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 256,
+            "is_correct": false
+        },
+        "257": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 257,
+            "is_correct": false
+        },
+        "258": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 2) * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 258,
+            "is_correct": false
+        },
+        "259": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 3) * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 259,
+            "is_correct": false
+        },
+        "260": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 260,
+            "is_correct": false
+        },
+        "262": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 3) * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 262,
+            "is_correct": false
+        },
+        "263": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 1) * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 263,
+            "is_correct": false
+        },
+        "264": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 264,
+            "is_correct": false
+        },
+        "266": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 2) * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 266,
+            "is_correct": false
+        },
+        "267": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 1) * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 267,
+            "is_correct": false
+        },
+        "268": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 268,
+            "is_correct": false
+        },
+        "269": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 2) * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 269,
+            "is_correct": true
+        },
+        "270": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 270,
+            "is_correct": true
+        },
+        "271": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 3) * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 271,
+            "is_correct": false
+        },
+        "273": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 273,
+            "is_correct": false
+        },
+        "274": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 3) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 274,
+            "is_correct": true
+        },
+        "276": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 2) * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 276,
+            "is_correct": true
+        },
+        "277": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 1) * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 277,
+            "is_correct": false
+        },
+        "278": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 3) * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 278,
+            "is_correct": false
+        },
+        "279": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 279,
+            "is_correct": true
+        },
+        "280": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 2) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 280,
+            "is_correct": false
+        },
+        "281": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 3) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 281,
+            "is_correct": false
+        },
+        "283": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 3) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 283,
+            "is_correct": true
+        },
+        "284": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 1) * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 284,
+            "is_correct": false
+        },
+        "285": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 1) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 285,
+            "is_correct": true
+        },
+        "289": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 2) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 289,
+            "is_correct": false
+        },
+        "290": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 290,
+            "is_correct": false
+        },
+        "291": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 2) * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 291,
+            "is_correct": false
+        },
+        "292": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 1) * 2). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 292,
+            "is_correct": false
+        },
+        "294": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: (repetition count * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 294,
+            "is_correct": true
+        },
+        "295": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count - 1) * 4). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 295,
+            "is_correct": false
+        },
+        "296": {
+            "question": "The text specifies a repetition count. Use this formula to compute the final result: ((repetition count + 2) * 3). Which video of repeated actions shows the same number of repeated times as that result? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 296,
+            "is_correct": false
+        }
+    }
+}

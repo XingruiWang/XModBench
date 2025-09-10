@@ -15,6 +15,7 @@ def path_to_models(model):
         'qwen2.5_omni': './models/Qwen2.5-Omni/run.py',
         'echoink': './models/EchoInk/run.py',
         'vita': './models/VITA/run.py',
+        'anygpt': './models/AnyGPT/run.py',
     }
     
     return PATH_TO_MODELS.get(prefix, None)

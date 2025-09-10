@@ -1,0 +1,235 @@
+{
+  "session_id": "2406093d",
+  "timestamp": "20250909_132619",
+  "task": "01_perception",
+  "subtask": "general_activities",
+  "total_questions": 18,
+  "user_answers": [
+    "A",
+    "D",
+    "B",
+    "B",
+    "D",
+    "C",
+    "B",
+    "C",
+    "A",
+    "D",
+    "C",
+    "D",
+    "B",
+    "D",
+    "D",
+    "A",
+    "C",
+    "A"
+  ],
+  "correct_answers": [
+    "A",
+    "D",
+    "B",
+    "B",
+    "B",
+    "C",
+    "B",
+    "C",
+    "A",
+    "D",
+    "C",
+    "D",
+    "B",
+    "D",
+    "D",
+    "A",
+    "C",
+    "A"
+  ],
+  "questions_per_type": 3,
+  "questions": [
+    {
+      "question_number": 1,
+      "question_text": "Which image most likely belongs to the object that makes this sound you hear? Answer with A, B, C, or D",
+      "user_answer": "A",
+      "correct_answer": "A",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/general_activities/general_activities_questions_audio_vision.json",
+      "question_id": "general_activities_questions_audio_vision_625",
+      "question_type": "general_activities_questions_audio_vision"
+    },
+    {
+      "question_number": 2,
+      "question_text": "Look at this image. Which audio clip is most likely produced by what you see? Answer with A, B, C, or D",
+      "user_answer": "D",
+      "correct_answer": "D",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/general_activities/general_activities_questions_vision_audio.json",
+      "question_id": "general_activities_questions_vision_audio_1151",
+      "question_type": "general_activities_questions_vision_audio"
+    },
+    {
+      "question_number": 3,
+      "question_text": "Listen to this audio clip. Which text description best matches the sound you hear? Answer with A, B, C, or D",
+      "user_answer": "B",
+      "correct_answer": "B",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/general_activities/general_activities_questions_audio_text.json",
+      "question_id": "general_activities_questions_audio_text_372",
+      "question_type": "general_activities_questions_audio_text"
+    },
+    {
+      "question_number": 4,
+      "question_text": "Listen to this audio clip. Which text description best matches the sound you hear? Answer with A, B, C, or D",
+      "user_answer": "B",
+      "correct_answer": "B",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/general_activities/general_activities_questions_audio_text.json",
+      "question_id": "general_activities_questions_audio_text_1955",
+      "question_type": "general_activities_questions_audio_text"
+    },
+    {
+      "question_number": 5,
+      "question_text": "Which image most likely belongs to the object that makes this sound you hear? Answer with A, B, C, or D",
+      "user_answer": "D",
+      "correct_answer": "B",
+      "is_correct": false,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/general_activities/general_activities_questions_audio_vision.json",
+      "question_id": "general_activities_questions_audio_vision_245",
+      "question_type": "general_activities_questions_audio_vision"
+    },
+    {
+      "question_number": 6,
+      "question_text": "Look at this image. Which audio clip is most likely produced by what you see? Answer with A, B, C, or D",
+      "user_answer": "C",
+      "correct_answer": "C",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/general_activities/general_activities_questions_vision_audio.json",
+      "question_id": "general_activities_questions_vision_audio_431",
+      "question_type": "general_activities_questions_vision_audio"
+    },
+    {
+      "question_number": 7,
+      "question_text": "Based on this description: 'cat meowing', which audio clip best matches what is described? Answer with A, B, C, or D",
+      "user_answer": "B",
+      "correct_answer": "B",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/general_activities/general_activities_questions_text_audio.json",
+      "question_id": "general_activities_questions_text_audio_1203",
+      "question_type": "general_activities_questions_text_audio"
+    },
+    {
+      "question_number": 8,
+      "question_text": "Based on this description: 'people eating crisps', which image best matches what is described? Answer with A, B, C, or D",
+      "user_answer": "C",
+      "correct_answer": "C",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/general_activities/general_activities_questions_text_vision.json",
+      "question_id": "general_activities_questions_text_vision_454",
+      "question_type": "general_activities_questions_text_vision"
+    },
+    {
+      "question_number": 9,
+      "question_text": "Based on this description: 'cuckoo bird calling', which audio clip best matches what is described? Answer with A, B, C, or D",
+      "user_answer": "A",
+      "correct_answer": "A",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/general_activities/general_activities_questions_text_audio.json",
+      "question_id": "general_activities_questions_text_audio_895",
+      "question_type": "general_activities_questions_text_audio"
+    },
+    {
+      "question_number": 10,
+      "question_text": "Which image most likely belongs to the object that makes this sound you hear? Answer with A, B, C, or D",
+      "user_answer": "D",
+      "correct_answer": "D",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/general_activities/general_activities_questions_audio_vision.json",
+      "question_id": "general_activities_questions_audio_vision_400",
+      "question_type": "general_activities_questions_audio_vision"
+    },
+    {
+      "question_number": 11,
+      "question_text": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+      "user_answer": "C",
+      "correct_answer": "C",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/general_activities/general_activities_questions_vision_text.json",
+      "question_id": "general_activities_questions_vision_text_1189",
+      "question_type": "general_activities_questions_vision_text"
+    },
+    {
+      "question_number": 12,
+      "question_text": "Look at this image. Which audio clip is most likely produced by what you see? Answer with A, B, C, or D",
+      "user_answer": "D",
+      "correct_answer": "D",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/general_activities/general_activities_questions_vision_audio.json",
+      "question_id": "general_activities_questions_vision_audio_371",
+      "question_type": "general_activities_questions_vision_audio"
+    },
+    {
+      "question_number": 13,
+      "question_text": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+      "user_answer": "B",
+      "correct_answer": "B",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/general_activities/general_activities_questions_vision_text.json",
+      "question_id": "general_activities_questions_vision_text_1745",
+      "question_type": "general_activities_questions_vision_text"
+    },
+    {
+      "question_number": 14,
+      "question_text": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+      "user_answer": "D",
+      "correct_answer": "D",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/general_activities/general_activities_questions_vision_text.json",
+      "question_id": "general_activities_questions_vision_text_114",
+      "question_type": "general_activities_questions_vision_text"
+    },
+    {
+      "question_number": 15,
+      "question_text": "Listen to this audio clip. Which text description best matches the sound you hear? Answer with A, B, C, or D",
+      "user_answer": "D",
+      "correct_answer": "D",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/general_activities/general_activities_questions_audio_text.json",
+      "question_id": "general_activities_questions_audio_text_1858",
+      "question_type": "general_activities_questions_audio_text"
+    },
+    {
+      "question_number": 16,
+      "question_text": "Based on this description: 'playing violin, fiddle', which audio clip best matches what is described? Answer with A, B, C, or D",
+      "user_answer": "A",
+      "correct_answer": "A",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/general_activities/general_activities_questions_text_audio.json",
+      "question_id": "general_activities_questions_text_audio_1489",
+      "question_type": "general_activities_questions_text_audio"
+    },
+    {
+      "question_number": 17,
+      "question_text": "Based on this description: 'electric grinder grinding', which image best matches what is described? Answer with A, B, C, or D",
+      "user_answer": "C",
+      "correct_answer": "C",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/general_activities/general_activities_questions_text_vision.json",
+      "question_id": "general_activities_questions_text_vision_609",
+      "question_type": "general_activities_questions_text_vision"
+    },
+    {
+      "question_number": 18,
+      "question_text": "Based on this description: 'hair dryer drying', which image best matches what is described? Answer with A, B, C, or D",
+      "user_answer": "A",
+      "correct_answer": "A",
+      "is_correct": true,
+      "source_file": "/home/xwang378/scratch/2025/AudioBench/benchmark/tasks/01_perception/general_activities/general_activities_questions_text_vision.json",
+      "question_id": "general_activities_questions_text_vision_435",
+      "question_type": "general_activities_questions_text_vision"
+    }
+  ],
+  "score": {
+    "correct": 17,
+    "total": 18,
+    "percentage": 94.44444444444444
+  }
+}

@@ -1,0 +1,2089 @@
+{
+    "task_name": "external/emotion_classification_audio_vision",
+    "score": 35.69023569023569,
+    "correct_count": 106,
+    "all_count": 297,
+    "results": {
+        "0": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 0,
+            "is_correct": false
+        },
+        "1": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 1,
+            "is_correct": false
+        },
+        "3": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 3,
+            "is_correct": false
+        },
+        "6": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 6,
+            "is_correct": true
+        },
+        "7": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 7,
+            "is_correct": true
+        },
+        "11": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 11,
+            "is_correct": true
+        },
+        "16": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 16,
+            "is_correct": false
+        },
+        "19": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 19,
+            "is_correct": false
+        },
+        "21": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 21,
+            "is_correct": false
+        },
+        "25": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 25,
+            "is_correct": false
+        },
+        "27": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 27,
+            "is_correct": false
+        },
+        "29": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 29,
+            "is_correct": false
+        },
+        "30": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 30,
+            "is_correct": true
+        },
+        "31": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 31,
+            "is_correct": false
+        },
+        "32": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 32,
+            "is_correct": false
+        },
+        "34": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 34,
+            "is_correct": true
+        },
+        "36": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 36,
+            "is_correct": false
+        },
+        "38": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 38,
+            "is_correct": true
+        },
+        "44": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 44,
+            "is_correct": true
+        },
+        "46": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 46,
+            "is_correct": true
+        },
+        "47": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 47,
+            "is_correct": false
+        },
+        "48": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 48,
+            "is_correct": true
+        },
+        "49": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 49,
+            "is_correct": false
+        },
+        "50": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 50,
+            "is_correct": false
+        },
+        "55": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 55,
+            "is_correct": true
+        },
+        "57": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 57,
+            "is_correct": false
+        },
+        "59": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 59,
+            "is_correct": false
+        },
+        "60": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 60,
+            "is_correct": false
+        },
+        "65": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 65,
+            "is_correct": false
+        },
+        "67": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 67,
+            "is_correct": true
+        },
+        "70": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 70,
+            "is_correct": false
+        },
+        "71": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 71,
+            "is_correct": false
+        },
+        "72": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 72,
+            "is_correct": true
+        },
+        "73": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 73,
+            "is_correct": false
+        },
+        "79": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 79,
+            "is_correct": false
+        },
+        "80": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 80,
+            "is_correct": true
+        },
+        "81": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 81,
+            "is_correct": true
+        },
+        "84": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 84,
+            "is_correct": false
+        },
+        "85": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 85,
+            "is_correct": false
+        },
+        "87": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 87,
+            "is_correct": false
+        },
+        "89": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 89,
+            "is_correct": false
+        },
+        "93": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 93,
+            "is_correct": true
+        },
+        "94": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 94,
+            "is_correct": true
+        },
+        "95": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 95,
+            "is_correct": true
+        },
+        "97": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 97,
+            "is_correct": false
+        },
+        "98": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 98,
+            "is_correct": true
+        },
+        "99": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 99,
+            "is_correct": false
+        },
+        "103": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 103,
+            "is_correct": false
+        },
+        "104": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 104,
+            "is_correct": false
+        },
+        "108": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 108,
+            "is_correct": false
+        },
+        "109": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 109,
+            "is_correct": false
+        },
+        "111": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 111,
+            "is_correct": false
+        },
+        "112": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 112,
+            "is_correct": false
+        },
+        "114": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 114,
+            "is_correct": false
+        },
+        "117": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 117,
+            "is_correct": false
+        },
+        "121": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 121,
+            "is_correct": false
+        },
+        "123": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 123,
+            "is_correct": false
+        },
+        "124": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 124,
+            "is_correct": false
+        },
+        "127": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 127,
+            "is_correct": false
+        },
+        "128": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 128,
+            "is_correct": false
+        },
+        "131": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 131,
+            "is_correct": false
+        },
+        "135": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 135,
+            "is_correct": false
+        },
+        "141": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 141,
+            "is_correct": false
+        },
+        "142": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 142,
+            "is_correct": true
+        },
+        "146": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 146,
+            "is_correct": false
+        },
+        "151": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 151,
+            "is_correct": true
+        },
+        "156": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 156,
+            "is_correct": false
+        },
+        "159": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 159,
+            "is_correct": true
+        },
+        "161": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 161,
+            "is_correct": false
+        },
+        "163": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 163,
+            "is_correct": false
+        },
+        "165": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 165,
+            "is_correct": true
+        },
+        "166": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 166,
+            "is_correct": true
+        },
+        "167": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 167,
+            "is_correct": true
+        },
+        "169": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 169,
+            "is_correct": false
+        },
+        "173": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 173,
+            "is_correct": false
+        },
+        "175": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 175,
+            "is_correct": false
+        },
+        "181": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 181,
+            "is_correct": false
+        },
+        "182": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 182,
+            "is_correct": false
+        },
+        "194": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 194,
+            "is_correct": false
+        },
+        "196": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 196,
+            "is_correct": false
+        },
+        "199": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 199,
+            "is_correct": true
+        },
+        "203": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 203,
+            "is_correct": false
+        },
+        "205": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 205,
+            "is_correct": true
+        },
+        "206": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 206,
+            "is_correct": false
+        },
+        "208": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 208,
+            "is_correct": true
+        },
+        "210": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 210,
+            "is_correct": true
+        },
+        "214": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 214,
+            "is_correct": true
+        },
+        "216": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 216,
+            "is_correct": false
+        },
+        "217": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 217,
+            "is_correct": false
+        },
+        "220": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 220,
+            "is_correct": true
+        },
+        "223": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 223,
+            "is_correct": true
+        },
+        "224": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 224,
+            "is_correct": false
+        },
+        "225": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 225,
+            "is_correct": true
+        },
+        "226": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 226,
+            "is_correct": false
+        },
+        "228": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 228,
+            "is_correct": true
+        },
+        "229": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 229,
+            "is_correct": true
+        },
+        "230": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 230,
+            "is_correct": true
+        },
+        "232": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 232,
+            "is_correct": false
+        },
+        "233": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 233,
+            "is_correct": false
+        },
+        "234": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 234,
+            "is_correct": false
+        },
+        "235": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 235,
+            "is_correct": false
+        },
+        "236": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 236,
+            "is_correct": false
+        },
+        "238": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 238,
+            "is_correct": false
+        },
+        "239": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 239,
+            "is_correct": false
+        },
+        "242": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 242,
+            "is_correct": true
+        },
+        "245": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 245,
+            "is_correct": true
+        },
+        "246": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 246,
+            "is_correct": true
+        },
+        "248": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 248,
+            "is_correct": true
+        },
+        "249": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 249,
+            "is_correct": false
+        },
+        "250": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 250,
+            "is_correct": true
+        },
+        "252": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 252,
+            "is_correct": false
+        },
+        "253": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 253,
+            "is_correct": true
+        },
+        "257": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 257,
+            "is_correct": false
+        },
+        "263": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 263,
+            "is_correct": true
+        },
+        "269": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 269,
+            "is_correct": false
+        },
+        "270": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 270,
+            "is_correct": false
+        },
+        "271": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 271,
+            "is_correct": false
+        },
+        "273": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 273,
+            "is_correct": true
+        },
+        "274": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 274,
+            "is_correct": false
+        },
+        "276": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 276,
+            "is_correct": false
+        },
+        "277": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 277,
+            "is_correct": true
+        },
+        "281": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 281,
+            "is_correct": false
+        },
+        "284": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 284,
+            "is_correct": true
+        },
+        "292": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 292,
+            "is_correct": false
+        },
+        "295": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 295,
+            "is_correct": false
+        },
+        "296": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 296,
+            "is_correct": false
+        },
+        "300": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 300,
+            "is_correct": true
+        },
+        "305": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 305,
+            "is_correct": false
+        },
+        "314": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 314,
+            "is_correct": true
+        },
+        "319": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 319,
+            "is_correct": false
+        },
+        "322": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 322,
+            "is_correct": false
+        },
+        "323": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 323,
+            "is_correct": true
+        },
+        "330": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 330,
+            "is_correct": false
+        },
+        "331": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 331,
+            "is_correct": false
+        },
+        "332": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 332,
+            "is_correct": false
+        },
+        "333": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 333,
+            "is_correct": false
+        },
+        "334": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 334,
+            "is_correct": false
+        },
+        "337": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 337,
+            "is_correct": false
+        },
+        "338": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 338,
+            "is_correct": false
+        },
+        "342": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 342,
+            "is_correct": false
+        },
+        "344": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 344,
+            "is_correct": false
+        },
+        "346": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 346,
+            "is_correct": false
+        },
+        "348": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 348,
+            "is_correct": true
+        },
+        "352": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 352,
+            "is_correct": true
+        },
+        "356": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 356,
+            "is_correct": true
+        },
+        "363": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 363,
+            "is_correct": false
+        },
+        "367": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 367,
+            "is_correct": true
+        },
+        "370": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 370,
+            "is_correct": true
+        },
+        "371": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 371,
+            "is_correct": false
+        },
+        "372": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 372,
+            "is_correct": true
+        },
+        "373": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 373,
+            "is_correct": false
+        },
+        "374": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 374,
+            "is_correct": true
+        },
+        "376": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 376,
+            "is_correct": true
+        },
+        "379": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 379,
+            "is_correct": false
+        },
+        "382": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 382,
+            "is_correct": true
+        },
+        "385": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 385,
+            "is_correct": false
+        },
+        "387": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 387,
+            "is_correct": true
+        },
+        "388": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 388,
+            "is_correct": false
+        },
+        "389": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 389,
+            "is_correct": false
+        },
+        "390": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 390,
+            "is_correct": false
+        },
+        "394": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 394,
+            "is_correct": true
+        },
+        "401": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 401,
+            "is_correct": true
+        },
+        "405": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 405,
+            "is_correct": false
+        },
+        "408": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 408,
+            "is_correct": false
+        },
+        "409": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 409,
+            "is_correct": false
+        },
+        "410": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 410,
+            "is_correct": false
+        },
+        "413": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 413,
+            "is_correct": false
+        },
+        "421": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 421,
+            "is_correct": true
+        },
+        "422": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 422,
+            "is_correct": false
+        },
+        "428": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 428,
+            "is_correct": false
+        },
+        "429": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 429,
+            "is_correct": false
+        },
+        "432": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 432,
+            "is_correct": false
+        },
+        "433": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 433,
+            "is_correct": false
+        },
+        "434": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 434,
+            "is_correct": true
+        },
+        "438": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 438,
+            "is_correct": false
+        },
+        "440": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 440,
+            "is_correct": false
+        },
+        "441": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 441,
+            "is_correct": false
+        },
+        "442": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 442,
+            "is_correct": false
+        },
+        "445": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 445,
+            "is_correct": false
+        },
+        "447": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 447,
+            "is_correct": false
+        },
+        "448": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 448,
+            "is_correct": true
+        },
+        "451": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 451,
+            "is_correct": true
+        },
+        "456": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 456,
+            "is_correct": true
+        },
+        "459": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 459,
+            "is_correct": false
+        },
+        "460": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 460,
+            "is_correct": false
+        },
+        "462": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 462,
+            "is_correct": true
+        },
+        "463": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 463,
+            "is_correct": true
+        },
+        "464": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 464,
+            "is_correct": false
+        },
+        "469": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 469,
+            "is_correct": false
+        },
+        "470": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 470,
+            "is_correct": false
+        },
+        "473": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 473,
+            "is_correct": false
+        },
+        "478": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 478,
+            "is_correct": true
+        },
+        "479": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 479,
+            "is_correct": false
+        },
+        "485": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 485,
+            "is_correct": true
+        },
+        "486": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 486,
+            "is_correct": false
+        },
+        "487": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 487,
+            "is_correct": false
+        },
+        "489": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 489,
+            "is_correct": false
+        },
+        "491": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 491,
+            "is_correct": false
+        },
+        "497": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 497,
+            "is_correct": false
+        },
+        "498": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 498,
+            "is_correct": true
+        },
+        "499": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 499,
+            "is_correct": false
+        },
+        "500": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 500,
+            "is_correct": false
+        },
+        "502": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 502,
+            "is_correct": true
+        },
+        "503": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 503,
+            "is_correct": false
+        },
+        "505": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 505,
+            "is_correct": false
+        },
+        "511": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 511,
+            "is_correct": true
+        },
+        "512": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 512,
+            "is_correct": true
+        },
+        "514": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 514,
+            "is_correct": true
+        },
+        "517": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 517,
+            "is_correct": false
+        },
+        "519": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 519,
+            "is_correct": true
+        },
+        "521": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 521,
+            "is_correct": false
+        },
+        "523": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 523,
+            "is_correct": false
+        },
+        "528": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 528,
+            "is_correct": true
+        },
+        "529": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 529,
+            "is_correct": false
+        },
+        "532": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 532,
+            "is_correct": false
+        },
+        "533": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 533,
+            "is_correct": false
+        },
+        "540": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 540,
+            "is_correct": false
+        },
+        "541": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 541,
+            "is_correct": true
+        },
+        "543": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 543,
+            "is_correct": false
+        },
+        "546": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 546,
+            "is_correct": true
+        },
+        "547": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 547,
+            "is_correct": false
+        },
+        "549": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 549,
+            "is_correct": false
+        },
+        "551": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 551,
+            "is_correct": false
+        },
+        "552": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 552,
+            "is_correct": false
+        },
+        "558": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 558,
+            "is_correct": false
+        },
+        "563": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 563,
+            "is_correct": false
+        },
+        "565": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 565,
+            "is_correct": false
+        },
+        "566": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 566,
+            "is_correct": false
+        },
+        "567": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 567,
+            "is_correct": false
+        },
+        "570": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 570,
+            "is_correct": false
+        },
+        "574": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 574,
+            "is_correct": false
+        },
+        "576": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 576,
+            "is_correct": true
+        },
+        "579": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 579,
+            "is_correct": false
+        },
+        "580": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 580,
+            "is_correct": false
+        },
+        "582": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 582,
+            "is_correct": false
+        },
+        "584": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 584,
+            "is_correct": false
+        },
+        "585": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 585,
+            "is_correct": false
+        },
+        "590": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 590,
+            "is_correct": true
+        },
+        "591": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 591,
+            "is_correct": true
+        },
+        "592": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 592,
+            "is_correct": false
+        },
+        "593": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 593,
+            "is_correct": true
+        },
+        "597": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 597,
+            "is_correct": true
+        },
+        "598": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 598,
+            "is_correct": true
+        },
+        "599": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 599,
+            "is_correct": true
+        },
+        "603": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 603,
+            "is_correct": false
+        },
+        "604": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 604,
+            "is_correct": false
+        },
+        "606": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 606,
+            "is_correct": false
+        },
+        "607": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 607,
+            "is_correct": true
+        },
+        "608": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 608,
+            "is_correct": false
+        },
+        "612": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 612,
+            "is_correct": false
+        },
+        "615": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 615,
+            "is_correct": false
+        },
+        "616": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 616,
+            "is_correct": true
+        },
+        "617": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 617,
+            "is_correct": false
+        },
+        "618": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 618,
+            "is_correct": false
+        },
+        "623": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 623,
+            "is_correct": false
+        },
+        "626": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 626,
+            "is_correct": false
+        },
+        "631": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 631,
+            "is_correct": true
+        },
+        "632": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 632,
+            "is_correct": false
+        },
+        "633": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 633,
+            "is_correct": false
+        },
+        "638": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 638,
+            "is_correct": true
+        },
+        "641": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 641,
+            "is_correct": true
+        },
+        "643": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 643,
+            "is_correct": false
+        },
+        "644": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 644,
+            "is_correct": false
+        },
+        "645": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 645,
+            "is_correct": true
+        },
+        "646": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 646,
+            "is_correct": false
+        },
+        "647": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 647,
+            "is_correct": false
+        },
+        "649": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 649,
+            "is_correct": true
+        },
+        "651": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 651,
+            "is_correct": true
+        },
+        "652": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 652,
+            "is_correct": true
+        },
+        "653": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 653,
+            "is_correct": false
+        },
+        "654": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 654,
+            "is_correct": false
+        },
+        "658": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 658,
+            "is_correct": true
+        },
+        "660": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 660,
+            "is_correct": false
+        },
+        "663": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 663,
+            "is_correct": true
+        },
+        "664": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 664,
+            "is_correct": false
+        },
+        "665": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 665,
+            "is_correct": true
+        },
+        "666": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 666,
+            "is_correct": true
+        },
+        "667": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 667,
+            "is_correct": true
+        },
+        "668": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 668,
+            "is_correct": false
+        },
+        "669": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 669,
+            "is_correct": true
+        },
+        "671": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 671,
+            "is_correct": false
+        },
+        "674": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 674,
+            "is_correct": true
+        },
+        "676": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 676,
+            "is_correct": false
+        },
+        "678": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 678,
+            "is_correct": false
+        },
+        "679": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 679,
+            "is_correct": false
+        },
+        "680": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 680,
+            "is_correct": false
+        },
+        "683": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 683,
+            "is_correct": false
+        },
+        "686": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 686,
+            "is_correct": false
+        },
+        "687": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 687,
+            "is_correct": false
+        },
+        "688": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 688,
+            "is_correct": true
+        },
+        "691": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 691,
+            "is_correct": false
+        },
+        "692": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 692,
+            "is_correct": true
+        },
+        "693": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 693,
+            "is_correct": true
+        },
+        "695": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 695,
+            "is_correct": false
+        },
+        "696": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 696,
+            "is_correct": false
+        },
+        "697": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 697,
+            "is_correct": true
+        },
+        "698": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 698,
+            "is_correct": true
+        }
+    },
+    "format_error_count": 0,
+    "run_error_count": 0
+}

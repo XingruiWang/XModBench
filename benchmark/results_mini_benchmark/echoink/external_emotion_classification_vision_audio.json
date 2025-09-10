@@ -1,0 +1,2089 @@
+{
+    "task_name": "external/emotion_classification_vision_audio",
+    "score": 43.09764309764309,
+    "correct_count": 128,
+    "all_count": 297,
+    "results": {
+        "0": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 0,
+            "is_correct": false
+        },
+        "1": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 1,
+            "is_correct": false
+        },
+        "3": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 3,
+            "is_correct": false
+        },
+        "6": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 6,
+            "is_correct": true
+        },
+        "7": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 7,
+            "is_correct": false
+        },
+        "11": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 11,
+            "is_correct": true
+        },
+        "16": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 16,
+            "is_correct": false
+        },
+        "19": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 19,
+            "is_correct": false
+        },
+        "21": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 21,
+            "is_correct": false
+        },
+        "25": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 25,
+            "is_correct": true
+        },
+        "27": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 27,
+            "is_correct": true
+        },
+        "29": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 29,
+            "is_correct": true
+        },
+        "30": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 30,
+            "is_correct": true
+        },
+        "31": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 31,
+            "is_correct": false
+        },
+        "32": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 32,
+            "is_correct": false
+        },
+        "34": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 34,
+            "is_correct": false
+        },
+        "36": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 36,
+            "is_correct": false
+        },
+        "38": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 38,
+            "is_correct": false
+        },
+        "44": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 44,
+            "is_correct": false
+        },
+        "46": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 46,
+            "is_correct": false
+        },
+        "47": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 47,
+            "is_correct": true
+        },
+        "48": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 48,
+            "is_correct": false
+        },
+        "49": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 49,
+            "is_correct": false
+        },
+        "50": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 50,
+            "is_correct": false
+        },
+        "55": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 55,
+            "is_correct": true
+        },
+        "57": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 57,
+            "is_correct": false
+        },
+        "59": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 59,
+            "is_correct": false
+        },
+        "60": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 60,
+            "is_correct": true
+        },
+        "65": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 65,
+            "is_correct": false
+        },
+        "67": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 67,
+            "is_correct": false
+        },
+        "70": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 70,
+            "is_correct": true
+        },
+        "71": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 71,
+            "is_correct": false
+        },
+        "72": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 72,
+            "is_correct": false
+        },
+        "73": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 73,
+            "is_correct": false
+        },
+        "79": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 79,
+            "is_correct": false
+        },
+        "80": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 80,
+            "is_correct": false
+        },
+        "81": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 81,
+            "is_correct": false
+        },
+        "84": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 84,
+            "is_correct": false
+        },
+        "85": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 85,
+            "is_correct": false
+        },
+        "87": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 87,
+            "is_correct": true
+        },
+        "89": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 89,
+            "is_correct": true
+        },
+        "93": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 93,
+            "is_correct": false
+        },
+        "94": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 94,
+            "is_correct": false
+        },
+        "95": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 95,
+            "is_correct": true
+        },
+        "97": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 97,
+            "is_correct": true
+        },
+        "98": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 98,
+            "is_correct": false
+        },
+        "99": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 99,
+            "is_correct": true
+        },
+        "103": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 103,
+            "is_correct": true
+        },
+        "104": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 104,
+            "is_correct": false
+        },
+        "108": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 108,
+            "is_correct": true
+        },
+        "109": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 109,
+            "is_correct": false
+        },
+        "111": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 111,
+            "is_correct": true
+        },
+        "112": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 112,
+            "is_correct": true
+        },
+        "114": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 114,
+            "is_correct": false
+        },
+        "117": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 117,
+            "is_correct": false
+        },
+        "121": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 121,
+            "is_correct": false
+        },
+        "123": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 123,
+            "is_correct": false
+        },
+        "124": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 124,
+            "is_correct": true
+        },
+        "127": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 127,
+            "is_correct": true
+        },
+        "128": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 128,
+            "is_correct": true
+        },
+        "131": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 131,
+            "is_correct": true
+        },
+        "135": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 135,
+            "is_correct": false
+        },
+        "141": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 141,
+            "is_correct": false
+        },
+        "142": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 142,
+            "is_correct": false
+        },
+        "146": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 146,
+            "is_correct": false
+        },
+        "151": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 151,
+            "is_correct": false
+        },
+        "156": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 156,
+            "is_correct": true
+        },
+        "159": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 159,
+            "is_correct": false
+        },
+        "161": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 161,
+            "is_correct": true
+        },
+        "163": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 163,
+            "is_correct": true
+        },
+        "165": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 165,
+            "is_correct": true
+        },
+        "166": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 166,
+            "is_correct": false
+        },
+        "167": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 167,
+            "is_correct": true
+        },
+        "169": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 169,
+            "is_correct": false
+        },
+        "173": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 173,
+            "is_correct": true
+        },
+        "175": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 175,
+            "is_correct": false
+        },
+        "181": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 181,
+            "is_correct": true
+        },
+        "182": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 182,
+            "is_correct": true
+        },
+        "194": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 194,
+            "is_correct": true
+        },
+        "196": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 196,
+            "is_correct": true
+        },
+        "199": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 199,
+            "is_correct": true
+        },
+        "203": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 203,
+            "is_correct": true
+        },
+        "205": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 205,
+            "is_correct": false
+        },
+        "206": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 206,
+            "is_correct": false
+        },
+        "208": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 208,
+            "is_correct": false
+        },
+        "210": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 210,
+            "is_correct": false
+        },
+        "214": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 214,
+            "is_correct": true
+        },
+        "216": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 216,
+            "is_correct": false
+        },
+        "217": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 217,
+            "is_correct": true
+        },
+        "220": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 220,
+            "is_correct": false
+        },
+        "223": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 223,
+            "is_correct": true
+        },
+        "224": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 224,
+            "is_correct": true
+        },
+        "225": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 225,
+            "is_correct": true
+        },
+        "226": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 226,
+            "is_correct": false
+        },
+        "228": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 228,
+            "is_correct": true
+        },
+        "229": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 229,
+            "is_correct": false
+        },
+        "230": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 230,
+            "is_correct": false
+        },
+        "232": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 232,
+            "is_correct": true
+        },
+        "233": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 233,
+            "is_correct": true
+        },
+        "234": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 234,
+            "is_correct": false
+        },
+        "235": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 235,
+            "is_correct": true
+        },
+        "236": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 236,
+            "is_correct": false
+        },
+        "238": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 238,
+            "is_correct": true
+        },
+        "239": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 239,
+            "is_correct": false
+        },
+        "242": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 242,
+            "is_correct": true
+        },
+        "245": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 245,
+            "is_correct": true
+        },
+        "246": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 246,
+            "is_correct": true
+        },
+        "248": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 248,
+            "is_correct": true
+        },
+        "249": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 249,
+            "is_correct": false
+        },
+        "250": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 250,
+            "is_correct": false
+        },
+        "252": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 252,
+            "is_correct": true
+        },
+        "253": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 253,
+            "is_correct": false
+        },
+        "257": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 257,
+            "is_correct": true
+        },
+        "263": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 263,
+            "is_correct": false
+        },
+        "269": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 269,
+            "is_correct": true
+        },
+        "270": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 270,
+            "is_correct": false
+        },
+        "271": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 271,
+            "is_correct": false
+        },
+        "273": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 273,
+            "is_correct": true
+        },
+        "274": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 274,
+            "is_correct": true
+        },
+        "276": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 276,
+            "is_correct": true
+        },
+        "277": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 277,
+            "is_correct": false
+        },
+        "281": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 281,
+            "is_correct": false
+        },
+        "284": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 284,
+            "is_correct": false
+        },
+        "292": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 292,
+            "is_correct": true
+        },
+        "295": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 295,
+            "is_correct": false
+        },
+        "296": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 296,
+            "is_correct": true
+        },
+        "300": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 300,
+            "is_correct": true
+        },
+        "305": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 305,
+            "is_correct": true
+        },
+        "314": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 314,
+            "is_correct": false
+        },
+        "319": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 319,
+            "is_correct": true
+        },
+        "322": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 322,
+            "is_correct": true
+        },
+        "323": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 323,
+            "is_correct": false
+        },
+        "330": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 330,
+            "is_correct": false
+        },
+        "331": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 331,
+            "is_correct": false
+        },
+        "332": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 332,
+            "is_correct": false
+        },
+        "333": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 333,
+            "is_correct": false
+        },
+        "334": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 334,
+            "is_correct": false
+        },
+        "337": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 337,
+            "is_correct": true
+        },
+        "338": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 338,
+            "is_correct": true
+        },
+        "342": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 342,
+            "is_correct": true
+        },
+        "344": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 344,
+            "is_correct": false
+        },
+        "346": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 346,
+            "is_correct": true
+        },
+        "348": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 348,
+            "is_correct": false
+        },
+        "352": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 352,
+            "is_correct": false
+        },
+        "356": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 356,
+            "is_correct": false
+        },
+        "363": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 363,
+            "is_correct": true
+        },
+        "367": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 367,
+            "is_correct": false
+        },
+        "370": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 370,
+            "is_correct": false
+        },
+        "371": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 371,
+            "is_correct": false
+        },
+        "372": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 372,
+            "is_correct": true
+        },
+        "373": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 373,
+            "is_correct": false
+        },
+        "374": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 374,
+            "is_correct": false
+        },
+        "376": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 376,
+            "is_correct": false
+        },
+        "379": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 379,
+            "is_correct": false
+        },
+        "382": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 382,
+            "is_correct": false
+        },
+        "385": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 385,
+            "is_correct": true
+        },
+        "387": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 387,
+            "is_correct": false
+        },
+        "388": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 388,
+            "is_correct": true
+        },
+        "389": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 389,
+            "is_correct": true
+        },
+        "390": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 390,
+            "is_correct": false
+        },
+        "394": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 394,
+            "is_correct": false
+        },
+        "401": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 401,
+            "is_correct": false
+        },
+        "405": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 405,
+            "is_correct": false
+        },
+        "408": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 408,
+            "is_correct": false
+        },
+        "409": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 409,
+            "is_correct": false
+        },
+        "410": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 410,
+            "is_correct": false
+        },
+        "413": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 413,
+            "is_correct": true
+        },
+        "421": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 421,
+            "is_correct": false
+        },
+        "422": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 422,
+            "is_correct": true
+        },
+        "428": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 428,
+            "is_correct": false
+        },
+        "429": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 429,
+            "is_correct": true
+        },
+        "432": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 432,
+            "is_correct": false
+        },
+        "433": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 433,
+            "is_correct": true
+        },
+        "434": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 434,
+            "is_correct": true
+        },
+        "438": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 438,
+            "is_correct": true
+        },
+        "440": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 440,
+            "is_correct": false
+        },
+        "441": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 441,
+            "is_correct": true
+        },
+        "442": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 442,
+            "is_correct": true
+        },
+        "445": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 445,
+            "is_correct": false
+        },
+        "447": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 447,
+            "is_correct": false
+        },
+        "448": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 448,
+            "is_correct": false
+        },
+        "451": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 451,
+            "is_correct": false
+        },
+        "456": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 456,
+            "is_correct": false
+        },
+        "459": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 459,
+            "is_correct": false
+        },
+        "460": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 460,
+            "is_correct": false
+        },
+        "462": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 462,
+            "is_correct": true
+        },
+        "463": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 463,
+            "is_correct": false
+        },
+        "464": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 464,
+            "is_correct": false
+        },
+        "469": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 469,
+            "is_correct": false
+        },
+        "470": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 470,
+            "is_correct": false
+        },
+        "473": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 473,
+            "is_correct": true
+        },
+        "478": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 478,
+            "is_correct": true
+        },
+        "479": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 479,
+            "is_correct": false
+        },
+        "485": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 485,
+            "is_correct": false
+        },
+        "486": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 486,
+            "is_correct": false
+        },
+        "487": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 487,
+            "is_correct": true
+        },
+        "489": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 489,
+            "is_correct": true
+        },
+        "491": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 491,
+            "is_correct": false
+        },
+        "497": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 497,
+            "is_correct": true
+        },
+        "498": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 498,
+            "is_correct": false
+        },
+        "499": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 499,
+            "is_correct": false
+        },
+        "500": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 500,
+            "is_correct": false
+        },
+        "502": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 502,
+            "is_correct": false
+        },
+        "503": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 503,
+            "is_correct": false
+        },
+        "505": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 505,
+            "is_correct": false
+        },
+        "511": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 511,
+            "is_correct": true
+        },
+        "512": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 512,
+            "is_correct": true
+        },
+        "514": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 514,
+            "is_correct": false
+        },
+        "517": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 517,
+            "is_correct": false
+        },
+        "519": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 519,
+            "is_correct": false
+        },
+        "521": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 521,
+            "is_correct": true
+        },
+        "523": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 523,
+            "is_correct": false
+        },
+        "528": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 528,
+            "is_correct": false
+        },
+        "529": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 529,
+            "is_correct": true
+        },
+        "532": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 532,
+            "is_correct": false
+        },
+        "533": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 533,
+            "is_correct": false
+        },
+        "540": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 540,
+            "is_correct": true
+        },
+        "541": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 541,
+            "is_correct": false
+        },
+        "543": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 543,
+            "is_correct": true
+        },
+        "546": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 546,
+            "is_correct": false
+        },
+        "547": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 547,
+            "is_correct": true
+        },
+        "549": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 549,
+            "is_correct": false
+        },
+        "551": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 551,
+            "is_correct": false
+        },
+        "552": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 552,
+            "is_correct": false
+        },
+        "558": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 558,
+            "is_correct": false
+        },
+        "563": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 563,
+            "is_correct": true
+        },
+        "565": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 565,
+            "is_correct": false
+        },
+        "566": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 566,
+            "is_correct": false
+        },
+        "567": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 567,
+            "is_correct": true
+        },
+        "570": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 570,
+            "is_correct": true
+        },
+        "574": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 574,
+            "is_correct": true
+        },
+        "576": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 576,
+            "is_correct": true
+        },
+        "579": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 579,
+            "is_correct": true
+        },
+        "580": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 580,
+            "is_correct": false
+        },
+        "582": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 582,
+            "is_correct": false
+        },
+        "584": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 584,
+            "is_correct": false
+        },
+        "585": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 585,
+            "is_correct": false
+        },
+        "590": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 590,
+            "is_correct": true
+        },
+        "591": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 591,
+            "is_correct": false
+        },
+        "592": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 592,
+            "is_correct": false
+        },
+        "593": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 593,
+            "is_correct": false
+        },
+        "597": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 597,
+            "is_correct": true
+        },
+        "598": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 598,
+            "is_correct": false
+        },
+        "599": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 599,
+            "is_correct": true
+        },
+        "603": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 603,
+            "is_correct": false
+        },
+        "604": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 604,
+            "is_correct": true
+        },
+        "606": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 606,
+            "is_correct": false
+        },
+        "607": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 607,
+            "is_correct": true
+        },
+        "608": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 608,
+            "is_correct": true
+        },
+        "612": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 612,
+            "is_correct": false
+        },
+        "615": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 615,
+            "is_correct": true
+        },
+        "616": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 616,
+            "is_correct": true
+        },
+        "617": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 617,
+            "is_correct": true
+        },
+        "618": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 618,
+            "is_correct": true
+        },
+        "623": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 623,
+            "is_correct": true
+        },
+        "626": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 626,
+            "is_correct": true
+        },
+        "631": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 631,
+            "is_correct": false
+        },
+        "632": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 632,
+            "is_correct": false
+        },
+        "633": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 633,
+            "is_correct": false
+        },
+        "638": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 638,
+            "is_correct": false
+        },
+        "641": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 641,
+            "is_correct": false
+        },
+        "643": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 643,
+            "is_correct": false
+        },
+        "644": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 644,
+            "is_correct": false
+        },
+        "645": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 645,
+            "is_correct": false
+        },
+        "646": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 646,
+            "is_correct": false
+        },
+        "647": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 647,
+            "is_correct": false
+        },
+        "649": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 649,
+            "is_correct": true
+        },
+        "651": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 651,
+            "is_correct": true
+        },
+        "652": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 652,
+            "is_correct": true
+        },
+        "653": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 653,
+            "is_correct": true
+        },
+        "654": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 654,
+            "is_correct": true
+        },
+        "658": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 658,
+            "is_correct": false
+        },
+        "660": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 660,
+            "is_correct": false
+        },
+        "663": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 663,
+            "is_correct": true
+        },
+        "664": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 664,
+            "is_correct": true
+        },
+        "665": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 665,
+            "is_correct": true
+        },
+        "666": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 666,
+            "is_correct": true
+        },
+        "667": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 667,
+            "is_correct": true
+        },
+        "668": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 668,
+            "is_correct": false
+        },
+        "669": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 669,
+            "is_correct": true
+        },
+        "671": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 671,
+            "is_correct": true
+        },
+        "674": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 674,
+            "is_correct": true
+        },
+        "676": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 676,
+            "is_correct": true
+        },
+        "678": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 678,
+            "is_correct": true
+        },
+        "679": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 679,
+            "is_correct": false
+        },
+        "680": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 680,
+            "is_correct": true
+        },
+        "683": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 683,
+            "is_correct": false
+        },
+        "686": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 686,
+            "is_correct": true
+        },
+        "687": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 687,
+            "is_correct": false
+        },
+        "688": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 688,
+            "is_correct": false
+        },
+        "691": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 691,
+            "is_correct": false
+        },
+        "692": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 692,
+            "is_correct": false
+        },
+        "693": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 693,
+            "is_correct": false
+        },
+        "695": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 695,
+            "is_correct": true
+        },
+        "696": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 696,
+            "is_correct": false
+        },
+        "697": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 697,
+            "is_correct": true
+        },
+        "698": {
+            "question": "Watch this video clip carefully. Analyze the person's emotional state based on their facial expression and dialog transcript. Then select the dialog/speech audio sample that expresses the same emotion. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 698,
+            "is_correct": false
+        }
+    },
+    "format_error_count": 0,
+    "run_error_count": 0
+}

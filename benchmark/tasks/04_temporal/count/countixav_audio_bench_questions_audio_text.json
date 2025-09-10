@@ -367,24 +367,24 @@
         "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
         "conditions": {
             "modality": "Audio",
-            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/1-iwtA2boDw.00.wav"
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/8ekKPh7Ff-o.00.wav"
         },
         "options": {
             "A": {
                 "modality": "Text",
-                "input": "7 times"
+                "input": "14 times"
             },
             "B": {
                 "modality": "Text",
-                "input": "2 times"
+                "input": "5 times"
             },
             "C": {
                 "modality": "Text",
-                "input": "8 times"
+                "input": "16 times"
             },
             "D": {
                 "modality": "Text",
-                "input": "9 times"
+                "input": "12 times"
             }
         },
         "correct_answer": "B"
@@ -835,24 +835,24 @@
         "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
         "conditions": {
             "modality": "Audio",
-            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/7i51NXFfF10.00.wav"
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/F2GlSHPf8PA.wav"
         },
         "options": {
             "A": {
                 "modality": "Text",
-                "input": "14 times"
+                "input": "12 times"
             },
             "B": {
                 "modality": "Text",
-                "input": "13 times"
+                "input": "19 times"
             },
             "C": {
                 "modality": "Text",
-                "input": "4 times"
+                "input": "7 times"
             },
             "D": {
                 "modality": "Text",
-                "input": "12 times"
+                "input": "2 times"
             }
         },
         "correct_answer": "C"
@@ -861,59 +861,33 @@
         "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
         "conditions": {
             "modality": "Audio",
-            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/fhQTjKUdUSk.wav"
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/7_0iR2sRLKM.wav"
         },
         "options": {
             "A": {
-                "modality": "Text",
-                "input": "7 times"
-            },
-            "B": {
-                "modality": "Text",
-                "input": "12 times"
-            },
-            "C": {
-                "modality": "Text",
-                "input": "2 times"
-            },
-            "D": {
-                "modality": "Text",
-                "input": "18 times"
-            }
-        },
-        "correct_answer": "A"
-    },
-    {
-        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
-        "conditions": {
-            "modality": "Audio",
-            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/at3mGS-FAVg.00.wav"
-        },
-        "options": {
-            "A": {
-                "modality": "Text",
-                "input": "9 times"
-            },
-            "B": {
                 "modality": "Text",
                 "input": "17 times"
             },
+            "B": {
+                "modality": "Text",
+                "input": "9 times"
+            },
             "C": {
                 "modality": "Text",
-                "input": "23 times"
+                "input": "2 times"
             },
             "D": {
                 "modality": "Text",
-                "input": "2 times"
+                "input": "22 times"
             }
         },
-        "correct_answer": "A"
+        "correct_answer": "B"
     },
     {
         "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
         "conditions": {
             "modality": "Audio",
-            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/pN6O_t9s0us.00.wav"
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/2BZzzEriDyU.00.wav"
         },
         "options": {
             "A": {
@@ -921,42 +895,16 @@
                 "input": "2 times"
             },
             "B": {
-                "modality": "Text",
-                "input": "7 times"
-            },
-            "C": {
-                "modality": "Text",
-                "input": "10 times"
-            },
-            "D": {
-                "modality": "Text",
-                "input": "9 times"
-            }
-        },
-        "correct_answer": "A"
-    },
-    {
-        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
-        "conditions": {
-            "modality": "Audio",
-            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/9QRjrCdj4Xk.00.wav"
-        },
-        "options": {
-            "A": {
                 "modality": "Text",
                 "input": "12 times"
             },
-            "B": {
-                "modality": "Text",
-                "input": "10 times"
-            },
             "C": {
                 "modality": "Text",
-                "input": "7 times"
+                "input": "21 times"
             },
             "D": {
                 "modality": "Text",
-                "input": "3 times"
+                "input": "7 times"
             }
         },
         "correct_answer": "D"
@@ -965,20 +913,72 @@
         "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
         "conditions": {
             "modality": "Audio",
-            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/UEbEmg3RuDM.wav"
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/38bvn8kTs-Y.00.wav"
         },
         "options": {
             "A": {
                 "modality": "Text",
-                "input": "8 times"
+                "input": "14 times"
             },
             "B": {
                 "modality": "Text",
-                "input": "17 times"
+                "input": "12 times"
             },
             "C": {
                 "modality": "Text",
-                "input": "2 times"
+                "input": "4 times"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "15 times"
+            }
+        },
+        "correct_answer": "C"
+    },
+    {
+        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/3XL1RKxHR-s.00.wav"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "12 times"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "15 times"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "16 times"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "5 times"
+            }
+        },
+        "correct_answer": "D"
+    },
+    {
+        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/0AGO82M8wbY.00.wav"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "3 times"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "7 times"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "13 times"
             },
             "D": {
                 "modality": "Text",
@@ -991,24 +991,24 @@
         "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
         "conditions": {
             "modality": "Audio",
-            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/lM9iMGw7oAY.00.wav"
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/j55G_1TSfj0.00.wav"
         },
         "options": {
             "A": {
                 "modality": "Text",
-                "input": "12 times"
+                "input": "17 times"
             },
             "B": {
                 "modality": "Text",
-                "input": "2 times"
+                "input": "12 times"
             },
             "C": {
                 "modality": "Text",
-                "input": "8 times"
+                "input": "5 times"
             },
             "D": {
                 "modality": "Text",
-                "input": "17 times"
+                "input": "14 times"
             }
         },
         "correct_answer": "C"
@@ -1381,24 +1381,24 @@
         "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
         "conditions": {
             "modality": "Audio",
-            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/-BVl3_9YajA.00.wav"
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/I054zoPKNck.wav"
         },
         "options": {
             "A": {
                 "modality": "Text",
-                "input": "14 times"
+                "input": "19 times"
             },
             "B": {
                 "modality": "Text",
-                "input": "4 times"
+                "input": "6 times"
             },
             "C": {
                 "modality": "Text",
-                "input": "13 times"
+                "input": "12 times"
             },
             "D": {
                 "modality": "Text",
-                "input": "12 times"
+                "input": "2 times"
             }
         },
         "correct_answer": "B"
@@ -7543,38 +7543,12 @@
         "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
         "conditions": {
             "modality": "Audio",
-            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/-BVl3_9YajA.00.wav"
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/e-JyMr8rU80.00.wav"
         },
         "options": {
             "A": {
                 "modality": "Text",
-                "input": "4 times"
-            },
-            "B": {
-                "modality": "Text",
-                "input": "15 times"
-            },
-            "C": {
-                "modality": "Text",
-                "input": "12 times"
-            },
-            "D": {
-                "modality": "Text",
-                "input": "13 times"
-            }
-        },
-        "correct_answer": "A"
-    },
-    {
-        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
-        "conditions": {
-            "modality": "Audio",
-            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/fiay0793beU.00.wav"
-        },
-        "options": {
-            "A": {
-                "modality": "Text",
-                "input": "7 times"
+                "input": "10 times"
             },
             "B": {
                 "modality": "Text",
@@ -7582,11 +7556,37 @@
             },
             "C": {
                 "modality": "Text",
-                "input": "10 times"
+                "input": "7 times"
             },
             "D": {
                 "modality": "Text",
                 "input": "12 times"
+            }
+        },
+        "correct_answer": "B"
+    },
+    {
+        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/0DadD72ipuM.00.wav"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "10 times"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "2 times"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "7 times"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "8 times"
             }
         },
         "correct_answer": "B"
@@ -8999,59 +8999,7 @@
         "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
         "conditions": {
             "modality": "Audio",
-            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/9QRjrCdj4Xk.00.wav"
-        },
-        "options": {
-            "A": {
-                "modality": "Text",
-                "input": "3 times"
-            },
-            "B": {
-                "modality": "Text",
-                "input": "12 times"
-            },
-            "C": {
-                "modality": "Text",
-                "input": "7 times"
-            },
-            "D": {
-                "modality": "Text",
-                "input": "11 times"
-            }
-        },
-        "correct_answer": "A"
-    },
-    {
-        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
-        "conditions": {
-            "modality": "Audio",
-            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/7W5LbOiYVdY.00.wav"
-        },
-        "options": {
-            "A": {
-                "modality": "Text",
-                "input": "7 times"
-            },
-            "B": {
-                "modality": "Text",
-                "input": "12 times"
-            },
-            "C": {
-                "modality": "Text",
-                "input": "21 times"
-            },
-            "D": {
-                "modality": "Text",
-                "input": "2 times"
-            }
-        },
-        "correct_answer": "A"
-    },
-    {
-        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
-        "conditions": {
-            "modality": "Audio",
-            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/NjLHnT9ZtPw.wav"
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/e5XFeUM5Oi8.00.wav"
         },
         "options": {
             "A": {
@@ -9060,93 +9008,15 @@
             },
             "B": {
                 "modality": "Text",
-                "input": "19 times"
+                "input": "13 times"
             },
             "C": {
                 "modality": "Text",
-                "input": "6 times"
+                "input": "15 times"
             },
             "D": {
                 "modality": "Text",
-                "input": "2 times"
-            }
-        },
-        "correct_answer": "C"
-    },
-    {
-        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
-        "conditions": {
-            "modality": "Audio",
-            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/hWOnhvaqamA.00.wav"
-        },
-        "options": {
-            "A": {
-                "modality": "Text",
-                "input": "7 times"
-            },
-            "B": {
-                "modality": "Text",
-                "input": "2 times"
-            },
-            "C": {
-                "modality": "Text",
-                "input": "19 times"
-            },
-            "D": {
-                "modality": "Text",
-                "input": "12 times"
-            }
-        },
-        "correct_answer": "A"
-    },
-    {
-        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
-        "conditions": {
-            "modality": "Audio",
-            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/3dLhTYGzoo4.00.wav"
-        },
-        "options": {
-            "A": {
-                "modality": "Text",
-                "input": "2 times"
-            },
-            "B": {
-                "modality": "Text",
-                "input": "8 times"
-            },
-            "C": {
-                "modality": "Text",
-                "input": "12 times"
-            },
-            "D": {
-                "modality": "Text",
-                "input": "17 times"
-            }
-        },
-        "correct_answer": "B"
-    },
-    {
-        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
-        "conditions": {
-            "modality": "Audio",
-            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/85Ax9Hrghcs.00.wav"
-        },
-        "options": {
-            "A": {
-                "modality": "Text",
-                "input": "10 times"
-            },
-            "B": {
-                "modality": "Text",
-                "input": "7 times"
-            },
-            "C": {
-                "modality": "Text",
-                "input": "9 times"
-            },
-            "D": {
-                "modality": "Text",
-                "input": "2 times"
+                "input": "4 times"
             }
         },
         "correct_answer": "D"
@@ -9155,16 +9025,16 @@
         "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
         "conditions": {
             "modality": "Audio",
-            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/6b2gujvZ8_g.00.wav"
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/6d_RTzFfQUE.wav"
         },
         "options": {
             "A": {
                 "modality": "Text",
-                "input": "2 times"
+                "input": "7 times"
             },
             "B": {
                 "modality": "Text",
-                "input": "7 times"
+                "input": "3 times"
             },
             "C": {
                 "modality": "Text",
@@ -9172,7 +9042,7 @@
             },
             "D": {
                 "modality": "Text",
-                "input": "18 times"
+                "input": "13 times"
             }
         },
         "correct_answer": "B"
@@ -9181,7 +9051,59 @@
         "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
         "conditions": {
             "modality": "Audio",
-            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/pN6O_t9s0us.00.wav"
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/4EK46v4E_Gs.00.wav"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "12 times"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "2 times"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "8 times"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "17 times"
+            }
+        },
+        "correct_answer": "C"
+    },
+    {
+        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/I054zoPKNck.wav"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "18 times"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "6 times"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "2 times"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "12 times"
+            }
+        },
+        "correct_answer": "B"
+    },
+    {
+        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/04vlULXjzZc.00.wav"
         },
         "options": {
             "A": {
@@ -9190,93 +9112,15 @@
             },
             "B": {
                 "modality": "Text",
-                "input": "2 times"
-            },
-            "C": {
-                "modality": "Text",
-                "input": "10 times"
-            },
-            "D": {
-                "modality": "Text",
-                "input": "7 times"
-            }
-        },
-        "correct_answer": "B"
-    },
-    {
-        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
-        "conditions": {
-            "modality": "Audio",
-            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/2BZzzEriDyU.00.wav"
-        },
-        "options": {
-            "A": {
-                "modality": "Text",
-                "input": "18 times"
-            },
-            "B": {
-                "modality": "Text",
-                "input": "2 times"
-            },
-            "C": {
-                "modality": "Text",
-                "input": "7 times"
-            },
-            "D": {
-                "modality": "Text",
-                "input": "12 times"
-            }
-        },
-        "correct_answer": "C"
-    },
-    {
-        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
-        "conditions": {
-            "modality": "Audio",
-            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/5R63ecyeTDE.00.wav"
-        },
-        "options": {
-            "A": {
-                "modality": "Text",
                 "input": "12 times"
             },
-            "B": {
-                "modality": "Text",
-                "input": "7 times"
-            },
             "C": {
-                "modality": "Text",
-                "input": "3 times"
-            },
-            "D": {
-                "modality": "Text",
-                "input": "13 times"
-            }
-        },
-        "correct_answer": "C"
-    },
-    {
-        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
-        "conditions": {
-            "modality": "Audio",
-            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/4kw8URqlVck.00.wav"
-        },
-        "options": {
-            "A": {
                 "modality": "Text",
                 "input": "2 times"
             },
-            "B": {
-                "modality": "Text",
-                "input": "7 times"
-            },
-            "C": {
-                "modality": "Text",
-                "input": "10 times"
-            },
             "D": {
                 "modality": "Text",
-                "input": "9 times"
+                "input": "17 times"
             }
         },
         "correct_answer": "A"
@@ -9285,7 +9129,7 @@
         "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
         "conditions": {
             "modality": "Audio",
-            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/4kw8URqlVck.00.wav"
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/e-JyMr8rU80.00.wav"
         },
         "options": {
             "A": {
@@ -9294,15 +9138,15 @@
             },
             "B": {
                 "modality": "Text",
-                "input": "2 times"
+                "input": "3 times"
             },
             "C": {
                 "modality": "Text",
-                "input": "10 times"
+                "input": "12 times"
             },
             "D": {
                 "modality": "Text",
-                "input": "8 times"
+                "input": "13 times"
             }
         },
         "correct_answer": "B"
@@ -9320,33 +9164,7 @@
             },
             "B": {
                 "modality": "Text",
-                "input": "11 times"
-            },
-            "C": {
-                "modality": "Text",
                 "input": "12 times"
-            },
-            "D": {
-                "modality": "Text",
-                "input": "7 times"
-            }
-        },
-        "correct_answer": "A"
-    },
-    {
-        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
-        "conditions": {
-            "modality": "Audio",
-            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/5R63ecyeTDE.00.wav"
-        },
-        "options": {
-            "A": {
-                "modality": "Text",
-                "input": "7 times"
-            },
-            "B": {
-                "modality": "Text",
-                "input": "3 times"
             },
             "C": {
                 "modality": "Text",
@@ -9354,426 +9172,10 @@
             },
             "D": {
                 "modality": "Text",
-                "input": "12 times"
-            }
-        },
-        "correct_answer": "B"
-    },
-    {
-        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
-        "conditions": {
-            "modality": "Audio",
-            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/90O8dCO4XJY.01.wav"
-        },
-        "options": {
-            "A": {
-                "modality": "Text",
-                "input": "7 times"
-            },
-            "B": {
-                "modality": "Text",
-                "input": "9 times"
-            },
-            "C": {
-                "modality": "Text",
-                "input": "2 times"
-            },
-            "D": {
-                "modality": "Text",
-                "input": "11 times"
-            }
-        },
-        "correct_answer": "C"
-    },
-    {
-        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
-        "conditions": {
-            "modality": "Audio",
-            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/bZPW5b9TOho.00.wav"
-        },
-        "options": {
-            "A": {
-                "modality": "Text",
-                "input": "10 times"
-            },
-            "B": {
-                "modality": "Text",
-                "input": "9 times"
-            },
-            "C": {
-                "modality": "Text",
-                "input": "2 times"
-            },
-            "D": {
-                "modality": "Text",
-                "input": "17 times"
-            }
-        },
-        "correct_answer": "B"
-    },
-    {
-        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
-        "conditions": {
-            "modality": "Audio",
-            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/8i0-GCEwqtM.00.wav"
-        },
-        "options": {
-            "A": {
-                "modality": "Text",
-                "input": "2 times"
-            },
-            "B": {
-                "modality": "Text",
-                "input": "10 times"
-            },
-            "C": {
-                "modality": "Text",
-                "input": "11 times"
-            },
-            "D": {
-                "modality": "Text",
                 "input": "7 times"
             }
         },
         "correct_answer": "A"
-    },
-    {
-        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
-        "conditions": {
-            "modality": "Audio",
-            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/iBaJ3XMe4i8.wav"
-        },
-        "options": {
-            "A": {
-                "modality": "Text",
-                "input": "6 times"
-            },
-            "B": {
-                "modality": "Text",
-                "input": "19 times"
-            },
-            "C": {
-                "modality": "Text",
-                "input": "12 times"
-            },
-            "D": {
-                "modality": "Text",
-                "input": "2 times"
-            }
-        },
-        "correct_answer": "A"
-    },
-    {
-        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
-        "conditions": {
-            "modality": "Audio",
-            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/3fF9edlAjA4.00.wav"
-        },
-        "options": {
-            "A": {
-                "modality": "Text",
-                "input": "13 times"
-            },
-            "B": {
-                "modality": "Text",
-                "input": "4 times"
-            },
-            "C": {
-                "modality": "Text",
-                "input": "12 times"
-            },
-            "D": {
-                "modality": "Text",
-                "input": "15 times"
-            }
-        },
-        "correct_answer": "B"
-    },
-    {
-        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
-        "conditions": {
-            "modality": "Audio",
-            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/624rDx0cR_Y.00.wav"
-        },
-        "options": {
-            "A": {
-                "modality": "Text",
-                "input": "10 times"
-            },
-            "B": {
-                "modality": "Text",
-                "input": "2 times"
-            },
-            "C": {
-                "modality": "Text",
-                "input": "9 times"
-            },
-            "D": {
-                "modality": "Text",
-                "input": "7 times"
-            }
-        },
-        "correct_answer": "B"
-    },
-    {
-        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
-        "conditions": {
-            "modality": "Audio",
-            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/af3XRd9BUNM.00.wav"
-        },
-        "options": {
-            "A": {
-                "modality": "Text",
-                "input": "9 times"
-            },
-            "B": {
-                "modality": "Text",
-                "input": "10 times"
-            },
-            "C": {
-                "modality": "Text",
-                "input": "7 times"
-            },
-            "D": {
-                "modality": "Text",
-                "input": "2 times"
-            }
-        },
-        "correct_answer": "D"
-    },
-    {
-        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
-        "conditions": {
-            "modality": "Audio",
-            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/_9ub8t8y6Mg.wav"
-        },
-        "options": {
-            "A": {
-                "modality": "Text",
-                "input": "8 times"
-            },
-            "B": {
-                "modality": "Text",
-                "input": "2 times"
-            },
-            "C": {
-                "modality": "Text",
-                "input": "17 times"
-            },
-            "D": {
-                "modality": "Text",
-                "input": "12 times"
-            }
-        },
-        "correct_answer": "A"
-    },
-    {
-        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
-        "conditions": {
-            "modality": "Audio",
-            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/I054zoPKNck.wav"
-        },
-        "options": {
-            "A": {
-                "modality": "Text",
-                "input": "6 times"
-            },
-            "B": {
-                "modality": "Text",
-                "input": "12 times"
-            },
-            "C": {
-                "modality": "Text",
-                "input": "2 times"
-            },
-            "D": {
-                "modality": "Text",
-                "input": "17 times"
-            }
-        },
-        "correct_answer": "A"
-    },
-    {
-        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
-        "conditions": {
-            "modality": "Audio",
-            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/4kw8URqlVck.00.wav"
-        },
-        "options": {
-            "A": {
-                "modality": "Text",
-                "input": "9 times"
-            },
-            "B": {
-                "modality": "Text",
-                "input": "2 times"
-            },
-            "C": {
-                "modality": "Text",
-                "input": "7 times"
-            },
-            "D": {
-                "modality": "Text",
-                "input": "10 times"
-            }
-        },
-        "correct_answer": "B"
-    },
-    {
-        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
-        "conditions": {
-            "modality": "Audio",
-            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/bTjSfCPsLA8.00.wav"
-        },
-        "options": {
-            "A": {
-                "modality": "Text",
-                "input": "14 times"
-            },
-            "B": {
-                "modality": "Text",
-                "input": "17 times"
-            },
-            "C": {
-                "modality": "Text",
-                "input": "5 times"
-            },
-            "D": {
-                "modality": "Text",
-                "input": "12 times"
-            }
-        },
-        "correct_answer": "C"
-    },
-    {
-        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
-        "conditions": {
-            "modality": "Audio",
-            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/B9alVd8MRO4.00.wav"
-        },
-        "options": {
-            "A": {
-                "modality": "Text",
-                "input": "7 times"
-            },
-            "B": {
-                "modality": "Text",
-                "input": "3 times"
-            },
-            "C": {
-                "modality": "Text",
-                "input": "10 times"
-            },
-            "D": {
-                "modality": "Text",
-                "input": "12 times"
-            }
-        },
-        "correct_answer": "B"
-    },
-    {
-        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
-        "conditions": {
-            "modality": "Audio",
-            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/68mhtFPsemA.00.wav"
-        },
-        "options": {
-            "A": {
-                "modality": "Text",
-                "input": "19 times"
-            },
-            "B": {
-                "modality": "Text",
-                "input": "12 times"
-            },
-            "C": {
-                "modality": "Text",
-                "input": "2 times"
-            },
-            "D": {
-                "modality": "Text",
-                "input": "6 times"
-            }
-        },
-        "correct_answer": "D"
-    },
-    {
-        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
-        "conditions": {
-            "modality": "Audio",
-            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/b-aYgXF24JE.00.wav"
-        },
-        "options": {
-            "A": {
-                "modality": "Text",
-                "input": "2 times"
-            },
-            "B": {
-                "modality": "Text",
-                "input": "12 times"
-            },
-            "C": {
-                "modality": "Text",
-                "input": "7 times"
-            },
-            "D": {
-                "modality": "Text",
-                "input": "18 times"
-            }
-        },
-        "correct_answer": "C"
-    },
-    {
-        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
-        "conditions": {
-            "modality": "Audio",
-            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/49wXelxSCaE.00.wav"
-        },
-        "options": {
-            "A": {
-                "modality": "Text",
-                "input": "2 times"
-            },
-            "B": {
-                "modality": "Text",
-                "input": "11 times"
-            },
-            "C": {
-                "modality": "Text",
-                "input": "7 times"
-            },
-            "D": {
-                "modality": "Text",
-                "input": "9 times"
-            }
-        },
-        "correct_answer": "A"
-    },
-    {
-        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
-        "conditions": {
-            "modality": "Audio",
-            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/fhQTjKUdUSk.wav"
-        },
-        "options": {
-            "A": {
-                "modality": "Text",
-                "input": "2 times"
-            },
-            "B": {
-                "modality": "Text",
-                "input": "7 times"
-            },
-            "C": {
-                "modality": "Text",
-                "input": "20 times"
-            },
-            "D": {
-                "modality": "Text",
-                "input": "12 times"
-            }
-        },
-        "correct_answer": "B"
     },
     {
         "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
@@ -9784,48 +9186,48 @@
         "options": {
             "A": {
                 "modality": "Text",
-                "input": "5 times"
+                "input": "14 times"
             },
             "B": {
                 "modality": "Text",
-                "input": "12 times"
+                "input": "17 times"
             },
             "C": {
                 "modality": "Text",
-                "input": "15 times"
+                "input": "5 times"
             },
             "D": {
                 "modality": "Text",
-                "input": "16 times"
+                "input": "12 times"
             }
         },
-        "correct_answer": "A"
+        "correct_answer": "C"
     },
     {
         "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
         "conditions": {
             "modality": "Audio",
-            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/5S9BuibHb7k.00.wav"
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/e-JyMr8rU80.00.wav"
         },
         "options": {
             "A": {
                 "modality": "Text",
-                "input": "12 times"
+                "input": "10 times"
             },
             "B": {
                 "modality": "Text",
-                "input": "2 times"
+                "input": "3 times"
             },
             "C": {
                 "modality": "Text",
-                "input": "17 times"
+                "input": "12 times"
             },
             "D": {
                 "modality": "Text",
-                "input": "6 times"
+                "input": "7 times"
             }
         },
-        "correct_answer": "D"
+        "correct_answer": "B"
     },
     {
         "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
@@ -9836,126 +9238,48 @@
         "options": {
             "A": {
                 "modality": "Text",
-                "input": "5 times"
+                "input": "12 times"
             },
             "B": {
                 "modality": "Text",
-                "input": "12 times"
+                "input": "5 times"
             },
             "C": {
                 "modality": "Text",
-                "input": "14 times"
+                "input": "16 times"
             },
             "D": {
                 "modality": "Text",
-                "input": "16 times"
+                "input": "15 times"
             }
         },
-        "correct_answer": "A"
+        "correct_answer": "B"
     },
     {
         "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
         "conditions": {
             "modality": "Audio",
-            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/90O8dCO4XJY.00.wav"
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/6d_RTzFfQUE.wav"
         },
         "options": {
             "A": {
-                "modality": "Text",
-                "input": "7 times"
-            },
-            "B": {
-                "modality": "Text",
-                "input": "9 times"
-            },
-            "C": {
                 "modality": "Text",
                 "input": "10 times"
             },
+            "B": {
+                "modality": "Text",
+                "input": "12 times"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "7 times"
+            },
             "D": {
                 "modality": "Text",
-                "input": "2 times"
+                "input": "3 times"
             }
         },
         "correct_answer": "D"
-    },
-    {
-        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
-        "conditions": {
-            "modality": "Audio",
-            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/wgF9lVdT6K4.wav"
-        },
-        "options": {
-            "A": {
-                "modality": "Text",
-                "input": "16 times"
-            },
-            "B": {
-                "modality": "Text",
-                "input": "5 times"
-            },
-            "C": {
-                "modality": "Text",
-                "input": "17 times"
-            },
-            "D": {
-                "modality": "Text",
-                "input": "12 times"
-            }
-        },
-        "correct_answer": "B"
-    },
-    {
-        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
-        "conditions": {
-            "modality": "Audio",
-            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/b-aYgXF24JE.00.wav"
-        },
-        "options": {
-            "A": {
-                "modality": "Text",
-                "input": "12 times"
-            },
-            "B": {
-                "modality": "Text",
-                "input": "7 times"
-            },
-            "C": {
-                "modality": "Text",
-                "input": "20 times"
-            },
-            "D": {
-                "modality": "Text",
-                "input": "2 times"
-            }
-        },
-        "correct_answer": "B"
-    },
-    {
-        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
-        "conditions": {
-            "modality": "Audio",
-            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/iz39RntfH0I.00.wav"
-        },
-        "options": {
-            "A": {
-                "modality": "Text",
-                "input": "7 times"
-            },
-            "B": {
-                "modality": "Text",
-                "input": "12 times"
-            },
-            "C": {
-                "modality": "Text",
-                "input": "3 times"
-            },
-            "D": {
-                "modality": "Text",
-                "input": "11 times"
-            }
-        },
-        "correct_answer": "C"
     },
     {
         "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
@@ -9974,11 +9298,11 @@
             },
             "C": {
                 "modality": "Text",
-                "input": "20 times"
+                "input": "12 times"
             },
             "D": {
                 "modality": "Text",
-                "input": "12 times"
+                "input": "21 times"
             }
         },
         "correct_answer": "B"
@@ -9987,33 +9311,7 @@
         "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
         "conditions": {
             "modality": "Audio",
-            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/at3mGS-FAVg.00.wav"
-        },
-        "options": {
-            "A": {
-                "modality": "Text",
-                "input": "2 times"
-            },
-            "B": {
-                "modality": "Text",
-                "input": "17 times"
-            },
-            "C": {
-                "modality": "Text",
-                "input": "9 times"
-            },
-            "D": {
-                "modality": "Text",
-                "input": "10 times"
-            }
-        },
-        "correct_answer": "C"
-    },
-    {
-        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
-        "conditions": {
-            "modality": "Audio",
-            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/GTVf8VgdKq8.00.wav"
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/7W5LbOiYVdY.00.wav"
         },
         "options": {
             "A": {
@@ -10026,11 +9324,739 @@
             },
             "C": {
                 "modality": "Text",
+                "input": "12 times"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "20 times"
+            }
+        },
+        "correct_answer": "A"
+    },
+    {
+        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/6d_RTzFfQUE.wav"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "12 times"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "7 times"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "3 times"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "10 times"
+            }
+        },
+        "correct_answer": "C"
+    },
+    {
+        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/Ml_weFCeV68.00.wav"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "14 times"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "16 times"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "5 times"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "12 times"
+            }
+        },
+        "correct_answer": "C"
+    },
+    {
+        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/5MatkFhxP6g.00.wav"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "7 times"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "10 times"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "12 times"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "3 times"
+            }
+        },
+        "correct_answer": "D"
+    },
+    {
+        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/615tzb3SQ2A.00.wav"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "17 times"
+            },
+            "B": {
+                "modality": "Text",
                 "input": "9 times"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "2 times"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "24 times"
+            }
+        },
+        "correct_answer": "B"
+    },
+    {
+        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/1C9bH7JisIk.00.wav"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "6 times"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "12 times"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "18 times"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "2 times"
+            }
+        },
+        "correct_answer": "A"
+    },
+    {
+        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/3Q0K84jmKKA.00.wav"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "8 times"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "12 times"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "17 times"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "2 times"
+            }
+        },
+        "correct_answer": "A"
+    },
+    {
+        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/38bvn8kTs-Y.00.wav"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "12 times"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "13 times"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "14 times"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "4 times"
+            }
+        },
+        "correct_answer": "D"
+    },
+    {
+        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/fr00AH4B6E8.wav"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "24 times"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "17 times"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "10 times"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "2 times"
+            }
+        },
+        "correct_answer": "C"
+    },
+    {
+        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/ltjuf_fH0ww.00.wav"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "3 times"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "12 times"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "10 times"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "7 times"
+            }
+        },
+        "correct_answer": "A"
+    },
+    {
+        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/Ml_weFCeV68.00.wav"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "5 times"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "12 times"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "17 times"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "15 times"
+            }
+        },
+        "correct_answer": "A"
+    },
+    {
+        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/sFnX5gB99r8.wav"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "18 times"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "2 times"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "6 times"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "12 times"
+            }
+        },
+        "correct_answer": "C"
+    },
+    {
+        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/7fsBIMRNhOE.wav"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "16 times"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "12 times"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "5 times"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "17 times"
+            }
+        },
+        "correct_answer": "C"
+    },
+    {
+        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/e7Ne3YwwFUM.00.wav"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "3 times"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "12 times"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "13 times"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "7 times"
+            }
+        },
+        "correct_answer": "A"
+    },
+    {
+        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/5iL201ao6fI.wav"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "2 times"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "27 times"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "10 times"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "17 times"
+            }
+        },
+        "correct_answer": "C"
+    },
+    {
+        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/B9tPbJrO6Oc.00.wav"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "12 times"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "5 times"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "15 times"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "16 times"
+            }
+        },
+        "correct_answer": "B"
+    },
+    {
+        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/etHNh5_LeFU.wav"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "16 times"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "12 times"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "5 times"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "17 times"
+            }
+        },
+        "correct_answer": "C"
+    },
+    {
+        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/B9tPbJrO6Oc.00.wav"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "15 times"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "16 times"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "5 times"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "12 times"
+            }
+        },
+        "correct_answer": "C"
+    },
+    {
+        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/2shenaHrvwM.00.wav"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "17 times"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "12 times"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "8 times"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "2 times"
+            }
+        },
+        "correct_answer": "C"
+    },
+    {
+        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/a7cRojOdljw.wav"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "2 times"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "6 times"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "17 times"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "12 times"
+            }
+        },
+        "correct_answer": "B"
+    },
+    {
+        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/5S9BuibHb7k.01.wav"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "15 times"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "14 times"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "12 times"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "5 times"
+            }
+        },
+        "correct_answer": "D"
+    },
+    {
+        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/85Ax9Hrghcs.00.wav"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "2 times"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "9 times"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "7 times"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "11 times"
+            }
+        },
+        "correct_answer": "A"
+    },
+    {
+        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/BH5r7tlPkiQ.wav"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "4 times"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "15 times"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "13 times"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "12 times"
+            }
+        },
+        "correct_answer": "A"
+    },
+    {
+        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/4dRHEmJLpXQ.00.wav"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "16 times"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "2 times"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "12 times"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "6 times"
+            }
+        },
+        "correct_answer": "D"
+    },
+    {
+        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/4dRHEmJLpXQ.00.wav"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "6 times"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "2 times"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "16 times"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "12 times"
+            }
+        },
+        "correct_answer": "A"
+    },
+    {
+        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/1D7frgXM1qE.00.wav"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "2 times"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "9 times"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "7 times"
             },
             "D": {
                 "modality": "Text",
                 "input": "8 times"
+            }
+        },
+        "correct_answer": "A"
+    },
+    {
+        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/615tzb3SQ2A.00.wav"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "2 times"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "9 times"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "17 times"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "23 times"
+            }
+        },
+        "correct_answer": "B"
+    },
+    {
+        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/3YLkj739DaM.00.wav"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "12 times"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "7 times"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "3 times"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "13 times"
+            }
+        },
+        "correct_answer": "C"
+    },
+    {
+        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
+        "conditions": {
+            "modality": "Audio",
+            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/aWPjf_F5J2M.00.wav"
+        },
+        "options": {
+            "A": {
+                "modality": "Text",
+                "input": "2 times"
+            },
+            "B": {
+                "modality": "Text",
+                "input": "8 times"
+            },
+            "C": {
+                "modality": "Text",
+                "input": "12 times"
+            },
+            "D": {
+                "modality": "Text",
+                "input": "17 times"
             }
         },
         "correct_answer": "B"
@@ -12969,32 +12995,6 @@
             "D": {
                 "modality": "Text",
                 "input": "2 times"
-            }
-        },
-        "correct_answer": "B"
-    },
-    {
-        "question": "Listen carefully to the audio clip and focus on how many repetitions of the action are in the audio. Which text best describes the number of repetitions? Choose A, B, C, or D.",
-        "conditions": {
-            "modality": "Audio",
-            "input": "/home/xwang378/scratch/2025/AudioBench/benchmark/Data/ExtremCountAV/e7Ne3YwwFUM.00.wav"
-        },
-        "options": {
-            "A": {
-                "modality": "Text",
-                "input": "7 times"
-            },
-            "B": {
-                "modality": "Text",
-                "input": "3 times"
-            },
-            "C": {
-                "modality": "Text",
-                "input": "12 times"
-            },
-            "D": {
-                "modality": "Text",
-                "input": "10 times"
             }
         },
         "correct_answer": "B"

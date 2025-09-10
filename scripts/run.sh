@@ -4,8 +4,10 @@ export audioBench='/home/xwang378/scratch/2025/AudioBench'
 
 # Configuration
 # MODEL="qwen2.5_omni"
-MODEL="vita"
+# MODEL="vita"
 # MODEL="echoink"
+MODEL="anygpt"
+# MINI_BENCHMARK="false"
 MINI_BENCHMARK="true"
 
 # Function to run evaluation
@@ -23,7 +25,7 @@ run_evaluation() {
         CUDA_VISIBLE_DEVICES=0 python $audioBench/scripts/run.py \
             --model $model \
             --task_name $task_name \
-            --sample 97 \
+            --sample 297 \
             --mini_benchmark
     else
         CUDA_VISIBLE_DEVICES=0 python $audioBench/scripts/run.py \
@@ -36,37 +38,39 @@ run_evaluation() {
 TASKS_TO_RUN=(
     # # Perception tasks
     "perception/general"
-    "perception/finegrained"
-    "perception/instruments"
-    "perception/instruments_comp"
-    "perception/natures"
+    # "perception/finegrained"
+    # "perception/instruments"
+    # "perception/instruments_comp"
+    # "perception/natures"
     
-    # Spatial tasks
-    "spatial/arrangements"
-    "spatial/3D_movements"
-    "spatial/panaroma"
+    # # # Spatial tasks
+    # "spatial/arrangements"
+    # "spatial/3D_movements"
+    # "spatial/panaroma"
     
-    # Speech tasks
-    "speech/recognition"
-    "speech/translation"
+    # # Speech tasks
+    # "speech/recognition"
+    # "speech/translation"
     
-    # Temporal tasks
-    "temporal/count"
-    "temporal/calculation"
-    "temporal/order"
+    # # Temporal tasks
+    # "temporal/count"
+    # "temporal/calculation"
+    # "temporal/order"
     
-    # External tasks
-    "external/music_genre_classification"
-    "external/emotion_classification"
-    "external/movie_matching"
-    "external/singer_identification"
+    # # # External tasks
+    # "external/music_genre_classification"
+    # "external/emotion_classification"
+    # "external/movie_matching"
+    # "external/singer_identification"
 )
 
 # Run evaluations
 for task_key in "${TASKS_TO_RUN[@]}"; do
     task=$(echo $task_key | cut -d'/' -f1)
     subtask=$(echo $task_key | cut -d'/' -f2)
-    modalities="audio_vision vision_audio vision_text text_vision text_audio audio_text"
+    # modalities="audio_vision vision_audio vision_text text_audio audio_text text_vision "
+    # modalities="audio_vision vision_audio vision_text text_vision"
+    modalities="text_vision vision_text"
     
     echo "Processing task: $task_key"
     echo "Modalities: $modalities"
