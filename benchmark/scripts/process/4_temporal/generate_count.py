@@ -104,10 +104,7 @@ def generate_question_vision_text(text_choices, audio_paths, correct_answer, vis
         correct_image_path = correct_audio_path.replace(".wav", ".mp4")
         
     question = {
-        "question": (
-            question_text,
-            "Choose A, B, C, or D."
-        ),
+        "question": f'{question_text} Answer the question with A, B, C, or D.',
         "conditions": {
             "modality": vision_modality,
             "input": correct_image_path,
@@ -151,10 +148,7 @@ def generate_question_text_vision(text_choices, audio_paths, correct_answer, vis
         question_text = "Which video of repeated actions shows the same number of repeated times as described in the text? "
     
     question = {
-        "question": (
-            question_text,
-            "Choose A, B, C, or D."
-        ),
+        "question": f'{question_text} Answer the question with A, B, C, or D.',
         "conditions": {
             "modality": "Text",
             "input": f"{correct_text} times",

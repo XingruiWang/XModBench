@@ -1,22 +1,25 @@
 #!/bin/bash
-#SBATCH --job-name=VLM_eval        
+#SBATCH --job-name=VLM_eval   
 #SBATCH --output=log/job_%j.out
 #SBATCH --error=log/job_%j.log                        
 #SBATCH --ntasks-per-node=1
 #SBATCH --gpus-per-node=4
 
+
 module load conda
-conda activate omni
+conda activate /home/xwang378/.conda/envs/omni
+# conda activate /home/xwang378/.conda/envs/vita
 echo "Running on host: $(hostname)"
 echo "CUDA_VISIBLE_DEVICES=$CUDA_VISIBLE_DEVICES"
 
 export audioBench='/home/xwang378/scratch/2025/AudioBench'
 
 # Configuration
-MODEL="qwen2.5_omni"
-#MODEL="vita"
-# MODEL="echoink"
-MINI_BENCHMARK="false"
+# MODEL="qwen2.5_omni"
+# MODEL="vita"
+MODEL="echoink"
+# MINI_BENCHMARK="false"
+MINI_BENCHMARK="true"
 
 # Function to run evaluation
 run_evaluation() {
@@ -33,7 +36,7 @@ run_evaluation() {
         CUDA_VISIBLE_DEVICES=0,1,2,3 python $audioBench/scripts/run.py \
             --model $model \
             --task_name $task_name \
-            --sample 97 \
+            --sample 297 \
             --mini_benchmark
     else
         CUDA_VISIBLE_DEVICES=0,1,2,3 python $audioBench/scripts/run.py \
@@ -43,10 +46,15 @@ run_evaluation() {
     fi
 }
 
+modalities="audio_vision vision_audio vision_text text_vision text_audio audio_text"
+# modalities="audio_text text_vision vision_text"
+# modalities="audio_text text_vision text_audio"
+# modalities="vision_text"
+
 # Main execution - uncomment the tasks you want to run
 TASKS_TO_RUN=(
     # Perception tasks
-    "perception/general"
+    # "perception/general"
     # "perception/finegrained"
     # "perception/instruments"
     # "perception/instruments_comp"
@@ -54,7 +62,7 @@ TASKS_TO_RUN=(
     
     # # Spatial tasks
     # "spatial/arrangements"
-    # "spatial/3D_movements"
+    "spatial/3D_movements"
     # "spatial/panaroma"
     
     # # Speech tasks
@@ -77,7 +85,6 @@ TASKS_TO_RUN=(
 for task_key in "${TASKS_TO_RUN[@]}"; do
     task=$(echo $task_key | cut -d'/' -f1)
     subtask=$(echo $task_key | cut -d'/' -f2)
-    modalities="audio_vision vision_audio vision_text text_vision text_audio audio_text"
     
     echo "Processing task: $task_key"
     echo "Modalities: $modalities"
