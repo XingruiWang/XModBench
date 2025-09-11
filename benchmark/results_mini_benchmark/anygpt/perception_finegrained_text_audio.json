@@ -1,0 +1,2386 @@
+{
+    "task_name": "perception/finegrained_text_audio",
+    "score": 24.915824915824917,
+    "correct_count": 74,
+    "all_count": 297,
+    "results": {
+        "2": {
+            "question": "Based on this description: 'lions growling', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 2,
+            "is_correct": false
+        },
+        "13": {
+            "question": "Based on this description: 'cattle mooing', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 13,
+            "is_correct": false
+        },
+        "26": {
+            "question": "Based on this description: 'baltimore oriole calling', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that matches the context is A.",
+            "correct_answer": "B",
+            "index": 26,
+            "is_correct": false
+        },
+        "47": {
+            "question": "Based on this description: 'bird wings flapping', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, \"bird wings flapping\", the audio clip that matches the context is A.",
+            "correct_answer": "D",
+            "index": 47,
+            "is_correct": false
+        },
+        "79": {
+            "question": "Based on this description: 'elephant trumpeting', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 79,
+            "is_correct": true
+        },
+        "86": {
+            "question": "Based on this description: 'mouse squeaking', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 86,
+            "is_correct": false
+        },
+        "102": {
+            "question": "Based on this description: 'dog baying', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 102,
+            "is_correct": false
+        },
+        "108": {
+            "question": "Based on this description: 'mouse squeaking', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 108,
+            "is_correct": false
+        },
+        "122": {
+            "question": "Based on this description: 'otter growling', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 122,
+            "is_correct": false
+        },
+        "130": {
+            "question": "Based on this description: 'dinosaurs bellowing', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 130,
+            "is_correct": false
+        },
+        "131": {
+            "question": "Based on this description: 'francolin calling', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 131,
+            "is_correct": true
+        },
+        "177": {
+            "question": "Based on this description: 'dinosaurs bellowing', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given text, the audio clip that best matches the description is \"dinosaurs bellowing\".",
+            "correct_answer": "A",
+            "index": 177,
+            "is_correct": false
+        },
+        "187": {
+            "question": "Based on this description: 'lions roaring', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 187,
+            "is_correct": false
+        },
+        "192": {
+            "question": "Based on this description: 'dog bow-wow', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given text, the correct choice is A.  ",
+            "correct_answer": "A",
+            "index": 192,
+            "is_correct": true
+        },
+        "229": {
+            "question": "Based on this description: 'coyote howling', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 229,
+            "is_correct": false
+        },
+        "237": {
+            "question": "Based on this description: 'coyote howling', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 237,
+            "is_correct": false
+        },
+        "260": {
+            "question": "Based on this description: 'sea lion barking', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that best matches the context is A.",
+            "correct_answer": "D",
+            "index": 260,
+            "is_correct": false
+        },
+        "262": {
+            "question": "Based on this description: 'cow lowing', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 262,
+            "is_correct": false
+        },
+        "271": {
+            "question": "Based on this description: 'chicken clucking', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that best matches the context is A.",
+            "correct_answer": "D",
+            "index": 271,
+            "is_correct": false
+        },
+        "283": {
+            "question": "Based on this description: 'cat caterwauling', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 283,
+            "is_correct": false
+        },
+        "284": {
+            "question": "Based on this description: 'owl hooting', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given description, the audio clip that best matches the context is \"owl hooting\".",
+            "correct_answer": "A",
+            "index": 284,
+            "is_correct": false
+        },
+        "292": {
+            "question": "Based on this description: 'cat hissing', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 292,
+            "is_correct": false
+        },
+        "322": {
+            "question": "Based on this description: 'cuckoo bird calling', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that matches the context is \"cuckoo bird calling\". Therefore, the correct choice is A.",
+            "correct_answer": "A",
+            "index": 322,
+            "is_correct": true
+        },
+        "326": {
+            "question": "Based on this description: 'bird wings flapping', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given text, the correct choice would be A.  ",
+            "correct_answer": "C",
+            "index": 326,
+            "is_correct": false
+        },
+        "350": {
+            "question": "Based on this description: 'lions roaring', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 350,
+            "is_correct": true
+        },
+        "356": {
+            "question": "Based on this description: 'parrot talking', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 356,
+            "is_correct": false
+        },
+        "372": {
+            "question": "Based on this description: 'snake hissing', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given description, the audio clip that best matches the context is \"snake hissing\".",
+            "correct_answer": "C",
+            "index": 372,
+            "is_correct": false
+        },
+        "379": {
+            "question": "Based on this description: 'whale calling', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 379,
+            "is_correct": false
+        },
+        "383": {
+            "question": "Based on this description: 'lions growling', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 383,
+            "is_correct": true
+        },
+        "396": {
+            "question": "Based on this description: 'canary calling', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 396,
+            "is_correct": false
+        },
+        "413": {
+            "question": "Based on this description: 'coyote howling', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that best matches the context is A.",
+            "correct_answer": "A",
+            "index": 413,
+            "is_correct": true
+        },
+        "418": {
+            "question": "Based on this description: 'mouse squeaking', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that best matches the context is A.",
+            "correct_answer": "C",
+            "index": 418,
+            "is_correct": false
+        },
+        "419": {
+            "question": "Based on this description: 'chimpanzee pant-hooting', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 419,
+            "is_correct": false
+        },
+        "435": {
+            "question": "Based on this description: 'cattle mooing', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 435,
+            "is_correct": false
+        },
+        "449": {
+            "question": "Based on this description: 'lions roaring', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, \"lions roaring\", the audio clip that best matches the context is \"A\".",
+            "correct_answer": "B",
+            "index": 449,
+            "is_correct": false
+        },
+        "456": {
+            "question": "Based on this description: 'goat bleating', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 456,
+            "is_correct": true
+        },
+        "458": {
+            "question": "Based on this description: 'francolin calling', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 458,
+            "is_correct": false
+        },
+        "469": {
+            "question": "Based on this description: 'pheasant crowing', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that best matches the context is \"pheasant crowing\". Therefore, the answer is A.",
+            "correct_answer": "D",
+            "index": 469,
+            "is_correct": false
+        },
+        "495": {
+            "question": "Based on this description: 'cow lowing', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 495,
+            "is_correct": false
+        },
+        "511": {
+            "question": "Based on this description: 'playing acoustic guitar', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given text, the correct choice would be A.  ",
+            "correct_answer": "C",
+            "index": 511,
+            "is_correct": false
+        },
+        "515": {
+            "question": "Based on this description: 'playing theremin', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 515,
+            "is_correct": false
+        },
+        "525": {
+            "question": "Based on this description: 'playing bugle', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 525,
+            "is_correct": false
+        },
+        "566": {
+            "question": "Based on this description: 'playing ukulele', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 566,
+            "is_correct": false
+        },
+        "571": {
+            "question": "Based on this description: 'playing gong', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that matches the context is A.",
+            "correct_answer": "A",
+            "index": 571,
+            "is_correct": true
+        },
+        "585": {
+            "question": "Based on this description: 'singing bowl', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 585,
+            "is_correct": true
+        },
+        "626": {
+            "question": "Based on this description: 'playing flute', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that best matches what is described is A.",
+            "correct_answer": "A",
+            "index": 626,
+            "is_correct": true
+        },
+        "636": {
+            "question": "Based on this description: 'playing violin, fiddle', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that best matches what is described is A.",
+            "correct_answer": "A",
+            "index": 636,
+            "is_correct": true
+        },
+        "647": {
+            "question": "Based on this description: 'playing drum kit', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 647,
+            "is_correct": false
+        },
+        "653": {
+            "question": "Based on this description: 'playing harmonica', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 653,
+            "is_correct": false
+        },
+        "655": {
+            "question": "Based on this description: 'beat boxing', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given context, the correct choice is A.  ",
+            "correct_answer": "D",
+            "index": 655,
+            "is_correct": false
+        },
+        "661": {
+            "question": "Based on this description: 'playing bass guitar', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 661,
+            "is_correct": false
+        },
+        "666": {
+            "question": "Based on this description: 'playing theremin', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 666,
+            "is_correct": true
+        },
+        "669": {
+            "question": "Based on this description: 'playing violin, fiddle', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that best matches what is described is \"playing violin, fiddle\". Therefore, the answer is A.",
+            "correct_answer": "D",
+            "index": 669,
+            "is_correct": false
+        },
+        "676": {
+            "question": "Based on this description: 'playing accordion', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given text, the correct choice would be A.",
+            "correct_answer": "C",
+            "index": 676,
+            "is_correct": false
+        },
+        "700": {
+            "question": "Based on this description: 'singing bowl', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 700,
+            "is_correct": false
+        },
+        "731": {
+            "question": "Based on this description: 'playing bongo', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that best matches what is described is A.  ",
+            "correct_answer": "A",
+            "index": 731,
+            "is_correct": true
+        },
+        "787": {
+            "question": "Based on this description: 'playing didgeridoo', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that best matches what is described is A.",
+            "correct_answer": "D",
+            "index": 787,
+            "is_correct": false
+        },
+        "814": {
+            "question": "Based on this description: 'playing oboe', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that best matches what is described is A.",
+            "correct_answer": "D",
+            "index": 814,
+            "is_correct": false
+        },
+        "823": {
+            "question": "Based on this description: 'playing electric guitar', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given text, the correct choice would be A.  ",
+            "correct_answer": "A",
+            "index": 823,
+            "is_correct": true
+        },
+        "858": {
+            "question": "Based on this description: 'playing electronic organ', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given text, the correct choice would be A.  ",
+            "correct_answer": "A",
+            "index": 858,
+            "is_correct": true
+        },
+        "864": {
+            "question": "Based on this description: 'playing washboard', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 864,
+            "is_correct": false
+        },
+        "867": {
+            "question": "Based on this description: 'playing banjo', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 867,
+            "is_correct": true
+        },
+        "870": {
+            "question": "Based on this description: 'playing tympani', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 870,
+            "is_correct": false
+        },
+        "881": {
+            "question": "Based on this description: 'playing steelpan', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 881,
+            "is_correct": false
+        },
+        "895": {
+            "question": "Based on this description: 'playing castanets', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 895,
+            "is_correct": false
+        },
+        "898": {
+            "question": "Based on this description: 'playing harp', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 898,
+            "is_correct": false
+        },
+        "899": {
+            "question": "Based on this description: 'playing electronic organ', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given description, the electronic organ audio clip matches the context.  ",
+            "correct_answer": "B",
+            "index": 899,
+            "is_correct": false
+        },
+        "902": {
+            "question": "Based on this description: 'playing bass drum', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 902,
+            "is_correct": false
+        },
+        "914": {
+            "question": "Based on this description: 'playing djembe', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given text, the correct choice would be A.  ",
+            "correct_answer": "B",
+            "index": 914,
+            "is_correct": false
+        },
+        "920": {
+            "question": "Based on this description: 'playing congas', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that best matches what is described is A.",
+            "correct_answer": "B",
+            "index": 920,
+            "is_correct": false
+        },
+        "933": {
+            "question": "Based on this description: 'playing harmonica', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 933,
+            "is_correct": true
+        },
+        "938": {
+            "question": "Based on this description: 'playing harpsichord', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 938,
+            "is_correct": false
+        },
+        "942": {
+            "question": "Based on this description: 'playing double bass', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given text, the audio clip that best matches the description is \"playing double bass\".",
+            "correct_answer": "C",
+            "index": 942,
+            "is_correct": false
+        },
+        "952": {
+            "question": "Based on this description: 'playing drum kit', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that matches the context is A.",
+            "correct_answer": "C",
+            "index": 952,
+            "is_correct": false
+        },
+        "953": {
+            "question": "Based on this description: 'beat boxing', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given context, the correct choice would be A.  ",
+            "correct_answer": "B",
+            "index": 953,
+            "is_correct": false
+        },
+        "980": {
+            "question": "Based on this description: 'playing didgeridoo', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 980,
+            "is_correct": false
+        },
+        "986": {
+            "question": "Based on this description: 'playing harpsichord', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given text, the correct choice would be A.  ",
+            "correct_answer": "C",
+            "index": 986,
+            "is_correct": false
+        },
+        "1002": {
+            "question": "Based on this description: 'people sneezing', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that matches the context is A.",
+            "correct_answer": "A",
+            "index": 1002,
+            "is_correct": true
+        },
+        "1003": {
+            "question": "Based on this description: 'people nose blowing', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 1003,
+            "is_correct": false
+        },
+        "1010": {
+            "question": "Based on this description: 'people eating crisps', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 1010,
+            "is_correct": false
+        },
+        "1015": {
+            "question": "Based on this description: 'people eating noodle', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 1015,
+            "is_correct": false
+        },
+        "1029": {
+            "question": "Based on this description: 'typing on computer keyboard', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 1029,
+            "is_correct": false
+        },
+        "1076": {
+            "question": "Based on this description: 'people booing', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that matches the context is A.",
+            "correct_answer": "C",
+            "index": 1076,
+            "is_correct": false
+        },
+        "1078": {
+            "question": "Based on this description: 'playing table tennis', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Based on the given description, the audio clip that matches the context is \"B: <audio2>\".",
+            "correct_answer": "D",
+            "index": 1078,
+            "is_correct": false
+        },
+        "1083": {
+            "question": "Based on this description: 'people belly laughing', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given text, the audio clip that matches the description 'people belly laughing' is A.",
+            "correct_answer": "B",
+            "index": 1083,
+            "is_correct": false
+        },
+        "1084": {
+            "question": "Based on this description: 'people humming', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that best matches the description is \"A\".",
+            "correct_answer": "A",
+            "index": 1084,
+            "is_correct": true
+        },
+        "1085": {
+            "question": "Based on this description: 'typing on typewriter', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 1085,
+            "is_correct": false
+        },
+        "1092": {
+            "question": "Based on this description: 'people battle cry', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 1092,
+            "is_correct": false
+        },
+        "1093": {
+            "question": "Based on this description: 'people screaming', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 1093,
+            "is_correct": false
+        },
+        "1096": {
+            "question": "Based on this description: 'people sobbing', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that matches the context is A.",
+            "correct_answer": "A",
+            "index": 1096,
+            "is_correct": true
+        },
+        "1105": {
+            "question": "Based on this description: 'people belly laughing', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given text, the audio clip that best matches the description 'people belly laughing' is A.",
+            "correct_answer": "B",
+            "index": 1105,
+            "is_correct": false
+        },
+        "1126": {
+            "question": "Based on this description: 'baby crying', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given context, the correct choice would be A.  ",
+            "correct_answer": "A",
+            "index": 1126,
+            "is_correct": true
+        },
+        "1138": {
+            "question": "Based on this description: 'typing on typewriter', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 1138,
+            "is_correct": false
+        },
+        "1139": {
+            "question": "Based on this description: 'people finger snapping', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 1139,
+            "is_correct": false
+        },
+        "1185": {
+            "question": "Based on this description: 'people shuffling', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 1185,
+            "is_correct": true
+        },
+        "1200": {
+            "question": "Based on this description: 'baby laughter', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 1200,
+            "is_correct": false
+        },
+        "1202": {
+            "question": "Based on this description: 'people sniggering', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Based on the given text, the audio clip that best matches the description is \"B: <audio2>\".",
+            "correct_answer": "D",
+            "index": 1202,
+            "is_correct": false
+        },
+        "1222": {
+            "question": "Based on this description: 'people finger snapping', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 1222,
+            "is_correct": false
+        },
+        "1259": {
+            "question": "Based on this description: 'people coughing', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given description, the audio clip that matches the context is the one with the sound of people coughing.",
+            "correct_answer": "D",
+            "index": 1259,
+            "is_correct": true
+        },
+        "1276": {
+            "question": "Based on this description: 'people battle cry', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 1276,
+            "is_correct": true
+        },
+        "1288": {
+            "question": "Based on this description: 'people belly laughing', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 1288,
+            "is_correct": false
+        },
+        "1292": {
+            "question": "Based on this description: 'people humming', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given text, the audio clip that best matches the description is A.",
+            "correct_answer": "A",
+            "index": 1292,
+            "is_correct": true
+        },
+        "1327": {
+            "question": "Based on this description: 'people coughing', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given description, the audio clip that best matches the context is the one with the sound of people coughing.",
+            "correct_answer": "C",
+            "index": 1327,
+            "is_correct": false
+        },
+        "1328": {
+            "question": "Based on this description: 'people eating crisps', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 1328,
+            "is_correct": false
+        },
+        "1378": {
+            "question": "Based on this description: 'people humming', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 1378,
+            "is_correct": false
+        },
+        "1384": {
+            "question": "Based on this description: 'children shouting', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given text, the audio clip that best matches the description is A.",
+            "correct_answer": "B",
+            "index": 1384,
+            "is_correct": false
+        },
+        "1393": {
+            "question": "Based on this description: 'people whispering', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Based on the given description, the audio clip that best matches the context is \"B: <audio2>\".",
+            "correct_answer": "A",
+            "index": 1393,
+            "is_correct": false
+        },
+        "1408": {
+            "question": "Based on this description: 'playing table tennis', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 1408,
+            "is_correct": false
+        },
+        "1455": {
+            "question": "Based on this description: 'lip smacking', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that best matches \"lip smacking\" is A.",
+            "correct_answer": "B",
+            "index": 1455,
+            "is_correct": false
+        },
+        "1470": {
+            "question": "Based on this description: 'people sniggering', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given text, the audio clip that best matches the description of 'people sniggering' is A.",
+            "correct_answer": "C",
+            "index": 1470,
+            "is_correct": false
+        },
+        "1481": {
+            "question": "Based on this description: 'people coughing', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 1481,
+            "is_correct": false
+        },
+        "1482": {
+            "question": "Based on this description: 'typing on computer keyboard', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 1482,
+            "is_correct": true
+        },
+        "1486": {
+            "question": "Based on this description: 'people shuffling', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 1486,
+            "is_correct": false
+        },
+        "1494": {
+            "question": "Based on this description: 'people whistling', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that best matches the context is A.",
+            "correct_answer": "D",
+            "index": 1494,
+            "is_correct": false
+        },
+        "1516": {
+            "question": "Based on this description: 'air horn', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given text, the correct choice would be A.  ",
+            "correct_answer": "C",
+            "index": 1516,
+            "is_correct": false
+        },
+        "1529": {
+            "question": "Based on this description: 'church bell ringing', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that best matches the context is A.",
+            "correct_answer": "A",
+            "index": 1529,
+            "is_correct": true
+        },
+        "1531": {
+            "question": "Based on this description: 'wind chime', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that best matches the text is A.",
+            "correct_answer": "C",
+            "index": 1531,
+            "is_correct": false
+        },
+        "1550": {
+            "question": "Based on this description: 'reversing beeps', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 1550,
+            "is_correct": false
+        },
+        "1554": {
+            "question": "Based on this description: 'smoke detector beeping', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given context, the correct choice is A.  ",
+            "correct_answer": "D",
+            "index": 1554,
+            "is_correct": false
+        },
+        "1556": {
+            "question": "Based on this description: 'wind chime', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 1556,
+            "is_correct": false
+        },
+        "1563": {
+            "question": "Based on this description: 'wind chime', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given text, the correct choice is A.  ",
+            "correct_answer": "B",
+            "index": 1563,
+            "is_correct": false
+        },
+        "1576": {
+            "question": "Based on this description: 'ice cream truck, ice cream van', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given description, the audio clip that matches the context is \"ice cream truck\".",
+            "correct_answer": "A",
+            "index": 1576,
+            "is_correct": false
+        },
+        "1620": {
+            "question": "Based on this description: 'wind chime', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 1620,
+            "is_correct": false
+        },
+        "1634": {
+            "question": "Based on this description: 'slot machine', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that best matches the context is \"A: slot machine\".",
+            "correct_answer": "A",
+            "index": 1634,
+            "is_correct": true
+        },
+        "1635": {
+            "question": "Based on this description: 'missile launch', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the text, the correct choice is A.  ",
+            "correct_answer": "D",
+            "index": 1635,
+            "is_correct": false
+        },
+        "1643": {
+            "question": "Based on this description: 'reversing beeps', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that best matches \"reversing beeps\" is A.",
+            "correct_answer": "B",
+            "index": 1643,
+            "is_correct": false
+        },
+        "1718": {
+            "question": "Based on this description: 'church bell ringing', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 1718,
+            "is_correct": false
+        },
+        "1728": {
+            "question": "Based on this description: 'air conditioning noise', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 1728,
+            "is_correct": false
+        },
+        "1729": {
+            "question": "Based on this description: 'air horn', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 1729,
+            "is_correct": false
+        },
+        "1731": {
+            "question": "Based on this description: 'church bell ringing', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 1731,
+            "is_correct": false
+        },
+        "1733": {
+            "question": "Based on this description: 'slot machine', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Based on the given description, the audio clip that best matches the context is \"B: <audio2>\".",
+            "correct_answer": "A",
+            "index": 1733,
+            "is_correct": false
+        },
+        "1754": {
+            "question": "Based on this description: 'ice cream truck, ice cream van', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 1754,
+            "is_correct": true
+        },
+        "1780": {
+            "question": "Based on this description: 'air conditioning noise', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that best matches the context is A.",
+            "correct_answer": "B",
+            "index": 1780,
+            "is_correct": false
+        },
+        "1794": {
+            "question": "Based on this description: 'ice cream truck, ice cream van', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given description, the audio clip that best matches the context is \"ice cream truck\".",
+            "correct_answer": "B",
+            "index": 1794,
+            "is_correct": false
+        },
+        "1839": {
+            "question": "Based on this description: 'lighting firecrackers', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 1839,
+            "is_correct": false
+        },
+        "1849": {
+            "question": "Based on this description: 'ice cream truck, ice cream van', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 1849,
+            "is_correct": false
+        },
+        "1857": {
+            "question": "Based on this description: 'fireworks banging', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that best matches the context is \"fireworks banging\". Therefore, the correct answer is A.",
+            "correct_answer": "C",
+            "index": 1857,
+            "is_correct": false
+        },
+        "1858": {
+            "question": "Based on this description: 'fireworks banging', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 1858,
+            "is_correct": false
+        },
+        "1879": {
+            "question": "Based on this description: 'missile launch', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 1879,
+            "is_correct": false
+        },
+        "1881": {
+            "question": "Based on this description: 'telephone bell ringing', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 1881,
+            "is_correct": false
+        },
+        "1893": {
+            "question": "Based on this description: 'fireworks banging', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that best matches the context is A.",
+            "correct_answer": "B",
+            "index": 1893,
+            "is_correct": false
+        },
+        "1917": {
+            "question": "Based on this description: 'ice cream truck, ice cream van', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 1917,
+            "is_correct": true
+        },
+        "1946": {
+            "question": "Based on this description: 'slot machine', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that matches the slot machine is A.  ",
+            "correct_answer": "B",
+            "index": 1946,
+            "is_correct": false
+        },
+        "1990": {
+            "question": "Based on this description: 'reversing beeps', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 1990,
+            "is_correct": false
+        },
+        "2001": {
+            "question": "Based on this description: 'car engine knocking', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that best matches the context is A.",
+            "correct_answer": "B",
+            "index": 2001,
+            "is_correct": false
+        },
+        "2021": {
+            "question": "Based on this description: 'motorboat, speedboat acceleration', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 2021,
+            "is_correct": false
+        },
+        "2044": {
+            "question": "Based on this description: 'race car, auto racing', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Based on the given description, the audio clip that best matches the context is \"B: <audio2>\".",
+            "correct_answer": "C",
+            "index": 2044,
+            "is_correct": false
+        },
+        "2050": {
+            "question": "Based on this description: 'car passing by', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 2050,
+            "is_correct": false
+        },
+        "2069": {
+            "question": "Based on this description: 'skidding', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 2069,
+            "is_correct": true
+        },
+        "2079": {
+            "question": "Based on this description: 'train wheels squealing', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given text, the audio clip that best matches the description is A.",
+            "correct_answer": "A",
+            "index": 2079,
+            "is_correct": true
+        },
+        "2087": {
+            "question": "Based on this description: 'race car, auto racing', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 2087,
+            "is_correct": true
+        },
+        "2119": {
+            "question": "Based on this description: 'airplane', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 2119,
+            "is_correct": false
+        },
+        "2161": {
+            "question": "Based on this description: 'race car, auto racing', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 2161,
+            "is_correct": false
+        },
+        "2167": {
+            "question": "Based on this description: 'subway, metro, underground', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given context, the correct choice is A.  ",
+            "correct_answer": "A",
+            "index": 2167,
+            "is_correct": true
+        },
+        "2172": {
+            "question": "Based on this description: 'opening or closing car electric windows', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 2172,
+            "is_correct": false
+        },
+        "2181": {
+            "question": "Based on this description: 'train horning', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given context, the correct choice would be A.",
+            "correct_answer": "A",
+            "index": 2181,
+            "is_correct": true
+        },
+        "2187": {
+            "question": "Based on this description: 'police car (siren)', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given description, the audio clip that matches the context is \"police car (siren)\".",
+            "correct_answer": "A",
+            "index": 2187,
+            "is_correct": false
+        },
+        "2196": {
+            "question": "Based on this description: 'railroad car, train wagon', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 2196,
+            "is_correct": true
+        },
+        "2199": {
+            "question": "Based on this description: 'police car (siren)', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 2199,
+            "is_correct": false
+        },
+        "2207": {
+            "question": "Based on this description: 'driving buses', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 2207,
+            "is_correct": false
+        },
+        "2208": {
+            "question": "Based on this description: 'race car, auto racing', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that best matches the context is A.",
+            "correct_answer": "A",
+            "index": 2208,
+            "is_correct": true
+        },
+        "2209": {
+            "question": "Based on this description: 'driving snowmobile', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 2209,
+            "is_correct": false
+        },
+        "2232": {
+            "question": "Based on this description: 'police car (siren)', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 2232,
+            "is_correct": false
+        },
+        "2233": {
+            "question": "Based on this description: 'car passing by', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 2233,
+            "is_correct": true
+        },
+        "2251": {
+            "question": "Based on this description: 'skidding', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 2251,
+            "is_correct": false
+        },
+        "2261": {
+            "question": "Based on this description: 'train horning', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 2261,
+            "is_correct": true
+        },
+        "2266": {
+            "question": "Based on this description: 'race car, auto racing', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 2266,
+            "is_correct": true
+        },
+        "2268": {
+            "question": "Based on this description: 'car engine knocking', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that best matches the context is A.",
+            "correct_answer": "A",
+            "index": 2268,
+            "is_correct": true
+        },
+        "2281": {
+            "question": "Based on this description: 'car engine idling', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that best matches the context is \"car engine idling\". Therefore, the answer is A.",
+            "correct_answer": "A",
+            "index": 2281,
+            "is_correct": true
+        },
+        "2298": {
+            "question": "Based on this description: 'car engine starting', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given context, the correct choice would be A.  ",
+            "correct_answer": "B",
+            "index": 2298,
+            "is_correct": false
+        },
+        "2299": {
+            "question": "Based on this description: 'car passing by', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given text, the audio clip that matches the context is A.",
+            "correct_answer": "B",
+            "index": 2299,
+            "is_correct": false
+        },
+        "2323": {
+            "question": "Based on this description: 'driving buses', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given text, the correct choice is A.  ",
+            "correct_answer": "B",
+            "index": 2323,
+            "is_correct": false
+        },
+        "2364": {
+            "question": "Based on this description: 'airplane', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given text, the correct answer is A.  ",
+            "correct_answer": "D",
+            "index": 2364,
+            "is_correct": false
+        },
+        "2390": {
+            "question": "Based on this description: 'engine accelerating, revving, vroom', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given text, the correct choice is A.  ",
+            "correct_answer": "C",
+            "index": 2390,
+            "is_correct": false
+        },
+        "2394": {
+            "question": "Based on this description: 'rowboat, canoe, kayak rowing', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 2394,
+            "is_correct": false
+        },
+        "2409": {
+            "question": "Based on this description: 'helicopter', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 2409,
+            "is_correct": false
+        },
+        "2413": {
+            "question": "Based on this description: 'police car (siren)', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 2413,
+            "is_correct": false
+        },
+        "2418": {
+            "question": "Based on this description: 'driving motorcycle', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given description, the audio clip that best matches the context is \"driving motorcycle\".  ",
+            "correct_answer": "D",
+            "index": 2418,
+            "is_correct": true
+        },
+        "2440": {
+            "question": "Based on this description: 'train horning', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 2440,
+            "is_correct": true
+        },
+        "2442": {
+            "question": "Based on this description: 'helicopter', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that best matches the context is A.  ",
+            "correct_answer": "D",
+            "index": 2442,
+            "is_correct": false
+        },
+        "2453": {
+            "question": "Based on this description: 'car engine knocking', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 2453,
+            "is_correct": true
+        },
+        "2465": {
+            "question": "Based on this description: 'airplane', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 2465,
+            "is_correct": false
+        },
+        "2472": {
+            "question": "Based on this description: 'driving motorcycle', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 2472,
+            "is_correct": false
+        },
+        "2484": {
+            "question": "Based on this description: 'car engine starting', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 2484,
+            "is_correct": false
+        },
+        "2494": {
+            "question": "Based on this description: 'race car, auto racing', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Based on the given description, the audio clip that best matches the context is \"B: <audio2>\".",
+            "correct_answer": "B",
+            "index": 2494,
+            "is_correct": true
+        },
+        "2495": {
+            "question": "Based on this description: 'car engine knocking', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 2495,
+            "is_correct": false
+        },
+        "2533": {
+            "question": "Based on this description: 'electric grinder grinding', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 2533,
+            "is_correct": false
+        },
+        "2561": {
+            "question": "Based on this description: 'forging swords', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given text, the audio clip that best matches the description is A.",
+            "correct_answer": "B",
+            "index": 2561,
+            "is_correct": false
+        },
+        "2570": {
+            "question": "Based on this description: 'opening or closing drawers', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 2570,
+            "is_correct": false
+        },
+        "2574": {
+            "question": "Based on this description: 'cap gun shooting', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given description, the audio clip that best matches the context is \"cap gun shooting\".",
+            "correct_answer": "C",
+            "index": 2574,
+            "is_correct": false
+        },
+        "2600": {
+            "question": "Based on this description: 'eletric blender running', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Based on the given description, the audio clip that best matches the context is \"B: <audio2>\".",
+            "correct_answer": "B",
+            "index": 2600,
+            "is_correct": true
+        },
+        "2603": {
+            "question": "Based on this description: 'cap gun shooting', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given context, the correct choice is A.  ",
+            "correct_answer": "B",
+            "index": 2603,
+            "is_correct": false
+        },
+        "2617": {
+            "question": "Based on this description: 'machine gun shooting', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that best matches the context is A.",
+            "correct_answer": "C",
+            "index": 2617,
+            "is_correct": false
+        },
+        "2619": {
+            "question": "Based on this description: 'blowtorch igniting', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 2619,
+            "is_correct": false
+        },
+        "2621": {
+            "question": "Based on this description: 'lawn mowing', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 2621,
+            "is_correct": false
+        },
+        "2625": {
+            "question": "Based on this description: 'toilet flushing', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 2625,
+            "is_correct": false
+        },
+        "2633": {
+            "question": "Based on this description: 'lathe spinning', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 2633,
+            "is_correct": true
+        },
+        "2654": {
+            "question": "Based on this description: 'hedge trimmer running', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given description, the audio clip that best matches the context is \"hedge trimmer running\".",
+            "correct_answer": "A",
+            "index": 2654,
+            "is_correct": false
+        },
+        "2661": {
+            "question": "Based on this description: 'hair dryer drying', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 2661,
+            "is_correct": false
+        },
+        "2684": {
+            "question": "Based on this description: 'chainsawing trees', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given text, the audio clip that best matches the description is A.",
+            "correct_answer": "A",
+            "index": 2684,
+            "is_correct": true
+        },
+        "2702": {
+            "question": "Based on this description: 'tractor digging', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given text, the correct choice is A.  ",
+            "correct_answer": "B",
+            "index": 2702,
+            "is_correct": false
+        },
+        "2708": {
+            "question": "Based on this description: 'hedge trimmer running', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given text, the correct choice would be A.  ",
+            "correct_answer": "A",
+            "index": 2708,
+            "is_correct": true
+        },
+        "2745": {
+            "question": "Based on this description: 'forging swords', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given text, the audio clip that best matches the description is A.",
+            "correct_answer": "D",
+            "index": 2745,
+            "is_correct": false
+        },
+        "2751": {
+            "question": "Based on this description: 'hedge trimmer running', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description \"hedge trimmer running\", the correct choice is A.",
+            "correct_answer": "A",
+            "index": 2751,
+            "is_correct": true
+        },
+        "2771": {
+            "question": "Based on this description: 'lawn mowing', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 2771,
+            "is_correct": false
+        },
+        "2786": {
+            "question": "Based on this description: 'hedge trimmer running', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 2786,
+            "is_correct": false
+        },
+        "2787": {
+            "question": "Based on this description: 'sharpen knife', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 2787,
+            "is_correct": false
+        },
+        "2792": {
+            "question": "Based on this description: 'lathe spinning', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 2792,
+            "is_correct": false
+        },
+        "2799": {
+            "question": "Based on this description: 'lathe spinning', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that matches the context is A.",
+            "correct_answer": "D",
+            "index": 2799,
+            "is_correct": false
+        },
+        "2804": {
+            "question": "Based on this description: 'using sewing machines', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The correct choice is A.  ",
+            "correct_answer": "B",
+            "index": 2804,
+            "is_correct": false
+        },
+        "2818": {
+            "question": "Based on this description: 'blowtorch igniting', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given text, the audio clip that best matches the description of 'blowtorch igniting' is A.",
+            "correct_answer": "D",
+            "index": 2818,
+            "is_correct": false
+        },
+        "2825": {
+            "question": "Based on this description: 'lawn mowing', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 2825,
+            "is_correct": true
+        },
+        "2859": {
+            "question": "Based on this description: 'hair dryer drying', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 2859,
+            "is_correct": false
+        },
+        "2872": {
+            "question": "Based on this description: 'vacuum cleaner cleaning floors', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 2872,
+            "is_correct": true
+        },
+        "2874": {
+            "question": "Based on this description: 'opening or closing drawers', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 2874,
+            "is_correct": false
+        },
+        "2885": {
+            "question": "Based on this description: 'toilet flushing', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 2885,
+            "is_correct": false
+        },
+        "2920": {
+            "question": "Based on this description: 'hedge trimmer running', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 2920,
+            "is_correct": false
+        },
+        "2932": {
+            "question": "Based on this description: 'lathe spinning', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 2932,
+            "is_correct": true
+        },
+        "2940": {
+            "question": "Based on this description: 'cap gun shooting', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that best matches the context is A.",
+            "correct_answer": "C",
+            "index": 2940,
+            "is_correct": false
+        },
+        "2947": {
+            "question": "Based on this description: 'chainsawing trees', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given text, the audio clip that best matches the description is A.",
+            "correct_answer": "D",
+            "index": 2947,
+            "is_correct": false
+        },
+        "2952": {
+            "question": "Based on this description: 'cap gun shooting', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that best matches the context is A.",
+            "correct_answer": "D",
+            "index": 2952,
+            "is_correct": false
+        },
+        "2957": {
+            "question": "Based on this description: 'chainsawing trees', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that best matches the context is A.",
+            "correct_answer": "B",
+            "index": 2957,
+            "is_correct": false
+        },
+        "2986": {
+            "question": "Based on this description: 'hair dryer drying', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 2986,
+            "is_correct": true
+        },
+        "2988": {
+            "question": "Based on this description: 'cap gun shooting', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 2988,
+            "is_correct": true
+        },
+        "2989": {
+            "question": "Based on this description: 'opening or closing drawers', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that best matches what is described is A.",
+            "correct_answer": "B",
+            "index": 2989,
+            "is_correct": false
+        },
+        "2997": {
+            "question": "Based on this description: 'electric grinder grinding', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that matches the context is A.",
+            "correct_answer": "D",
+            "index": 2997,
+            "is_correct": false
+        },
+        "3016": {
+            "question": "Based on this description: 'splashing water', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 3016,
+            "is_correct": false
+        },
+        "3033": {
+            "question": "Based on this description: 'splashing water', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given description, the audio clip that best matches the description is \"splashing water\".",
+            "correct_answer": "B",
+            "index": 3033,
+            "is_correct": false
+        },
+        "3037": {
+            "question": "Based on this description: 'ocean burbling', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that best matches \"ocean burbling\" is the first one.",
+            "correct_answer": "A",
+            "index": 3037,
+            "is_correct": true
+        },
+        "3051": {
+            "question": "Based on this description: 'squishing water', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 3051,
+            "is_correct": false
+        },
+        "3059": {
+            "question": "Based on this description: 'waterfall burbling', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 3059,
+            "is_correct": false
+        },
+        "3075": {
+            "question": "Based on this description: 'squishing water', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given description, the audio clip that best matches the context is \"squishing water\".",
+            "correct_answer": "A",
+            "index": 3075,
+            "is_correct": false
+        },
+        "3093": {
+            "question": "Based on this description: 'waterfall burbling', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description \"waterfall burbling\", the audio clip that best matches is A.  ",
+            "correct_answer": "A",
+            "index": 3093,
+            "is_correct": true
+        },
+        "3095": {
+            "question": "Based on this description: 'ocean burbling', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 3095,
+            "is_correct": false
+        },
+        "3108": {
+            "question": "Based on this description: 'squishing water', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that best matches \"squishing water\" is A.",
+            "correct_answer": "A",
+            "index": 3108,
+            "is_correct": true
+        },
+        "3115": {
+            "question": "Based on this description: 'ocean burbling', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 3115,
+            "is_correct": false
+        },
+        "3120": {
+            "question": "Based on this description: 'waterfall burbling', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 3120,
+            "is_correct": false
+        },
+        "3123": {
+            "question": "Based on this description: 'splashing water', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 3123,
+            "is_correct": false
+        },
+        "3127": {
+            "question": "Based on this description: 'squishing water', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 3127,
+            "is_correct": false
+        },
+        "3136": {
+            "question": "Based on this description: 'splashing water', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that best matches the context is \"splashing water\".",
+            "correct_answer": "C",
+            "index": 3136,
+            "is_correct": false
+        },
+        "3147": {
+            "question": "Based on this description: 'squishing water', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that best matches the context is A.",
+            "correct_answer": "C",
+            "index": 3147,
+            "is_correct": false
+        },
+        "3148": {
+            "question": "Based on this description: 'splashing water', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given text, the audio clip that best matches the description of 'splashing water' is A.",
+            "correct_answer": "A",
+            "index": 3148,
+            "is_correct": true
+        },
+        "3166": {
+            "question": "Based on this description: 'ocean burbling', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that best matches \"ocean burbling\" is A.",
+            "correct_answer": "B",
+            "index": 3166,
+            "is_correct": false
+        },
+        "3178": {
+            "question": "Based on this description: 'waterfall burbling', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 3178,
+            "is_correct": false
+        },
+        "3189": {
+            "question": "Based on this description: 'splashing water', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 3189,
+            "is_correct": false
+        },
+        "3244": {
+            "question": "Based on this description: 'waterfall burbling', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 3244,
+            "is_correct": false
+        },
+        "3297": {
+            "question": "Based on this description: 'squishing water', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that best matches \"squishing water\" is A.",
+            "correct_answer": "B",
+            "index": 3297,
+            "is_correct": false
+        },
+        "3300": {
+            "question": "Based on this description: 'squishing water', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Based on the given description, the audio clip that best matches the context is \"B: <audio2>\".",
+            "correct_answer": "D",
+            "index": 3300,
+            "is_correct": false
+        },
+        "3304": {
+            "question": "Based on this description: 'squishing water', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 3304,
+            "is_correct": false
+        },
+        "3305": {
+            "question": "Based on this description: 'splashing water', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 3305,
+            "is_correct": false
+        },
+        "3315": {
+            "question": "Based on this description: 'waterfall burbling', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, \"waterfall burbling\", the audio clip that best matches the description is A.",
+            "correct_answer": "C",
+            "index": 3315,
+            "is_correct": false
+        },
+        "3342": {
+            "question": "Based on this description: 'waterfall burbling', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that best matches the context is A.",
+            "correct_answer": "B",
+            "index": 3342,
+            "is_correct": false
+        },
+        "3366": {
+            "question": "Based on this description: 'squishing water', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given description, \"squishing water\", the audio clip that best matches is \"a23vS080B2E_000100.wav\".",
+            "correct_answer": "B",
+            "index": 3366,
+            "is_correct": false
+        },
+        "3397": {
+            "question": "Based on this description: 'waterfall burbling', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that best matches the description is A.  ",
+            "correct_answer": "C",
+            "index": 3397,
+            "is_correct": false
+        },
+        "3406": {
+            "question": "Based on this description: 'splashing water', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 3406,
+            "is_correct": true
+        },
+        "3416": {
+            "question": "Based on this description: 'squishing water', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 3416,
+            "is_correct": false
+        },
+        "3447": {
+            "question": "Based on this description: 'waterfall burbling', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 3447,
+            "is_correct": true
+        },
+        "3452": {
+            "question": "Based on this description: 'squishing water', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 3452,
+            "is_correct": false
+        },
+        "3471": {
+            "question": "Based on this description: 'ocean burbling', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 3471,
+            "is_correct": false
+        },
+        "3503": {
+            "question": "Based on this description: 'female speech, woman speaking', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that best matches the context is A.",
+            "correct_answer": "A",
+            "index": 3503,
+            "is_correct": true
+        },
+        "3525": {
+            "question": "Based on this description: 'yodelling', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 3525,
+            "is_correct": false
+        },
+        "3527": {
+            "question": "Based on this description: 'yodelling', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 3527,
+            "is_correct": true
+        },
+        "3529": {
+            "question": "Based on this description: 'child speech, kid speaking', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 3529,
+            "is_correct": true
+        },
+        "3549": {
+            "question": "Based on this description: 'female singing', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that best matches \"female singing\" is A.",
+            "correct_answer": "C",
+            "index": 3549,
+            "is_correct": false
+        },
+        "3560": {
+            "question": "Based on this description: 'singing choir', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 3560,
+            "is_correct": false
+        },
+        "3565": {
+            "question": "Based on this description: 'singing choir', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 3565,
+            "is_correct": false
+        },
+        "3573": {
+            "question": "Based on this description: 'child singing', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 3573,
+            "is_correct": false
+        },
+        "3587": {
+            "question": "Based on this description: 'child speech, kid speaking', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that best matches the context is A.",
+            "correct_answer": "D",
+            "index": 3587,
+            "is_correct": false
+        },
+        "3589": {
+            "question": "Based on this description: 'child speech, kid speaking', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 3589,
+            "is_correct": false
+        },
+        "3596": {
+            "question": "Based on this description: 'child speech, kid speaking', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 3596,
+            "is_correct": true
+        },
+        "3599": {
+            "question": "Based on this description: 'singing choir', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that best matches the context is A.",
+            "correct_answer": "A",
+            "index": 3599,
+            "is_correct": true
+        },
+        "3623": {
+            "question": "Based on this description: 'singing choir', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that matches the context is A.",
+            "correct_answer": "C",
+            "index": 3623,
+            "is_correct": false
+        },
+        "3624": {
+            "question": "Based on this description: 'singing choir', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 3624,
+            "is_correct": true
+        },
+        "3626": {
+            "question": "Based on this description: 'child singing', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Based on the given description, the audio clip that best matches the context is \"B: <audio2>\".",
+            "correct_answer": "C",
+            "index": 3626,
+            "is_correct": false
+        },
+        "3654": {
+            "question": "Based on this description: 'singing choir', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that best matches what is described is A.",
+            "correct_answer": "C",
+            "index": 3654,
+            "is_correct": false
+        },
+        "3677": {
+            "question": "Based on this description: 'singing choir', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that best matches the context is A.",
+            "correct_answer": "A",
+            "index": 3677,
+            "is_correct": true
+        },
+        "3684": {
+            "question": "Based on this description: 'singing choir', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that best matches the context is A.",
+            "correct_answer": "B",
+            "index": 3684,
+            "is_correct": false
+        },
+        "3738": {
+            "question": "Based on this description: 'female speech, woman speaking', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that best matches what is described is A.",
+            "correct_answer": "C",
+            "index": 3738,
+            "is_correct": false
+        },
+        "3740": {
+            "question": "Based on this description: 'male speech, man speaking', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that matches the context is A.",
+            "correct_answer": "D",
+            "index": 3740,
+            "is_correct": false
+        },
+        "3745": {
+            "question": "Based on this description: 'singing choir', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 3745,
+            "is_correct": false
+        },
+        "3762": {
+            "question": "Based on this description: 'male speech, man speaking', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that best matches the context is \"male speech, man speaking\". Therefore, the answer is A.",
+            "correct_answer": "D",
+            "index": 3762,
+            "is_correct": false
+        },
+        "3777": {
+            "question": "Based on this description: 'male singing', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 3777,
+            "is_correct": false
+        },
+        "3778": {
+            "question": "Based on this description: 'yodelling', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 3778,
+            "is_correct": true
+        },
+        "3790": {
+            "question": "Based on this description: 'yodelling', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given description, the audio clip that best matches the context is \"yodelling\".",
+            "correct_answer": "A",
+            "index": 3790,
+            "is_correct": false
+        },
+        "3804": {
+            "question": "Based on this description: 'singing choir', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 3804,
+            "is_correct": true
+        },
+        "3805": {
+            "question": "Based on this description: 'yodelling', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 3805,
+            "is_correct": false
+        },
+        "3836": {
+            "question": "Based on this description: 'child speech, kid speaking', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Based on the given description, the audio clip that best matches the context is \"B: <audio2>\".",
+            "correct_answer": "A",
+            "index": 3836,
+            "is_correct": false
+        },
+        "3860": {
+            "question": "Based on this description: 'singing choir', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 3860,
+            "is_correct": true
+        },
+        "3862": {
+            "question": "Based on this description: 'yodelling', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 3862,
+            "is_correct": false
+        },
+        "3878": {
+            "question": "Based on this description: 'female speech, woman speaking', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the audio clip that matches the context is A.",
+            "correct_answer": "D",
+            "index": 3878,
+            "is_correct": false
+        },
+        "3905": {
+            "question": "Based on this description: 'yodelling', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 3905,
+            "is_correct": false
+        },
+        "3906": {
+            "question": "Based on this description: 'child singing', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 3906,
+            "is_correct": false
+        },
+        "3920": {
+            "question": "Based on this description: 'singing choir', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the correct choice is A.  ",
+            "correct_answer": "A",
+            "index": 3920,
+            "is_correct": true
+        },
+        "3950": {
+            "question": "Based on this description: 'yodelling', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given description, the audio clip that best matches the context is \"IiCNAp2sR9c_000030.wav\".",
+            "correct_answer": "C",
+            "index": 3950,
+            "is_correct": false
+        },
+        "3977": {
+            "question": "Based on this description: 'female speech, woman speaking', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 3977,
+            "is_correct": false
+        },
+        "3980": {
+            "question": "Based on this description: 'yodelling', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given description, the audio clip that best matches the context is \"yodelling\".  ",
+            "correct_answer": "C",
+            "index": 3980,
+            "is_correct": false
+        },
+        "3985": {
+            "question": "Based on this description: 'child singing', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 3985,
+            "is_correct": false
+        }
+    },
+    "format_error_count": 162,
+    "run_error_count": 0
+}

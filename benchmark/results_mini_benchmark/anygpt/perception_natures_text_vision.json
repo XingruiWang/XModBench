@@ -1,0 +1,2386 @@
+{
+    "task_name": "perception/natures_text_vision",
+    "score": 23.232323232323232,
+    "correct_count": 69,
+    "all_count": 297,
+    "results": {
+        "0": {
+            "question": "Based on this description: 'splashing_water', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 0,
+            "is_correct": false
+        },
+        "1": {
+            "question": "Based on this description: 'waterfall_burbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, 'waterfall_burbling' matches the natural scene described. Therefore, the answer is A.",
+            "correct_answer": "C",
+            "index": 1,
+            "is_correct": false
+        },
+        "3": {
+            "question": "Based on this description: 'raining', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given context, the image that best matches the natural scenes described is 'raining'.",
+            "correct_answer": "C",
+            "index": 3,
+            "is_correct": false
+        },
+        "5": {
+            "question": "Based on this description: 'thunder', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 5,
+            "is_correct": false
+        },
+        "9": {
+            "question": "Based on this description: 'fire_crackling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 9,
+            "is_correct": false
+        },
+        "10": {
+            "question": "Based on this description: 'explosion', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given context, the image that best matches the natural scenes described is 'explosion'.",
+            "correct_answer": "D",
+            "index": 10,
+            "is_correct": true
+        },
+        "12": {
+            "question": "Based on this description: 'underwater_bubbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given context, the image that best matches the natural scenes described is 'underwater_bubbling'.",
+            "correct_answer": "A",
+            "index": 12,
+            "is_correct": false
+        },
+        "13": {
+            "question": "Based on this description: 'explosion', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given description, the image that best matches the natural scenes described is 'explosion'.",
+            "correct_answer": "B",
+            "index": 13,
+            "is_correct": false
+        },
+        "15": {
+            "question": "Based on this description: 'splashing_water', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 15,
+            "is_correct": true
+        },
+        "16": {
+            "question": "Based on this description: 'squishing_water', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 16,
+            "is_correct": false
+        },
+        "19": {
+            "question": "Based on this description: 'fire_crackling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given context, the image that best matches the natural scenes described is 'fire_crackling'.",
+            "correct_answer": "B",
+            "index": 19,
+            "is_correct": false
+        },
+        "22": {
+            "question": "Based on this description: 'explosion', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 22,
+            "is_correct": false
+        },
+        "23": {
+            "question": "Based on this description: 'raining', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 23,
+            "is_correct": false
+        },
+        "24": {
+            "question": "Based on this description: 'underwater_bubbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 24,
+            "is_correct": false
+        },
+        "25": {
+            "question": "Based on this description: 'fire_crackling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the description 'fire_crackling', the image that best matches the natural scene is 'fire_crackling'.",
+            "correct_answer": "A",
+            "index": 25,
+            "is_correct": false
+        },
+        "27": {
+            "question": "Based on this description: 'splashing_water', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Based on the given context, the image that best matches the natural scenes described is image C.",
+            "correct_answer": "D",
+            "index": 27,
+            "is_correct": false
+        },
+        "28": {
+            "question": "Based on this description: 'underwater_bubbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 28,
+            "is_correct": false
+        },
+        "29": {
+            "question": "Based on this description: 'squishing_water', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 29,
+            "is_correct": false
+        },
+        "30": {
+            "question": "Based on this description: 'explosion', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 30,
+            "is_correct": false
+        },
+        "32": {
+            "question": "Based on this description: 'explosion', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 32,
+            "is_correct": false
+        },
+        "33": {
+            "question": "Based on this description: 'underwater_bubbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 33,
+            "is_correct": true
+        },
+        "34": {
+            "question": "Based on this description: 'thunder', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 34,
+            "is_correct": false
+        },
+        "35": {
+            "question": "Based on this description: 'thunder', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 35,
+            "is_correct": true
+        },
+        "36": {
+            "question": "Based on this description: 'underwater_bubbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 36,
+            "is_correct": false
+        },
+        "40": {
+            "question": "Based on this description: 'underwater_bubbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 40,
+            "is_correct": false
+        },
+        "43": {
+            "question": "Based on this description: 'fire_crackling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given context, the image that best matches the natural scenes described is 'fire_crackling'.",
+            "correct_answer": "C",
+            "index": 43,
+            "is_correct": false
+        },
+        "44": {
+            "question": "Based on this description: 'thunder', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given context, the image that best matches the natural scenes described is 'thunder'.",
+            "correct_answer": "D",
+            "index": 44,
+            "is_correct": true
+        },
+        "46": {
+            "question": "Based on this description: 'explosion', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 46,
+            "is_correct": false
+        },
+        "47": {
+            "question": "Based on this description: 'splashing_water', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 47,
+            "is_correct": false
+        },
+        "48": {
+            "question": "Based on this description: 'raining', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 48,
+            "is_correct": false
+        },
+        "49": {
+            "question": "Based on this description: 'underwater_bubbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the text, the image that best matches the natural scene described is 'underwater_bubbling'.",
+            "correct_answer": "A",
+            "index": 49,
+            "is_correct": false
+        },
+        "51": {
+            "question": "Based on this description: 'waterfall_burbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 51,
+            "is_correct": true
+        },
+        "52": {
+            "question": "Based on this description: 'splashing_water', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 52,
+            "is_correct": false
+        },
+        "54": {
+            "question": "Based on this description: 'explosion', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 54,
+            "is_correct": true
+        },
+        "56": {
+            "question": "Based on this description: 'splashing_water', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 56,
+            "is_correct": false
+        },
+        "57": {
+            "question": "Based on this description: 'squishing_water', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 57,
+            "is_correct": false
+        },
+        "58": {
+            "question": "Based on this description: 'splashing_water', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 58,
+            "is_correct": false
+        },
+        "61": {
+            "question": "Based on this description: 'raining', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 61,
+            "is_correct": false
+        },
+        "62": {
+            "question": "Based on this description: 'fire_crackling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the text, the image that matches the natural scenes described is 'fire_crackling'.",
+            "correct_answer": "C",
+            "index": 62,
+            "is_correct": false
+        },
+        "63": {
+            "question": "Based on this description: 'fire_crackling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 63,
+            "is_correct": true
+        },
+        "64": {
+            "question": "Based on this description: 'thunder', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 64,
+            "is_correct": true
+        },
+        "65": {
+            "question": "Based on this description: 'fire_crackling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given context, the image that best matches the natural scenes described is \"fire_crackling\".",
+            "correct_answer": "A",
+            "index": 65,
+            "is_correct": false
+        },
+        "70": {
+            "question": "Based on this description: 'fire_crackling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Based on the description 'fire_crackling', the image that best matches the natural scene is image C.",
+            "correct_answer": "A",
+            "index": 70,
+            "is_correct": false
+        },
+        "71": {
+            "question": "Based on this description: 'raining', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 71,
+            "is_correct": false
+        },
+        "73": {
+            "question": "Based on this description: 'thunder', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 73,
+            "is_correct": false
+        },
+        "78": {
+            "question": "Based on this description: 'explosion', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 78,
+            "is_correct": false
+        },
+        "79": {
+            "question": "Based on this description: 'splashing_water', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 79,
+            "is_correct": true
+        },
+        "80": {
+            "question": "Based on this description: 'thunder', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given context, the image that best matches the natural scenes described is 'thunder'.",
+            "correct_answer": "D",
+            "index": 80,
+            "is_correct": true
+        },
+        "81": {
+            "question": "Based on this description: 'squishing_water', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given text, the image that best matches the natural scene described is 'squishing_water'.",
+            "correct_answer": "B",
+            "index": 81,
+            "is_correct": false
+        },
+        "82": {
+            "question": "Based on this description: 'splashing_water', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the description, 'splashing_water', the image that best matches the natural scenes described is A.",
+            "correct_answer": "D",
+            "index": 82,
+            "is_correct": false
+        },
+        "83": {
+            "question": "Based on this description: 'thunder', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 83,
+            "is_correct": false
+        },
+        "84": {
+            "question": "Based on this description: 'splashing_water', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 84,
+            "is_correct": false
+        },
+        "86": {
+            "question": "Based on this description: 'underwater_bubbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 86,
+            "is_correct": false
+        },
+        "87": {
+            "question": "Based on this description: 'squishing_water', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 87,
+            "is_correct": false
+        },
+        "90": {
+            "question": "Based on this description: 'underwater_bubbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 90,
+            "is_correct": false
+        },
+        "91": {
+            "question": "Based on this description: 'splashing_water', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 91,
+            "is_correct": false
+        },
+        "98": {
+            "question": "Based on this description: 'squishing_water', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 98,
+            "is_correct": false
+        },
+        "101": {
+            "question": "Based on this description: 'underwater_bubbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the text, the image that best matches the natural scenes described is 'underwater_bubbling'.",
+            "correct_answer": "B",
+            "index": 101,
+            "is_correct": false
+        },
+        "102": {
+            "question": "Based on this description: 'waterfall_burbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 102,
+            "is_correct": false
+        },
+        "103": {
+            "question": "Based on this description: 'raining', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given context, the image that matches the natural scenes described is 'raining'.",
+            "correct_answer": "C",
+            "index": 103,
+            "is_correct": false
+        },
+        "104": {
+            "question": "Based on this description: 'thunder', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 104,
+            "is_correct": false
+        },
+        "105": {
+            "question": "Based on this description: 'fire_crackling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 105,
+            "is_correct": true
+        },
+        "107": {
+            "question": "Based on this description: 'thunder', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 107,
+            "is_correct": false
+        },
+        "108": {
+            "question": "Based on this description: 'raining', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the text, the image that best matches the natural scenes described is 'raining'.",
+            "correct_answer": "D",
+            "index": 108,
+            "is_correct": true
+        },
+        "109": {
+            "question": "Based on this description: 'raining', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the context, the image that best matches the natural scenes described is 'A: raining'.",
+            "correct_answer": "A",
+            "index": 109,
+            "is_correct": true
+        },
+        "110": {
+            "question": "Based on this description: 'thunder', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 110,
+            "is_correct": false
+        },
+        "111": {
+            "question": "Based on this description: 'explosion', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": ":  ",
+            "correct_answer": "D",
+            "index": 111,
+            "is_correct": false
+        },
+        "112": {
+            "question": "Based on this description: 'squishing_water', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 112,
+            "is_correct": false
+        },
+        "113": {
+            "question": "Based on this description: 'raining', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 113,
+            "is_correct": false
+        },
+        "114": {
+            "question": "Based on this description: 'splashing_water', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given context, the image that best matches the natural scenes described is 'splashing_water'.",
+            "correct_answer": "C",
+            "index": 114,
+            "is_correct": false
+        },
+        "115": {
+            "question": "Based on this description: 'waterfall_burbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the description, the image that best matches the natural scene is 'waterfall_burbling'.",
+            "correct_answer": "B",
+            "index": 115,
+            "is_correct": false
+        },
+        "116": {
+            "question": "Based on this description: 'explosion', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 116,
+            "is_correct": false
+        },
+        "117": {
+            "question": "Based on this description: 'fire_crackling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 117,
+            "is_correct": true
+        },
+        "118": {
+            "question": "Based on this description: 'explosion', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 118,
+            "is_correct": true
+        },
+        "119": {
+            "question": "Based on this description: 'explosion', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given context, the image that best matches the natural scenes described is 'explosion'.",
+            "correct_answer": "A",
+            "index": 119,
+            "is_correct": false
+        },
+        "121": {
+            "question": "Based on this description: 'thunder', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 121,
+            "is_correct": true
+        },
+        "122": {
+            "question": "Based on this description: 'underwater_bubbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the description, 'underwater_bubbling', the image that best matches the natural scene is 'A: underwater_bubbling'.",
+            "correct_answer": "A",
+            "index": 122,
+            "is_correct": true
+        },
+        "123": {
+            "question": "Based on this description: 'explosion', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 123,
+            "is_correct": false
+        },
+        "125": {
+            "question": "Based on this description: 'waterfall_burbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ":  ",
+            "correct_answer": "C",
+            "index": 125,
+            "is_correct": false
+        },
+        "126": {
+            "question": "Based on this description: 'raining', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given context, the image that matches the natural scenes described is A.",
+            "correct_answer": "B",
+            "index": 126,
+            "is_correct": false
+        },
+        "128": {
+            "question": "Based on this description: 'explosion', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 128,
+            "is_correct": true
+        },
+        "134": {
+            "question": "Based on this description: 'raining', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 134,
+            "is_correct": false
+        },
+        "135": {
+            "question": "Based on this description: 'squishing_water', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the description, 'squishing_water', the image that best matches the natural scenes described is A.",
+            "correct_answer": "B",
+            "index": 135,
+            "is_correct": false
+        },
+        "136": {
+            "question": "Based on this description: 'underwater_bubbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 136,
+            "is_correct": false
+        },
+        "137": {
+            "question": "Based on this description: 'splashing_water', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the description, the image that best matches the natural scenes described is 'splashing_water'.",
+            "correct_answer": "C",
+            "index": 137,
+            "is_correct": false
+        },
+        "138": {
+            "question": "Based on this description: 'waterfall_burbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 138,
+            "is_correct": false
+        },
+        "140": {
+            "question": "Based on this description: 'fire_crackling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 140,
+            "is_correct": false
+        },
+        "142": {
+            "question": "Based on this description: 'fire_crackling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 142,
+            "is_correct": false
+        },
+        "146": {
+            "question": "Based on this description: 'underwater_bubbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 146,
+            "is_correct": false
+        },
+        "147": {
+            "question": "Based on this description: 'waterfall_burbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given context, the image that best matches the natural scenes described is 'waterfall_burbling'.",
+            "correct_answer": "B",
+            "index": 147,
+            "is_correct": false
+        },
+        "148": {
+            "question": "Based on this description: 'underwater_bubbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 148,
+            "is_correct": false
+        },
+        "150": {
+            "question": "Based on this description: 'raining', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 150,
+            "is_correct": false
+        },
+        "152": {
+            "question": "Based on this description: 'underwater_bubbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image that best matches the natural scenes described is 'underwater_bubbling'.",
+            "correct_answer": "C",
+            "index": 152,
+            "is_correct": false
+        },
+        "157": {
+            "question": "Based on this description: 'squishing_water', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given context, the image that best matches the natural scenes described is A.",
+            "correct_answer": "A",
+            "index": 157,
+            "is_correct": true
+        },
+        "159": {
+            "question": "Based on this description: 'thunder', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 159,
+            "is_correct": false
+        },
+        "161": {
+            "question": "Based on this description: 'underwater_bubbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the description, the image that best matches the natural scene is 'underwater_bubbling'.",
+            "correct_answer": "B",
+            "index": 161,
+            "is_correct": false
+        },
+        "165": {
+            "question": "Based on this description: 'splashing_water', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given text, the image that best matches the natural scenes described is 'splashing_water'.",
+            "correct_answer": "C",
+            "index": 165,
+            "is_correct": false
+        },
+        "166": {
+            "question": "Based on this description: 'explosion', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image that best matches the natural scenes described is 'explosion'.",
+            "correct_answer": "A",
+            "index": 166,
+            "is_correct": false
+        },
+        "167": {
+            "question": "Based on this description: 'raining', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 167,
+            "is_correct": true
+        },
+        "168": {
+            "question": "Based on this description: 'thunder', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given text, the image that best matches the natural scenes described is A.",
+            "correct_answer": "A",
+            "index": 168,
+            "is_correct": true
+        },
+        "169": {
+            "question": "Based on this description: 'thunder', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 169,
+            "is_correct": false
+        },
+        "172": {
+            "question": "Based on this description: 'raining', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the context, the image that best matches the natural scene described is 'raining'.",
+            "correct_answer": "B",
+            "index": 172,
+            "is_correct": false
+        },
+        "173": {
+            "question": "Based on this description: 'fire_crackling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 173,
+            "is_correct": true
+        },
+        "174": {
+            "question": "Based on this description: 'thunder', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Based on the given context, the image that best matches the natural scenes described is image C.",
+            "correct_answer": "A",
+            "index": 174,
+            "is_correct": false
+        },
+        "176": {
+            "question": "Based on this description: 'thunder', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given context, the image that best matches the natural scenes described is 'thunder'.",
+            "correct_answer": "C",
+            "index": 176,
+            "is_correct": false
+        },
+        "181": {
+            "question": "Based on this description: 'explosion', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 181,
+            "is_correct": true
+        },
+        "183": {
+            "question": "Based on this description: 'raining', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 183,
+            "is_correct": false
+        },
+        "185": {
+            "question": "Based on this description: 'thunder', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the text, the image that best matches the natural scenes described is 'thunder'.",
+            "correct_answer": "C",
+            "index": 185,
+            "is_correct": false
+        },
+        "186": {
+            "question": "Based on this description: 'explosion', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image that best matches the natural scenes described is 'explosion'.",
+            "correct_answer": "D",
+            "index": 186,
+            "is_correct": true
+        },
+        "189": {
+            "question": "Based on this description: 'explosion', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 189,
+            "is_correct": false
+        },
+        "191": {
+            "question": "Based on this description: 'explosion', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given context, the image that best matches the natural scenes described is 'explosion'.",
+            "correct_answer": "B",
+            "index": 191,
+            "is_correct": false
+        },
+        "193": {
+            "question": "Based on this description: 'explosion', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 193,
+            "is_correct": false
+        },
+        "194": {
+            "question": "Based on this description: 'explosion', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the context, the image that best matches the natural scenes described is 'explosion'.",
+            "correct_answer": "A",
+            "index": 194,
+            "is_correct": false
+        },
+        "195": {
+            "question": "Based on this description: 'fire_crackling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given context, the image that best matches the natural scenes described is 'fire_crackling'.",
+            "correct_answer": "B",
+            "index": 195,
+            "is_correct": false
+        },
+        "197": {
+            "question": "Based on this description: 'explosion', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 197,
+            "is_correct": true
+        },
+        "200": {
+            "question": "Based on this description: 'underwater_bubbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given context, the image that best matches the natural scenes described is 'underwater_bubbling'.",
+            "correct_answer": "C",
+            "index": 200,
+            "is_correct": false
+        },
+        "202": {
+            "question": "Based on this description: 'explosion', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Based on the given context, the image that matches the 'explosion' scene is image C.",
+            "correct_answer": "D",
+            "index": 202,
+            "is_correct": false
+        },
+        "204": {
+            "question": "Based on this description: 'underwater_bubbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given text, the image that best matches the natural scenes described is 'underwater_bubbling'.",
+            "correct_answer": "D",
+            "index": 204,
+            "is_correct": true
+        },
+        "205": {
+            "question": "Based on this description: 'raining', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 205,
+            "is_correct": false
+        },
+        "206": {
+            "question": "Based on this description: 'underwater_bubbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 206,
+            "is_correct": false
+        },
+        "214": {
+            "question": "Based on this description: 'raining', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 214,
+            "is_correct": false
+        },
+        "216": {
+            "question": "Based on this description: 'waterfall_burbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given description, the image that best matches the natural scenes described is 'waterfall_burbling'.",
+            "correct_answer": "B",
+            "index": 216,
+            "is_correct": false
+        },
+        "218": {
+            "question": "Based on this description: 'underwater_bubbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 218,
+            "is_correct": false
+        },
+        "219": {
+            "question": "Based on this description: 'underwater_bubbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Based on the description 'underwater_bubbling', the image that best matches the natural scene is image C.",
+            "correct_answer": "A",
+            "index": 219,
+            "is_correct": false
+        },
+        "220": {
+            "question": "Based on this description: 'explosion', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 220,
+            "is_correct": true
+        },
+        "221": {
+            "question": "Based on this description: 'underwater_bubbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the text, the image that best matches the natural scenes described is 'underwater_bubbling'.",
+            "correct_answer": "A",
+            "index": 221,
+            "is_correct": false
+        },
+        "222": {
+            "question": "Based on this description: 'underwater_bubbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 222,
+            "is_correct": false
+        },
+        "224": {
+            "question": "Based on this description: 'thunder', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 224,
+            "is_correct": false
+        },
+        "225": {
+            "question": "Based on this description: 'raining', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 225,
+            "is_correct": false
+        },
+        "226": {
+            "question": "Based on this description: 'explosion', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given text, the image that matches the natural scenes described is 'explosion'.",
+            "correct_answer": "B",
+            "index": 226,
+            "is_correct": false
+        },
+        "229": {
+            "question": "Based on this description: 'underwater_bubbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 229,
+            "is_correct": false
+        },
+        "231": {
+            "question": "Based on this description: 'raining', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 231,
+            "is_correct": false
+        },
+        "232": {
+            "question": "Based on this description: 'explosion', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given context, the image that best matches the natural scenes described is 'explosion'.",
+            "correct_answer": "B",
+            "index": 232,
+            "is_correct": false
+        },
+        "234": {
+            "question": "Based on this description: 'raining', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given context, the image that best matches the natural scenes described is 'raining'.",
+            "correct_answer": "B",
+            "index": 234,
+            "is_correct": false
+        },
+        "235": {
+            "question": "Based on this description: 'explosion', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 235,
+            "is_correct": false
+        },
+        "236": {
+            "question": "Based on this description: 'explosion', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 236,
+            "is_correct": true
+        },
+        "239": {
+            "question": "Based on this description: 'splashing_water', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given text, the image that best matches the natural scenes described is 'splashing_water'.",
+            "correct_answer": "D",
+            "index": 239,
+            "is_correct": true
+        },
+        "240": {
+            "question": "Based on this description: 'underwater_bubbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given context, the image that best matches the natural scenes described is 'underwater_bubbling'.",
+            "correct_answer": "D",
+            "index": 240,
+            "is_correct": true
+        },
+        "241": {
+            "question": "Based on this description: 'fire_crackling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 241,
+            "is_correct": false
+        },
+        "243": {
+            "question": "Based on this description: 'fire_crackling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given context, the image that best matches the natural scenes described is 'fire_crackling'.",
+            "correct_answer": "A",
+            "index": 243,
+            "is_correct": true
+        },
+        "247": {
+            "question": "Based on this description: 'fire_crackling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the text, the image that best matches the natural scenes described is 'fire_crackling'.",
+            "correct_answer": "D",
+            "index": 247,
+            "is_correct": true
+        },
+        "248": {
+            "question": "Based on this description: 'thunder', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 248,
+            "is_correct": false
+        },
+        "250": {
+            "question": "Based on this description: 'raining', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given context, the image that best matches the natural scenes described is the image of rain falling.  ",
+            "correct_answer": "B",
+            "index": 250,
+            "is_correct": false
+        },
+        "252": {
+            "question": "Based on this description: 'explosion', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 252,
+            "is_correct": false
+        },
+        "255": {
+            "question": "Based on this description: 'fire_crackling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given context, the image that matches the natural scenes described is 'fire_crackling'.",
+            "correct_answer": "C",
+            "index": 255,
+            "is_correct": false
+        },
+        "256": {
+            "question": "Based on this description: 'splashing_water', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given context, the image that best matches the natural scenes described is 'splashing_water'.",
+            "correct_answer": "A",
+            "index": 256,
+            "is_correct": false
+        },
+        "258": {
+            "question": "Based on this description: 'squishing_water', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 258,
+            "is_correct": false
+        },
+        "259": {
+            "question": "Based on this description: 'raining', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given context, the image that best matches the natural scenes described is A.",
+            "correct_answer": "A",
+            "index": 259,
+            "is_correct": true
+        },
+        "260": {
+            "question": "Based on this description: 'raining', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 260,
+            "is_correct": false
+        },
+        "264": {
+            "question": "Based on this description: 'thunder', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 264,
+            "is_correct": false
+        },
+        "265": {
+            "question": "Based on this description: 'fire_crackling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 265,
+            "is_correct": false
+        },
+        "268": {
+            "question": "Based on this description: 'fire_crackling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 268,
+            "is_correct": false
+        },
+        "270": {
+            "question": "Based on this description: 'waterfall_burbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 270,
+            "is_correct": false
+        },
+        "271": {
+            "question": "Based on this description: 'underwater_bubbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 271,
+            "is_correct": true
+        },
+        "272": {
+            "question": "Based on this description: 'raining', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given context, the image that best matches the natural scenes described is 'raining'.",
+            "correct_answer": "B",
+            "index": 272,
+            "is_correct": false
+        },
+        "273": {
+            "question": "Based on this description: 'fire_crackling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given context, the image that best matches the natural scenes described is 'fire_crackling'.",
+            "correct_answer": "C",
+            "index": 273,
+            "is_correct": false
+        },
+        "274": {
+            "question": "Based on this description: 'raining', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 274,
+            "is_correct": true
+        },
+        "275": {
+            "question": "Based on this description: 'underwater_bubbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 275,
+            "is_correct": false
+        },
+        "276": {
+            "question": "Based on this description: 'waterfall_burbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 276,
+            "is_correct": false
+        },
+        "279": {
+            "question": "Based on this description: 'raining', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 279,
+            "is_correct": false
+        },
+        "281": {
+            "question": "Based on this description: 'thunder', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given context, the image that best matches the natural scenes described is 'thunder'.",
+            "correct_answer": "C",
+            "index": 281,
+            "is_correct": false
+        },
+        "282": {
+            "question": "Based on this description: 'thunder', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the image that best matches the natural scenes described is image A.",
+            "correct_answer": "A",
+            "index": 282,
+            "is_correct": true
+        },
+        "283": {
+            "question": "Based on this description: 'raining', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 283,
+            "is_correct": true
+        },
+        "285": {
+            "question": "Based on this description: 'underwater_bubbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 285,
+            "is_correct": false
+        },
+        "287": {
+            "question": "Based on this description: 'explosion', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 287,
+            "is_correct": false
+        },
+        "290": {
+            "question": "Based on this description: 'raining', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the image that matches the natural scenes described is \"raining\".",
+            "correct_answer": "C",
+            "index": 290,
+            "is_correct": false
+        },
+        "293": {
+            "question": "Based on this description: 'waterfall_burbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 293,
+            "is_correct": false
+        },
+        "294": {
+            "question": "Based on this description: 'explosion', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 294,
+            "is_correct": false
+        },
+        "295": {
+            "question": "Based on this description: 'explosion', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the text, the image that matches the natural scenes described is 'explosion'.",
+            "correct_answer": "B",
+            "index": 295,
+            "is_correct": false
+        },
+        "298": {
+            "question": "Based on this description: 'explosion', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given context, the image that best matches the natural scenes described is A.",
+            "correct_answer": "A",
+            "index": 298,
+            "is_correct": true
+        },
+        "299": {
+            "question": "Based on this description: 'splashing_water', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 299,
+            "is_correct": false
+        },
+        "301": {
+            "question": "Based on this description: 'splashing_water', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 301,
+            "is_correct": false
+        },
+        "302": {
+            "question": "Based on this description: 'explosion', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 302,
+            "is_correct": true
+        },
+        "305": {
+            "question": "Based on this description: 'raining', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given context, the image that best matches the natural scenes described is 'raining'.",
+            "correct_answer": "B",
+            "index": 305,
+            "is_correct": false
+        },
+        "306": {
+            "question": "Based on this description: 'squishing_water', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given description, the image that best matches the natural scenes described is 'squishing_water'.",
+            "correct_answer": "D",
+            "index": 306,
+            "is_correct": true
+        },
+        "307": {
+            "question": "Based on this description: 'thunder', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Based on the given text, the image that best matches the natural scenes described is image C.",
+            "correct_answer": "D",
+            "index": 307,
+            "is_correct": false
+        },
+        "308": {
+            "question": "Based on this description: 'raining', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 308,
+            "is_correct": false
+        },
+        "309": {
+            "question": "Based on this description: 'underwater_bubbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 309,
+            "is_correct": false
+        },
+        "310": {
+            "question": "Based on this description: 'underwater_bubbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 310,
+            "is_correct": false
+        },
+        "311": {
+            "question": "Based on this description: 'thunder', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 311,
+            "is_correct": false
+        },
+        "312": {
+            "question": "Based on this description: 'squishing_water', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 312,
+            "is_correct": true
+        },
+        "316": {
+            "question": "Based on this description: 'raining', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given context, the image that best matches the natural scenes described is 'raining'.",
+            "correct_answer": "D",
+            "index": 316,
+            "is_correct": true
+        },
+        "319": {
+            "question": "Based on this description: 'raining', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Based on the given context, the image that best matches the natural scenes described is image C.",
+            "correct_answer": "C",
+            "index": 319,
+            "is_correct": true
+        },
+        "321": {
+            "question": "Based on this description: 'squishing_water', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the context, the image that best matches the natural scenes described is 'squishing_water'.",
+            "correct_answer": "A",
+            "index": 321,
+            "is_correct": false
+        },
+        "325": {
+            "question": "Based on this description: 'explosion', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 325,
+            "is_correct": true
+        },
+        "327": {
+            "question": "Based on this description: 'raining', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the context, the image that best matches the natural scenes described is 'raining'.",
+            "correct_answer": "B",
+            "index": 327,
+            "is_correct": false
+        },
+        "328": {
+            "question": "Based on this description: 'squishing_water', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 328,
+            "is_correct": false
+        },
+        "329": {
+            "question": "Based on this description: 'underwater_bubbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image \"underwater_bubbling\" matches the natural scene described as \"underwater bubbling\".  ",
+            "correct_answer": "B",
+            "index": 329,
+            "is_correct": false
+        },
+        "330": {
+            "question": "Based on this description: 'splashing_water', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 330,
+            "is_correct": false
+        },
+        "331": {
+            "question": "Based on this description: 'raining', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 331,
+            "is_correct": false
+        },
+        "332": {
+            "question": "Based on this description: 'thunder', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given context, the image that best matches the natural scenes described is 'thunder'.",
+            "correct_answer": "C",
+            "index": 332,
+            "is_correct": false
+        },
+        "335": {
+            "question": "Based on this description: 'waterfall_burbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 335,
+            "is_correct": true
+        },
+        "337": {
+            "question": "Based on this description: 'waterfall_burbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 337,
+            "is_correct": false
+        },
+        "338": {
+            "question": "Based on this description: 'explosion', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 338,
+            "is_correct": false
+        },
+        "342": {
+            "question": "Based on this description: 'explosion', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 342,
+            "is_correct": false
+        },
+        "343": {
+            "question": "Based on this description: 'underwater_bubbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 343,
+            "is_correct": false
+        },
+        "344": {
+            "question": "Based on this description: 'explosion', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 344,
+            "is_correct": false
+        },
+        "346": {
+            "question": "Based on this description: 'raining', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the image that matches the natural scene of 'raining' is image 1.",
+            "correct_answer": "B",
+            "index": 346,
+            "is_correct": false
+        },
+        "347": {
+            "question": "Based on this description: 'explosion', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 347,
+            "is_correct": false
+        },
+        "349": {
+            "question": "Based on this description: 'raining', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given context, the image that best matches the natural scenes described is 'raining'.",
+            "correct_answer": "B",
+            "index": 349,
+            "is_correct": false
+        },
+        "350": {
+            "question": "Based on this description: 'explosion', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 350,
+            "is_correct": true
+        },
+        "352": {
+            "question": "Based on this description: 'thunder', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 352,
+            "is_correct": true
+        },
+        "354": {
+            "question": "Based on this description: 'explosion', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 354,
+            "is_correct": false
+        },
+        "355": {
+            "question": "Based on this description: 'raining', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 355,
+            "is_correct": false
+        },
+        "356": {
+            "question": "Based on this description: 'raining', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 356,
+            "is_correct": true
+        },
+        "357": {
+            "question": "Based on this description: 'explosion', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 357,
+            "is_correct": false
+        },
+        "359": {
+            "question": "Based on this description: 'raining', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given context, the image that best matches the natural scenes described is 'raining'.",
+            "correct_answer": "C",
+            "index": 359,
+            "is_correct": false
+        },
+        "360": {
+            "question": "Based on this description: 'raining', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 360,
+            "is_correct": false
+        },
+        "361": {
+            "question": "Based on this description: 'fire_crackling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 361,
+            "is_correct": false
+        },
+        "363": {
+            "question": "Based on this description: 'explosion', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 363,
+            "is_correct": true
+        },
+        "364": {
+            "question": "Based on this description: 'thunder', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given description, the image that matches the natural scenes described is 'thunder'.",
+            "correct_answer": "C",
+            "index": 364,
+            "is_correct": false
+        },
+        "365": {
+            "question": "Based on this description: 'underwater_bubbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 365,
+            "is_correct": true
+        },
+        "366": {
+            "question": "Based on this description: 'thunder', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The correct answer is A.  ",
+            "correct_answer": "A",
+            "index": 366,
+            "is_correct": true
+        },
+        "367": {
+            "question": "Based on this description: 'fire_crackling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 367,
+            "is_correct": false
+        },
+        "371": {
+            "question": "Based on this description: 'explosion', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 371,
+            "is_correct": false
+        },
+        "372": {
+            "question": "Based on this description: 'fire_crackling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 372,
+            "is_correct": false
+        },
+        "373": {
+            "question": "Based on this description: 'raining', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given context, the image that best matches the natural scenes described is A.  ",
+            "correct_answer": "A",
+            "index": 373,
+            "is_correct": true
+        },
+        "375": {
+            "question": "Based on this description: 'fire_crackling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given context, the image that matches the natural scenes described is 'fire_crackling'.",
+            "correct_answer": "C",
+            "index": 375,
+            "is_correct": false
+        },
+        "376": {
+            "question": "Based on this description: 'waterfall_burbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 376,
+            "is_correct": false
+        },
+        "377": {
+            "question": "Based on this description: 'waterfall_burbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 377,
+            "is_correct": false
+        },
+        "378": {
+            "question": "Based on this description: 'fire_crackling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 378,
+            "is_correct": false
+        },
+        "379": {
+            "question": "Based on this description: 'splashing_water', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given description, the image that matches the natural scene described is 'splashing_water'.",
+            "correct_answer": "C",
+            "index": 379,
+            "is_correct": false
+        },
+        "380": {
+            "question": "Based on this description: 'underwater_bubbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 380,
+            "is_correct": false
+        },
+        "381": {
+            "question": "Based on this description: 'splashing_water', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given context, the image that best matches the natural scenes described is 'splashing_water'.",
+            "correct_answer": "D",
+            "index": 381,
+            "is_correct": true
+        },
+        "382": {
+            "question": "Based on this description: 'fire_crackling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 382,
+            "is_correct": false
+        },
+        "385": {
+            "question": "Based on this description: 'thunder', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": ": The correct choice is C. The image that best matches the natural scenes described is the underwater bubbling image.",
+            "correct_answer": "A",
+            "index": 385,
+            "is_correct": false
+        },
+        "386": {
+            "question": "Based on this description: 'squishing_water', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given context, the image that best matches the natural scenes described is 'squishing_water'.",
+            "correct_answer": "D",
+            "index": 386,
+            "is_correct": true
+        },
+        "388": {
+            "question": "Based on this description: 'raining', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the given description, the image that matches the natural scene of 'raining' is image 1.",
+            "correct_answer": "B",
+            "index": 388,
+            "is_correct": false
+        },
+        "390": {
+            "question": "Based on this description: 'raining', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 390,
+            "is_correct": true
+        },
+        "395": {
+            "question": "Based on this description: 'underwater_bubbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 395,
+            "is_correct": false
+        },
+        "399": {
+            "question": "Based on this description: 'underwater_bubbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 399,
+            "is_correct": false
+        },
+        "400": {
+            "question": "Based on this description: 'fire_crackling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given context, the image that best matches the natural scenes described is 'fire_crackling'.",
+            "correct_answer": "C",
+            "index": 400,
+            "is_correct": false
+        },
+        "402": {
+            "question": "Based on this description: 'thunder', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given text, the image that best matches the natural scenes described is 'thunder'.",
+            "correct_answer": "C",
+            "index": 402,
+            "is_correct": false
+        },
+        "404": {
+            "question": "Based on this description: 'waterfall_burbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 404,
+            "is_correct": true
+        },
+        "405": {
+            "question": "Based on this description: 'underwater_bubbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 405,
+            "is_correct": true
+        },
+        "409": {
+            "question": "Based on this description: 'underwater_bubbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 409,
+            "is_correct": true
+        },
+        "410": {
+            "question": "Based on this description: 'explosion', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 410,
+            "is_correct": false
+        },
+        "411": {
+            "question": "Based on this description: 'raining', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 411,
+            "is_correct": false
+        },
+        "412": {
+            "question": "Based on this description: 'explosion', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 412,
+            "is_correct": false
+        },
+        "413": {
+            "question": "Based on this description: 'explosion', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 413,
+            "is_correct": false
+        },
+        "414": {
+            "question": "Based on this description: 'underwater_bubbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given description, 'underwater_bubbling', the image that best matches the natural scenes described is 'underwater_bubbling'.",
+            "correct_answer": "A",
+            "index": 414,
+            "is_correct": false
+        },
+        "416": {
+            "question": "Based on this description: 'fire_crackling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 416,
+            "is_correct": true
+        },
+        "417": {
+            "question": "Based on this description: 'explosion', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 417,
+            "is_correct": false
+        },
+        "421": {
+            "question": "Based on this description: 'squishing_water', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given context, the image that best matches the natural scenes described is 'squishing_water'.",
+            "correct_answer": "D",
+            "index": 421,
+            "is_correct": true
+        },
+        "423": {
+            "question": "Based on this description: 'thunder', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 423,
+            "is_correct": false
+        },
+        "424": {
+            "question": "Based on this description: 'explosion', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 424,
+            "is_correct": false
+        },
+        "427": {
+            "question": "Based on this description: 'fire_crackling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 427,
+            "is_correct": false
+        },
+        "429": {
+            "question": "Based on this description: 'explosion', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 429,
+            "is_correct": false
+        },
+        "430": {
+            "question": "Based on this description: 'splashing_water', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 430,
+            "is_correct": false
+        },
+        "431": {
+            "question": "Based on this description: 'raining', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the text, the image that best matches the natural scenes described is 'raining'.",
+            "correct_answer": "B",
+            "index": 431,
+            "is_correct": false
+        },
+        "433": {
+            "question": "Based on this description: 'raining', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 433,
+            "is_correct": false
+        },
+        "435": {
+            "question": "Based on this description: 'raining', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 435,
+            "is_correct": false
+        },
+        "436": {
+            "question": "Based on this description: 'explosion', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Based on the text, the image that best matches the natural scenes described is image C.",
+            "correct_answer": "D",
+            "index": 436,
+            "is_correct": false
+        },
+        "437": {
+            "question": "Based on this description: 'underwater_bubbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the description, 'underwater_bubbling', the image that best matches the natural scenes described is A.",
+            "correct_answer": "C",
+            "index": 437,
+            "is_correct": false
+        },
+        "438": {
+            "question": "Based on this description: 'fire_crackling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 438,
+            "is_correct": false
+        },
+        "440": {
+            "question": "Based on this description: 'splashing_water', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 440,
+            "is_correct": false
+        },
+        "441": {
+            "question": "Based on this description: 'squishing_water', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given description, the image that best matches the natural scenes described is 'squishing_water'.",
+            "correct_answer": "B",
+            "index": 441,
+            "is_correct": false
+        },
+        "444": {
+            "question": "Based on this description: 'explosion', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given context, the image that best matches the natural scenes described is \"explosion\".",
+            "correct_answer": "B",
+            "index": 444,
+            "is_correct": false
+        },
+        "445": {
+            "question": "Based on this description: 'underwater_bubbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 445,
+            "is_correct": false
+        },
+        "446": {
+            "question": "Based on this description: 'splashing_water', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 446,
+            "is_correct": false
+        },
+        "447": {
+            "question": "Based on this description: 'fire_crackling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the description, 'fire_crackling', the image that matches the natural scene is 'fire_crackling'.",
+            "correct_answer": "B",
+            "index": 447,
+            "is_correct": false
+        },
+        "450": {
+            "question": "Based on this description: 'waterfall_burbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 450,
+            "is_correct": false
+        },
+        "451": {
+            "question": "Based on this description: 'squishing_water', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the context, the image that best matches the natural scenes described is A.",
+            "correct_answer": "A",
+            "index": 451,
+            "is_correct": true
+        },
+        "452": {
+            "question": "Based on this description: 'thunder', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 452,
+            "is_correct": true
+        },
+        "454": {
+            "question": "Based on this description: 'underwater_bubbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 454,
+            "is_correct": false
+        },
+        "455": {
+            "question": "Based on this description: 'thunder', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the text, the image that best matches the natural scenes described is 'thunder'.",
+            "correct_answer": "C",
+            "index": 455,
+            "is_correct": false
+        },
+        "456": {
+            "question": "Based on this description: 'underwater_bubbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given context, the image that best matches the natural scenes described is \"underwater_bubbling\".",
+            "correct_answer": "A",
+            "index": 456,
+            "is_correct": false
+        },
+        "458": {
+            "question": "Based on this description: 'fire_crackling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 458,
+            "is_correct": false
+        },
+        "459": {
+            "question": "Based on this description: 'thunder', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given description, the image that best matches the natural scenes described is \"thunder\".",
+            "correct_answer": "B",
+            "index": 459,
+            "is_correct": false
+        },
+        "461": {
+            "question": "Based on this description: 'underwater_bubbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 461,
+            "is_correct": false
+        },
+        "463": {
+            "question": "Based on this description: 'underwater_bubbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Based on the description, 'underwater_bubbling', the image that best matches the natural scenes described is A.",
+            "correct_answer": "B",
+            "index": 463,
+            "is_correct": false
+        },
+        "464": {
+            "question": "Based on this description: 'raining', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the context, the image that best matches the natural scenes described is the image of rain falling.",
+            "correct_answer": "A",
+            "index": 464,
+            "is_correct": false
+        },
+        "467": {
+            "question": "Based on this description: 'explosion', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 467,
+            "is_correct": false
+        },
+        "469": {
+            "question": "Based on this description: 'fire_crackling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given description, the image that matches the natural scenes described is 'fire_crackling'.",
+            "correct_answer": "B",
+            "index": 469,
+            "is_correct": false
+        },
+        "470": {
+            "question": "Based on this description: 'raining', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given description, the image that matches the natural scenes described is 'raining'.",
+            "correct_answer": "C",
+            "index": 470,
+            "is_correct": false
+        },
+        "473": {
+            "question": "Based on this description: 'fire_crackling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 473,
+            "is_correct": true
+        },
+        "474": {
+            "question": "Based on this description: 'squishing_water', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 474,
+            "is_correct": true
+        },
+        "475": {
+            "question": "Based on this description: 'explosion', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 475,
+            "is_correct": false
+        },
+        "477": {
+            "question": "Based on this description: 'fire_crackling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given context, the image that best matches the natural scenes described is \"fire_crackling\".",
+            "correct_answer": "B",
+            "index": 477,
+            "is_correct": false
+        },
+        "478": {
+            "question": "Based on this description: 'fire_crackling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the description 'fire_crackling', the image that best matches the natural scene is image 2.",
+            "correct_answer": "C",
+            "index": 478,
+            "is_correct": false
+        },
+        "480": {
+            "question": "Based on this description: 'explosion', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Based on the given context, the image that best matches the natural scenes described is image C.",
+            "correct_answer": "D",
+            "index": 480,
+            "is_correct": false
+        },
+        "481": {
+            "question": "Based on this description: 'raining', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given description, the image that matches the natural scenes described is \"raining\".",
+            "correct_answer": "C",
+            "index": 481,
+            "is_correct": false
+        },
+        "482": {
+            "question": "Based on this description: 'raining', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the context, the image that best matches the natural scenes described is 'raining'.",
+            "correct_answer": "C",
+            "index": 482,
+            "is_correct": false
+        },
+        "483": {
+            "question": "Based on this description: 'thunder', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 483,
+            "is_correct": false
+        },
+        "484": {
+            "question": "Based on this description: 'squishing_water', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 484,
+            "is_correct": false
+        },
+        "486": {
+            "question": "Based on this description: 'raining', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 486,
+            "is_correct": true
+        },
+        "487": {
+            "question": "Based on this description: 'thunder', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 487,
+            "is_correct": false
+        },
+        "490": {
+            "question": "Based on this description: 'raining', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 490,
+            "is_correct": false
+        },
+        "491": {
+            "question": "Based on this description: 'underwater_bubbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the text, the image that best matches the natural scenes described is 'underwater_bubbling'.",
+            "correct_answer": "A",
+            "index": 491,
+            "is_correct": false
+        },
+        "492": {
+            "question": "Based on this description: 'squishing_water', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given description, the image that matches the natural scenes described is 'squishing_water'.",
+            "correct_answer": "B",
+            "index": 492,
+            "is_correct": false
+        },
+        "493": {
+            "question": "Based on this description: 'underwater_bubbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Based on the given context, the image that best matches the natural scenes described is 'underwater_bubbling'.",
+            "correct_answer": "B",
+            "index": 493,
+            "is_correct": false
+        },
+        "494": {
+            "question": "Based on this description: 'explosion', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 494,
+            "is_correct": true
+        },
+        "495": {
+            "question": "Based on this description: 'thunder', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 495,
+            "is_correct": false
+        },
+        "496": {
+            "question": "Based on this description: 'thunder', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Based on the given description, the image that best matches the natural scenes described is image C.",
+            "correct_answer": "D",
+            "index": 496,
+            "is_correct": false
+        },
+        "497": {
+            "question": "Based on this description: 'underwater_bubbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 497,
+            "is_correct": false
+        },
+        "498": {
+            "question": "Based on this description: 'fire_crackling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 498,
+            "is_correct": true
+        },
+        "499": {
+            "question": "Based on this description: 'explosion', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_text": ": The image that best matches the description of 'explosion' is image C.",
+            "correct_answer": "C",
+            "index": 499,
+            "is_correct": true
+        }
+    },
+    "format_error_count": 182,
+    "run_error_count": 0
+}

@@ -41,7 +41,7 @@ class BenchmarkMetric:
 
     def analysis_all_model(self):
         result_dict = {}
-        models = ['gemini-2.5-flash', 'gemini-2.0-pro', 'gemini-2.5-pro', 'gemini-2.0-flash', 'qwen2.5_omni', 'vita', 'echoink']
+        models = ['gemini-2.5-flash', 'gemini-2.0-pro', 'gemini-2.5-pro', 'gemini-2.0-flash', 'qwen2.5_omni', 'vita', 'echoink', 'anygpt']
 
         for model in models:
             if model.startswith(".") or model.startswith("_"):

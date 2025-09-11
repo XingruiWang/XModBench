@@ -7,8 +7,10 @@
 
 
 module load conda
-conda activate /home/xwang378/.conda/envs/omni
+# conda activate /home/xwang378/.conda/envs/omni
 # conda activate /home/xwang378/.conda/envs/vita
+conda activate /home/xwang378/.conda/envs/AnyGPT
+ 
 echo "Running on host: $(hostname)"
 echo "CUDA_VISIBLE_DEVICES=$CUDA_VISIBLE_DEVICES"
 
@@ -17,7 +19,8 @@ export audioBench='/home/xwang378/scratch/2025/AudioBench'
 # Configuration
 # MODEL="qwen2.5_omni"
 # MODEL="vita"
-MODEL="echoink"
+MODEL="anygpt"
+# MODEL="echoink"
 # MINI_BENCHMARK="false"
 MINI_BENCHMARK="true"
 
@@ -62,7 +65,7 @@ TASKS_TO_RUN=(
     
     # # Spatial tasks
     # "spatial/arrangements"
-    "spatial/3D_movements"
+    # "spatial/3D_movements"
     # "spatial/panaroma"
     
     # # Speech tasks
@@ -75,10 +78,10 @@ TASKS_TO_RUN=(
     # "temporal/order"
     
     # External tasks
-    # "external/music_genre_classification"
+    "external/music_genre_classification"
     # "external/emotion_classification"
     # "external/movie_matching"
-    # "external/singer_identification"
+    "external/singer_identification"
 )
 
 # Run evaluations

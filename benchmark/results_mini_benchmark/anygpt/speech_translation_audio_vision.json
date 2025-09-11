@@ -1,0 +1,2386 @@
+{
+    "task_name": "speech/translation_audio_vision",
+    "score": 24.579124579124578,
+    "correct_count": 73,
+    "all_count": 297,
+    "results": {
+        "0": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "C",
+            "index": 0,
+            "is_correct": false
+        },
+        "1": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image 1.",
+            "correct_answer": "A",
+            "index": 1,
+            "is_correct": true
+        },
+        "3": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "D",
+            "index": 3,
+            "is_correct": false
+        },
+        "6": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 6,
+            "is_correct": false
+        },
+        "7": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 7,
+            "is_correct": false
+        },
+        "11": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image 1.",
+            "correct_answer": "A",
+            "index": 11,
+            "is_correct": true
+        },
+        "16": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 16,
+            "is_correct": false
+        },
+        "19": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.  ",
+            "correct_answer": "D",
+            "index": 19,
+            "is_correct": false
+        },
+        "21": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image2.  ",
+            "correct_answer": "B",
+            "index": 21,
+            "is_correct": false
+        },
+        "25": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image2.  ",
+            "correct_answer": "B",
+            "index": 25,
+            "is_correct": true
+        },
+        "27": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image2.  ",
+            "correct_answer": "B",
+            "index": 27,
+            "is_correct": true
+        },
+        "29": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 29,
+            "is_correct": false
+        },
+        "30": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 30,
+            "is_correct": false
+        },
+        "31": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.  ",
+            "correct_answer": "B",
+            "index": 31,
+            "is_correct": false
+        },
+        "32": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.  ",
+            "correct_answer": "D",
+            "index": 32,
+            "is_correct": false
+        },
+        "36": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 36,
+            "is_correct": false
+        },
+        "38": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 38,
+            "is_correct": false
+        },
+        "44": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image2.  ",
+            "correct_answer": "C",
+            "index": 44,
+            "is_correct": false
+        },
+        "46": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.  ",
+            "correct_answer": "A",
+            "index": 46,
+            "is_correct": true
+        },
+        "47": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image 1.  ",
+            "correct_answer": "D",
+            "index": 47,
+            "is_correct": false
+        },
+        "48": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "A",
+            "index": 48,
+            "is_correct": true
+        },
+        "49": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "C",
+            "index": 49,
+            "is_correct": false
+        },
+        "50": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image 1.",
+            "correct_answer": "A",
+            "index": 50,
+            "is_correct": true
+        },
+        "55": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 55,
+            "is_correct": false
+        },
+        "57": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "C",
+            "index": 57,
+            "is_correct": false
+        },
+        "59": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.  ",
+            "correct_answer": "A",
+            "index": 59,
+            "is_correct": true
+        },
+        "60": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image 1.",
+            "correct_answer": "C",
+            "index": 60,
+            "is_correct": false
+        },
+        "65": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "D",
+            "index": 65,
+            "is_correct": false
+        },
+        "67": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 67,
+            "is_correct": false
+        },
+        "69": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image 1.",
+            "correct_answer": "D",
+            "index": 69,
+            "is_correct": false
+        },
+        "70": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image 1.",
+            "correct_answer": "C",
+            "index": 70,
+            "is_correct": false
+        },
+        "71": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.  ",
+            "correct_answer": "B",
+            "index": 71,
+            "is_correct": false
+        },
+        "72": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 72,
+            "is_correct": false
+        },
+        "73": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "C",
+            "index": 73,
+            "is_correct": false
+        },
+        "79": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "C",
+            "index": 79,
+            "is_correct": false
+        },
+        "80": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "C",
+            "index": 80,
+            "is_correct": false
+        },
+        "81": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image 1.",
+            "correct_answer": "D",
+            "index": 81,
+            "is_correct": false
+        },
+        "84": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image 1.",
+            "correct_answer": "A",
+            "index": 84,
+            "is_correct": true
+        },
+        "85": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image 1.",
+            "correct_answer": "B",
+            "index": 85,
+            "is_correct": false
+        },
+        "87": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image2.  ",
+            "correct_answer": "B",
+            "index": 87,
+            "is_correct": false
+        },
+        "89": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "C",
+            "index": 89,
+            "is_correct": false
+        },
+        "93": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "C",
+            "index": 93,
+            "is_correct": false
+        },
+        "94": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.  ",
+            "correct_answer": "B",
+            "index": 94,
+            "is_correct": false
+        },
+        "95": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image 1.",
+            "correct_answer": "D",
+            "index": 95,
+            "is_correct": false
+        },
+        "97": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.  ",
+            "correct_answer": "B",
+            "index": 97,
+            "is_correct": false
+        },
+        "98": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 98,
+            "is_correct": true
+        },
+        "99": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 99,
+            "is_correct": false
+        },
+        "103": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "C",
+            "index": 103,
+            "is_correct": false
+        },
+        "104": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "B",
+            "index": 104,
+            "is_correct": false
+        },
+        "108": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "A",
+            "index": 108,
+            "is_correct": true
+        },
+        "109": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "B",
+            "index": 109,
+            "is_correct": false
+        },
+        "111": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 111,
+            "is_correct": false
+        },
+        "112": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image 1.",
+            "correct_answer": "D",
+            "index": 112,
+            "is_correct": false
+        },
+        "114": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "B",
+            "index": 114,
+            "is_correct": false
+        },
+        "117": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image 1.  ",
+            "correct_answer": "B",
+            "index": 117,
+            "is_correct": false
+        },
+        "121": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image2.",
+            "correct_answer": "B",
+            "index": 121,
+            "is_correct": false
+        },
+        "123": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "B",
+            "index": 123,
+            "is_correct": false
+        },
+        "124": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image 1.",
+            "correct_answer": "D",
+            "index": 124,
+            "is_correct": false
+        },
+        "127": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image 1.",
+            "correct_answer": "A",
+            "index": 127,
+            "is_correct": true
+        },
+        "128": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "D",
+            "index": 128,
+            "is_correct": false
+        },
+        "131": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "C",
+            "index": 131,
+            "is_correct": false
+        },
+        "135": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "D",
+            "index": 135,
+            "is_correct": false
+        },
+        "141": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 141,
+            "is_correct": true
+        },
+        "142": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image2.  ",
+            "correct_answer": "C",
+            "index": 142,
+            "is_correct": false
+        },
+        "146": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 146,
+            "is_correct": false
+        },
+        "151": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image2.  ",
+            "correct_answer": "A",
+            "index": 151,
+            "is_correct": false
+        },
+        "156": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 156,
+            "is_correct": false
+        },
+        "159": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 159,
+            "is_correct": true
+        },
+        "161": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 161,
+            "is_correct": false
+        },
+        "163": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "B",
+            "index": 163,
+            "is_correct": false
+        },
+        "165": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 165,
+            "is_correct": false
+        },
+        "166": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "D",
+            "index": 166,
+            "is_correct": false
+        },
+        "167": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "D",
+            "index": 167,
+            "is_correct": false
+        },
+        "169": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 169,
+            "is_correct": true
+        },
+        "173": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "A",
+            "index": 173,
+            "is_correct": true
+        },
+        "175": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 175,
+            "is_correct": true
+        },
+        "181": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image 1.",
+            "correct_answer": "D",
+            "index": 181,
+            "is_correct": true
+        },
+        "182": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 182,
+            "is_correct": false
+        },
+        "194": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 194,
+            "is_correct": true
+        },
+        "196": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "C",
+            "index": 196,
+            "is_correct": false
+        },
+        "199": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "B",
+            "index": 199,
+            "is_correct": false
+        },
+        "203": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "A",
+            "index": 203,
+            "is_correct": true
+        },
+        "205": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image 1.",
+            "correct_answer": "B",
+            "index": 205,
+            "is_correct": false
+        },
+        "206": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 206,
+            "is_correct": false
+        },
+        "208": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "C",
+            "index": 208,
+            "is_correct": false
+        },
+        "210": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "A",
+            "index": 210,
+            "is_correct": true
+        },
+        "214": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image 1.",
+            "correct_answer": "D",
+            "index": 214,
+            "is_correct": false
+        },
+        "216": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.  ",
+            "correct_answer": "A",
+            "index": 216,
+            "is_correct": true
+        },
+        "217": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 217,
+            "is_correct": false
+        },
+        "220": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 220,
+            "is_correct": false
+        },
+        "223": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "C",
+            "index": 223,
+            "is_correct": false
+        },
+        "224": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image2.",
+            "correct_answer": "D",
+            "index": 224,
+            "is_correct": true
+        },
+        "225": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image3.",
+            "correct_answer": "D",
+            "index": 225,
+            "is_correct": true
+        },
+        "226": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 226,
+            "is_correct": false
+        },
+        "228": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "C",
+            "index": 228,
+            "is_correct": false
+        },
+        "229": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "D",
+            "index": 229,
+            "is_correct": false
+        },
+        "230": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image2.  ",
+            "correct_answer": "D",
+            "index": 230,
+            "is_correct": true
+        },
+        "232": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 232,
+            "is_correct": false
+        },
+        "233": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "A",
+            "index": 233,
+            "is_correct": true
+        },
+        "234": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 234,
+            "is_correct": false
+        },
+        "235": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.  ",
+            "correct_answer": "B",
+            "index": 235,
+            "is_correct": false
+        },
+        "236": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "C",
+            "index": 236,
+            "is_correct": false
+        },
+        "238": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 238,
+            "is_correct": false
+        },
+        "239": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 239,
+            "is_correct": false
+        },
+        "242": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image2.  ",
+            "correct_answer": "D",
+            "index": 242,
+            "is_correct": false
+        },
+        "245": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "A",
+            "index": 245,
+            "is_correct": true
+        },
+        "246": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image 1.  ",
+            "correct_answer": "C",
+            "index": 246,
+            "is_correct": false
+        },
+        "248": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image 1.  ",
+            "correct_answer": "B",
+            "index": 248,
+            "is_correct": false
+        },
+        "249": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "C",
+            "index": 249,
+            "is_correct": false
+        },
+        "250": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image2.",
+            "correct_answer": "D",
+            "index": 250,
+            "is_correct": true
+        },
+        "252": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "C",
+            "index": 252,
+            "is_correct": false
+        },
+        "253": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 253,
+            "is_correct": false
+        },
+        "257": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 257,
+            "is_correct": false
+        },
+        "263": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image2.  ",
+            "correct_answer": "D",
+            "index": 263,
+            "is_correct": true
+        },
+        "269": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 269,
+            "is_correct": false
+        },
+        "270": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.  ",
+            "correct_answer": "D",
+            "index": 270,
+            "is_correct": false
+        },
+        "271": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 271,
+            "is_correct": false
+        },
+        "273": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.  ",
+            "correct_answer": "A",
+            "index": 273,
+            "is_correct": true
+        },
+        "274": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 274,
+            "is_correct": true
+        },
+        "276": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "A",
+            "index": 276,
+            "is_correct": true
+        },
+        "281": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "D",
+            "index": 281,
+            "is_correct": false
+        },
+        "284": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 284,
+            "is_correct": true
+        },
+        "292": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "C",
+            "index": 292,
+            "is_correct": false
+        },
+        "295": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 295,
+            "is_correct": true
+        },
+        "296": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "B",
+            "index": 296,
+            "is_correct": false
+        },
+        "300": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 300,
+            "is_correct": false
+        },
+        "305": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "A",
+            "index": 305,
+            "is_correct": true
+        },
+        "314": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "A",
+            "index": 314,
+            "is_correct": false
+        },
+        "319": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "B",
+            "index": 319,
+            "is_correct": false
+        },
+        "322": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image 1.",
+            "correct_answer": "D",
+            "index": 322,
+            "is_correct": false
+        },
+        "323": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.  ",
+            "correct_answer": "C",
+            "index": 323,
+            "is_correct": false
+        },
+        "330": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image2.  ",
+            "correct_answer": "C",
+            "index": 330,
+            "is_correct": false
+        },
+        "331": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 331,
+            "is_correct": false
+        },
+        "332": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image2.  ",
+            "correct_answer": "D",
+            "index": 332,
+            "is_correct": true
+        },
+        "333": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 333,
+            "is_correct": false
+        },
+        "334": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image2.  ",
+            "correct_answer": "C",
+            "index": 334,
+            "is_correct": false
+        },
+        "337": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 337,
+            "is_correct": true
+        },
+        "338": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 338,
+            "is_correct": false
+        },
+        "342": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The correct choice is D. The image most likely shows the Chinese translation of the English sentence spoken in the audio.",
+            "correct_answer": "B",
+            "index": 342,
+            "is_correct": false
+        },
+        "344": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 344,
+            "is_correct": false
+        },
+        "346": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "C",
+            "index": 346,
+            "is_correct": false
+        },
+        "348": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 348,
+            "is_correct": false
+        },
+        "352": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image 1.  ",
+            "correct_answer": "B",
+            "index": 352,
+            "is_correct": false
+        },
+        "356": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 356,
+            "is_correct": false
+        },
+        "363": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image 1.",
+            "correct_answer": "C",
+            "index": 363,
+            "is_correct": false
+        },
+        "367": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.  ",
+            "correct_answer": "D",
+            "index": 367,
+            "is_correct": false
+        },
+        "370": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image 1.",
+            "correct_answer": "A",
+            "index": 370,
+            "is_correct": true
+        },
+        "371": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "C",
+            "index": 371,
+            "is_correct": false
+        },
+        "372": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image2.  ",
+            "correct_answer": "C",
+            "index": 372,
+            "is_correct": false
+        },
+        "373": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 373,
+            "is_correct": true
+        },
+        "374": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.  ",
+            "correct_answer": "A",
+            "index": 374,
+            "is_correct": true
+        },
+        "376": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image 1.",
+            "correct_answer": "B",
+            "index": 376,
+            "is_correct": false
+        },
+        "379": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image2.  ",
+            "correct_answer": "B",
+            "index": 379,
+            "is_correct": true
+        },
+        "382": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "B",
+            "index": 382,
+            "is_correct": false
+        },
+        "385": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image2.  ",
+            "correct_answer": "A",
+            "index": 385,
+            "is_correct": false
+        },
+        "387": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "C",
+            "index": 387,
+            "is_correct": false
+        },
+        "388": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 388,
+            "is_correct": false
+        },
+        "389": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.  ",
+            "correct_answer": "D",
+            "index": 389,
+            "is_correct": false
+        },
+        "390": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "B",
+            "index": 390,
+            "is_correct": false
+        },
+        "394": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image 1.  ",
+            "correct_answer": "D",
+            "index": 394,
+            "is_correct": false
+        },
+        "401": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "B",
+            "index": 401,
+            "is_correct": false
+        },
+        "405": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "A",
+            "index": 405,
+            "is_correct": true
+        },
+        "408": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "C",
+            "index": 408,
+            "is_correct": false
+        },
+        "409": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image 1.",
+            "correct_answer": "B",
+            "index": 409,
+            "is_correct": false
+        },
+        "410": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image 1.",
+            "correct_answer": "B",
+            "index": 410,
+            "is_correct": false
+        },
+        "413": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "A",
+            "index": 413,
+            "is_correct": true
+        },
+        "422": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image2.  ",
+            "correct_answer": "B",
+            "index": 422,
+            "is_correct": false
+        },
+        "423": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image2.  ",
+            "correct_answer": "C",
+            "index": 423,
+            "is_correct": false
+        },
+        "428": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image 1.",
+            "correct_answer": "C",
+            "index": 428,
+            "is_correct": false
+        },
+        "429": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image 1.",
+            "correct_answer": "A",
+            "index": 429,
+            "is_correct": false
+        },
+        "432": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.  ",
+            "correct_answer": "D",
+            "index": 432,
+            "is_correct": false
+        },
+        "433": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image3.",
+            "correct_answer": "A",
+            "index": 433,
+            "is_correct": false
+        },
+        "434": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image 1.",
+            "correct_answer": "A",
+            "index": 434,
+            "is_correct": true
+        },
+        "438": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.  ",
+            "correct_answer": "B",
+            "index": 438,
+            "is_correct": false
+        },
+        "440": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 440,
+            "is_correct": false
+        },
+        "441": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 441,
+            "is_correct": false
+        },
+        "442": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 442,
+            "is_correct": false
+        },
+        "445": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "A",
+            "index": 445,
+            "is_correct": true
+        },
+        "447": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.  ",
+            "correct_answer": "A",
+            "index": 447,
+            "is_correct": true
+        },
+        "448": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 448,
+            "is_correct": false
+        },
+        "451": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "C",
+            "index": 451,
+            "is_correct": false
+        },
+        "457": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "C",
+            "index": 457,
+            "is_correct": false
+        },
+        "459": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 459,
+            "is_correct": false
+        },
+        "461": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "C",
+            "index": 461,
+            "is_correct": false
+        },
+        "462": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image 1.",
+            "correct_answer": "C",
+            "index": 462,
+            "is_correct": false
+        },
+        "463": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image2.  ",
+            "correct_answer": "D",
+            "index": 463,
+            "is_correct": false
+        },
+        "464": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image2.",
+            "correct_answer": "C",
+            "index": 464,
+            "is_correct": false
+        },
+        "465": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image 1.  ",
+            "correct_answer": "C",
+            "index": 465,
+            "is_correct": false
+        },
+        "469": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "D",
+            "index": 469,
+            "is_correct": true
+        },
+        "470": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 470,
+            "is_correct": false
+        },
+        "471": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image2.  ",
+            "correct_answer": "C",
+            "index": 471,
+            "is_correct": false
+        },
+        "473": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "B",
+            "index": 473,
+            "is_correct": false
+        },
+        "478": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 478,
+            "is_correct": false
+        },
+        "479": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 479,
+            "is_correct": true
+        },
+        "480": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "D",
+            "index": 480,
+            "is_correct": false
+        },
+        "486": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "D",
+            "index": 486,
+            "is_correct": false
+        },
+        "487": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image2.  ",
+            "correct_answer": "A",
+            "index": 487,
+            "is_correct": false
+        },
+        "488": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 488,
+            "is_correct": false
+        },
+        "490": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 490,
+            "is_correct": false
+        },
+        "492": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image2.",
+            "correct_answer": "C",
+            "index": 492,
+            "is_correct": false
+        },
+        "497": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "D",
+            "index": 497,
+            "is_correct": false
+        },
+        "499": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.  ",
+            "correct_answer": "A",
+            "index": 499,
+            "is_correct": true
+        },
+        "500": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "C",
+            "index": 500,
+            "is_correct": false
+        },
+        "501": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image 1.",
+            "correct_answer": "D",
+            "index": 501,
+            "is_correct": false
+        },
+        "503": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image2.",
+            "correct_answer": "C",
+            "index": 503,
+            "is_correct": false
+        },
+        "504": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image2.",
+            "correct_answer": "D",
+            "index": 504,
+            "is_correct": true
+        },
+        "505": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 505,
+            "is_correct": false
+        },
+        "510": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "D",
+            "index": 510,
+            "is_correct": false
+        },
+        "511": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image2.  ",
+            "correct_answer": "C",
+            "index": 511,
+            "is_correct": false
+        },
+        "512": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image2.  ",
+            "correct_answer": "B",
+            "index": 512,
+            "is_correct": false
+        },
+        "515": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.  ",
+            "correct_answer": "A",
+            "index": 515,
+            "is_correct": true
+        },
+        "517": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "C",
+            "index": 517,
+            "is_correct": false
+        },
+        "519": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image 1.  ",
+            "correct_answer": "B",
+            "index": 519,
+            "is_correct": false
+        },
+        "521": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "C",
+            "index": 521,
+            "is_correct": false
+        },
+        "529": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in the audio is image1.  ",
+            "correct_answer": "D",
+            "index": 529,
+            "is_correct": false
+        },
+        "530": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.  ",
+            "correct_answer": "D",
+            "index": 530,
+            "is_correct": false
+        },
+        "533": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "B",
+            "index": 533,
+            "is_correct": false
+        },
+        "534": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image2.  ",
+            "correct_answer": "C",
+            "index": 534,
+            "is_correct": false
+        },
+        "541": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 541,
+            "is_correct": true
+        },
+        "543": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image 1.",
+            "correct_answer": "A",
+            "index": 543,
+            "is_correct": true
+        },
+        "546": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "D",
+            "index": 546,
+            "is_correct": false
+        },
+        "548": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "C",
+            "index": 548,
+            "is_correct": false
+        },
+        "549": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "A",
+            "index": 549,
+            "is_correct": true
+        },
+        "551": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "A",
+            "index": 551,
+            "is_correct": true
+        },
+        "553": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image2.  ",
+            "correct_answer": "B",
+            "index": 553,
+            "is_correct": true
+        },
+        "558": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.  ",
+            "correct_answer": "A",
+            "index": 558,
+            "is_correct": true
+        },
+        "559": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 559,
+            "is_correct": true
+        },
+        "565": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.  ",
+            "correct_answer": "B",
+            "index": 565,
+            "is_correct": false
+        },
+        "566": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "B",
+            "index": 566,
+            "is_correct": false
+        },
+        "568": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image 1.",
+            "correct_answer": "B",
+            "index": 568,
+            "is_correct": false
+        },
+        "570": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "D",
+            "index": 570,
+            "is_correct": false
+        },
+        "574": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 574,
+            "is_correct": false
+        },
+        "576": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image 1.",
+            "correct_answer": "A",
+            "index": 576,
+            "is_correct": true
+        },
+        "580": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "C",
+            "index": 580,
+            "is_correct": false
+        },
+        "583": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "D",
+            "index": 583,
+            "is_correct": false
+        },
+        "585": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "D",
+            "index": 585,
+            "is_correct": false
+        },
+        "586": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image 1.",
+            "correct_answer": "D",
+            "index": 586,
+            "is_correct": false
+        },
+        "591": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image 1.",
+            "correct_answer": "B",
+            "index": 591,
+            "is_correct": false
+        },
+        "592": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "B",
+            "index": 592,
+            "is_correct": false
+        },
+        "593": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image2.  ",
+            "correct_answer": "C",
+            "index": 593,
+            "is_correct": false
+        },
+        "594": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "C",
+            "index": 594,
+            "is_correct": false
+        },
+        "598": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "B",
+            "index": 598,
+            "is_correct": false
+        },
+        "599": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image2.  ",
+            "correct_answer": "C",
+            "index": 599,
+            "is_correct": false
+        },
+        "600": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.  ",
+            "correct_answer": "A",
+            "index": 600,
+            "is_correct": true
+        },
+        "603": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "A",
+            "index": 603,
+            "is_correct": true
+        },
+        "604": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image2.",
+            "correct_answer": "D",
+            "index": 604,
+            "is_correct": true
+        },
+        "606": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "C",
+            "index": 606,
+            "is_correct": false
+        },
+        "607": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "D",
+            "index": 607,
+            "is_correct": false
+        },
+        "608": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.  ",
+            "correct_answer": "C",
+            "index": 608,
+            "is_correct": false
+        },
+        "609": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 609,
+            "is_correct": false
+        },
+        "613": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image 1.  ",
+            "correct_answer": "A",
+            "index": 613,
+            "is_correct": true
+        },
+        "616": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image 1.",
+            "correct_answer": "D",
+            "index": 616,
+            "is_correct": true
+        },
+        "618": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.  ",
+            "correct_answer": "B",
+            "index": 618,
+            "is_correct": false
+        },
+        "623": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 623,
+            "is_correct": false
+        },
+        "627": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image2.",
+            "correct_answer": "C",
+            "index": 627,
+            "is_correct": false
+        },
+        "632": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image 1.  ",
+            "correct_answer": "C",
+            "index": 632,
+            "is_correct": false
+        },
+        "633": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "B",
+            "index": 633,
+            "is_correct": false
+        },
+        "634": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 634,
+            "is_correct": false
+        },
+        "639": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image2.  ",
+            "correct_answer": "A",
+            "index": 639,
+            "is_correct": false
+        },
+        "642": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 642,
+            "is_correct": false
+        },
+        "643": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "A",
+            "index": 643,
+            "is_correct": true
+        },
+        "644": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "A",
+            "index": 644,
+            "is_correct": true
+        },
+        "645": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "D",
+            "index": 645,
+            "is_correct": false
+        },
+        "646": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "A",
+            "index": 646,
+            "is_correct": false
+        },
+        "648": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 648,
+            "is_correct": true
+        },
+        "650": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 650,
+            "is_correct": false
+        },
+        "652": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The correct choice is D. The image that most likely shows the Chinese translation of the English sentence spoken in this audio is /home/xwang378/scratch/2025/AudioBench/benchmark/Data/audiobench_rendertext/trans_hard/000000000789/choice_4.png.",
+            "correct_answer": "B",
+            "index": 652,
+            "is_correct": false
+        },
+        "653": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 653,
+            "is_correct": false
+        },
+        "654": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.  ",
+            "correct_answer": "D",
+            "index": 654,
+            "is_correct": false
+        },
+        "657": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.  ",
+            "correct_answer": "B",
+            "index": 657,
+            "is_correct": false
+        },
+        "659": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 659,
+            "is_correct": false
+        },
+        "661": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image2.  ",
+            "correct_answer": "C",
+            "index": 661,
+            "is_correct": false
+        },
+        "664": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image2.  ",
+            "correct_answer": "C",
+            "index": 664,
+            "is_correct": false
+        },
+        "665": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.  ",
+            "correct_answer": "D",
+            "index": 665,
+            "is_correct": false
+        },
+        "667": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 667,
+            "is_correct": false
+        },
+        "668": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image 1.",
+            "correct_answer": "D",
+            "index": 668,
+            "is_correct": false
+        },
+        "669": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "A",
+            "index": 669,
+            "is_correct": true
+        },
+        "670": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.  ",
+            "correct_answer": "A",
+            "index": 670,
+            "is_correct": true
+        },
+        "672": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 672,
+            "is_correct": false
+        },
+        "675": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": "Error",
+            "correct_answer": "A",
+            "index": 675,
+            "is_correct": false
+        },
+        "678": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 678,
+            "is_correct": false
+        },
+        "679": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image2.  ",
+            "correct_answer": "B",
+            "index": 679,
+            "is_correct": false
+        },
+        "680": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.  ",
+            "correct_answer": "D",
+            "index": 680,
+            "is_correct": false
+        },
+        "681": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 681,
+            "is_correct": false
+        },
+        "682": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "B",
+            "index": 682,
+            "is_correct": false
+        },
+        "684": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "C",
+            "index": 684,
+            "is_correct": false
+        },
+        "687": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 687,
+            "is_correct": false
+        },
+        "688": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "A",
+            "index": 688,
+            "is_correct": true
+        },
+        "689": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": "Error",
+            "correct_answer": "D",
+            "index": 689,
+            "is_correct": false
+        },
+        "692": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.",
+            "correct_answer": "A",
+            "index": 692,
+            "is_correct": true
+        },
+        "693": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": "Error",
+            "correct_answer": "C",
+            "index": 693,
+            "is_correct": false
+        },
+        "694": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image1.  ",
+            "correct_answer": "A",
+            "index": 694,
+            "is_correct": true
+        },
+        "695": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image C.",
+            "correct_answer": "C",
+            "index": 695,
+            "is_correct": true
+        },
+        "697": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image 1.",
+            "correct_answer": "D",
+            "index": 697,
+            "is_correct": false
+        },
+        "698": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image 1.",
+            "correct_answer": "B",
+            "index": 698,
+            "is_correct": false
+        },
+        "699": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image that most likely shows the Chinese translation of the English sentence spoken in this audio is image2.  ",
+            "correct_answer": "B",
+            "index": 699,
+            "is_correct": false
+        },
+        "700": {
+            "question": "Which image most likely shows the Chinese translation of the English sentence spoken in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": "Error",
+            "correct_answer": "B",
+            "index": 700,
+            "is_correct": false
+        }
+    },
+    "format_error_count": 79,
+    "run_error_count": 0
+}
