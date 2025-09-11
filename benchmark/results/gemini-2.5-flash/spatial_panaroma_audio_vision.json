@@ -1,0 +1,3128 @@
+{
+    "task_name": "spatial/panaroma_audio_vision",
+    "score": 34.87179487179487,
+    "correct_count": 136,
+    "all_count": 390,
+    "results": {
+        "0": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 0,
+            "is_correct": true
+        },
+        "1": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 1,
+            "is_correct": false
+        },
+        "2": {
+            "question": "Listen to this spatial audio of a clapping sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 2,
+            "is_correct": true
+        },
+        "3": {
+            "question": "Listen to this spatial audio of a laughter sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 3,
+            "is_correct": true
+        },
+        "4": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 4,
+            "is_correct": false
+        },
+        "5": {
+            "question": "Listen to this spatial audio of a domestic sounds sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 5,
+            "is_correct": false
+        },
+        "6": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 6,
+            "is_correct": true
+        },
+        "7": {
+            "question": "Listen to this spatial audio of a domestic sounds sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 7,
+            "is_correct": false
+        },
+        "8": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 8,
+            "is_correct": false
+        },
+        "9": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 9,
+            "is_correct": true
+        },
+        "10": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 10,
+            "is_correct": false
+        },
+        "11": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 11,
+            "is_correct": false
+        },
+        "12": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 12,
+            "is_correct": false
+        },
+        "13": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 13,
+            "is_correct": false
+        },
+        "14": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 14,
+            "is_correct": false
+        },
+        "15": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 15,
+            "is_correct": false
+        },
+        "16": {
+            "question": "Listen to this spatial audio of a water tap, faucet sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 16,
+            "is_correct": false
+        },
+        "17": {
+            "question": "Listen to this spatial audio of a water tap, faucet sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 17,
+            "is_correct": false
+        },
+        "18": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 18,
+            "is_correct": false
+        },
+        "19": {
+            "question": "Listen to this spatial audio of a water tap, faucet sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 19,
+            "is_correct": false
+        },
+        "20": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 20,
+            "is_correct": false
+        },
+        "21": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 21,
+            "is_correct": false
+        },
+        "22": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 22,
+            "is_correct": true
+        },
+        "23": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 23,
+            "is_correct": false
+        },
+        "24": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 24,
+            "is_correct": true
+        },
+        "25": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 25,
+            "is_correct": false
+        },
+        "26": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 26,
+            "is_correct": false
+        },
+        "27": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 27,
+            "is_correct": false
+        },
+        "28": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 28,
+            "is_correct": false
+        },
+        "29": {
+            "question": "Listen to this spatial audio of a domestic sounds sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 29,
+            "is_correct": true
+        },
+        "30": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 30,
+            "is_correct": false
+        },
+        "31": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 31,
+            "is_correct": false
+        },
+        "32": {
+            "question": "Listen to this spatial audio of a domestic sounds sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 32,
+            "is_correct": true
+        },
+        "33": {
+            "question": "Listen to this spatial audio of a domestic sounds sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 33,
+            "is_correct": true
+        },
+        "34": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 34,
+            "is_correct": false
+        },
+        "35": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 35,
+            "is_correct": false
+        },
+        "36": {
+            "question": "Listen to this spatial audio of a domestic sounds sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 36,
+            "is_correct": false
+        },
+        "37": {
+            "question": "Listen to this spatial audio of a domestic sounds sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 37,
+            "is_correct": false
+        },
+        "38": {
+            "question": "Listen to this spatial audio of a domestic sounds sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 38,
+            "is_correct": true
+        },
+        "39": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 39,
+            "is_correct": false
+        },
+        "40": {
+            "question": "Listen to this spatial audio of a domestic sounds sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 40,
+            "is_correct": false
+        },
+        "41": {
+            "question": "Listen to this spatial audio of a domestic sounds sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 41,
+            "is_correct": false
+        },
+        "42": {
+            "question": "Listen to this spatial audio of a domestic sounds sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 42,
+            "is_correct": false
+        },
+        "43": {
+            "question": "Listen to this spatial audio of a domestic sounds sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 43,
+            "is_correct": false
+        },
+        "44": {
+            "question": "Listen to this spatial audio of a domestic sounds sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 44,
+            "is_correct": false
+        },
+        "45": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 45,
+            "is_correct": false
+        },
+        "46": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 46,
+            "is_correct": false
+        },
+        "47": {
+            "question": "Listen to this spatial audio of a domestic sounds sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 47,
+            "is_correct": true
+        },
+        "48": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 48,
+            "is_correct": false
+        },
+        "49": {
+            "question": "Listen to this spatial audio of a domestic sounds sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 49,
+            "is_correct": false
+        },
+        "50": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 50,
+            "is_correct": false
+        },
+        "51": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 51,
+            "is_correct": false
+        },
+        "52": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 52,
+            "is_correct": false
+        },
+        "53": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 53,
+            "is_correct": false
+        },
+        "54": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 54,
+            "is_correct": false
+        },
+        "55": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 55,
+            "is_correct": true
+        },
+        "56": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 56,
+            "is_correct": false
+        },
+        "57": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 57,
+            "is_correct": false
+        },
+        "58": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 58,
+            "is_correct": true
+        },
+        "59": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 59,
+            "is_correct": false
+        },
+        "60": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 60,
+            "is_correct": false
+        },
+        "61": {
+            "question": "Listen to this spatial audio of a laughter sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 61,
+            "is_correct": true
+        },
+        "62": {
+            "question": "Listen to this spatial audio of a laughter sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 62,
+            "is_correct": true
+        },
+        "63": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 63,
+            "is_correct": false
+        },
+        "64": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 64,
+            "is_correct": false
+        },
+        "65": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 65,
+            "is_correct": false
+        },
+        "66": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 66,
+            "is_correct": false
+        },
+        "67": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 67,
+            "is_correct": true
+        },
+        "68": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 68,
+            "is_correct": false
+        },
+        "69": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 69,
+            "is_correct": true
+        },
+        "70": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 70,
+            "is_correct": true
+        },
+        "71": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 71,
+            "is_correct": false
+        },
+        "72": {
+            "question": "Listen to this spatial audio of a bell sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 72,
+            "is_correct": false
+        },
+        "73": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 73,
+            "is_correct": true
+        },
+        "74": {
+            "question": "Listen to this spatial audio of a bell sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 74,
+            "is_correct": false
+        },
+        "75": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 75,
+            "is_correct": false
+        },
+        "76": {
+            "question": "Listen to this spatial audio of a telephone sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 76,
+            "is_correct": true
+        },
+        "77": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 77,
+            "is_correct": false
+        },
+        "78": {
+            "question": "Listen to this spatial audio of a domestic sounds sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 78,
+            "is_correct": true
+        },
+        "79": {
+            "question": "Listen to this spatial audio of a domestic sounds sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 79,
+            "is_correct": false
+        },
+        "80": {
+            "question": "Listen to this spatial audio of a domestic sounds sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 80,
+            "is_correct": true
+        },
+        "81": {
+            "question": "Listen to this spatial audio of a domestic sounds sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 81,
+            "is_correct": false
+        },
+        "82": {
+            "question": "Listen to this spatial audio of a domestic sounds sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 82,
+            "is_correct": false
+        },
+        "83": {
+            "question": "Listen to this spatial audio of a domestic sounds sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 83,
+            "is_correct": false
+        },
+        "84": {
+            "question": "Listen to this spatial audio of a walk, footsteps sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 84,
+            "is_correct": true
+        },
+        "85": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 85,
+            "is_correct": true
+        },
+        "86": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 86,
+            "is_correct": true
+        },
+        "87": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 87,
+            "is_correct": false
+        },
+        "88": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 88,
+            "is_correct": true
+        },
+        "89": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 89,
+            "is_correct": false
+        },
+        "90": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 90,
+            "is_correct": false
+        },
+        "91": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 91,
+            "is_correct": false
+        },
+        "92": {
+            "question": "Listen to this spatial audio of a domestic sounds sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 92,
+            "is_correct": false
+        },
+        "93": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 93,
+            "is_correct": true
+        },
+        "94": {
+            "question": "Listen to this spatial audio of a domestic sounds sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 94,
+            "is_correct": false
+        },
+        "95": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 95,
+            "is_correct": true
+        },
+        "96": {
+            "question": "Listen to this spatial audio of a domestic sounds sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 96,
+            "is_correct": false
+        },
+        "97": {
+            "question": "Listen to this spatial audio of a domestic sounds sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 97,
+            "is_correct": true
+        },
+        "98": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 98,
+            "is_correct": false
+        },
+        "99": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 99,
+            "is_correct": true
+        },
+        "100": {
+            "question": "Listen to this spatial audio of a water tap, faucet sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 100,
+            "is_correct": true
+        },
+        "101": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 101,
+            "is_correct": false
+        },
+        "102": {
+            "question": "Listen to this spatial audio of a water tap, faucet sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 102,
+            "is_correct": true
+        },
+        "103": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 103,
+            "is_correct": false
+        },
+        "104": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 104,
+            "is_correct": false
+        },
+        "105": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 105,
+            "is_correct": false
+        },
+        "106": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 106,
+            "is_correct": false
+        },
+        "107": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 107,
+            "is_correct": true
+        },
+        "108": {
+            "question": "Listen to this spatial audio of a domestic sounds sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 108,
+            "is_correct": false
+        },
+        "109": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 109,
+            "is_correct": false
+        },
+        "110": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 110,
+            "is_correct": true
+        },
+        "111": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 111,
+            "is_correct": false
+        },
+        "112": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 112,
+            "is_correct": false
+        },
+        "113": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 113,
+            "is_correct": false
+        },
+        "114": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 114,
+            "is_correct": false
+        },
+        "115": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 115,
+            "is_correct": false
+        },
+        "116": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 116,
+            "is_correct": false
+        },
+        "117": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 117,
+            "is_correct": false
+        },
+        "118": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 118,
+            "is_correct": false
+        },
+        "119": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 119,
+            "is_correct": false
+        },
+        "120": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 120,
+            "is_correct": true
+        },
+        "121": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 121,
+            "is_correct": false
+        },
+        "122": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 122,
+            "is_correct": false
+        },
+        "123": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 123,
+            "is_correct": false
+        },
+        "124": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 124,
+            "is_correct": true
+        },
+        "125": {
+            "question": "Listen to this spatial audio of a domestic sounds sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 125,
+            "is_correct": true
+        },
+        "126": {
+            "question": "Listen to this spatial audio of a domestic sounds sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 126,
+            "is_correct": false
+        },
+        "127": {
+            "question": "Listen to this spatial audio of a domestic sounds sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 127,
+            "is_correct": true
+        },
+        "128": {
+            "question": "Listen to this spatial audio of a domestic sounds sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 128,
+            "is_correct": true
+        },
+        "129": {
+            "question": "Listen to this spatial audio of a domestic sounds sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 129,
+            "is_correct": false
+        },
+        "130": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 130,
+            "is_correct": false
+        },
+        "131": {
+            "question": "Listen to this spatial audio of a domestic sounds sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 131,
+            "is_correct": true
+        },
+        "132": {
+            "question": "Listen to this spatial audio of a domestic sounds sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 132,
+            "is_correct": false
+        },
+        "133": {
+            "question": "Listen to this spatial audio of a domestic sounds sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 133,
+            "is_correct": false
+        },
+        "134": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 134,
+            "is_correct": true
+        },
+        "135": {
+            "question": "Listen to this spatial audio of a domestic sounds sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 135,
+            "is_correct": true
+        },
+        "136": {
+            "question": "Listen to this spatial audio of a domestic sounds sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 136,
+            "is_correct": true
+        },
+        "137": {
+            "question": "Listen to this spatial audio of a domestic sounds sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 137,
+            "is_correct": true
+        },
+        "138": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 138,
+            "is_correct": false
+        },
+        "139": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 139,
+            "is_correct": true
+        },
+        "140": {
+            "question": "Listen to this spatial audio of a water tap, faucet sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 140,
+            "is_correct": false
+        },
+        "141": {
+            "question": "Listen to this spatial audio of a water tap, faucet sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 141,
+            "is_correct": false
+        },
+        "142": {
+            "question": "Listen to this spatial audio of a water tap, faucet sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 142,
+            "is_correct": false
+        },
+        "143": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 143,
+            "is_correct": true
+        },
+        "144": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 144,
+            "is_correct": false
+        },
+        "145": {
+            "question": "Listen to this spatial audio of a bell sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 145,
+            "is_correct": true
+        },
+        "146": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 146,
+            "is_correct": false
+        },
+        "147": {
+            "question": "Listen to this spatial audio of a domestic sounds sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 147,
+            "is_correct": true
+        },
+        "148": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 148,
+            "is_correct": false
+        },
+        "149": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 149,
+            "is_correct": false
+        },
+        "150": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 150,
+            "is_correct": false
+        },
+        "151": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 151,
+            "is_correct": true
+        },
+        "152": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 152,
+            "is_correct": true
+        },
+        "153": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 153,
+            "is_correct": true
+        },
+        "154": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 154,
+            "is_correct": true
+        },
+        "155": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 155,
+            "is_correct": true
+        },
+        "156": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 156,
+            "is_correct": false
+        },
+        "157": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 157,
+            "is_correct": false
+        },
+        "158": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 158,
+            "is_correct": true
+        },
+        "159": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 159,
+            "is_correct": true
+        },
+        "160": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 160,
+            "is_correct": true
+        },
+        "161": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 161,
+            "is_correct": false
+        },
+        "162": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 162,
+            "is_correct": true
+        },
+        "163": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 163,
+            "is_correct": false
+        },
+        "164": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 164,
+            "is_correct": false
+        },
+        "165": {
+            "question": "Listen to this spatial audio of a musical instrument sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 165,
+            "is_correct": false
+        },
+        "166": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 166,
+            "is_correct": false
+        },
+        "167": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 167,
+            "is_correct": false
+        },
+        "168": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 168,
+            "is_correct": false
+        },
+        "169": {
+            "question": "Listen to this spatial audio of a musical instrument sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 169,
+            "is_correct": false
+        },
+        "170": {
+            "question": "Listen to this spatial audio of a musical instrument sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 170,
+            "is_correct": false
+        },
+        "171": {
+            "question": "Listen to this spatial audio of a musical instrument sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 171,
+            "is_correct": false
+        },
+        "172": {
+            "question": "Listen to this spatial audio of a musical instrument sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 172,
+            "is_correct": false
+        },
+        "173": {
+            "question": "Listen to this spatial audio of a musical instrument sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 173,
+            "is_correct": false
+        },
+        "174": {
+            "question": "Listen to this spatial audio of a musical instrument sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 174,
+            "is_correct": false
+        },
+        "175": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 175,
+            "is_correct": false
+        },
+        "176": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 176,
+            "is_correct": true
+        },
+        "177": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 177,
+            "is_correct": false
+        },
+        "178": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 178,
+            "is_correct": true
+        },
+        "179": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 179,
+            "is_correct": false
+        },
+        "180": {
+            "question": "Listen to this spatial audio of a musical instrument sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 180,
+            "is_correct": false
+        },
+        "181": {
+            "question": "Listen to this spatial audio of a musical instrument sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 181,
+            "is_correct": false
+        },
+        "182": {
+            "question": "Listen to this spatial audio of a musical instrument sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 182,
+            "is_correct": true
+        },
+        "183": {
+            "question": "Listen to this spatial audio of a walk, footsteps sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 183,
+            "is_correct": false
+        },
+        "184": {
+            "question": "Listen to this spatial audio of a musical instrument sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 184,
+            "is_correct": false
+        },
+        "185": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 185,
+            "is_correct": false
+        },
+        "186": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 186,
+            "is_correct": false
+        },
+        "187": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 187,
+            "is_correct": false
+        },
+        "188": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 188,
+            "is_correct": false
+        },
+        "189": {
+            "question": "Listen to this spatial audio of a musical instrument sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 189,
+            "is_correct": false
+        },
+        "190": {
+            "question": "Listen to this spatial audio of a musical instrument sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 190,
+            "is_correct": true
+        },
+        "191": {
+            "question": "Listen to this spatial audio of a walk, footsteps sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 191,
+            "is_correct": false
+        },
+        "192": {
+            "question": "Listen to this spatial audio of a musical instrument sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 192,
+            "is_correct": false
+        },
+        "193": {
+            "question": "Listen to this spatial audio of a musical instrument sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 193,
+            "is_correct": false
+        },
+        "194": {
+            "question": "Listen to this spatial audio of a musical instrument sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 194,
+            "is_correct": true
+        },
+        "195": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 195,
+            "is_correct": true
+        },
+        "196": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 196,
+            "is_correct": false
+        },
+        "197": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 197,
+            "is_correct": true
+        },
+        "198": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 198,
+            "is_correct": true
+        },
+        "199": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 199,
+            "is_correct": true
+        },
+        "200": {
+            "question": "Listen to this spatial audio of a musical instrument sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 200,
+            "is_correct": false
+        },
+        "201": {
+            "question": "Listen to this spatial audio of a musical instrument sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 201,
+            "is_correct": false
+        },
+        "202": {
+            "question": "Listen to this spatial audio of a musical instrument sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 202,
+            "is_correct": false
+        },
+        "203": {
+            "question": "Listen to this spatial audio of a musical instrument sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 203,
+            "is_correct": false
+        },
+        "204": {
+            "question": "Listen to this spatial audio of a musical instrument sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 204,
+            "is_correct": false
+        },
+        "205": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 205,
+            "is_correct": false
+        },
+        "206": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 206,
+            "is_correct": false
+        },
+        "207": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 207,
+            "is_correct": true
+        },
+        "208": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 208,
+            "is_correct": true
+        },
+        "209": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 209,
+            "is_correct": false
+        },
+        "210": {
+            "question": "Listen to this spatial audio of a walk, footsteps sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 210,
+            "is_correct": false
+        },
+        "211": {
+            "question": "Listen to this spatial audio of a telephone sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 211,
+            "is_correct": false
+        },
+        "212": {
+            "question": "Listen to this spatial audio of a walk, footsteps sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 212,
+            "is_correct": false
+        },
+        "213": {
+            "question": "Listen to this spatial audio of a telephone sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 213,
+            "is_correct": false
+        },
+        "214": {
+            "question": "Listen to this spatial audio of a walk, footsteps sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 214,
+            "is_correct": true
+        },
+        "215": {
+            "question": "Listen to this spatial audio of a musical instrument sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 215,
+            "is_correct": true
+        },
+        "216": {
+            "question": "Listen to this spatial audio of a musical instrument sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 216,
+            "is_correct": true
+        },
+        "217": {
+            "question": "Listen to this spatial audio of a musical instrument sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 217,
+            "is_correct": false
+        },
+        "218": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 218,
+            "is_correct": false
+        },
+        "219": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 219,
+            "is_correct": true
+        },
+        "220": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 220,
+            "is_correct": false
+        },
+        "221": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 221,
+            "is_correct": true
+        },
+        "222": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 222,
+            "is_correct": false
+        },
+        "223": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 223,
+            "is_correct": true
+        },
+        "224": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 224,
+            "is_correct": true
+        },
+        "225": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 225,
+            "is_correct": false
+        },
+        "226": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 226,
+            "is_correct": true
+        },
+        "227": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 227,
+            "is_correct": false
+        },
+        "228": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 228,
+            "is_correct": false
+        },
+        "229": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 229,
+            "is_correct": true
+        },
+        "230": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 230,
+            "is_correct": false
+        },
+        "231": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 231,
+            "is_correct": false
+        },
+        "232": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 232,
+            "is_correct": false
+        },
+        "233": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 233,
+            "is_correct": false
+        },
+        "234": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 234,
+            "is_correct": false
+        },
+        "235": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 235,
+            "is_correct": true
+        },
+        "236": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 236,
+            "is_correct": false
+        },
+        "237": {
+            "question": "Listen to this spatial audio of a walk, footsteps sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 237,
+            "is_correct": false
+        },
+        "238": {
+            "question": "Listen to this spatial audio of a walk, footsteps sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 238,
+            "is_correct": false
+        },
+        "239": {
+            "question": "Listen to this spatial audio of a walk, footsteps sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 239,
+            "is_correct": true
+        },
+        "240": {
+            "question": "Listen to this spatial audio of a musical instrument sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 240,
+            "is_correct": true
+        },
+        "241": {
+            "question": "Listen to this spatial audio of a musical instrument sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 241,
+            "is_correct": false
+        },
+        "242": {
+            "question": "Listen to this spatial audio of a musical instrument sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 242,
+            "is_correct": false
+        },
+        "243": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 243,
+            "is_correct": false
+        },
+        "244": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 244,
+            "is_correct": true
+        },
+        "245": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 245,
+            "is_correct": false
+        },
+        "246": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 246,
+            "is_correct": false
+        },
+        "247": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 247,
+            "is_correct": false
+        },
+        "248": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 248,
+            "is_correct": true
+        },
+        "249": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 249,
+            "is_correct": true
+        },
+        "250": {
+            "question": "Listen to this spatial audio of a walk, footsteps sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 250,
+            "is_correct": false
+        },
+        "251": {
+            "question": "Listen to this spatial audio of a walk, footsteps sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 251,
+            "is_correct": true
+        },
+        "252": {
+            "question": "Listen to this spatial audio of a walk, footsteps sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 252,
+            "is_correct": false
+        },
+        "253": {
+            "question": "Listen to this spatial audio of a walk, footsteps sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 253,
+            "is_correct": false
+        },
+        "254": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 254,
+            "is_correct": false
+        },
+        "255": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 255,
+            "is_correct": true
+        },
+        "256": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 256,
+            "is_correct": false
+        },
+        "257": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 257,
+            "is_correct": false
+        },
+        "258": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 258,
+            "is_correct": false
+        },
+        "259": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 259,
+            "is_correct": false
+        },
+        "260": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 260,
+            "is_correct": false
+        },
+        "261": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 261,
+            "is_correct": false
+        },
+        "262": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 262,
+            "is_correct": false
+        },
+        "263": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 263,
+            "is_correct": true
+        },
+        "264": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 264,
+            "is_correct": true
+        },
+        "265": {
+            "question": "Listen to this spatial audio of a musical instrument sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 265,
+            "is_correct": false
+        },
+        "266": {
+            "question": "Listen to this spatial audio of a musical instrument sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 266,
+            "is_correct": false
+        },
+        "267": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 267,
+            "is_correct": true
+        },
+        "268": {
+            "question": "Listen to this spatial audio of a musical instrument sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 268,
+            "is_correct": true
+        },
+        "269": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 269,
+            "is_correct": false
+        },
+        "270": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 270,
+            "is_correct": false
+        },
+        "271": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 271,
+            "is_correct": true
+        },
+        "272": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 272,
+            "is_correct": false
+        },
+        "273": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 273,
+            "is_correct": false
+        },
+        "274": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 274,
+            "is_correct": true
+        },
+        "275": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 275,
+            "is_correct": false
+        },
+        "276": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 276,
+            "is_correct": false
+        },
+        "277": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 277,
+            "is_correct": true
+        },
+        "278": {
+            "question": "Listen to this spatial audio of a walk, footsteps sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 278,
+            "is_correct": true
+        },
+        "279": {
+            "question": "Listen to this spatial audio of a walk, footsteps sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 279,
+            "is_correct": false
+        },
+        "280": {
+            "question": "Listen to this spatial audio of a walk, footsteps sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 280,
+            "is_correct": false
+        },
+        "281": {
+            "question": "Listen to this spatial audio of a clapping sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 281,
+            "is_correct": false
+        },
+        "282": {
+            "question": "Listen to this spatial audio of a clapping sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 282,
+            "is_correct": true
+        },
+        "283": {
+            "question": "Listen to this spatial audio of a laughter sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 283,
+            "is_correct": true
+        },
+        "284": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 284,
+            "is_correct": false
+        },
+        "285": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 285,
+            "is_correct": false
+        },
+        "286": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 286,
+            "is_correct": true
+        },
+        "287": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 287,
+            "is_correct": true
+        },
+        "288": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 288,
+            "is_correct": true
+        },
+        "289": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 289,
+            "is_correct": false
+        },
+        "290": {
+            "question": "Listen to this spatial audio of a musical instrument sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 290,
+            "is_correct": true
+        },
+        "291": {
+            "question": "Listen to this spatial audio of a musical instrument sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 291,
+            "is_correct": true
+        },
+        "292": {
+            "question": "Listen to this spatial audio of a musical instrument sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 292,
+            "is_correct": true
+        },
+        "293": {
+            "question": "Listen to this spatial audio of a musical instrument sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 293,
+            "is_correct": true
+        },
+        "294": {
+            "question": "Listen to this spatial audio of a musical instrument sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 294,
+            "is_correct": false
+        },
+        "295": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 295,
+            "is_correct": true
+        },
+        "296": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 296,
+            "is_correct": false
+        },
+        "297": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 297,
+            "is_correct": false
+        },
+        "298": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 298,
+            "is_correct": false
+        },
+        "299": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 299,
+            "is_correct": false
+        },
+        "300": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 300,
+            "is_correct": false
+        },
+        "301": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 301,
+            "is_correct": false
+        },
+        "302": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 302,
+            "is_correct": false
+        },
+        "303": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 303,
+            "is_correct": true
+        },
+        "304": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 304,
+            "is_correct": true
+        },
+        "305": {
+            "question": "Listen to this spatial audio of a musical instrument sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 305,
+            "is_correct": true
+        },
+        "306": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 306,
+            "is_correct": false
+        },
+        "307": {
+            "question": "Listen to this spatial audio of a musical instrument sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 307,
+            "is_correct": true
+        },
+        "308": {
+            "question": "Listen to this spatial audio of a walk, footsteps sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 308,
+            "is_correct": true
+        },
+        "309": {
+            "question": "Listen to this spatial audio of a musical instrument sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 309,
+            "is_correct": false
+        },
+        "310": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 310,
+            "is_correct": true
+        },
+        "311": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 311,
+            "is_correct": false
+        },
+        "312": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 312,
+            "is_correct": false
+        },
+        "313": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 313,
+            "is_correct": false
+        },
+        "314": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 314,
+            "is_correct": false
+        },
+        "315": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 315,
+            "is_correct": false
+        },
+        "316": {
+            "question": "Listen to this spatial audio of a door, open or close sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 316,
+            "is_correct": false
+        },
+        "317": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 317,
+            "is_correct": false
+        },
+        "318": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 318,
+            "is_correct": false
+        },
+        "319": {
+            "question": "Listen to this spatial audio of a laughter sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 319,
+            "is_correct": false
+        },
+        "320": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 320,
+            "is_correct": true
+        },
+        "321": {
+            "question": "Listen to this spatial audio of a walk, footsteps sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 321,
+            "is_correct": true
+        },
+        "322": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 322,
+            "is_correct": false
+        },
+        "323": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 323,
+            "is_correct": false
+        },
+        "324": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 324,
+            "is_correct": false
+        },
+        "325": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 325,
+            "is_correct": false
+        },
+        "326": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 326,
+            "is_correct": true
+        },
+        "327": {
+            "question": "Listen to this spatial audio of a walk, footsteps sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 327,
+            "is_correct": false
+        },
+        "328": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 328,
+            "is_correct": true
+        },
+        "329": {
+            "question": "Listen to this spatial audio of a walk, footsteps sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 329,
+            "is_correct": false
+        },
+        "330": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 330,
+            "is_correct": false
+        },
+        "331": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 331,
+            "is_correct": false
+        },
+        "332": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 332,
+            "is_correct": false
+        },
+        "333": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 333,
+            "is_correct": false
+        },
+        "334": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 334,
+            "is_correct": false
+        },
+        "335": {
+            "question": "Listen to this spatial audio of a musical instrument sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 335,
+            "is_correct": false
+        },
+        "336": {
+            "question": "Listen to this spatial audio of a musical instrument sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 336,
+            "is_correct": true
+        },
+        "337": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 337,
+            "is_correct": true
+        },
+        "338": {
+            "question": "Listen to this spatial audio of a musical instrument sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 338,
+            "is_correct": false
+        },
+        "339": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 339,
+            "is_correct": true
+        },
+        "340": {
+            "question": "Listen to this spatial audio of a musical instrument sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 340,
+            "is_correct": true
+        },
+        "341": {
+            "question": "Listen to this spatial audio of a musical instrument sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 341,
+            "is_correct": true
+        },
+        "342": {
+            "question": "Listen to this spatial audio of a musical instrument sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 342,
+            "is_correct": false
+        },
+        "343": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 343,
+            "is_correct": false
+        },
+        "344": {
+            "question": "Listen to this spatial audio of a musical instrument sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 344,
+            "is_correct": true
+        },
+        "345": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 345,
+            "is_correct": true
+        },
+        "346": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 346,
+            "is_correct": false
+        },
+        "347": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 347,
+            "is_correct": true
+        },
+        "348": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 348,
+            "is_correct": true
+        },
+        "349": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 349,
+            "is_correct": true
+        },
+        "350": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 350,
+            "is_correct": false
+        },
+        "351": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 351,
+            "is_correct": false
+        },
+        "352": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 352,
+            "is_correct": true
+        },
+        "353": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 353,
+            "is_correct": false
+        },
+        "354": {
+            "question": "Listen to this spatial audio of a music sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 354,
+            "is_correct": false
+        },
+        "355": {
+            "question": "Listen to this spatial audio of a domestic sounds sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 355,
+            "is_correct": false
+        },
+        "356": {
+            "question": "Listen to this spatial audio of a laughter sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 356,
+            "is_correct": false
+        },
+        "357": {
+            "question": "Listen to this spatial audio of a domestic sounds sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 357,
+            "is_correct": false
+        },
+        "358": {
+            "question": "Listen to this spatial audio of a domestic sounds sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 358,
+            "is_correct": true
+        },
+        "359": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 359,
+            "is_correct": false
+        },
+        "360": {
+            "question": "Listen to this spatial audio of a musical instrument sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 360,
+            "is_correct": true
+        },
+        "361": {
+            "question": "Listen to this spatial audio of a musical instrument sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 361,
+            "is_correct": false
+        },
+        "362": {
+            "question": "Listen to this spatial audio of a musical instrument sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 362,
+            "is_correct": false
+        },
+        "363": {
+            "question": "Listen to this spatial audio of a musical instrument sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 363,
+            "is_correct": false
+        },
+        "364": {
+            "question": "Listen to this spatial audio of a musical instrument sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 364,
+            "is_correct": false
+        },
+        "365": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 365,
+            "is_correct": false
+        },
+        "366": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 366,
+            "is_correct": false
+        },
+        "367": {
+            "question": "Listen to this spatial audio of a laughter sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 367,
+            "is_correct": false
+        },
+        "368": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 368,
+            "is_correct": true
+        },
+        "369": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 369,
+            "is_correct": false
+        },
+        "370": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 370,
+            "is_correct": false
+        },
+        "371": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 371,
+            "is_correct": true
+        },
+        "372": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 372,
+            "is_correct": false
+        },
+        "373": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 373,
+            "is_correct": false
+        },
+        "374": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 374,
+            "is_correct": true
+        },
+        "375": {
+            "question": "Listen to this spatial audio of a domestic sounds sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 375,
+            "is_correct": true
+        },
+        "376": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 376,
+            "is_correct": false
+        },
+        "377": {
+            "question": "Listen to this spatial audio of a domestic sounds sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 377,
+            "is_correct": false
+        },
+        "378": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 378,
+            "is_correct": true
+        },
+        "379": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 379,
+            "is_correct": false
+        },
+        "380": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 380,
+            "is_correct": false
+        },
+        "381": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 381,
+            "is_correct": true
+        },
+        "382": {
+            "question": "Listen to this spatial audio of a laughter sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 382,
+            "is_correct": false
+        },
+        "383": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 383,
+            "is_correct": false
+        },
+        "384": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 384,
+            "is_correct": false
+        },
+        "385": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 385,
+            "is_correct": false
+        },
+        "386": {
+            "question": "Listen to this spatial audio of a telephone sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 386,
+            "is_correct": false
+        },
+        "387": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 387,
+            "is_correct": true
+        },
+        "388": {
+            "question": "Listen to this spatial audio of a female speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 388,
+            "is_correct": true
+        },
+        "389": {
+            "question": "Listen to this spatial audio of a male speech sound. Which panoramic video view with red bounding box best indicates the direction the sound comes from? Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 389,
+            "is_correct": true
+        }
+    }
+}
