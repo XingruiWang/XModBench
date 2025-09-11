@@ -1,0 +1,2386 @@
+{
+    "task_name": "speech/translation_vision_text",
+    "score": 27.946127946127948,
+    "correct_count": 83,
+    "all_count": 297,
+    "results": {
+        "0": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 0,
+            "is_correct": false
+        },
+        "1": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image does not provide enough context to determine which text is most likely the Chinese translation of the text in the image.",
+            "correct_answer": "A",
+            "index": 1,
+            "is_correct": false
+        },
+        "3": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": "You are an AI assistant named MMGPT who can understand and generate multimodal content, including text, speech, images and audio.\n [Human] : Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D\nContext (Image): <Image>\nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. <eoh> \n [MMGPT] : Context (Image): \nOptions: \nA. \nB. \nC. \nD. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n",
+            "correct_answer": "D",
+            "index": 3,
+            "is_correct": true
+        },
+        "6": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "D",
+            "index": 6,
+            "is_correct": false
+        },
+        "7": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): <Image>\nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "B",
+            "index": 7,
+            "is_correct": false
+        },
+        "11": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image shows a Chinese translation of the text. The answer is D.",
+            "correct_answer": "A",
+            "index": 11,
+            "is_correct": false
+        },
+        "16": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "B",
+            "index": 16,
+            "is_correct": false
+        },
+        "19": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": "You are an AI assistant named MMGPT who can understand and generate multimodal content, including text, speech, images and audio.\n [Human] : Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D\nContext (Image): <Image>\nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. <eoh> \n [MMGPT] : Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. \n  [AnyGPT] Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. \n  [AnyGPT] Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. \n  [AnyGPT] Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. \n  [AnyGPT] Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. \n  [AnyGPT] Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. \n  [AnyGPT] Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. \n  [AnyGPT] Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. \n  [AnyGPT] Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. \n  [AnyGPT] Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. \n  [AnyGPT] Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. \n  [AnyGPT] Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. \n  [AnyGPT] Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. \n  [AnyGPT] Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. \n  [AnyGPT] Context (Image): \nOptions:\nPlease",
+            "correct_answer": "D",
+            "index": 19,
+            "is_correct": true
+        },
+        "21": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "B",
+            "index": 21,
+            "is_correct": false
+        },
+        "25": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "B",
+            "index": 25,
+            "is_correct": false
+        },
+        "27": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "B",
+            "index": 27,
+            "is_correct": true
+        },
+        "29": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "D",
+            "index": 29,
+            "is_correct": false
+        },
+        "30": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 30,
+            "is_correct": false
+        },
+        "31": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "B",
+            "index": 31,
+            "is_correct": true
+        },
+        "32": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "D",
+            "index": 32,
+            "is_correct": false
+        },
+        "36": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions: \nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "D",
+            "index": 36,
+            "is_correct": true
+        },
+        "38": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 38,
+            "is_correct": false
+        },
+        "44": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 44,
+            "is_correct": false
+        },
+        "46": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions: \nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "A",
+            "index": 46,
+            "is_correct": false
+        },
+        "47": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": "You are an AI assistant named MMGPT who can understand and generate multimodal content, including text, speech, images and audio.\n [Human] : Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D\nContext (Image): <Image>\nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. <eoh> \n [MMGPT] : Context (Image): \nOptions: \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC.",
+            "correct_answer": "D",
+            "index": 47,
+            "is_correct": false
+        },
+        "48": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "A",
+            "index": 48,
+            "is_correct": true
+        },
+        "49": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 49,
+            "is_correct": false
+        },
+        "50": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image suggests that the Chinese translation of the text in the image is A.",
+            "correct_answer": "A",
+            "index": 50,
+            "is_correct": true
+        },
+        "55": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "B",
+            "index": 55,
+            "is_correct": false
+        },
+        "57": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 57,
+            "is_correct": false
+        },
+        "59": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "A",
+            "index": 59,
+            "is_correct": false
+        },
+        "60": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": "You are an AI assistant named MMGPT who can understand and generate multimodal content, including text, speech, images and audio.\n [Human] : Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D\nContext (Image): <Image>\nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. <eoh> \n [MMGPT] : Context (Image): <Image>\nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n ",
+            "correct_answer": "C",
+            "index": 60,
+            "is_correct": false
+        },
+        "65": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "D",
+            "index": 65,
+            "is_correct": false
+        },
+        "67": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "A",
+            "index": 67,
+            "is_correct": false
+        },
+        "69": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "D",
+            "index": 69,
+            "is_correct": false
+        },
+        "70": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 70,
+            "is_correct": true
+        },
+        "71": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "B",
+            "index": 71,
+            "is_correct": true
+        },
+        "72": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "B",
+            "index": 72,
+            "is_correct": false
+        },
+        "73": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 73,
+            "is_correct": false
+        },
+        "79": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 79,
+            "is_correct": false
+        },
+        "80": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 80,
+            "is_correct": true
+        },
+        "81": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "D",
+            "index": 81,
+            "is_correct": true
+        },
+        "84": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "A",
+            "index": 84,
+            "is_correct": false
+        },
+        "85": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "B",
+            "index": 85,
+            "is_correct": false
+        },
+        "87": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image does not provide enough context to determine which text is most likely the Chinese translation of the text in the image.",
+            "correct_answer": "B",
+            "index": 87,
+            "is_correct": false
+        },
+        "89": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 89,
+            "is_correct": false
+        },
+        "93": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 93,
+            "is_correct": false
+        },
+        "94": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image suggests that the Chinese translation of the text is likely to be A.",
+            "correct_answer": "B",
+            "index": 94,
+            "is_correct": false
+        },
+        "95": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "D",
+            "index": 95,
+            "is_correct": false
+        },
+        "97": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "B",
+            "index": 97,
+            "is_correct": false
+        },
+        "98": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": "You are an AI assistant named MMGPT who can understand and generate multimodal content, including text, speech, images and audio.\n [Human] : Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D\nContext (Image): <Image>\nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. <eoh> \n [MMGPT] : Context (Image): \nOptions: \nA. \nB. \nC. \nD. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n",
+            "correct_answer": "A",
+            "index": 98,
+            "is_correct": false
+        },
+        "99": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 99,
+            "is_correct": false
+        },
+        "103": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The text in the image is most likely the Chinese translation of the text in A.",
+            "correct_answer": "C",
+            "index": 103,
+            "is_correct": false
+        },
+        "104": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "B",
+            "index": 104,
+            "is_correct": false
+        },
+        "108": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "A",
+            "index": 108,
+            "is_correct": false
+        },
+        "109": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": "You are an AI assistant named MMGPT who can understand and generate multimodal content, including text, speech, images and audio.\n [Human] : Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D\nContext (Image): <Image>\nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. <eoh> \n [MMGPT] : Context (Image): \nOptions: \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC.",
+            "correct_answer": "B",
+            "index": 109,
+            "is_correct": false
+        },
+        "111": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "B",
+            "index": 111,
+            "is_correct": false
+        },
+        "112": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image suggests that the Chinese translation of the text in the image is A.",
+            "correct_answer": "D",
+            "index": 112,
+            "is_correct": false
+        },
+        "114": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "B",
+            "index": 114,
+            "is_correct": false
+        },
+        "117": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "B",
+            "index": 117,
+            "is_correct": true
+        },
+        "121": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "B",
+            "index": 121,
+            "is_correct": false
+        },
+        "123": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "B",
+            "index": 123,
+            "is_correct": false
+        },
+        "124": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "D",
+            "index": 124,
+            "is_correct": false
+        },
+        "127": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": "You are an AI assistant named MMGPT who can understand and generate multimodal content, including text, speech, images and audio.\n [Human] : Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D\nContext (Image): <Image>\nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. <eoh> \n [MMGPT] : The text in the image is most likely the Chinese translation of the text in the image.  <sosp> <\ud83d\udde3\ufe0f691> <\ud83d\udde3\ufe0f691> <\ud83d\udde3\ufe0f60> <\ud83d\udde3\ufe0f868> <\ud83d\udde3\ufe0f868> <\ud83d\udde3\ufe0f316> <\ud83d\udde3\ufe0f316> <\ud83d\udde3\ufe0f531> <\ud83d\udde3\ufe0f1011> <\ud83d\udde3\ufe0f111> <\ud83d\udde3\ufe0f111> <\ud83d\udde3\ufe0f229> <\ud83d\udde3\ufe0f358> <\ud83d\udde3\ufe0f116> <\ud83d\udde3\ufe0f898> <\ud83d\udde3\ufe0f643> <\ud83d\udde3\ufe0f37> <\ud83d\udde3\ufe0f916> <\ud83d\udde3\ufe0f916> <\ud83d\udde3\ufe0f223> <\ud83d\udde3\ufe0f223> <\ud83d\udde3\ufe0f223> <\ud83d\udde3\ufe0f974> <\ud83d\udde3\ufe0f974> <\ud83d\udde3\ufe0f974> <\ud83d\udde3\ufe0f929> <\ud83d\udde3\ufe0f929> <\ud83d\udde3\ufe0f292> <\ud83d\udde3\ufe0f292> <\ud83d\udde3\ufe0f806> <\ud83d\udde3\ufe0f806> <\ud83d\udde3\ufe0f698> <\ud83d\udde3\ufe0f93> <\ud83d\udde3\ufe0f93> <\ud83d\udde3\ufe0f93> <\ud83d\udde3\ufe0f301> <\ud83d\udde3\ufe0f499> <\ud83d\udde3\ufe0f499> <\ud83d\udde3\ufe0f396> <\ud83d\udde3\ufe0f80> <\ud83d\udde3\ufe0f553> <\ud83d\udde3\ufe0f1014> <\ud83d\udde3\ufe0f1014> <\ud83d\udde3\ufe0f958> <\ud83d\udde3\ufe0f571> <\ud83d\udde3\ufe0f125> <\ud83d\udde3\ufe0f94> <\ud83d\udde3\ufe0f492> <\ud83d\udde3\ufe0f390> <\ud83d\udde3\ufe0f400> <\ud83d\udde3\ufe0f400> <\ud83d\udde3\ufe0f364> <\ud83d\udde3\ufe0f38> <\ud83d\udde3\ufe0f198> <\ud83d\udde3\ufe0f925> <\ud83d\udde3\ufe0f925> <\ud83d\udde3\ufe0f794> <\ud83d\udde3\ufe0f179> <\ud83d\udde3\ufe0f341> <\ud83d\udde3\ufe0f933> <\ud83d\udde3\ufe0f933> <\ud83d\udde3\ufe0f989> <\ud83d\udde3\ufe0f958> <\ud83d\udde3\ufe0f830> <\ud83d\udde3\ufe0f897> <\ud83d\udde3\ufe0f897> <\ud83d\udde3\ufe0f428> <\ud83d\udde3\ufe0f72> <\ud83d\udde3\ufe0f628> <\ud83d\udde3\ufe0f628> <\ud83d\udde3\ufe0f17> <\ud83d\udde3\ufe0f17> <\ud83d\udde3\ufe0f388> <\ud83d\udde3\ufe0f489> <\ud83d\udde3\ufe0f123> <\ud83d\udde3\ufe0f1006> <\ud83d\udde3\ufe0f574> <\ud83d\udde3\ufe0f816> <\ud83d\udde3\ufe0f133> <\ud83d\udde3\ufe0f318> <\ud83d\udde3\ufe0f119> <\ud83d\udde3\ufe0f748> <\ud83d\udde3\ufe0f956> <\ud83d\udde3\ufe0f956> <\ud83d\udde3\ufe0f956> <\ud83d\udde3\ufe0f571> <\ud83d\udde3\ufe0f219> <\ud83d\udde3\ufe0f561> <\ud83d\udde3\ufe0f0> <\ud83d\udde3\ufe0f643> <\ud83d\udde3\ufe0f960> <\ud83d\udde3\ufe0f960> <\ud83d\udde3\ufe0f960> <\ud83d\udde3\ufe0f507> <\ud83d\udde3\ufe0f194> <\ud83d\udde3\ufe0f41> <\ud83d\udde3\ufe0f41> <\ud83d\udde3\ufe0f326> <\ud83d\udde3\ufe0f326> <\ud83d\udde3\ufe0f770> <\ud83d\udde3\ufe0f467> <\ud83d\udde3\ufe0f584> <\ud83d\udde3\ufe0f584> <\ud83d\udde3\ufe0f590> <\ud83d\udde3\ufe0f929> <\ud83d\udde3\ufe0f929> <\ud83d\udde3\ufe0f929> <\ud83d\udde3\ufe0f292> <\ud83d\udde3\ufe0f292> <\ud83d\udde3\ufe0f806> <\ud83d\udde3\ufe0f698> <\ud83d\udde3\ufe0f698> <\ud83d\udde3\ufe0f93> <\ud83d\udde3\ufe0f93> <\ud83d\udde3\ufe0f93> <\ud83d\udde3\ufe0f301> <\ud83d\udde3\ufe0f499> <\ud83d\udde3\ufe0f499> <\ud83d\udde3\ufe0f396> <\ud83d\udde3\ufe0f80> <\ud83d\udde3\ufe0f553> <\ud83d\udde3\ufe0f1014> <\ud83d\udde3\ufe0f1014> <\ud83d\udde3\ufe0f958> <\ud83d\udde3\ufe0f571> <\ud83d\udde3\ufe0f125> <\ud83d\udde3\ufe0f94> <\ud83d\udde3\ufe0f492> <\ud83d\udde3\ufe0f390> <\ud83d\udde3\ufe0f400> <\ud83d\udde3\ufe0f400> <\ud83d\udde3\ufe0f364> <\ud83d\udde3\ufe0f38> <\ud83d\udde3\ufe0f198> <\ud83d\udde3\ufe0f925> <\ud83d\udde3\ufe0f925> <\ud83d\udde3\ufe0f794> <\ud83d\udde3\ufe0f179> <\ud83d\udde3\ufe0f341> <\ud83d\udde3\ufe0f933> <\ud83d\udde3\ufe0f933> <\ud83d\udde3\ufe0f989> <\ud83d\udde3\ufe0f958> <\ud83d\udde3\ufe0f830> <\ud83d\udde3\ufe0f897> <\ud83d\udde3\ufe0f897> <\ud83d\udde3\ufe0f428> <\ud83d\udde3\ufe0f72> <\ud83d\udde3\ufe0f628> <\ud83d\udde3\ufe0f628> <\ud83d\udde3\ufe0f17> <\ud83d\udde3\ufe0f17> <\ud83d\udde3\ufe0f388> <\ud83d\udde3\ufe0f489> <\ud83d\udde3\ufe0f123> <\ud83d\udde3\ufe0f1006> <\ud83d\udde3\ufe0f574> <\ud83d\udde3\ufe0f816> <\ud83d\udde3\ufe0f133> <\ud83d\udde3\ufe0f318> <\ud83d\udde3\ufe0f119> <\ud83d\udde3\ufe0f748> <\ud83d\udde3\ufe0f956> <\ud83d\udde3\ufe0f956> <\ud83d\udde3\ufe0f956> <\ud83d\udde3\ufe0f571> <\ud83d\udde3\ufe0f219> <\ud83d\udde3\ufe0f561> <\ud83d\udde3\ufe0f0> <\ud83d\udde3\ufe0f643> <\ud83d\udde3\ufe0f960> <\ud83d\udde3\ufe0f960> <\ud83d\udde3\ufe0f960> <\ud83d\udde3\ufe0f507> <\ud83d\udde3\ufe0f194> <\ud83d\udde3\ufe0f41> <\ud83d\udde3\ufe0f41> <\ud83d\udde3\ufe0f326> <\ud83d\udde3\ufe0f326> <\ud83d\udde3\ufe0f770> <\ud83d\udde3\ufe0f467> <\ud83d\udde3\ufe0f584> <\ud83d\udde3\ufe0f584> <\ud83d\udde3\ufe0f590> <\ud83d\udde3\ufe0f929> <\ud83d\udde3\ufe0f929> <\ud83d\udde3\ufe0f929> <\ud83d\udde3\ufe0f292> <\ud83d\udde3\ufe0f292> <\ud83d\udde3\ufe0f806> <\ud83d\udde3\ufe0f698> <\ud83d\udde3\ufe0f698> <\ud83d\udde3\ufe0f93> <\ud83d\udde3\ufe0f93> <\ud83d\udde3\ufe0f93> <\ud83d\udde3\ufe0f301> <\ud83d\udde3\ufe0f499> <\ud83d\udde3\ufe0f499> <\ud83d\udde3\ufe0f396> <\ud83d\udde3\ufe0f80> <\ud83d\udde3\ufe0f553> <\ud83d\udde3\ufe0f1014> <\ud83d\udde3\ufe0f1014> <\ud83d\udde3\ufe0f958> <\ud83d\udde3\ufe0f571> <\ud83d\udde3\ufe0f125> <\ud83d\udde3\ufe0f94> <\ud83d\udde3\ufe0f492> <\ud83d\udde3\ufe0f390> <\ud83d\udde3\ufe0f400> <\ud83d\udde3\ufe0f400> <\ud83d\udde3\ufe0f364> <\ud83d\udde3\ufe0f38> <\ud83d\udde3\ufe0f198> <\ud83d\udde3\ufe0f925> <\ud83d\udde3\ufe0f925> <\ud83d\udde3\ufe0f794> <\ud83d\udde3\ufe0f179> <\ud83d\udde3\ufe0f341> <\ud83d\udde3\ufe0f933> <\ud83d\udde3\ufe0f933> <\ud83d\udde3\ufe0f989> <\ud83d\udde3\ufe0f958> <\ud83d\udde3\ufe0f830> <\ud83d\udde3\ufe0f897> <\ud83d\udde3\ufe0f897> <\ud83d\udde3\ufe0f428> <\ud83d\udde3\ufe0f72> <\ud83d\udde3\ufe0f628> <\ud83d\udde3\ufe0f628> <\ud83d\udde3\ufe0f17> <\ud83d\udde3\ufe0f17> <\ud83d\udde3\ufe0f388> <\ud83d\udde3\ufe0f489> <\ud83d\udde3\ufe0f123> <\ud83d\udde3\ufe0f1006> <\ud83d\udde3\ufe0f574> <\ud83d\udde3\ufe0f816> <\ud83d\udde3\ufe0f133> <\ud83d\udde3\ufe0f318> <\ud83d\udde3\ufe0f119> <\ud83d\udde3\ufe0f748> <\ud83d\udde3\ufe0f956> <\ud83d\udde3\ufe0f956> <\ud83d\udde3\ufe0f956> <\ud83d\udde3\ufe0f571> <\ud83d\udde3\ufe0f219> <\ud83d\udde3\ufe0f561> <\ud83d\udde3\ufe0f0> <\ud83d\udde3\ufe0f643> <\ud83d\udde3\ufe0f960> <\ud83d\udde3\ufe0f960> <\ud83d\udde3\ufe0f960> <\ud83d\udde3\ufe0f507> <\ud83d\udde3\ufe0f194> <\ud83d\udde3\ufe0f41> <\ud83d\udde3\ufe0f41> <\ud83d\udde3\ufe0f326> <\ud83d\udde3\ufe0f326> <\ud83d\udde3\ufe0f770> <\ud83d\udde3\ufe0f467> <\ud83d\udde3\ufe0f584> <\ud83d\udde3\ufe0f584> <\ud83d\udde3\ufe0f590> <\ud83d\udde3\ufe0f929> <\ud83d\udde3\ufe0f929> <\ud83d\udde3\ufe0f929> <\ud83d\udde3\ufe0f292> <\ud83d\udde3\ufe0f292> <\ud83d\udde3\ufe0f806> <\ud83d\udde3\ufe0f698> <\ud83d\udde3\ufe0f698> <\ud83d\udde3\ufe0f93> <\ud83d\udde3\ufe0f93> <\ud83d\udde3\ufe0f93> <\ud83d\udde3\ufe0f301> <\ud83d\udde3\ufe0f499> <\ud83d\udde3\ufe0f499> <\ud83d\udde3\ufe0f396> <\ud83d\udde3\ufe0f80> <\ud83d\udde3\ufe0f553> <\ud83d\udde3\ufe0f1014> <\ud83d\udde3\ufe0f1014> <\ud83d\udde3\ufe0f958> <\ud83d\udde3\ufe0f571> <\ud83d\udde3\ufe0f125> <\ud83d\udde3\ufe0f94> <\ud83d\udde3\ufe0f492> <\ud83d\udde3\ufe0f390> <\ud83d\udde3\ufe0f400> <\ud83d\udde3\ufe0f400> <\ud83d\udde3\ufe0f364> <\ud83d\udde3\ufe0f38> <\ud83d\udde3\ufe0f198> <\ud83d\udde3\ufe0f925> <\ud83d\udde3\ufe0f925> <\ud83d\udde3\ufe0f794> <\ud83d\udde3\ufe0f179> <\ud83d\udde3\ufe0f341> <\ud83d\udde3\ufe0f933> <\ud83d\udde3\ufe0f933> <\ud83d\udde3\ufe0f989> <\ud83d\udde3\ufe0f958> <\ud83d\udde3\ufe0f830> <\ud83d\udde3\ufe0f897> <\ud83d\udde3\ufe0f897> <\ud83d\udde3\ufe0f428> <\ud83d\udde3\ufe0f72> <\ud83d\udde3\ufe0f628> <\ud83d\udde3\ufe0f628> <\ud83d\udde3\ufe0f17> <\ud83d\udde3\ufe0f17> <\ud83d\udde3\ufe0f388> <\ud83d\udde3\ufe0f489> <\ud83d\udde3\ufe0f123> <\ud83d\udde3\ufe0f1006> <\ud83d\udde3\ufe0f574> <\ud83d\udde3\ufe0f816> <\ud83d\udde3\ufe0f133> <\ud83d\udde3\ufe0f318> <\ud83d\udde3\ufe0f119> <\ud83d\udde3\ufe0f748> <\ud83d\udde3\ufe0f956> <\ud83d\udde3\ufe0f956> <\ud83d\udde3\ufe0f956> <\ud83d\udde3\ufe0f571> <\ud83d\udde3\ufe0f219> <\ud83d\udde3\ufe0f561> <\ud83d\udde3\ufe0f0> <\ud83d\udde3\ufe0f643> <\ud83d\udde3\ufe0f960> <\ud83d\udde3\ufe0f960> <\ud83d\udde3\ufe0f960> <\ud83d\udde3\ufe0f507> <\ud83d\udde3\ufe0f194> <\ud83d\udde3\ufe0f41> <\ud83d\udde3\ufe0f41> <\ud83d\udde3\ufe0f326> <\ud83d\udde3\ufe0f326> <\ud83d\udde3\ufe0f770> <\ud83d\udde3\ufe0f467> <\ud83d\udde3\ufe0f584> <\ud83d\udde3\ufe0f584> <\ud83d\udde3\ufe0f590> <\ud83d\udde3\ufe0f929> <\ud83d\udde3\ufe0f929> <\ud83d\udde3\ufe0f929> <\ud83d\udde3\ufe0f292> <\ud83d\udde3\ufe0f292> <\ud83d\udde3\ufe0f806> <\ud83d\udde3\ufe0f698> <\ud83d\udde3\ufe0f698> <\ud83d\udde3\ufe0f93> <\ud83d\udde3\ufe0f93> <\ud83d\udde3\ufe0f93> <\ud83d\udde3\ufe0f301> <\ud83d\udde3\ufe0f499> <\ud83d\udde3\ufe0f499> <\ud83d\udde3\ufe0f396> <\ud83d\udde3\ufe0f80> <\ud83d\udde3\ufe0f553> <\ud83d\udde3\ufe0f1014> <\ud83d\udde3\ufe0f1014> <\ud83d\udde3\ufe0f958> <\ud83d\udde3\ufe0f677> <\ud83d\udde3\ufe0f125> <\ud83d\udde3\ufe0f94> <\ud83d\udde3\ufe0f492> <\ud83d\udde3\ufe0f390> <\ud83d\udde3\ufe0f400> <\ud83d\udde3\ufe0f400> <\ud83d\udde3\ufe0f364> <\ud83d\udde3\ufe0f38> <\ud83d\udde3\ufe0f198> <\ud83d\udde3\ufe0f925> <\ud83d\udde3\ufe0f925> <\ud83d\udde3\ufe0f794> <\ud83d\udde3\ufe0f179> <\ud83d\udde3\ufe0f341> <\ud83d\udde3\ufe0f933> <\ud83d\udde3\ufe0f933> <\ud83d\udde3\ufe0f989> <\ud83d\udde3\ufe0f958> <\ud83d\udde3\ufe0f830> <\ud83d\udde3\ufe0f897> <\ud83d\udde3\ufe0f897> <\ud83d\udde3\ufe0f428> <\ud83d\udde3\ufe0f72> <\ud83d\udde3\ufe0f628> <\ud83d\udde3\ufe0f628> <\ud83d\udde3\ufe0f17> <\ud83d\udde3\ufe0f17> <\ud83d\udde3\ufe0f388> <\ud83d\udde3\ufe0f489> <\ud83d\udde3\ufe0f123> <\ud83d\udde3\ufe0f1006> <\ud83d\udde3\ufe0f574> <\ud83d\udde3\ufe0f816> <\ud83d\udde3\ufe0f133> <\ud83d\udde3\ufe0f318> <\ud83d\udde3\ufe0f119> <\ud83d\udde3\ufe0f748> <\ud83d\udde3\ufe0f956> <\ud83d\udde3\ufe0f956> <\ud83d\udde3\ufe0f956> <\ud83d\udde3\ufe0f571> <\ud83d\udde3\ufe0f219> <\ud83d\udde3\ufe0f561> <\ud83d\udde3\ufe0f0> <\ud83d\udde3\ufe0f643> <\ud83d\udde3\ufe0f960> <\ud83d\udde3\ufe0f960> <\ud83d\udde3\ufe0f960> <\ud83d\udde3\ufe0f507> <\ud83d\udde3\ufe0f194> <\ud83d\udde3\ufe0f41> <\ud83d\udde3\ufe0f41> <\ud83d\udde3\ufe0f326> <\ud83d\udde3\ufe0f326> <\ud83d\udde3\ufe0f770> <\ud83d\udde3\ufe0f467> <\ud83d\udde3\ufe0f584> <\ud83d\udde3\ufe0f584> <\ud83d\udde3\ufe0f590> <\ud83d\udde3\ufe0f929> <\ud83d\udde3\ufe0f929> <\ud83d\udde3\ufe0f929> <\ud83d\udde3\ufe0f292> <\ud83d\udde3\ufe0f292> <\ud83d\udde3\ufe0f806> <\ud83d\udde3\ufe0f698> <\ud83d\udde3\ufe0f698> <\ud83d\udde3\ufe0f93> <\ud83d\udde3\ufe0f93> <\ud83d\udde3\ufe0f93> <\ud83d\udde3\ufe0f301> <\ud83d\udde3\ufe0f499> <\ud83d\udde3\ufe0f499> <\ud83d\udde3\ufe0f396> <\ud83d\udde3\ufe0f80> <\ud83d\udde3\ufe0f553> <\ud83d\udde3\ufe0f1014> <\ud83d\udde3\ufe0f1014> <\ud83d\udde3\ufe0f958> <\ud83d\udde3\ufe0f677> <\ud83d\udde3\ufe0f125> <\ud83d\udde3\ufe0f94> <\ud83d\udde3\ufe0f492> <\ud83d\udde3\ufe0f390> <\ud83d\udde3\ufe0f400> <\ud83d\udde3\ufe0f400> <\ud83d\udde3\ufe0f364> <\ud83d\udde3\ufe0f38> <\ud83d\udde3\ufe0f198> <\ud83d\udde3\ufe0f925> <\ud83d\udde3\ufe0f925> <\ud83d\udde3\ufe0f794> <\ud83d\udde3\ufe0f179> <\ud83d\udde3\ufe0f341> <\ud83d\udde3\ufe0f933> <\ud83d\udde3\ufe0f933> <\ud83d\udde3\ufe0f989> <\ud83d\udde3\ufe0f958> <\ud83d\udde3\ufe0f830> <\ud83d\udde3\ufe0f897> <\ud83d\udde3\ufe0f897> <\ud83d\udde3\ufe0f428> <\ud83d\udde3\ufe0f72> <\ud83d\udde3\ufe0f628> <\ud83d\udde3\ufe0f628> <\ud83d\udde3\ufe0f17> <\ud83d\udde3\ufe0f17> <\ud83d\udde3\ufe0f388> <\ud83d\udde3\ufe0f489> <\ud83d\udde3\ufe0f123> <\ud83d\udde3\ufe0f1006> <\ud83d\udde3\ufe0f574> <\ud83d\udde3\ufe0f816> <\ud83d\udde3\ufe0f133> <\ud83d\udde3\ufe0f318>",
+            "correct_answer": "A",
+            "index": 127,
+            "is_correct": false
+        },
+        "128": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "D",
+            "index": 128,
+            "is_correct": true
+        },
+        "131": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): <Image>\nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 131,
+            "is_correct": false
+        },
+        "135": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "D",
+            "index": 135,
+            "is_correct": false
+        },
+        "141": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "A",
+            "index": 141,
+            "is_correct": true
+        },
+        "142": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 142,
+            "is_correct": true
+        },
+        "146": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": "You are an AI assistant named MMGPT who can understand and generate multimodal content, including text, speech, images and audio.\n [Human] : Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D\nContext (Image): <Image>\nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. <eoh> \n [MMGPT] : The image shows a Chinese translation of the text. \nOptions: \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \n",
+            "correct_answer": "A",
+            "index": 146,
+            "is_correct": false
+        },
+        "151": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Context (Image): \nOptions: \nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "A",
+            "index": 151,
+            "is_correct": true
+        },
+        "156": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "D",
+            "index": 156,
+            "is_correct": false
+        },
+        "159": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "A",
+            "index": 159,
+            "is_correct": false
+        },
+        "161": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "B",
+            "index": 161,
+            "is_correct": false
+        },
+        "163": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "B",
+            "index": 163,
+            "is_correct": false
+        },
+        "165": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "D",
+            "index": 165,
+            "is_correct": false
+        },
+        "166": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "D",
+            "index": 166,
+            "is_correct": false
+        },
+        "167": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions: \nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "D",
+            "index": 167,
+            "is_correct": true
+        },
+        "169": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 169,
+            "is_correct": true
+        },
+        "173": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "A",
+            "index": 173,
+            "is_correct": false
+        },
+        "175": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Context (Image): \nOptions: \nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "B",
+            "index": 175,
+            "is_correct": false
+        },
+        "181": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "D",
+            "index": 181,
+            "is_correct": true
+        },
+        "182": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Context (Image): <Image>\nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "D",
+            "index": 182,
+            "is_correct": false
+        },
+        "194": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": "You are an AI assistant named MMGPT who can understand and generate multimodal content, including text, speech, images and audio.\n [Human] : Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D\nContext (Image): <Image>\nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. <eoh> \n [MMGPT] : Context (Image): \nOptions: \nA. \nB. \nC. \nD. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n",
+            "correct_answer": "B",
+            "index": 194,
+            "is_correct": false
+        },
+        "196": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image suggests that the Chinese translation of the text in the image is A.",
+            "correct_answer": "C",
+            "index": 196,
+            "is_correct": false
+        },
+        "199": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image suggests that the Chinese translation of the text is A.",
+            "correct_answer": "B",
+            "index": 199,
+            "is_correct": false
+        },
+        "203": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image shows a Chinese translation of the text. The answer is D.",
+            "correct_answer": "A",
+            "index": 203,
+            "is_correct": false
+        },
+        "205": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image suggests that the text is in Chinese. Therefore, the answer is D.",
+            "correct_answer": "B",
+            "index": 205,
+            "is_correct": false
+        },
+        "206": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "A",
+            "index": 206,
+            "is_correct": false
+        },
+        "208": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 208,
+            "is_correct": false
+        },
+        "210": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "A",
+            "index": 210,
+            "is_correct": false
+        },
+        "214": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "D",
+            "index": 214,
+            "is_correct": true
+        },
+        "216": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image suggests that the Chinese translation of the text in the image is A.",
+            "correct_answer": "A",
+            "index": 216,
+            "is_correct": true
+        },
+        "217": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 217,
+            "is_correct": true
+        },
+        "220": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 220,
+            "is_correct": false
+        },
+        "223": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions: \nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 223,
+            "is_correct": false
+        },
+        "224": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "D",
+            "index": 224,
+            "is_correct": false
+        },
+        "225": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions: \nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "D",
+            "index": 225,
+            "is_correct": true
+        },
+        "226": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": "You are an AI assistant named MMGPT who can understand and generate multimodal content, including text, speech, images and audio.\n [Human] : Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D\nContext (Image): <Image>\nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. <eoh> \n [MMGPT] : Context (Image): \nOptions: \nA. \nB. \nC. \nD. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n",
+            "correct_answer": "D",
+            "index": 226,
+            "is_correct": false
+        },
+        "228": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): <Image>\nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 228,
+            "is_correct": false
+        },
+        "229": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image suggests that the Chinese translation of the text in the image is A.",
+            "correct_answer": "D",
+            "index": 229,
+            "is_correct": false
+        },
+        "230": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "D",
+            "index": 230,
+            "is_correct": true
+        },
+        "232": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "B",
+            "index": 232,
+            "is_correct": false
+        },
+        "233": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "A",
+            "index": 233,
+            "is_correct": true
+        },
+        "234": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image suggests that the text is in Chinese. Therefore, the answer is D.",
+            "correct_answer": "B",
+            "index": 234,
+            "is_correct": false
+        },
+        "235": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "B",
+            "index": 235,
+            "is_correct": false
+        },
+        "236": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 236,
+            "is_correct": true
+        },
+        "238": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 238,
+            "is_correct": false
+        },
+        "239": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": "You are an AI assistant named MMGPT who can understand and generate multimodal content, including text, speech, images and audio.\n [Human] : Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D\nContext (Image): <Image>\nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. <eoh> \n [MMGPT] : Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. \n  [AnyGPT] Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. \n  [AnyGPT] Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. \n  [AnyGPT] Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. \n  [AnyGPT] Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. \n  [AnyGPT] Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. \n  [AnyGPT] Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. \n  [AnyGPT] Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. \n  [AnyGPT] Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. \n  [AnyGPT] Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. \n  [AnyGPT] Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. \n  [AnyGPT] Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. \n  [AnyGPT] Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. \n  [AnyGPT] Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. \n  [AnyGPT] Context (Image): \nOptions:\nPlease",
+            "correct_answer": "B",
+            "index": 239,
+            "is_correct": false
+        },
+        "242": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": "You are an AI assistant named MMGPT who can understand and generate multimodal content, including text, speech, images and audio.\n [Human] : Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D\nContext (Image): <Image>\nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. <eoh> \n [MMGPT] : Context (Image): \nOptions: \nA. \nB. \nC. \nD. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n",
+            "correct_answer": "D",
+            "index": 242,
+            "is_correct": true
+        },
+        "245": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "A",
+            "index": 245,
+            "is_correct": false
+        },
+        "246": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 246,
+            "is_correct": false
+        },
+        "248": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image shows a Chinese translation of the text. The correct answer is D.",
+            "correct_answer": "B",
+            "index": 248,
+            "is_correct": false
+        },
+        "249": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": "You are an AI assistant named MMGPT who can understand and generate multimodal content, including text, speech, images and audio.\n [Human] : Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D\nContext (Image): <Image>\nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. <eoh> \n [MMGPT] : Context (Image): \nOptions: \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC.",
+            "correct_answer": "C",
+            "index": 249,
+            "is_correct": true
+        },
+        "250": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The text in the image is most likely the Chinese translation of the text in the image.",
+            "correct_answer": "D",
+            "index": 250,
+            "is_correct": true
+        },
+        "252": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 252,
+            "is_correct": false
+        },
+        "253": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 253,
+            "is_correct": false
+        },
+        "257": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": "You are an AI assistant named MMGPT who can understand and generate multimodal content, including text, speech, images and audio.\n [Human] : Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D\nContext (Image): <Image>\nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. <eoh> \n [MMGPT] : Context (Image): \nOptions: \nA. \nB. \nC. \nD. \n\nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB",
+            "correct_answer": "C",
+            "index": 257,
+            "is_correct": false
+        },
+        "263": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "D",
+            "index": 263,
+            "is_correct": false
+        },
+        "269": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 269,
+            "is_correct": false
+        },
+        "270": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "D",
+            "index": 270,
+            "is_correct": false
+        },
+        "271": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "D",
+            "index": 271,
+            "is_correct": false
+        },
+        "273": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "A",
+            "index": 273,
+            "is_correct": true
+        },
+        "274": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 274,
+            "is_correct": true
+        },
+        "276": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "A",
+            "index": 276,
+            "is_correct": false
+        },
+        "281": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "D",
+            "index": 281,
+            "is_correct": true
+        },
+        "284": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "B",
+            "index": 284,
+            "is_correct": false
+        },
+        "292": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": "You are an AI assistant named MMGPT who can understand and generate multimodal content, including text, speech, images and audio.\n [Human] : Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D\nContext (Image): <Image>\nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. <eoh> \n [MMGPT] : Context (Image): <Image>\nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n ",
+            "correct_answer": "C",
+            "index": 292,
+            "is_correct": false
+        },
+        "295": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 295,
+            "is_correct": false
+        },
+        "296": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "B",
+            "index": 296,
+            "is_correct": false
+        },
+        "300": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "D",
+            "index": 300,
+            "is_correct": false
+        },
+        "305": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The text in the image is most likely the Chinese translation of the text in the image.  ",
+            "correct_answer": "A",
+            "index": 305,
+            "is_correct": false
+        },
+        "314": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "A",
+            "index": 314,
+            "is_correct": false
+        },
+        "319": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "B",
+            "index": 319,
+            "is_correct": false
+        },
+        "322": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": "You are an AI assistant named MMGPT who can understand and generate multimodal content, including text, speech, images and audio.\n [Human] : Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D\nContext (Image): <Image>\nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. <eoh> \n [MMGPT] : Context (Image): \nOptions: \nA. \nB. \nC. \nD. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n",
+            "correct_answer": "D",
+            "index": 322,
+            "is_correct": true
+        },
+        "323": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": "You are an AI assistant named MMGPT who can understand and generate multimodal content, including text, speech, images and audio.\n [Human] : Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D\nContext (Image): <Image>\nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. <eoh> \n [MMGPT] : Context (Image): \nOptions: \nA. \nB. \nC. \nD. \n\nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB",
+            "correct_answer": "C",
+            "index": 323,
+            "is_correct": false
+        },
+        "330": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 330,
+            "is_correct": true
+        },
+        "331": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "D",
+            "index": 331,
+            "is_correct": false
+        },
+        "332": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "D",
+            "index": 332,
+            "is_correct": false
+        },
+        "333": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions: \nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "A",
+            "index": 333,
+            "is_correct": false
+        },
+        "334": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The text in the image is most likely the Chinese translation of the text in the image. (A)",
+            "correct_answer": "C",
+            "index": 334,
+            "is_correct": false
+        },
+        "337": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image does not provide enough context to determine which text is most likely the Chinese translation of the text in the image.",
+            "correct_answer": "C",
+            "index": 337,
+            "is_correct": false
+        },
+        "338": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": "You are an AI assistant named MMGPT who can understand and generate multimodal content, including text, speech, images and audio.\n [Human] : Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D\nContext (Image): <Image>\nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. <eoh> \n [MMGPT] : Context (Image): \nOptions: \nA. \nB. \nC. \nD. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n",
+            "correct_answer": "C",
+            "index": 338,
+            "is_correct": false
+        },
+        "342": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "B",
+            "index": 342,
+            "is_correct": false
+        },
+        "344": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions: \nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "B",
+            "index": 344,
+            "is_correct": false
+        },
+        "346": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 346,
+            "is_correct": false
+        },
+        "348": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "D",
+            "index": 348,
+            "is_correct": false
+        },
+        "352": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "B",
+            "index": 352,
+            "is_correct": true
+        },
+        "356": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "D",
+            "index": 356,
+            "is_correct": false
+        },
+        "363": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 363,
+            "is_correct": false
+        },
+        "367": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image shows a Chinese translation of the text. The correct answer is D.",
+            "correct_answer": "D",
+            "index": 367,
+            "is_correct": true
+        },
+        "370": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "A",
+            "index": 370,
+            "is_correct": true
+        },
+        "371": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image suggests that the text in the image is most likely the Chinese translation of the text in the image. Therefore, the answer is D.",
+            "correct_answer": "C",
+            "index": 371,
+            "is_correct": false
+        },
+        "372": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 372,
+            "is_correct": false
+        },
+        "373": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Context (Image): \nOptions: \nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 373,
+            "is_correct": true
+        },
+        "374": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions: \nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "A",
+            "index": 374,
+            "is_correct": false
+        },
+        "376": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "B",
+            "index": 376,
+            "is_correct": true
+        },
+        "379": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": "You are an AI assistant named MMGPT who can understand and generate multimodal content, including text, speech, images and audio.\n [Human] : Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D\nContext (Image): <Image>\nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. <eoh> \n [MMGPT] : Context (Image): \nOptions: \nA. \nB. \nC. \nD. \n\nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB",
+            "correct_answer": "B",
+            "index": 379,
+            "is_correct": true
+        },
+        "382": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "B",
+            "index": 382,
+            "is_correct": false
+        },
+        "385": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "A",
+            "index": 385,
+            "is_correct": false
+        },
+        "387": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 387,
+            "is_correct": false
+        },
+        "388": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "B",
+            "index": 388,
+            "is_correct": false
+        },
+        "389": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "D",
+            "index": 389,
+            "is_correct": false
+        },
+        "390": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "B",
+            "index": 390,
+            "is_correct": false
+        },
+        "394": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "D",
+            "index": 394,
+            "is_correct": false
+        },
+        "401": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image suggests that the Chinese translation of the text in the image is likely to be A.",
+            "correct_answer": "B",
+            "index": 401,
+            "is_correct": false
+        },
+        "405": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The text in the image is most likely the Chinese translation of the text in the image.",
+            "correct_answer": "A",
+            "index": 405,
+            "is_correct": false
+        },
+        "408": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 408,
+            "is_correct": false
+        },
+        "409": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": "You are an AI assistant named MMGPT who can understand and generate multimodal content, including text, speech, images and audio.\n [Human] : Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D\nContext (Image): <Image>\nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. <eoh> \n [MMGPT] : Context (Image): \nOptions: \nA. \nB. \nC. \nD. \n\nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB",
+            "correct_answer": "B",
+            "index": 409,
+            "is_correct": true
+        },
+        "410": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "B",
+            "index": 410,
+            "is_correct": false
+        },
+        "413": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": "You are an AI assistant named MMGPT who can understand and generate multimodal content, including text, speech, images and audio.\n [Human] : Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D\nContext (Image): <Image>\nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. <eoh> \n [MMGPT] : Context (Image): \nOptions: \nA. \nB. \nC. \nD. \n\nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB",
+            "correct_answer": "A",
+            "index": 413,
+            "is_correct": false
+        },
+        "422": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image does not provide enough context to determine which text is most likely the Chinese translation of the text in the image.",
+            "correct_answer": "B",
+            "index": 422,
+            "is_correct": false
+        },
+        "423": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 423,
+            "is_correct": false
+        },
+        "428": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 428,
+            "is_correct": true
+        },
+        "429": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "A",
+            "index": 429,
+            "is_correct": false
+        },
+        "432": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "D",
+            "index": 432,
+            "is_correct": false
+        },
+        "433": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "A",
+            "index": 433,
+            "is_correct": false
+        },
+        "434": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "A",
+            "index": 434,
+            "is_correct": true
+        },
+        "438": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "B",
+            "index": 438,
+            "is_correct": true
+        },
+        "440": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": "You are an AI assistant named MMGPT who can understand and generate multimodal content, including text, speech, images and audio.\n [Human] : Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D\nContext (Image): <Image>\nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. <eoh> \n [MMGPT] : Context (Image): \nOptions: \nA. \nB. \nC. \nD. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n",
+            "correct_answer": "A",
+            "index": 440,
+            "is_correct": false
+        },
+        "441": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "B",
+            "index": 441,
+            "is_correct": false
+        },
+        "442": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Context (Image): \nOptions: \nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "B",
+            "index": 442,
+            "is_correct": false
+        },
+        "445": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "A",
+            "index": 445,
+            "is_correct": false
+        },
+        "447": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": "You are an AI assistant named MMGPT who can understand and generate multimodal content, including text, speech, images and audio.\n [Human] : Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D\nContext (Image): <Image>\nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. <eoh> \n [MMGPT] : The image suggests that the Chinese translation of the text is A.  <sosp> <\ud83d\udde3\ufe0f691> <\ud83d\udde3\ufe0f691> <\ud83d\udde3\ufe0f60> <\ud83d\udde3\ufe0f868> <\ud83d\udde3\ufe0f868> <\ud83d\udde3\ufe0f316> <\ud83d\udde3\ufe0f316> <\ud83d\udde3\ufe0f531> <\ud83d\udde3\ufe0f1011> <\ud83d\udde3\ufe0f111> <\ud83d\udde3\ufe0f111> <\ud83d\udde3\ufe0f245> <\ud83d\udde3\ufe0f812> <\ud83d\udde3\ufe0f189> <\ud83d\udde3\ufe0f31> <\ud83d\udde3\ufe0f908> <\ud83d\udde3\ufe0f754> <\ud83d\udde3\ufe0f622> <\ud83d\udde3\ufe0f622> <\ud83d\udde3\ufe0f594> <\ud83d\udde3\ufe0f834> <\ud83d\udde3\ufe0f834> <\ud83d\udde3\ufe0f834> <\ud83d\udde3\ufe0f834> <\ud83d\udde3\ufe0f17> <\ud83d\udde3\ufe0f388> <\ud83d\udde3\ufe0f125> <\ud83d\udde3\ufe0f94> <\ud83d\udde3\ufe0f87> <\ud83d\udde3\ufe0f887> <\ud83d\udde3\ufe0f550> <\ud83d\udde3\ufe0f555> <\ud83d\udde3\ufe0f630> <\ud83d\udde3\ufe0f245> <\ud83d\udde3\ufe0f812> <\ud83d\udde3\ufe0f189> <\ud83d\udde3\ufe0f407> <\ud83d\udde3\ufe0f998> <\ud83d\udde3\ufe0f998> <\ud83d\udde3\ufe0f507> <\ud83d\udde3\ufe0f735> <\ud83d\udde3\ufe0f525> <\ud83d\udde3\ufe0f16> <\ud83d\udde3\ufe0f807> <\ud83d\udde3\ufe0f807> <\ud83d\udde3\ufe0f303> <\ud83d\udde3\ufe0f125> <\ud83d\udde3\ufe0f94> <\ud83d\udde3\ufe0f87> <\ud83d\udde3\ufe0f887> <\ud83d\udde3\ufe0f550> <\ud83d\udde3\ufe0f555> <\ud83d\udde3\ufe0f762> <\ud83d\udde3\ufe0f762> <\ud83d\udde3\ufe0f982> <\ud83d\udde3\ufe0f742> <\ud83d\udde3\ufe0f742> <\ud83d\udde3\ufe0f4> <\ud83d\udde3\ufe0f349> <\ud83d\udde3\ufe0f922> <\ud83d\udde3\ufe0f115> <\ud83d\udde3\ufe0f136> <\ud83d\udde3\ufe0f14> <\ud83d\udde3\ufe0f477> <\ud83d\udde3\ufe0f386> <\ud83d\udde3\ufe0f841> <\ud83d\udde3\ufe0f15> <\ud83d\udde3\ufe0f15> <\ud83d\udde3\ufe0f593> <\ud83d\udde3\ufe0f593> <\ud83d\udde3\ufe0f828> <\ud83d\udde3\ufe0f513> <\ud83d\udde3\ufe0f513> <\ud83d\udde3\ufe0f513> <\ud83d\udde3\ufe0f703> <\ud83d\udde3\ufe0f179> <\ud83d\udde3\ufe0f341> <\ud83d\udde3\ufe0f933> <\ud83d\udde3\ufe0f933> <\ud83d\udde3\ufe0f366> <\ud83d\udde3\ufe0f366> <\ud83d\udde3\ufe0f303> <\ud83d\udde3\ufe0f125> <\ud83d\udde3\ufe0f94> <\ud83d\udde3\ufe0f87> <\ud83d\udde3\ufe0f887> <\ud83d\udde3\ufe0f550> <\ud83d\udde3\ufe0f555> <\ud83d\udde3\ufe0f762> <\ud83d\udde3\ufe0f762> <\ud83d\udde3\ufe0f982> <\ud83d\udde3\ufe0f742> <\ud83d\udde3\ufe0f742> <\ud83d\udde3\ufe0f4> <\ud83d\udde3\ufe0f349> <\ud83d\udde3\ufe0f922> <\ud83d\udde3\ufe0f115> <\ud83d\udde3\ufe0f136> <\ud83d\udde3\ufe0f14> <\ud83d\udde3\ufe0f477> <\ud83d\udde3\ufe0f386> <\ud83d\udde3\ufe0f841> <\ud83d\udde3\ufe0f15> <\ud83d\udde3\ufe0f15> <\ud83d\udde3\ufe0f593> <\ud83d\udde3\ufe0f593> <\ud83d\udde3\ufe0f828> <\ud83d\udde3\ufe0f513> <\ud83d\udde3\ufe0f513> <\ud83d\udde3\ufe0f513> <\ud83d\udde3\ufe0f703> <\ud83d\udde3\ufe0f179> <\ud83d\udde3\ufe0f341> <\ud83d\udde3\ufe0f933> <\ud83d\udde3\ufe0f933> <\ud83d\udde3\ufe0f366> <\ud83d\udde3\ufe0f366> <\ud83d\udde3\ufe0f303> <\ud83d\udde3\ufe0f125> <\ud83d\udde3\ufe0f94> <\ud83d\udde3\ufe0f87> <\ud83d\udde3\ufe0f887> <\ud83d\udde3\ufe0f550> <\ud83d\udde3\ufe0f555> <\ud83d\udde3\ufe0f762> <\ud83d\udde3\ufe0f762> <\ud83d\udde3\ufe0f982> <\ud83d\udde3\ufe0f742> <\ud83d\udde3\ufe0f742> <\ud83d\udde3\ufe0f4> <\ud83d\udde3\ufe0f349> <\ud83d\udde3\ufe0f922> <\ud83d\udde3\ufe0f115> <\ud83d\udde3\ufe0f136> <\ud83d\udde3\ufe0f14> <\ud83d\udde3\ufe0f477> <\ud83d\udde3\ufe0f386> <\ud83d\udde3\ufe0f841> <\ud83d\udde3\ufe0f15> <\ud83d\udde3\ufe0f15> <\ud83d\udde3\ufe0f593> <\ud83d\udde3\ufe0f593> <\ud83d\udde3\ufe0f828> <\ud83d\udde3\ufe0f513> <\ud83d\udde3\ufe0f513> <\ud83d\udde3\ufe0f513> <\ud83d\udde3\ufe0f703> <\ud83d\udde3\ufe0f179> <\ud83d\udde3\ufe0f341> <\ud83d\udde3\ufe0f933> <\ud83d\udde3\ufe0f933> <\ud83d\udde3\ufe0f366> <\ud83d\udde3\ufe0f366> <\ud83d\udde3\ufe0f303> <\ud83d\udde3\ufe0f125> <\ud83d\udde3\ufe0f94> <\ud83d\udde3\ufe0f87> <\ud83d\udde3\ufe0f887> <\ud83d\udde3\ufe0f550> <\ud83d\udde3\ufe0f555> <\ud83d\udde3\ufe0f762> <\ud83d\udde3\ufe0f762> <\ud83d\udde3\ufe0f982> <\ud83d\udde3\ufe0f742> <\ud83d\udde3\ufe0f742> <\ud83d\udde3\ufe0f4> <\ud83d\udde3\ufe0f349> <\ud83d\udde3\ufe0f922> <\ud83d\udde3\ufe0f115> <\ud83d\udde3\ufe0f136> <\ud83d\udde3\ufe0f14> <\ud83d\udde3\ufe0f477> <\ud83d\udde3\ufe0f386> <\ud83d\udde3\ufe0f841> <\ud83d\udde3\ufe0f15> <\ud83d\udde3\ufe0f15> <\ud83d\udde3\ufe0f593> <\ud83d\udde3\ufe0f593> <\ud83d\udde3\ufe0f828> <\ud83d\udde3\ufe0f513> <\ud83d\udde3\ufe0f513> <\ud83d\udde3\ufe0f513> <\ud83d\udde3\ufe0f703> <\ud83d\udde3\ufe0f179> <\ud83d\udde3\ufe0f341> <\ud83d\udde3\ufe0f933> <\ud83d\udde3\ufe0f933> <\ud83d\udde3\ufe0f366> <\ud83d\udde3\ufe0f366> <\ud83d\udde3\ufe0f303> <\ud83d\udde3\ufe0f125> <\ud83d\udde3\ufe0f94> <\ud83d\udde3\ufe0f87> <\ud83d\udde3\ufe0f887> <\ud83d\udde3\ufe0f550> <\ud83d\udde3\ufe0f555> <\ud83d\udde3\ufe0f762> <\ud83d\udde3\ufe0f762> <\ud83d\udde3\ufe0f982> <\ud83d\udde3\ufe0f742> <\ud83d\udde3\ufe0f742> <\ud83d\udde3\ufe0f4> <\ud83d\udde3\ufe0f349> <\ud83d\udde3\ufe0f922> <\ud83d\udde3\ufe0f115> <\ud83d\udde3\ufe0f136> <\ud83d\udde3\ufe0f14> <\ud83d\udde3\ufe0f477> <\ud83d\udde3\ufe0f386> <\ud83d\udde3\ufe0f841> <\ud83d\udde3\ufe0f15> <\ud83d\udde3\ufe0f15> <\ud83d\udde3\ufe0f593> <\ud83d\udde3\ufe0f593> <\ud83d\udde3\ufe0f828> <\ud83d\udde3\ufe0f513> <\ud83d\udde3\ufe0f513> <\ud83d\udde3\ufe0f513> <\ud83d\udde3\ufe0f703> <\ud83d\udde3\ufe0f179> <\ud83d\udde3\ufe0f341> <\ud83d\udde3\ufe0f933> <\ud83d\udde3\ufe0f933> <\ud83d\udde3\ufe0f366> <\ud83d\udde3\ufe0f366> <\ud83d\udde3\ufe0f303> <\ud83d\udde3\ufe0f125> <\ud83d\udde3\ufe0f94> <\ud83d\udde3\ufe0f87> <\ud83d\udde3\ufe0f887> <\ud83d\udde3\ufe0f550> <\ud83d\udde3\ufe0f555> <\ud83d\udde3\ufe0f762> <\ud83d\udde3\ufe0f762> <\ud83d\udde3\ufe0f982> <\ud83d\udde3\ufe0f742> <\ud83d\udde3\ufe0f742> <\ud83d\udde3\ufe0f4> <\ud83d\udde3\ufe0f349> <\ud83d\udde3\ufe0f922> <\ud83d\udde3\ufe0f115> <\ud83d\udde3\ufe0f136> <\ud83d\udde3\ufe0f14> <\ud83d\udde3\ufe0f477> <\ud83d\udde3\ufe0f386> <\ud83d\udde3\ufe0f841> <\ud83d\udde3\ufe0f15> <\ud83d\udde3\ufe0f15> <\ud83d\udde3\ufe0f593> <\ud83d\udde3\ufe0f593> <\ud83d\udde3\ufe0f828> <\ud83d\udde3\ufe0f513> <\ud83d\udde3\ufe0f513> <\ud83d\udde3\ufe0f513> <\ud83d\udde3\ufe0f703> <\ud83d\udde3\ufe0f179> <\ud83d\udde3\ufe0f341> <\ud83d\udde3\ufe0f933> <\ud83d\udde3\ufe0f933> <\ud83d\udde3\ufe0f366> <\ud83d\udde3\ufe0f366> <\ud83d\udde3\ufe0f303> <\ud83d\udde3\ufe0f125> <\ud83d\udde3\ufe0f94> <\ud83d\udde3\ufe0f87> <\ud83d\udde3\ufe0f887> <\ud83d\udde3\ufe0f550> <\ud83d\udde3\ufe0f555> <\ud83d\udde3\ufe0f762> <\ud83d\udde3\ufe0f762> <\ud83d\udde3\ufe0f982> <\ud83d\udde3\ufe0f742> <\ud83d\udde3\ufe0f742> <\ud83d\udde3\ufe0f4> <\ud83d\udde3\ufe0f349> <\ud83d\udde3\ufe0f922> <\ud83d\udde3\ufe0f115> <\ud83d\udde3\ufe0f136> <\ud83d\udde3\ufe0f14> <\ud83d\udde3\ufe0f477> <\ud83d\udde3\ufe0f386> <\ud83d\udde3\ufe0f841> <\ud83d\udde3\ufe0f15> <\ud83d\udde3\ufe0f15> <\ud83d\udde3\ufe0f593> <\ud83d\udde3\ufe0f593> <\ud83d\udde3\ufe0f828> <\ud83d\udde3\ufe0f513> <\ud83d\udde3\ufe0f513> <\ud83d\udde3\ufe0f513> <\ud83d\udde3\ufe0f703> <\ud83d\udde3\ufe0f179> <\ud83d\udde3\ufe0f341> <\ud83d\udde3\ufe0f933> <\ud83d\udde3\ufe0f933> <\ud83d\udde3\ufe0f366> <\ud83d\udde3\ufe0f366> <\ud83d\udde3\ufe0f303> <\ud83d\udde3\ufe0f125> <\ud83d\udde3\ufe0f94> <\ud83d\udde3\ufe0f87> <\ud83d\udde3\ufe0f887> <\ud83d\udde3\ufe0f550> <\ud83d\udde3\ufe0f555> <\ud83d\udde3\ufe0f762> <\ud83d\udde3\ufe0f762> <\ud83d\udde3\ufe0f982> <\ud83d\udde3\ufe0f742> <\ud83d\udde3\ufe0f742> <\ud83d\udde3\ufe0f4> <\ud83d\udde3\ufe0f349> <\ud83d\udde3\ufe0f922> <\ud83d\udde3\ufe0f115> <\ud83d\udde3\ufe0f136> <\ud83d\udde3\ufe0f14> <\ud83d\udde3\ufe0f477> <\ud83d\udde3\ufe0f386> <\ud83d\udde3\ufe0f841> <\ud83d\udde3\ufe0f15> <\ud83d\udde3\ufe0f15> <\ud83d\udde3\ufe0f593> <\ud83d\udde3\ufe0f593> <\ud83d\udde3\ufe0f828> <\ud83d\udde3\ufe0f513> <\ud83d\udde3\ufe0f513> <\ud83d\udde3\ufe0f513> <\ud83d\udde3\ufe0f703> <\ud83d\udde3\ufe0f179> <\ud83d\udde3\ufe0f341> <\ud83d\udde3\ufe0f933> <\ud83d\udde3\ufe0f933> <\ud83d\udde3\ufe0f366> <\ud83d\udde3\ufe0f366> <\ud83d\udde3\ufe0f303> <\ud83d\udde3\ufe0f125> <\ud83d\udde3\ufe0f94> <\ud83d\udde3\ufe0f87> <\ud83d\udde3\ufe0f887> <\ud83d\udde3\ufe0f550> <\ud83d\udde3\ufe0f555> <\ud83d\udde3\ufe0f762> <\ud83d\udde3\ufe0f762> <\ud83d\udde3\ufe0f982> <\ud83d\udde3\ufe0f742> <\ud83d\udde3\ufe0f742> <\ud83d\udde3\ufe0f4> <\ud83d\udde3\ufe0f349> <\ud83d\udde3\ufe0f922> <\ud83d\udde3\ufe0f115> <\ud83d\udde3\ufe0f136> <\ud83d\udde3\ufe0f14> <\ud83d\udde3\ufe0f477> <\ud83d\udde3\ufe0f386> <\ud83d\udde3\ufe0f841> <\ud83d\udde3\ufe0f15> <\ud83d\udde3\ufe0f15> <\ud83d\udde3\ufe0f593> <\ud83d\udde3\ufe0f593> <\ud83d\udde3\ufe0f828> <\ud83d\udde3\ufe0f513> <\ud83d\udde3\ufe0f513> <\ud83d\udde3\ufe0f513> <\ud83d\udde3\ufe0f703> <\ud83d\udde3\ufe0f179> <\ud83d\udde3\ufe0f341> <\ud83d\udde3\ufe0f933> <\ud83d\udde3\ufe0f933> <\ud83d\udde3\ufe0f366> <\ud83d\udde3\ufe0f366> <\ud83d\udde3\ufe0f303> <\ud83d\udde3\ufe0f125> <\ud83d\udde3\ufe0f94> <\ud83d\udde3\ufe0f87> <\ud83d\udde3\ufe0f887> <\ud83d\udde3\ufe0f550> <\ud83d\udde3\ufe0f555> <\ud83d\udde3\ufe0f762> <\ud83d\udde3\ufe0f762> <\ud83d\udde3\ufe0f982> <\ud83d\udde3\ufe0f742> <\ud83d\udde3\ufe0f742> <\ud83d\udde3\ufe0f4> <\ud83d\udde3\ufe0f349> <\ud83d\udde3\ufe0f922> <\ud83d\udde3\ufe0f115> <\ud83d\udde3\ufe0f136> <\ud83d\udde3\ufe0f14> <\ud83d\udde3\ufe0f477> <\ud83d\udde3\ufe0f386> <\ud83d\udde3\ufe0f841> <\ud83d\udde3\ufe0f15> <\ud83d\udde3\ufe0f15> <\ud83d\udde3\ufe0f593> <\ud83d\udde3\ufe0f593> <\ud83d\udde3\ufe0f828> <\ud83d\udde3\ufe0f513> <\ud83d\udde3\ufe0f513> <\ud83d\udde3\ufe0f513> <\ud83d\udde3\ufe0f703> <\ud83d\udde3\ufe0f179> <\ud83d\udde3\ufe0f341> <\ud83d\udde3\ufe0f933> <\ud83d\udde3\ufe0f933> <\ud83d\udde3\ufe0f366> <\ud83d\udde3\ufe0f366> <\ud83d\udde3\ufe0f303> <\ud83d\udde3\ufe0f125> <\ud83d\udde3\ufe0f94> <\ud83d\udde3\ufe0f87> <\ud83d\udde3\ufe0f887> <\ud83d\udde3\ufe0f550> <\ud83d\udde3\ufe0f555> <\ud83d\udde3\ufe0f762> <\ud83d\udde3\ufe0f762> <\ud83d\udde3\ufe0f982> <\ud83d\udde3\ufe0f742> <\ud83d\udde3\ufe0f742> <\ud83d\udde3\ufe0f4> <\ud83d\udde3\ufe0f349> <\ud83d\udde3\ufe0f922> <\ud83d\udde3\ufe0f115> <\ud83d\udde3\ufe0f136> <\ud83d\udde3\ufe0f14> <\ud83d\udde3\ufe0f477> <\ud83d\udde3\ufe0f386> <\ud83d\udde3\ufe0f841> <\ud83d\udde3\ufe0f15> <\ud83d\udde3\ufe0f15> <\ud83d\udde3\ufe0f593> <\ud83d\udde3\ufe0f593> <\ud83d\udde3\ufe0f828> <\ud83d\udde3\ufe0f513> <\ud83d\udde3\ufe0f513> <\ud83d\udde3\ufe0f513> <\ud83d\udde3\ufe0f703> <\ud83d\udde3\ufe0f179> <\ud83d\udde3\ufe0f341> <\ud83d\udde3\ufe0f933> <\ud83d\udde3\ufe0f933> <\ud83d\udde3\ufe0f366> <\ud83d\udde3\ufe0f366> <\ud83d\udde3\ufe0f303> <\ud83d\udde3\ufe0f125> <\ud83d\udde3\ufe0f94> <\ud83d\udde3\ufe0f87> <\ud83d\udde3\ufe0f887> <\ud83d\udde3\ufe0f550> <\ud83d\udde3\ufe0f555> <\ud83d\udde3\ufe0f762> <\ud83d\udde3\ufe0f762> <\ud83d\udde3\ufe0f982> <\ud83d\udde3\ufe0f742> <\ud83d\udde3\ufe0f742> <\ud83d\udde3\ufe0f4> <\ud83d\udde3\ufe0f349> <\ud83d\udde3\ufe0f922> <\ud83d\udde3\ufe0f115> <\ud83d\udde3\ufe0f136> <\ud83d\udde3\ufe0f14> <\ud83d\udde3\ufe0f477> <\ud83d\udde3\ufe0f386> <\ud83d\udde3\ufe0f841> <\ud83d\udde3\ufe0f15> <\ud83d\udde3\ufe0f15> <\ud83d\udde3\ufe0f593> <\ud83d\udde3\ufe0f593> <\ud83d\udde3\ufe0f828> <\ud83d\udde3\ufe0f513> <\ud83d\udde3\ufe0f513> <\ud83d\udde3\ufe0f513> <\ud83d\udde3\ufe0f703> <\ud83d\udde3\ufe0f179> <\ud83d\udde3\ufe0f341> <\ud83d\udde3\ufe0f933> <\ud83d\udde3\ufe0f933> <\ud83d\udde3\ufe0f366> <\ud83d\udde3\ufe0f366> <\ud83d\udde3\ufe0f303> <\ud83d\udde3\ufe0f125> <\ud83d\udde3\ufe0f94> <\ud83d\udde3\ufe0f87> <\ud83d\udde3\ufe0f887> <\ud83d\udde3\ufe0f550> <\ud83d\udde3\ufe0f555> <\ud83d\udde3\ufe0f762>",
+            "correct_answer": "A",
+            "index": 447,
+            "is_correct": true
+        },
+        "448": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "B",
+            "index": 448,
+            "is_correct": false
+        },
+        "451": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 451,
+            "is_correct": true
+        },
+        "457": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 457,
+            "is_correct": true
+        },
+        "459": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions: \nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 459,
+            "is_correct": false
+        },
+        "461": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 461,
+            "is_correct": true
+        },
+        "462": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 462,
+            "is_correct": false
+        },
+        "463": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": "You are an AI assistant named MMGPT who can understand and generate multimodal content, including text, speech, images and audio.\n [Human] : Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D\nContext (Image): <Image>\nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. <eoh> \n [MMGPT] : Context (Image): \nOptions: \nA. \nB. \nC. \nD. \n\nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB",
+            "correct_answer": "D",
+            "index": 463,
+            "is_correct": false
+        },
+        "464": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 464,
+            "is_correct": false
+        },
+        "465": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 465,
+            "is_correct": true
+        },
+        "469": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "D",
+            "index": 469,
+            "is_correct": false
+        },
+        "470": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): <Image>\nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "D",
+            "index": 470,
+            "is_correct": true
+        },
+        "471": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 471,
+            "is_correct": true
+        },
+        "473": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "B",
+            "index": 473,
+            "is_correct": false
+        },
+        "478": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "A",
+            "index": 478,
+            "is_correct": true
+        },
+        "479": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions: \nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "B",
+            "index": 479,
+            "is_correct": false
+        },
+        "480": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "D",
+            "index": 480,
+            "is_correct": true
+        },
+        "486": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": "You are an AI assistant named MMGPT who can understand and generate multimodal content, including text, speech, images and audio.\n [Human] : Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D\nContext (Image): <Image>\nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. <eoh> \n [MMGPT] : Context (Image): <Image>\nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. \n  A: \n  B: \n  C: \n  D: \n  B: \n  C: \n  D: \n  B: \n  C: \n  D: \n  B: \n  C: \n  D: \n  B: \n  C: \n  D: \n  B: \n  C: \n  D: \n  B: \n  C: \n  D: \n  B: \n  C: \n  D: \n  B: \n  C: \n  D: \n  B: \n  C: \n  D: \n  B: \n  C: \n  D: \n  B: \n  C: \n  D: \n  B: \n  C: \n  D: \n  B: \n  C: \n  D: \n  B: \n  C: \n  D: \n  B: \n  C: \n  D: \n  B: \n  C: \n  D: \n  B: \n  C: \n  D: \n  B: \n  C: \n  D: \n  B: \n  C: \n  D: \n  B: \n  C: \n  D: \n  B: \n  C: \n  D: \n  B: \n  C: \n  D: \n  B: \n  C: \n  D: \n  B: \n  C: \n  D: \n  B: \n  C: \n  D: \n  B: \n  C: \n  D: \n  B: \n  C: \n  D: \n  B: \n  C: \n  D: \n  B: \n  C: \n  D: \n  B: \n  C: \n ",
+            "correct_answer": "D",
+            "index": 486,
+            "is_correct": true
+        },
+        "487": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "A",
+            "index": 487,
+            "is_correct": false
+        },
+        "488": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "B",
+            "index": 488,
+            "is_correct": false
+        },
+        "490": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "A",
+            "index": 490,
+            "is_correct": false
+        },
+        "492": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 492,
+            "is_correct": false
+        },
+        "497": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "D",
+            "index": 497,
+            "is_correct": false
+        },
+        "499": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions: \nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "A",
+            "index": 499,
+            "is_correct": false
+        },
+        "500": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 500,
+            "is_correct": false
+        },
+        "501": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": "You are an AI assistant named MMGPT who can understand and generate multimodal content, including text, speech, images and audio.\n [Human] : Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D\nContext (Image): <Image>\nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. <eoh> \n [MMGPT] : Context (Image): \nOptions: \nA. \nB. \nC. \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n \nD. \n",
+            "correct_answer": "D",
+            "index": 501,
+            "is_correct": true
+        },
+        "503": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": "You are an AI assistant named MMGPT who can understand and generate multimodal content, including text, speech, images and audio.\n [Human] : Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D\nContext (Image): <Image>\nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. <eoh> \n [MMGPT] : Context (Image): <Image>\nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. \n  A: \n  B: \n  C: \n  D: \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image): \n  Context (Image):",
+            "correct_answer": "C",
+            "index": 503,
+            "is_correct": false
+        },
+        "504": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "D",
+            "index": 504,
+            "is_correct": false
+        },
+        "505": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "B",
+            "index": 505,
+            "is_correct": false
+        },
+        "510": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The text in the image is most likely the Chinese translation of the text in the image.",
+            "correct_answer": "D",
+            "index": 510,
+            "is_correct": true
+        },
+        "511": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": "You are an AI assistant named MMGPT who can understand and generate multimodal content, including text, speech, images and audio.\n [Human] : Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D\nContext (Image): <Image>\nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. <eoh> \n [MMGPT] : Context (Image): \nOptions: \nA. \nB. \nC. \nD. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n",
+            "correct_answer": "C",
+            "index": 511,
+            "is_correct": false
+        },
+        "512": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "B",
+            "index": 512,
+            "is_correct": false
+        },
+        "515": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "A",
+            "index": 515,
+            "is_correct": true
+        },
+        "517": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 517,
+            "is_correct": false
+        },
+        "519": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Context (Image): <Image>\nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "B",
+            "index": 519,
+            "is_correct": false
+        },
+        "521": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 521,
+            "is_correct": false
+        },
+        "529": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "D",
+            "index": 529,
+            "is_correct": true
+        },
+        "530": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image suggests that the text is in Chinese. Therefore, the answer is D.",
+            "correct_answer": "D",
+            "index": 530,
+            "is_correct": true
+        },
+        "533": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "B",
+            "index": 533,
+            "is_correct": false
+        },
+        "534": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Context (Image): \nOptions: \nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 534,
+            "is_correct": true
+        },
+        "541": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "D",
+            "index": 541,
+            "is_correct": false
+        },
+        "543": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image suggests that the text is in Chinese. Therefore, the answer is D.",
+            "correct_answer": "A",
+            "index": 543,
+            "is_correct": false
+        },
+        "546": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "D",
+            "index": 546,
+            "is_correct": false
+        },
+        "548": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions: \nA. \nB. \nC. \nD.",
+            "correct_answer": "C",
+            "index": 548,
+            "is_correct": false
+        },
+        "549": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "A",
+            "index": 549,
+            "is_correct": false
+        },
+        "551": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "A",
+            "index": 551,
+            "is_correct": false
+        },
+        "553": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": "You are an AI assistant named MMGPT who can understand and generate multimodal content, including text, speech, images and audio.\n [Human] : Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D\nContext (Image): <Image>\nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. <eoh> \n [MMGPT] : Context (Image): <Image>\nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n ",
+            "correct_answer": "B",
+            "index": 553,
+            "is_correct": false
+        },
+        "558": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "A",
+            "index": 558,
+            "is_correct": false
+        },
+        "559": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Context (Image): \nOptions: \nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 559,
+            "is_correct": true
+        },
+        "565": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "B",
+            "index": 565,
+            "is_correct": false
+        },
+        "566": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image suggests that the Chinese translation of the text is A.",
+            "correct_answer": "B",
+            "index": 566,
+            "is_correct": false
+        },
+        "568": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "B",
+            "index": 568,
+            "is_correct": false
+        },
+        "570": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "D",
+            "index": 570,
+            "is_correct": false
+        },
+        "574": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Context (Image): \nOptions: \nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "B",
+            "index": 574,
+            "is_correct": true
+        },
+        "576": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "A",
+            "index": 576,
+            "is_correct": false
+        },
+        "580": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 580,
+            "is_correct": false
+        },
+        "583": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "D",
+            "index": 583,
+            "is_correct": true
+        },
+        "585": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "D",
+            "index": 585,
+            "is_correct": false
+        },
+        "586": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "D",
+            "index": 586,
+            "is_correct": false
+        },
+        "591": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": "You are an AI assistant named MMGPT who can understand and generate multimodal content, including text, speech, images and audio.\n [Human] : Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D\nContext (Image): <Image>\nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. <eoh> \n [MMGPT] : Context (Image): \nOptions: \nA. \nB. \nC. \nD. \n\nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB",
+            "correct_answer": "B",
+            "index": 591,
+            "is_correct": true
+        },
+        "592": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": "You are an AI assistant named MMGPT who can understand and generate multimodal content, including text, speech, images and audio.\n [Human] : Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D\nContext (Image): <Image>\nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. <eoh> \n [MMGPT] : Context (Image): <Image>\nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n  B: \n  C: \n  D: \n  A: \n ",
+            "correct_answer": "B",
+            "index": 592,
+            "is_correct": false
+        },
+        "593": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 593,
+            "is_correct": false
+        },
+        "594": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 594,
+            "is_correct": false
+        },
+        "598": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "B",
+            "index": 598,
+            "is_correct": false
+        },
+        "599": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Context (Image): \nOptions: \nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 599,
+            "is_correct": true
+        },
+        "600": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "A",
+            "index": 600,
+            "is_correct": false
+        },
+        "603": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "A",
+            "index": 603,
+            "is_correct": false
+        },
+        "604": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image suggests that the Chinese translation of the text is likely to be A.",
+            "correct_answer": "D",
+            "index": 604,
+            "is_correct": false
+        },
+        "606": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions: \nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 606,
+            "is_correct": false
+        },
+        "607": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "D",
+            "index": 607,
+            "is_correct": false
+        },
+        "608": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 608,
+            "is_correct": false
+        },
+        "609": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 609,
+            "is_correct": false
+        },
+        "613": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": "You are an AI assistant named MMGPT who can understand and generate multimodal content, including text, speech, images and audio.\n [Human] : Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D\nContext (Image): <Image>\nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. <eoh> \n [MMGPT] : Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. \n  [AnyGPT] Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. \n  [AnyGPT] Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. \n  [AnyGPT] Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. \n  [AnyGPT] Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. \n  [AnyGPT] Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. \n  [AnyGPT] Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. \n  [AnyGPT] Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. \n  [AnyGPT] Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. \n  [AnyGPT] Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. \n  [AnyGPT] Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. \n  [AnyGPT] Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. \n  [AnyGPT] Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. \n  [AnyGPT] Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. \n  [AnyGPT] Context (Image): \nOptions:\nPlease",
+            "correct_answer": "A",
+            "index": 613,
+            "is_correct": false
+        },
+        "616": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "D",
+            "index": 616,
+            "is_correct": true
+        },
+        "618": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The text in the image is most likely the Chinese translation of the text in the image.  ",
+            "correct_answer": "B",
+            "index": 618,
+            "is_correct": false
+        },
+        "623": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 623,
+            "is_correct": false
+        },
+        "627": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The text in the image is most likely the Chinese translation of the text in the image.  ",
+            "correct_answer": "C",
+            "index": 627,
+            "is_correct": false
+        },
+        "632": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 632,
+            "is_correct": false
+        },
+        "633": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "B",
+            "index": 633,
+            "is_correct": true
+        },
+        "634": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "B",
+            "index": 634,
+            "is_correct": false
+        },
+        "639": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image shows a Chinese translation of the text in English. The correct answer is D.",
+            "correct_answer": "A",
+            "index": 639,
+            "is_correct": false
+        },
+        "642": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 642,
+            "is_correct": true
+        },
+        "643": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Context (Image): \nOptions: \nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "A",
+            "index": 643,
+            "is_correct": false
+        },
+        "644": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "A",
+            "index": 644,
+            "is_correct": true
+        },
+        "645": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": "You are an AI assistant named MMGPT who can understand and generate multimodal content, including text, speech, images and audio.\n [Human] : Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D\nContext (Image): <Image>\nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. <eoh> \n [MMGPT] : Context (Image): \nOptions: \nA. \nB. \nC. \nD. \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n \n",
+            "correct_answer": "D",
+            "index": 645,
+            "is_correct": false
+        },
+        "646": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "A",
+            "index": 646,
+            "is_correct": false
+        },
+        "648": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image suggests that the Chinese translation of the text is A.",
+            "correct_answer": "A",
+            "index": 648,
+            "is_correct": true
+        },
+        "650": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": ": Context (Image): \nOptions: \nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "A",
+            "index": 650,
+            "is_correct": false
+        },
+        "652": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "B",
+            "index": 652,
+            "is_correct": true
+        },
+        "653": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "A",
+            "index": 653,
+            "is_correct": false
+        },
+        "654": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": "You are an AI assistant named MMGPT who can understand and generate multimodal content, including text, speech, images and audio.\n [Human] : Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D\nContext (Image): <Image>\nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. <eoh> \n [MMGPT] : Context (Image): \nOptions: \nA. \nB. \nC. \nD. \n\nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB. \nC. \nD. \n \nA. \nB",
+            "correct_answer": "D",
+            "index": 654,
+            "is_correct": false
+        },
+        "657": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "B",
+            "index": 657,
+            "is_correct": true
+        },
+        "659": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "A",
+            "index": 659,
+            "is_correct": false
+        },
+        "661": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 661,
+            "is_correct": false
+        },
+        "664": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 664,
+            "is_correct": false
+        },
+        "665": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "D",
+            "index": 665,
+            "is_correct": false
+        },
+        "667": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "A",
+            "index": 667,
+            "is_correct": false
+        },
+        "668": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions: \nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "D",
+            "index": 668,
+            "is_correct": true
+        },
+        "669": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": The image suggests that the Chinese translation of the text is A.",
+            "correct_answer": "A",
+            "index": 669,
+            "is_correct": true
+        },
+        "670": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "A",
+            "index": 670,
+            "is_correct": true
+        },
+        "672": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": The image suggests that the text is in Chinese. Therefore, the answer is D.",
+            "correct_answer": "B",
+            "index": 672,
+            "is_correct": false
+        },
+        "675": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "A",
+            "index": 675,
+            "is_correct": false
+        },
+        "678": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions: \nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "B",
+            "index": 678,
+            "is_correct": false
+        },
+        "679": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "B",
+            "index": 679,
+            "is_correct": false
+        },
+        "680": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions: \nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "D",
+            "index": 680,
+            "is_correct": true
+        },
+        "681": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "D",
+            "index": 681,
+            "is_correct": true
+        },
+        "682": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Context (Image): \nOptions: \nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "B",
+            "index": 682,
+            "is_correct": true
+        },
+        "684": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 684,
+            "is_correct": false
+        },
+        "687": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 687,
+            "is_correct": false
+        },
+        "688": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "A",
+            "index": 688,
+            "is_correct": false
+        },
+        "689": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): <Image>\nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "D",
+            "index": 689,
+            "is_correct": true
+        },
+        "692": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "A",
+            "index": 692,
+            "is_correct": false
+        },
+        "693": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 693,
+            "is_correct": false
+        },
+        "694": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "A",
+            "index": 694,
+            "is_correct": true
+        },
+        "695": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "C",
+            "index": 695,
+            "is_correct": false
+        },
+        "697": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "D",
+            "index": 697,
+            "is_correct": true
+        },
+        "698": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "B",
+            "index": 698,
+            "is_correct": true
+        },
+        "699": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_text": "You are an AI assistant named MMGPT who can understand and generate multimodal content, including text, speech, images and audio.\n [Human] : Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D\nContext (Image): <Image>\nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice. <eoh> \n [MMGPT] : Context (Image): \nOptions: \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC. \nD. \nA. \nB. \nC.",
+            "correct_answer": "B",
+            "index": 699,
+            "is_correct": false
+        },
+        "700": {
+            "question": "Which text is most likely the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "original_text": ": Context (Image): \nOptions:\nPlease answer with only the letter (A, B, C, or D) of the correct choice.",
+            "correct_answer": "B",
+            "index": 700,
+            "is_correct": true
+        }
+    },
+    "format_error_count": 202,
+    "run_error_count": 0
+}

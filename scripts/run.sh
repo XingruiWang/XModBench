@@ -22,13 +22,13 @@ run_evaluation() {
     echo "Running: Model=${model}, Task=${task_name}"
     
     if [ "$MINI_BENCHMARK" = "true" ]; then
-        CUDA_VISIBLE_DEVICES=0 python $audioBench/scripts/run.py \
+        CUDA_VISIBLE_DEVICES=0,1,2,3 python $audioBench/scripts/run.py \
             --model $model \
             --task_name $task_name \
             --sample 297 \
             --mini_benchmark
     else
-        CUDA_VISIBLE_DEVICES=0 python $audioBench/scripts/run.py \
+        CUDA_VISIBLE_DEVICES=0,1,2,3 python $audioBench/scripts/run.py \
             --model $model \
             --task_name $task_name
     fi
@@ -68,9 +68,9 @@ TASKS_TO_RUN=(
 for task_key in "${TASKS_TO_RUN[@]}"; do
     task=$(echo $task_key | cut -d'/' -f1)
     subtask=$(echo $task_key | cut -d'/' -f2)
-    # modalities="audio_vision vision_audio vision_text text_audio audio_text text_vision "
+    modalities="audio_vision vision_audio vision_text text_audio audio_text text_vision "
     # modalities="audio_vision vision_audio vision_text text_vision"
-    modalities="text_vision vision_text"
+    # modalities="text_vision vision_text"
     
     echo "Processing task: $task_key"
     echo "Modalities: $modalities"
