@@ -1,0 +1,4008 @@
+{
+    "task_name": "temporal/count_audio_vision",
+    "score": 31.630170316301705,
+    "correct_count": 130,
+    "all_count": 411,
+    "results": {
+        "0": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 0,
+            "is_correct": false
+        },
+        "1": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 1,
+            "is_correct": false
+        },
+        "2": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 2,
+            "is_correct": true
+        },
+        "3": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 3,
+            "is_correct": false
+        },
+        "4": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 4,
+            "is_correct": false
+        },
+        "5": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 5,
+            "is_correct": false
+        },
+        "6": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 6,
+            "is_correct": false
+        },
+        "7": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 7,
+            "is_correct": true
+        },
+        "8": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 8,
+            "is_correct": false
+        },
+        "9": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 9,
+            "is_correct": true
+        },
+        "10": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 10,
+            "is_correct": true
+        },
+        "11": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 11,
+            "is_correct": false
+        },
+        "12": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 12,
+            "is_correct": false
+        },
+        "13": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 13,
+            "is_correct": false
+        },
+        "14": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 14,
+            "is_correct": false
+        },
+        "15": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 15,
+            "is_correct": false
+        },
+        "16": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 16,
+            "is_correct": false
+        },
+        "17": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 17,
+            "is_correct": false
+        },
+        "18": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 18,
+            "is_correct": false
+        },
+        "19": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 19,
+            "is_correct": true
+        },
+        "20": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 20,
+            "is_correct": false
+        },
+        "21": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 21,
+            "is_correct": true
+        },
+        "22": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 22,
+            "is_correct": false
+        },
+        "23": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 23,
+            "is_correct": false
+        },
+        "24": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 24,
+            "is_correct": false
+        },
+        "25": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 25,
+            "is_correct": false
+        },
+        "26": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 26,
+            "is_correct": false
+        },
+        "27": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 27,
+            "is_correct": true
+        },
+        "28": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 28,
+            "is_correct": false
+        },
+        "29": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 29,
+            "is_correct": false
+        },
+        "30": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 30,
+            "is_correct": false
+        },
+        "31": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 31,
+            "is_correct": false
+        },
+        "32": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 32,
+            "is_correct": false
+        },
+        "33": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 33,
+            "is_correct": true
+        },
+        "34": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 34,
+            "is_correct": true
+        },
+        "35": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 35,
+            "is_correct": false
+        },
+        "36": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 36,
+            "is_correct": false
+        },
+        "37": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 37,
+            "is_correct": false
+        },
+        "38": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 38,
+            "is_correct": false
+        },
+        "39": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 39,
+            "is_correct": true
+        },
+        "40": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 40,
+            "is_correct": false
+        },
+        "41": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 41,
+            "is_correct": false
+        },
+        "42": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 42,
+            "is_correct": false
+        },
+        "43": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 43,
+            "is_correct": true
+        },
+        "44": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 44,
+            "is_correct": false
+        },
+        "45": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 45,
+            "is_correct": true
+        },
+        "46": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 46,
+            "is_correct": true
+        },
+        "47": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 47,
+            "is_correct": false
+        },
+        "48": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 48,
+            "is_correct": true
+        },
+        "49": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 49,
+            "is_correct": false
+        },
+        "50": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 50,
+            "is_correct": true
+        },
+        "51": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 51,
+            "is_correct": false
+        },
+        "52": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 52,
+            "is_correct": false
+        },
+        "53": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 53,
+            "is_correct": false
+        },
+        "54": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 54,
+            "is_correct": true
+        },
+        "55": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 55,
+            "is_correct": false
+        },
+        "56": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 56,
+            "is_correct": false
+        },
+        "57": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 57,
+            "is_correct": true
+        },
+        "58": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 58,
+            "is_correct": false
+        },
+        "59": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 59,
+            "is_correct": false
+        },
+        "60": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 60,
+            "is_correct": false
+        },
+        "61": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 61,
+            "is_correct": true
+        },
+        "62": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 62,
+            "is_correct": false
+        },
+        "63": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 63,
+            "is_correct": false
+        },
+        "64": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 64,
+            "is_correct": true
+        },
+        "65": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 65,
+            "is_correct": false
+        },
+        "66": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 66,
+            "is_correct": false
+        },
+        "67": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 67,
+            "is_correct": false
+        },
+        "68": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 68,
+            "is_correct": false
+        },
+        "69": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 69,
+            "is_correct": false
+        },
+        "70": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 70,
+            "is_correct": false
+        },
+        "71": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 71,
+            "is_correct": false
+        },
+        "72": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 72,
+            "is_correct": false
+        },
+        "73": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 73,
+            "is_correct": true
+        },
+        "74": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 74,
+            "is_correct": false
+        },
+        "75": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 75,
+            "is_correct": false
+        },
+        "76": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 76,
+            "is_correct": false
+        },
+        "77": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 77,
+            "is_correct": true
+        },
+        "78": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 78,
+            "is_correct": false
+        },
+        "79": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 79,
+            "is_correct": false
+        },
+        "80": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 80,
+            "is_correct": false
+        },
+        "81": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 81,
+            "is_correct": false
+        },
+        "82": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 82,
+            "is_correct": false
+        },
+        "83": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 83,
+            "is_correct": false
+        },
+        "84": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 84,
+            "is_correct": false
+        },
+        "85": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 85,
+            "is_correct": false
+        },
+        "86": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 86,
+            "is_correct": false
+        },
+        "87": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 87,
+            "is_correct": false
+        },
+        "88": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 88,
+            "is_correct": false
+        },
+        "89": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 89,
+            "is_correct": false
+        },
+        "90": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 90,
+            "is_correct": false
+        },
+        "91": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 91,
+            "is_correct": false
+        },
+        "92": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 92,
+            "is_correct": false
+        },
+        "93": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 93,
+            "is_correct": false
+        },
+        "94": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 94,
+            "is_correct": false
+        },
+        "95": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 95,
+            "is_correct": false
+        },
+        "96": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 96,
+            "is_correct": false
+        },
+        "97": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 97,
+            "is_correct": false
+        },
+        "98": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 98,
+            "is_correct": false
+        },
+        "99": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 99,
+            "is_correct": true
+        },
+        "100": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 100,
+            "is_correct": false
+        },
+        "101": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 101,
+            "is_correct": false
+        },
+        "102": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 102,
+            "is_correct": false
+        },
+        "103": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 103,
+            "is_correct": false
+        },
+        "104": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 104,
+            "is_correct": false
+        },
+        "105": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 105,
+            "is_correct": false
+        },
+        "106": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 106,
+            "is_correct": false
+        },
+        "107": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 107,
+            "is_correct": false
+        },
+        "108": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 108,
+            "is_correct": true
+        },
+        "109": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 109,
+            "is_correct": true
+        },
+        "110": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 110,
+            "is_correct": false
+        },
+        "111": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 111,
+            "is_correct": true
+        },
+        "112": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 112,
+            "is_correct": true
+        },
+        "113": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 113,
+            "is_correct": false
+        },
+        "114": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 114,
+            "is_correct": false
+        },
+        "115": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 115,
+            "is_correct": true
+        },
+        "116": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 116,
+            "is_correct": false
+        },
+        "117": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 117,
+            "is_correct": false
+        },
+        "118": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 118,
+            "is_correct": false
+        },
+        "119": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 119,
+            "is_correct": false
+        },
+        "120": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 120,
+            "is_correct": true
+        },
+        "121": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 121,
+            "is_correct": false
+        },
+        "122": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 122,
+            "is_correct": false
+        },
+        "123": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 123,
+            "is_correct": false
+        },
+        "124": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 124,
+            "is_correct": false
+        },
+        "125": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 125,
+            "is_correct": false
+        },
+        "126": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 126,
+            "is_correct": false
+        },
+        "127": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 127,
+            "is_correct": true
+        },
+        "128": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 128,
+            "is_correct": false
+        },
+        "129": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 129,
+            "is_correct": true
+        },
+        "130": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 130,
+            "is_correct": false
+        },
+        "131": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 131,
+            "is_correct": false
+        },
+        "132": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 132,
+            "is_correct": false
+        },
+        "133": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 133,
+            "is_correct": true
+        },
+        "134": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 134,
+            "is_correct": false
+        },
+        "135": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 135,
+            "is_correct": true
+        },
+        "136": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 136,
+            "is_correct": false
+        },
+        "137": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 137,
+            "is_correct": false
+        },
+        "138": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 138,
+            "is_correct": true
+        },
+        "139": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 139,
+            "is_correct": false
+        },
+        "140": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 140,
+            "is_correct": false
+        },
+        "141": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 141,
+            "is_correct": false
+        },
+        "142": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 142,
+            "is_correct": true
+        },
+        "143": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 143,
+            "is_correct": false
+        },
+        "144": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 144,
+            "is_correct": false
+        },
+        "145": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 145,
+            "is_correct": false
+        },
+        "146": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 146,
+            "is_correct": false
+        },
+        "147": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 147,
+            "is_correct": false
+        },
+        "148": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 148,
+            "is_correct": true
+        },
+        "149": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 149,
+            "is_correct": true
+        },
+        "150": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 150,
+            "is_correct": false
+        },
+        "151": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 151,
+            "is_correct": true
+        },
+        "152": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 152,
+            "is_correct": false
+        },
+        "153": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 153,
+            "is_correct": true
+        },
+        "154": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 154,
+            "is_correct": false
+        },
+        "155": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 155,
+            "is_correct": false
+        },
+        "156": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 156,
+            "is_correct": true
+        },
+        "157": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 157,
+            "is_correct": false
+        },
+        "158": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 158,
+            "is_correct": false
+        },
+        "159": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 159,
+            "is_correct": false
+        },
+        "160": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 160,
+            "is_correct": false
+        },
+        "161": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 161,
+            "is_correct": true
+        },
+        "162": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 162,
+            "is_correct": false
+        },
+        "163": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 163,
+            "is_correct": true
+        },
+        "164": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 164,
+            "is_correct": false
+        },
+        "165": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 165,
+            "is_correct": false
+        },
+        "166": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 166,
+            "is_correct": true
+        },
+        "167": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 167,
+            "is_correct": false
+        },
+        "168": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 168,
+            "is_correct": true
+        },
+        "169": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 169,
+            "is_correct": true
+        },
+        "170": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 170,
+            "is_correct": true
+        },
+        "171": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 171,
+            "is_correct": false
+        },
+        "172": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 172,
+            "is_correct": false
+        },
+        "173": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 173,
+            "is_correct": false
+        },
+        "174": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 174,
+            "is_correct": false
+        },
+        "175": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 175,
+            "is_correct": true
+        },
+        "176": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 176,
+            "is_correct": true
+        },
+        "177": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 177,
+            "is_correct": false
+        },
+        "178": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 178,
+            "is_correct": false
+        },
+        "179": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 179,
+            "is_correct": false
+        },
+        "180": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 180,
+            "is_correct": true
+        },
+        "181": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 181,
+            "is_correct": false
+        },
+        "182": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 182,
+            "is_correct": false
+        },
+        "183": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 183,
+            "is_correct": false
+        },
+        "184": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 184,
+            "is_correct": true
+        },
+        "185": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 185,
+            "is_correct": true
+        },
+        "186": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 186,
+            "is_correct": false
+        },
+        "187": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 187,
+            "is_correct": false
+        },
+        "188": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 188,
+            "is_correct": false
+        },
+        "189": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 189,
+            "is_correct": false
+        },
+        "190": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 190,
+            "is_correct": false
+        },
+        "191": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 191,
+            "is_correct": false
+        },
+        "192": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 192,
+            "is_correct": false
+        },
+        "193": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 193,
+            "is_correct": false
+        },
+        "194": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 194,
+            "is_correct": false
+        },
+        "195": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 195,
+            "is_correct": false
+        },
+        "196": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 196,
+            "is_correct": false
+        },
+        "197": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 197,
+            "is_correct": false
+        },
+        "198": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 198,
+            "is_correct": false
+        },
+        "199": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 199,
+            "is_correct": false
+        },
+        "200": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 200,
+            "is_correct": true
+        },
+        "201": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 201,
+            "is_correct": false
+        },
+        "202": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 202,
+            "is_correct": false
+        },
+        "203": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 203,
+            "is_correct": false
+        },
+        "204": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 204,
+            "is_correct": true
+        },
+        "205": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 205,
+            "is_correct": true
+        },
+        "206": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 206,
+            "is_correct": true
+        },
+        "207": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 207,
+            "is_correct": false
+        },
+        "208": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 208,
+            "is_correct": false
+        },
+        "209": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 209,
+            "is_correct": true
+        },
+        "210": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 210,
+            "is_correct": false
+        },
+        "211": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 211,
+            "is_correct": false
+        },
+        "212": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 212,
+            "is_correct": true
+        },
+        "213": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 213,
+            "is_correct": false
+        },
+        "214": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 214,
+            "is_correct": false
+        },
+        "215": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 215,
+            "is_correct": false
+        },
+        "216": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 216,
+            "is_correct": true
+        },
+        "217": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 217,
+            "is_correct": true
+        },
+        "218": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 218,
+            "is_correct": false
+        },
+        "219": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 219,
+            "is_correct": false
+        },
+        "220": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 220,
+            "is_correct": false
+        },
+        "221": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 221,
+            "is_correct": true
+        },
+        "222": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 222,
+            "is_correct": false
+        },
+        "223": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 223,
+            "is_correct": false
+        },
+        "224": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 224,
+            "is_correct": false
+        },
+        "225": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 225,
+            "is_correct": false
+        },
+        "226": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 226,
+            "is_correct": true
+        },
+        "227": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 227,
+            "is_correct": false
+        },
+        "228": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 228,
+            "is_correct": false
+        },
+        "229": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 229,
+            "is_correct": false
+        },
+        "230": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 230,
+            "is_correct": false
+        },
+        "231": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 231,
+            "is_correct": true
+        },
+        "232": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 232,
+            "is_correct": false
+        },
+        "233": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 233,
+            "is_correct": false
+        },
+        "234": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 234,
+            "is_correct": false
+        },
+        "235": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 235,
+            "is_correct": true
+        },
+        "236": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 236,
+            "is_correct": false
+        },
+        "237": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 237,
+            "is_correct": true
+        },
+        "238": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 238,
+            "is_correct": false
+        },
+        "239": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 239,
+            "is_correct": false
+        },
+        "240": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 240,
+            "is_correct": false
+        },
+        "241": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 241,
+            "is_correct": true
+        },
+        "242": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 242,
+            "is_correct": true
+        },
+        "243": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 243,
+            "is_correct": false
+        },
+        "244": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 244,
+            "is_correct": false
+        },
+        "245": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 245,
+            "is_correct": false
+        },
+        "246": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 246,
+            "is_correct": false
+        },
+        "247": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 247,
+            "is_correct": false
+        },
+        "248": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 248,
+            "is_correct": false
+        },
+        "249": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 249,
+            "is_correct": true
+        },
+        "250": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 250,
+            "is_correct": false
+        },
+        "251": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 251,
+            "is_correct": false
+        },
+        "252": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 252,
+            "is_correct": false
+        },
+        "253": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 253,
+            "is_correct": false
+        },
+        "254": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 254,
+            "is_correct": false
+        },
+        "255": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 255,
+            "is_correct": false
+        },
+        "256": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 256,
+            "is_correct": false
+        },
+        "257": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 257,
+            "is_correct": false
+        },
+        "258": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 258,
+            "is_correct": false
+        },
+        "259": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 259,
+            "is_correct": false
+        },
+        "260": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 260,
+            "is_correct": false
+        },
+        "261": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 261,
+            "is_correct": true
+        },
+        "262": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 262,
+            "is_correct": false
+        },
+        "263": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 263,
+            "is_correct": false
+        },
+        "264": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 264,
+            "is_correct": false
+        },
+        "265": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 265,
+            "is_correct": false
+        },
+        "266": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 266,
+            "is_correct": false
+        },
+        "267": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 267,
+            "is_correct": false
+        },
+        "268": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 268,
+            "is_correct": false
+        },
+        "269": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 269,
+            "is_correct": true
+        },
+        "270": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 270,
+            "is_correct": false
+        },
+        "271": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 271,
+            "is_correct": false
+        },
+        "272": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 272,
+            "is_correct": true
+        },
+        "273": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 273,
+            "is_correct": false
+        },
+        "274": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 274,
+            "is_correct": true
+        },
+        "275": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 275,
+            "is_correct": false
+        },
+        "276": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 276,
+            "is_correct": true
+        },
+        "277": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 277,
+            "is_correct": false
+        },
+        "278": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 278,
+            "is_correct": true
+        },
+        "279": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 279,
+            "is_correct": false
+        },
+        "280": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 280,
+            "is_correct": false
+        },
+        "281": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 281,
+            "is_correct": false
+        },
+        "282": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 282,
+            "is_correct": false
+        },
+        "283": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 283,
+            "is_correct": false
+        },
+        "284": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 284,
+            "is_correct": true
+        },
+        "285": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 285,
+            "is_correct": false
+        },
+        "286": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 286,
+            "is_correct": false
+        },
+        "287": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 287,
+            "is_correct": false
+        },
+        "288": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 288,
+            "is_correct": true
+        },
+        "289": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 289,
+            "is_correct": true
+        },
+        "290": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 290,
+            "is_correct": false
+        },
+        "291": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 291,
+            "is_correct": false
+        },
+        "292": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 292,
+            "is_correct": false
+        },
+        "293": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 293,
+            "is_correct": false
+        },
+        "294": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 294,
+            "is_correct": true
+        },
+        "295": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 295,
+            "is_correct": true
+        },
+        "296": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 296,
+            "is_correct": false
+        },
+        "297": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 297,
+            "is_correct": false
+        },
+        "298": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 298,
+            "is_correct": true
+        },
+        "299": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 299,
+            "is_correct": false
+        },
+        "300": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 300,
+            "is_correct": true
+        },
+        "301": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 301,
+            "is_correct": false
+        },
+        "302": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 302,
+            "is_correct": false
+        },
+        "303": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 303,
+            "is_correct": false
+        },
+        "304": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 304,
+            "is_correct": false
+        },
+        "305": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 305,
+            "is_correct": false
+        },
+        "306": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 306,
+            "is_correct": true
+        },
+        "307": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 307,
+            "is_correct": true
+        },
+        "308": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 308,
+            "is_correct": false
+        },
+        "309": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 309,
+            "is_correct": false
+        },
+        "310": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 310,
+            "is_correct": false
+        },
+        "311": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 311,
+            "is_correct": false
+        },
+        "312": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 312,
+            "is_correct": false
+        },
+        "313": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 313,
+            "is_correct": false
+        },
+        "314": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 314,
+            "is_correct": false
+        },
+        "315": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 315,
+            "is_correct": false
+        },
+        "316": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 316,
+            "is_correct": false
+        },
+        "317": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 317,
+            "is_correct": false
+        },
+        "318": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 318,
+            "is_correct": false
+        },
+        "319": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 319,
+            "is_correct": false
+        },
+        "320": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 320,
+            "is_correct": false
+        },
+        "321": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 321,
+            "is_correct": false
+        },
+        "322": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 322,
+            "is_correct": false
+        },
+        "323": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 323,
+            "is_correct": false
+        },
+        "324": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 324,
+            "is_correct": false
+        },
+        "325": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 325,
+            "is_correct": false
+        },
+        "326": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 326,
+            "is_correct": true
+        },
+        "327": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 327,
+            "is_correct": false
+        },
+        "328": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 328,
+            "is_correct": false
+        },
+        "329": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 329,
+            "is_correct": false
+        },
+        "330": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 330,
+            "is_correct": false
+        },
+        "331": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 331,
+            "is_correct": true
+        },
+        "332": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 332,
+            "is_correct": false
+        },
+        "333": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 333,
+            "is_correct": false
+        },
+        "334": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 334,
+            "is_correct": false
+        },
+        "335": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 335,
+            "is_correct": false
+        },
+        "336": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 336,
+            "is_correct": false
+        },
+        "337": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 337,
+            "is_correct": false
+        },
+        "338": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 338,
+            "is_correct": true
+        },
+        "339": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 339,
+            "is_correct": false
+        },
+        "340": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 340,
+            "is_correct": false
+        },
+        "341": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 341,
+            "is_correct": false
+        },
+        "342": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 342,
+            "is_correct": true
+        },
+        "343": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 343,
+            "is_correct": true
+        },
+        "344": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 344,
+            "is_correct": true
+        },
+        "345": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 345,
+            "is_correct": false
+        },
+        "346": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 346,
+            "is_correct": false
+        },
+        "347": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 347,
+            "is_correct": true
+        },
+        "348": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 348,
+            "is_correct": false
+        },
+        "349": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 349,
+            "is_correct": false
+        },
+        "350": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 350,
+            "is_correct": false
+        },
+        "351": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 351,
+            "is_correct": false
+        },
+        "352": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 352,
+            "is_correct": false
+        },
+        "353": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 353,
+            "is_correct": false
+        },
+        "354": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 354,
+            "is_correct": false
+        },
+        "355": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 355,
+            "is_correct": false
+        },
+        "356": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 356,
+            "is_correct": true
+        },
+        "357": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 357,
+            "is_correct": false
+        },
+        "358": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 358,
+            "is_correct": false
+        },
+        "359": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 359,
+            "is_correct": false
+        },
+        "360": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 360,
+            "is_correct": false
+        },
+        "361": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 361,
+            "is_correct": false
+        },
+        "362": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 362,
+            "is_correct": false
+        },
+        "363": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 363,
+            "is_correct": true
+        },
+        "364": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 364,
+            "is_correct": false
+        },
+        "365": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 365,
+            "is_correct": true
+        },
+        "366": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 366,
+            "is_correct": false
+        },
+        "367": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 367,
+            "is_correct": false
+        },
+        "368": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 368,
+            "is_correct": true
+        },
+        "369": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 369,
+            "is_correct": true
+        },
+        "370": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 370,
+            "is_correct": false
+        },
+        "371": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 371,
+            "is_correct": false
+        },
+        "372": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 372,
+            "is_correct": false
+        },
+        "373": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 373,
+            "is_correct": true
+        },
+        "374": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 374,
+            "is_correct": false
+        },
+        "375": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 375,
+            "is_correct": true
+        },
+        "376": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 376,
+            "is_correct": true
+        },
+        "377": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 377,
+            "is_correct": false
+        },
+        "378": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 378,
+            "is_correct": false
+        },
+        "379": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 379,
+            "is_correct": false
+        },
+        "380": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 380,
+            "is_correct": false
+        },
+        "381": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 381,
+            "is_correct": false
+        },
+        "382": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 382,
+            "is_correct": false
+        },
+        "383": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 383,
+            "is_correct": true
+        },
+        "384": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 384,
+            "is_correct": false
+        },
+        "385": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 385,
+            "is_correct": false
+        },
+        "386": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 386,
+            "is_correct": true
+        },
+        "387": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 387,
+            "is_correct": false
+        },
+        "388": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 388,
+            "is_correct": false
+        },
+        "389": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 389,
+            "is_correct": false
+        },
+        "390": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 390,
+            "is_correct": false
+        },
+        "391": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 391,
+            "is_correct": true
+        },
+        "392": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 392,
+            "is_correct": false
+        },
+        "393": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 393,
+            "is_correct": false
+        },
+        "394": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 394,
+            "is_correct": false
+        },
+        "395": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 395,
+            "is_correct": false
+        },
+        "396": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 396,
+            "is_correct": false
+        },
+        "397": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 397,
+            "is_correct": false
+        },
+        "398": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 398,
+            "is_correct": false
+        },
+        "399": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 399,
+            "is_correct": true
+        },
+        "400": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 400,
+            "is_correct": true
+        },
+        "401": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 401,
+            "is_correct": true
+        },
+        "402": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 402,
+            "is_correct": true
+        },
+        "403": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 403,
+            "is_correct": true
+        },
+        "404": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 404,
+            "is_correct": false
+        },
+        "405": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 405,
+            "is_correct": false
+        },
+        "406": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 406,
+            "is_correct": false
+        },
+        "407": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 407,
+            "is_correct": false
+        },
+        "408": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 408,
+            "is_correct": true
+        },
+        "409": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 409,
+            "is_correct": true
+        },
+        "410": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 410,
+            "is_correct": true
+        },
+        "411": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 411,
+            "is_correct": false
+        },
+        "412": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 412,
+            "is_correct": false
+        },
+        "413": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 413,
+            "is_correct": true
+        },
+        "414": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 414,
+            "is_correct": false
+        },
+        "415": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 415,
+            "is_correct": false
+        },
+        "416": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 416,
+            "is_correct": false
+        },
+        "417": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 417,
+            "is_correct": true
+        },
+        "418": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 418,
+            "is_correct": true
+        },
+        "419": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 419,
+            "is_correct": false
+        },
+        "420": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 420,
+            "is_correct": true
+        },
+        "421": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 421,
+            "is_correct": false
+        },
+        "422": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 422,
+            "is_correct": false
+        },
+        "423": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 423,
+            "is_correct": false
+        },
+        "424": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 424,
+            "is_correct": false
+        },
+        "425": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 425,
+            "is_correct": false
+        },
+        "426": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 426,
+            "is_correct": false
+        },
+        "427": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 427,
+            "is_correct": true
+        },
+        "428": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 428,
+            "is_correct": true
+        },
+        "429": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 429,
+            "is_correct": true
+        },
+        "430": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 430,
+            "is_correct": false
+        },
+        "431": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 431,
+            "is_correct": false
+        },
+        "432": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 432,
+            "is_correct": true
+        },
+        "433": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 433,
+            "is_correct": true
+        },
+        "434": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 434,
+            "is_correct": false
+        },
+        "435": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 435,
+            "is_correct": false
+        },
+        "436": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 436,
+            "is_correct": false
+        },
+        "437": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 437,
+            "is_correct": false
+        },
+        "438": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 438,
+            "is_correct": false
+        },
+        "439": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 439,
+            "is_correct": false
+        },
+        "440": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 440,
+            "is_correct": false
+        },
+        "441": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 441,
+            "is_correct": false
+        },
+        "442": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 442,
+            "is_correct": false
+        },
+        "443": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 443,
+            "is_correct": false
+        },
+        "444": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 444,
+            "is_correct": false
+        },
+        "445": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 445,
+            "is_correct": true
+        },
+        "446": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 446,
+            "is_correct": false
+        },
+        "447": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 447,
+            "is_correct": false
+        },
+        "448": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 448,
+            "is_correct": false
+        },
+        "449": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 449,
+            "is_correct": false
+        },
+        "450": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 450,
+            "is_correct": true
+        },
+        "451": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 451,
+            "is_correct": false
+        },
+        "452": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 452,
+            "is_correct": true
+        },
+        "453": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 453,
+            "is_correct": true
+        },
+        "454": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 454,
+            "is_correct": false
+        },
+        "455": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 455,
+            "is_correct": false
+        },
+        "456": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 456,
+            "is_correct": false
+        },
+        "457": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 457,
+            "is_correct": false
+        },
+        "458": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 458,
+            "is_correct": false
+        },
+        "459": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 459,
+            "is_correct": true
+        },
+        "460": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 460,
+            "is_correct": true
+        },
+        "461": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 461,
+            "is_correct": false
+        },
+        "462": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 462,
+            "is_correct": false
+        },
+        "463": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 463,
+            "is_correct": false
+        },
+        "464": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 464,
+            "is_correct": true
+        },
+        "465": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 465,
+            "is_correct": false
+        },
+        "466": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 466,
+            "is_correct": false
+        },
+        "467": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 467,
+            "is_correct": false
+        },
+        "468": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 468,
+            "is_correct": false
+        },
+        "469": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 469,
+            "is_correct": false
+        },
+        "470": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 470,
+            "is_correct": false
+        },
+        "471": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 471,
+            "is_correct": false
+        },
+        "472": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 472,
+            "is_correct": false
+        },
+        "473": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 473,
+            "is_correct": true
+        },
+        "474": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 474,
+            "is_correct": true
+        },
+        "475": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 475,
+            "is_correct": false
+        },
+        "476": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 476,
+            "is_correct": false
+        },
+        "477": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 477,
+            "is_correct": true
+        },
+        "478": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 478,
+            "is_correct": false
+        },
+        "479": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 479,
+            "is_correct": false
+        },
+        "480": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 480,
+            "is_correct": false
+        },
+        "481": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 481,
+            "is_correct": false
+        },
+        "482": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 482,
+            "is_correct": false
+        },
+        "483": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 483,
+            "is_correct": false
+        },
+        "484": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 484,
+            "is_correct": false
+        },
+        "485": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 485,
+            "is_correct": false
+        },
+        "486": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 486,
+            "is_correct": true
+        },
+        "487": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 487,
+            "is_correct": false
+        },
+        "488": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 488,
+            "is_correct": false
+        },
+        "489": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 489,
+            "is_correct": true
+        },
+        "490": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "C",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 490,
+            "is_correct": true
+        },
+        "491": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 491,
+            "is_correct": false
+        },
+        "492": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 492,
+            "is_correct": false
+        },
+        "493": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "B",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 493,
+            "is_correct": false
+        },
+        "494": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 494,
+            "is_correct": true
+        },
+        "495": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 495,
+            "is_correct": false
+        },
+        "496": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 496,
+            "is_correct": false
+        },
+        "497": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": null,
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 497,
+            "is_correct": false
+        },
+        "498": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "A",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 498,
+            "is_correct": false
+        },
+        "499": {
+            "question": "Based on the audio of repeated actions, select the video of repeated actions that matches the repetition count.  Answer the question with A, B, C, or D.",
+            "response": "D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 499,
+            "is_correct": false
+        }
+    }
+}
