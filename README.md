@@ -16,7 +16,7 @@ XModBench: Benchmarking Cross-Modal Capabilities and Consistency in Omni-Languag
     <img src="https://img.shields.io/badge/Website-XModBench-0a7aca?logo=globe&logoColor=white" alt="Website">
   </a>
   <a href="https://huggingface.co/datasets/RyanWW/XModBench">
-    <img src="https://img.shields.io/badge/Dataset-XModBench-ff4da6?logo=huggingface&logoColor=black" alt="Dataset">
+    <img src="https://img.shields.io/badge/Dataset-XModBench-FFD21E?logo=huggingface" alt="Dataset">
   </a>
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
