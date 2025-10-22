@@ -167,8 +167,8 @@ If you use XModBench in your research, please cite our paper:
 ```bibtex
 @article{wang2024xmodbench,
   title={XModBench: Benchmarking Cross-Modal Capabilities and Consistency in Omni-Language Models},
-  author={Wang, Xingrui and Others},
-  journal={arXiv preprint arXiv:xxxx.xxxxx},
+  author={Wang, Xingrui, etc.},
+  journal={arXiv preprint arXiv:2510.15148},
   year={2024}
 }
 ```
@@ -184,7 +184,7 @@ We thank all contributors and the research community for their valuable feedback
 ## 📧 Contact
 
 - **Project Lead**: Xingrui Wang
-- **Email**: [xingrui.wang@example.edu]
+- **Email**: [xwang378@jhu.edu]
 - **Website**: [https://xingruiwang.github.io/projects/XModBench/](https://xingruiwang.github.io/projects/XModBench/)
 
 ## 🔗 Links
