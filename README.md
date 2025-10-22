@@ -1,10 +1,27 @@
-# XModBench: Benchmarking Cross-Modal Capabilities and Consistency in Omni-Language Models
+<h1 align="center">
+XModBench: Benchmarking Cross-Modal Capabilities and Consistency in Omni-Language Models
+</h1>
 
-[![Paper](https://img.shields.io/badge/Paper-arXiv-red.svg)](https://arxiv.org/abs/2510.15148)
-[![Website](https://img.shields.io/badge/Website-XModBench-green.svg)](https://xingruiwang.github.io/projects/XModBench/)
-[![Dataset](https://img.shields.io/badge/Dataset-XModBench-ffcc4d?logo=huggingface&logoColor=black)](https://huggingface.co/datasets/RyanWW/XModBench)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+<p align="center">
+  <img src="https://xingruiwang.github.io/projects/XModBench/static/images/teaser.png" width="90%" alt="XModBench teaser">
+</p>
 
+
+
+<p align="center">
+  <a href="https://arxiv.org/abs/2510.15148">
+    <img src="https://img.shields.io/badge/Paper-arXiv-red.svg" alt="Paper">
+  </a>
+  <a href="https://xingruiwang.github.io/projects/XModBench/">
+    <img src="https://img.shields.io/badge/Website-XModBench-0a7aca?logo=globe&logoColor=white" alt="Website">
+  </a>
+  <a href="https://huggingface.co/datasets/RyanWW/XModBench">
+    <img src="https://img.shields.io/badge/Dataset-XModBench-ff4da6?logo=huggingface&logoColor=black" alt="Dataset">
+  </a>
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT">
+  </a>
+</p>
 
 XModBench is a comprehensive benchmark designed to evaluate the cross-modal capabilities and consistency of omni-language models. It systematically assesses model performance across multiple modalities (text, vision, audio) and various cognitive tasks, revealing critical gaps in current state-of-the-art models.
 
