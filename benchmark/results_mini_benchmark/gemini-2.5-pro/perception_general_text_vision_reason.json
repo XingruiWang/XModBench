@@ -1,0 +1,248 @@
+{
+    "task_name": "perception/general_text_vision",
+    "score": 100.0,
+    "correct_count": 20,
+    "all_count": 20,
+    "results": {
+        "0": {
+            "question": "Based on this description: 'chipmunk chirping', which image best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "The description is 'chipmunk chirping'. Image A is the only option that features a chipmunk. The text on the image, 'Chipmunk Chirping Sounds', directly corresponds to the description. Image B shows a person playing a guitar, Image C shows people with a large chainsaw, and Image D shows turkeys. None of the other images match the description.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The description is 'chipmunk chirping'. Image A is the only option that features a chipmunk. The text on the image, 'Chipmunk Chirping Sounds', directly corresponds to the description. Image B shows a person playing a guitar, Image C shows people with a large chainsaw, and Image D shows turkeys. None of the other images match the description."
+            },
+            "correct_answer": "A",
+            "index": 0,
+            "is_correct": true
+        },
+        "5": {
+            "question": "Based on this description: 'playing didgeridoo', which image best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "The user requested an image of someone 'playing didgeridoo'. A didgeridoo is a long, wooden wind instrument. Image D shows a person on the right holding such an instrument to their lips and playing it. Image A shows an electronic phone ringer. Image B shows a person playing a keyboard instrument. Image C shows a person with timpani drums. Therefore, Image D is the only one that matches the description.",
+            "original_response": {
+                "answer": "D",
+                "reasoning": "The user requested an image of someone 'playing didgeridoo'. A didgeridoo is a long, wooden wind instrument. Image D shows a person on the right holding such an instrument to their lips and playing it. Image A shows an electronic phone ringer. Image B shows a person playing a keyboard instrument. Image C shows a person with timpani drums. Therefore, Image D is the only one that matches the description."
+            },
+            "correct_answer": "D",
+            "index": 5,
+            "is_correct": true
+        },
+        "8": {
+            "question": "Based on this description: 'playing washboard', which image best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "The user is looking for an image that shows someone 'playing washboard'. Image B depicts a musician actively playing a washboard, which is set up as a percussion instrument along with cymbals and other items. He is wearing traditional attire and appears to be performing. Image A is of a cow, Image C is of people in a recording studio without visible instruments, and Image D is of a woman sneezing. Therefore, Image B is the only correct match.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The user is looking for an image that shows someone 'playing washboard'. Image B depicts a musician actively playing a washboard, which is set up as a percussion instrument along with cymbals and other items. He is wearing traditional attire and appears to be performing. Image A is of a cow, Image C is of people in a recording studio without visible instruments, and Image D is of a woman sneezing. Therefore, Image B is the only correct match."
+            },
+            "correct_answer": "B",
+            "index": 8,
+            "is_correct": true
+        },
+        "17": {
+            "question": "Based on this description: 'playing shofar', which image best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "The user requested an image of someone 'playing shofar'. A shofar is an ancient musical horn, traditionally made from a ram's horn. Image B clearly shows a man holding a large, curved horn to his mouth and blowing it, which is the act of playing a shofar. Image A shows a person playing a lap steel guitar. Image C shows a model engine. Image D shows a dog. Therefore, image B is the only correct match.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The user requested an image of someone 'playing shofar'. A shofar is an ancient musical horn, traditionally made from a ram's horn. Image B clearly shows a man holding a large, curved horn to his mouth and blowing it, which is the act of playing a shofar. Image A shows a person playing a lap steel guitar. Image C shows a model engine. Image D shows a dog. Therefore, image B is the only correct match."
+            },
+            "correct_answer": "B",
+            "index": 17,
+            "is_correct": true
+        },
+        "20": {
+            "question": "Based on this description: 'playing steel guitar, slide guitar', which image best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "The user is looking for an image that shows someone playing a steel or slide guitar. Image A clearly depicts a musician playing an electric guitar while using a slide (the black and red cylinder on their finger) on the fretboard. This is the definition of playing slide guitar. Image B is a slot machine, Image C shows a rooster, and Image D shows an owl. None of the other images are relevant to the description.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The user is looking for an image that shows someone playing a steel or slide guitar. Image A clearly depicts a musician playing an electric guitar while using a slide (the black and red cylinder on their finger) on the fretboard. This is the definition of playing slide guitar. Image B is a slot machine, Image C shows a rooster, and Image D shows an owl. None of the other images are relevant to the description."
+            },
+            "correct_answer": "A",
+            "index": 20,
+            "is_correct": true
+        },
+        "22": {
+            "question": "Based on this description: 'cat caterwauling', which image best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "The user is asking for an image of a 'cat caterwauling'. Image A shows a bird in a cage. Image C shows a person playing drums. Image D shows the actor Shia LaBeouf. Image B is the only image that depicts a cat. The cat's mouth is open and it appears to be making a loud noise, which is consistent with the description of caterwauling.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The user is asking for an image of a 'cat caterwauling'. Image A shows a bird in a cage. Image C shows a person playing drums. Image D shows the actor Shia LaBeouf. Image B is the only image that depicts a cat. The cat's mouth is open and it appears to be making a loud noise, which is consistent with the description of caterwauling."
+            },
+            "correct_answer": "B",
+            "index": 22,
+            "is_correct": true
+        },
+        "24": {
+            "question": "Based on this description: 'motorboat, speedboat acceleration', which image best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "The user is looking for an image that matches 'motorboat, speedboat acceleration'. Image B is the only option that displays a speedboat moving at a high speed on the water, as indicated by the wake it's creating. Image A shows a tambourine, Image C shows a jet, and Image D shows an eagle, none of which match the description.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The user is looking for an image that matches 'motorboat, speedboat acceleration'. Image B is the only option that displays a speedboat moving at a high speed on the water, as indicated by the wake it's creating. Image A shows a tambourine, Image C shows a jet, and Image D shows an eagle, none of which match the description."
+            },
+            "correct_answer": "B",
+            "index": 24,
+            "is_correct": true
+        },
+        "32": {
+            "question": "Based on this description: 'skateboarding', which image best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "The user requested an image depicting 'skateboarding'. Image A shows a drum set. Image B shows wind chimes. Image C shows a woman with an orchestra. Image D is the only image that clearly shows a person riding a skateboard on a ramp in what appears to be a skatepark. Therefore, it is the best match for the description.",
+            "original_response": {
+                "answer": "D",
+                "reasoning": "The user requested an image depicting 'skateboarding'. Image A shows a drum set. Image B shows wind chimes. Image C shows a woman with an orchestra. Image D is the only image that clearly shows a person riding a skateboard on a ramp in what appears to be a skatepark. Therefore, it is the best match for the description."
+            },
+            "correct_answer": "D",
+            "index": 32,
+            "is_correct": true
+        },
+        "33": {
+            "question": "Based on this description: 'typing on computer keyboard', which image best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "The user requested an image showing 'typing on computer keyboard'. Image B is the only one that depicts this action. It shows a close-up of a person's fingers on a backlit laptop keyboard. Image A shows a woman playing a musical instrument, Image C shows two people with one blowing their nose, and Image D shows a snake. None of the other options match the description.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The user requested an image showing 'typing on computer keyboard'. Image B is the only one that depicts this action. It shows a close-up of a person's fingers on a backlit laptop keyboard. Image A shows a woman playing a musical instrument, Image C shows two people with one blowing their nose, and Image D shows a snake. None of the other options match the description."
+            },
+            "correct_answer": "B",
+            "index": 33,
+            "is_correct": true
+        },
+        "34": {
+            "question": "Based on this description: 'playing shofar', which image best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "The user is asking for an image that shows someone 'playing shofar'. A shofar is a ram's horn used as a musical instrument in Jewish religious services. Image A clearly depicts a man wearing a kippah and tallit (Jewish religious attire) holding a shofar to his mouth in the act of playing it. Image B shows fireworks. Image C shows a DJ using a turntable. Image D is a blurry, indistinct image. Therefore, Image A is the only correct match.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The user is asking for an image that shows someone 'playing shofar'. A shofar is a ram's horn used as a musical instrument in Jewish religious services. Image A clearly depicts a man wearing a kippah and tallit (Jewish religious attire) holding a shofar to his mouth in the act of playing it. Image B shows fireworks. Image C shows a DJ using a turntable. Image D is a blurry, indistinct image. Therefore, Image A is the only correct match."
+            },
+            "correct_answer": "A",
+            "index": 34,
+            "is_correct": true
+        },
+        "35": {
+            "question": "Based on this description: 'child singing', which image best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "The description is 'child singing'. Image B shows a young girl who appears to be singing or speaking to the camera. Image A shows a person playing a guitar video game. Image C shows an adult woman playing a string instrument. Image D shows two bulls fighting. Therefore, image B is the only one that matches the description of a child singing.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The description is 'child singing'. Image B shows a young girl who appears to be singing or speaking to the camera. Image A shows a person playing a guitar video game. Image C shows an adult woman playing a string instrument. Image D shows two bulls fighting. Therefore, image B is the only one that matches the description of a child singing."
+            },
+            "correct_answer": "B",
+            "index": 35,
+            "is_correct": true
+        },
+        "39": {
+            "question": "Based on this description: 'child speech, kid speaking', which image best matches what is described? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "The user is asking for an image that represents 'child speech, kid speaking'. Image C clearly depicts two young girls (children) facing each other and interacting. The girl on the left has her mouth open as if she is in the middle of speaking, which directly corresponds to the provided text. Image A is ambiguous and low quality, showing a person who might be a child but could be laughing or yelling. Image B is a car, and Image D shows cows in a field. Therefore, Image C is the only one that accurately and clearly represents the description.",
+            "original_response": {
+                "answer": "C",
+                "reasoning": "The user is asking for an image that represents 'child speech, kid speaking'. Image C clearly depicts two young girls (children) facing each other and interacting. The girl on the left has her mouth open as if she is in the middle of speaking, which directly corresponds to the provided text. Image A is ambiguous and low quality, showing a person who might be a child but could be laughing or yelling. Image B is a car, and Image D shows cows in a field. Therefore, Image C is the only one that accurately and clearly represents the description."
+            },
+            "correct_answer": "C",
+            "index": 39,
+            "is_correct": true
+        },
+        "44": {
+            "question": "Based on this description: 'tap dancing', which image best matches what is described? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "The user is looking for an image that represents 'tap dancing'. Image C shows three people on a stage in the middle of a dance performance. Their body positions and the stage setting are consistent with a tap dancing routine. Image A shows a loud phone ringer. Image B shows a man playing a trumpet. Image D shows an air vent on a ceiling. Therefore, Image C is the only image that matches the description of tap dancing.",
+            "original_response": {
+                "answer": "C",
+                "reasoning": "The user is looking for an image that represents 'tap dancing'. Image C shows three people on a stage in the middle of a dance performance. Their body positions and the stage setting are consistent with a tap dancing routine. Image A shows a loud phone ringer. Image B shows a man playing a trumpet. Image D shows an air vent on a ceiling. Therefore, Image C is the only image that matches the description of tap dancing."
+            },
+            "correct_answer": "C",
+            "index": 44,
+            "is_correct": true
+        },
+        "45": {
+            "question": "Based on this description: 'elephant trumpeting', which image best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "The user is looking for an image that matches the description 'elephant trumpeting'. Image A is the only option that shows elephants. While the elephants in the image are not explicitly in the act of trumpeting (e.g., with trunks raised high), the presence of the correct animal makes it the only relevant choice. Image B shows a cat, Image C shows a chipmunk, and Image D shows a person playing an instrument. Therefore, Image A is the only logical answer.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The user is looking for an image that matches the description 'elephant trumpeting'. Image A is the only option that shows elephants. While the elephants in the image are not explicitly in the act of trumpeting (e.g., with trunks raised high), the presence of the correct animal makes it the only relevant choice. Image B shows a cat, Image C shows a chipmunk, and Image D shows a person playing an instrument. Therefore, Image A is the only logical answer."
+            },
+            "correct_answer": "A",
+            "index": 45,
+            "is_correct": true
+        },
+        "49": {
+            "question": "Based on this description: 'fire truck siren', which image best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "Image D is the best match as it clearly shows a fire truck driving on a street. Fire trucks are equipped with sirens, and the image depicts the vehicle associated with a 'fire truck siren'. Image A shows a large, pole-mounted siren, which is a community or air-raid siren, not one typically found on a vehicle like a fire truck. Image B is a picture of a toilet, and Image C is of a person playing the violin in the mountains; neither is relevant to the description.",
+            "original_response": {
+                "answer": "D",
+                "reasoning": "Image D is the best match as it clearly shows a fire truck driving on a street. Fire trucks are equipped with sirens, and the image depicts the vehicle associated with a 'fire truck siren'. Image A shows a large, pole-mounted siren, which is a community or air-raid siren, not one typically found on a vehicle like a fire truck. Image B is a picture of a toilet, and Image C is of a person playing the violin in the mountains; neither is relevant to the description."
+            },
+            "correct_answer": "D",
+            "index": 49,
+            "is_correct": true
+        },
+        "51": {
+            "question": "Based on this description: 'magpie calling', which image best matches what is described? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "The user is looking for an image that represents 'magpie calling'. Image C is the only one that shows a magpie, which is a type of bird. The other images show people playing music (A and B) and a crying baby (D), none of which are related to a magpie.",
+            "original_response": {
+                "answer": "C",
+                "reasoning": "The user is looking for an image that represents 'magpie calling'. Image C is the only one that shows a magpie, which is a type of bird. The other images show people playing music (A and B) and a crying baby (D), none of which are related to a magpie."
+            },
+            "correct_answer": "C",
+            "index": 51,
+            "is_correct": true
+        },
+        "52": {
+            "question": "Based on this description: 'cat hissing', which image best matches what is described? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "The user is looking for an image depicting a 'cat hissing'. Image A shows two people laughing. Image B shows an alligator. Image D shows a person playing an instrument. Image C, despite being dark and low-resolution, is a close-up shot of a cat with its mouth open, which is consistent with the action of hissing. It is the only option that features a cat.",
+            "original_response": {
+                "answer": "C",
+                "reasoning": "The user is looking for an image depicting a 'cat hissing'. Image A shows two people laughing. Image B shows an alligator. Image D shows a person playing an instrument. Image C, despite being dark and low-resolution, is a close-up shot of a cat with its mouth open, which is consistent with the action of hissing. It is the only option that features a cat."
+            },
+            "correct_answer": "C",
+            "index": 52,
+            "is_correct": true
+        },
+        "53": {
+            "question": "Based on this description: 'people finger snapping', which image best matches what is described? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "The user is looking for an image that shows 'people finger snapping'. Image A depicts a fly on a plant. Image B shows a herd of elephants. Image D shows a person's hands typing on a typewriter. Image C is the only image that shows a person's hands in the act of snapping their fingers, which directly corresponds to the provided description.",
+            "original_response": {
+                "answer": "C",
+                "reasoning": "The user is looking for an image that shows 'people finger snapping'. Image A depicts a fly on a plant. Image B shows a herd of elephants. Image D shows a person's hands typing on a typewriter. Image C is the only image that shows a person's hands in the act of snapping their fingers, which directly corresponds to the provided description."
+            },
+            "correct_answer": "C",
+            "index": 53,
+            "is_correct": true
+        },
+        "56": {
+            "question": "Based on this description: 'playing accordion', which image best matches what is described? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "Image C clearly shows a person sitting down and actively playing a large, black accordion. Their hands are positioned on the keyboard and buttons, consistent with the act of playing. Image A depicts a crowd at a sporting event. Image B shows a musician playing a brass instrument (a horn). Image D is a picture of a steam train. Therefore, image C is the only one that matches the description 'playing accordion'.",
+            "original_response": {
+                "answer": "C",
+                "reasoning": "Image C clearly shows a person sitting down and actively playing a large, black accordion. Their hands are positioned on the keyboard and buttons, consistent with the act of playing. Image A depicts a crowd at a sporting event. Image B shows a musician playing a brass instrument (a horn). Image D is a picture of a steam train. Therefore, image C is the only one that matches the description 'playing accordion'."
+            },
+            "correct_answer": "C",
+            "index": 56,
+            "is_correct": true
+        },
+        "58": {
+            "question": "Based on this description: 'lathe spinning', which image best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "The user requested an image depicting 'lathe spinning'. A lathe is a machine tool that rotates a workpiece on its axis to perform various operations such as cutting and shaping. Image B clearly shows a cylindrical workpiece mounted in a machine, spinning rapidly while a tool carves into it. This is a direct visual representation of a lathe in operation. In contrast, Image A shows a car on a road, Image C shows a man playing a double bass, and Image D shows popcorn popping in a machine. None of these other images depict a lathe.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The user requested an image depicting 'lathe spinning'. A lathe is a machine tool that rotates a workpiece on its axis to perform various operations such as cutting and shaping. Image B clearly shows a cylindrical workpiece mounted in a machine, spinning rapidly while a tool carves into it. This is a direct visual representation of a lathe in operation. In contrast, Image A shows a car on a road, Image C shows a man playing a double bass, and Image D shows popcorn popping in a machine. None of these other images depict a lathe."
+            },
+            "correct_answer": "B",
+            "index": 58,
+            "is_correct": true
+        }
+    }
+}

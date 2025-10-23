@@ -1,0 +1,248 @@
+{
+    "task_name": "perception/general_vision_text",
+    "score": 100.0,
+    "correct_count": 20,
+    "all_count": 20,
+    "results": {
+        "0": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "The image clearly shows a chipmunk as the main subject. Above the image of the chipmunk, there is a large text overlay that reads \"Chipmunk Chirping Sounds\". This directly matches the description provided in option A. The other options describe sounds or activities that have no connection to the visual content of the image.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The image clearly shows a chipmunk as the main subject. Above the image of the chipmunk, there is a large text overlay that reads \"Chipmunk Chirping Sounds\". This directly matches the description provided in option A. The other options describe sounds or activities that have no connection to the visual content of the image."
+            },
+            "correct_answer": "A",
+            "index": 0,
+            "is_correct": true
+        },
+        "5": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "The image shows two people on a set playing musical instruments. The person on the right is playing a long, wooden wind instrument by blowing into one end. This instrument is unmistakably a didgeridoo. The other options are incorrect as there is no telephone, harpsichord, or tympani visible in the picture.",
+            "original_response": {
+                "answer": "D",
+                "reasoning": "The image shows two people on a set playing musical instruments. The person on the right is playing a long, wooden wind instrument by blowing into one end. This instrument is unmistakably a didgeridoo. The other options are incorrect as there is no telephone, harpsichord, or tympani visible in the picture."
+            },
+            "correct_answer": "D",
+            "index": 5,
+            "is_correct": true
+        },
+        "8": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "The image clearly shows a man, dressed in what appears to be traditional Bavarian or Alpine clothing, actively playing a musical instrument. This instrument is a washboard that has been adapted for musical use, often called a frottoir or simply a musical washboard. He is using his hands to create rhythm on its surface. Therefore, the description 'playing washboard' accurately captures the central action in the picture. Option A is incorrect because while a cowbell might be part of the setup, it's not the main focus, and there are no cattle. Options C and D are incorrect as there is no evidence of finger snapping or nose blowing.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The image clearly shows a man, dressed in what appears to be traditional Bavarian or Alpine clothing, actively playing a musical instrument. This instrument is a washboard that has been adapted for musical use, often called a frottoir or simply a musical washboard. He is using his hands to create rhythm on its surface. Therefore, the description 'playing washboard' accurately captures the central action in the picture. Option A is incorrect because while a cowbell might be part of the setup, it's not the main focus, and there are no cattle. Options C and D are incorrect as there is no evidence of finger snapping or nose blowing."
+            },
+            "correct_answer": "B",
+            "index": 8,
+            "is_correct": true
+        },
+        "17": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "The image shows a man blowing into a large, curved horn. This instrument is identifiable as a shofar, a ram's horn used in Jewish religious ceremonies. The man's posture, with the instrument to his lips and cheeks puffed, indicates he is playing it. Option A is incorrect because a steel guitar is a string instrument. Options C and D are incorrect as they describe sounds that are not visually represented and do not match the action being performed in the image.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The image shows a man blowing into a large, curved horn. This instrument is identifiable as a shofar, a ram's horn used in Jewish religious ceremonies. The man's posture, with the instrument to his lips and cheeks puffed, indicates he is playing it. Option A is incorrect because a steel guitar is a string instrument. Options C and D are incorrect as they describe sounds that are not visually represented and do not match the action being performed in the image."
+            },
+            "correct_answer": "B",
+            "index": 17,
+            "is_correct": true
+        },
+        "20": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "The image shows a musician playing an electric guitar. On the little finger of their fretting hand, there is a cylindrical object known as a guitar slide. This object is used to press against the strings to change the pitch, which is the defining technique of playing slide guitar. \"Steel guitar\" is a term often associated with this playing style. The other options are incorrect: B describes a slot machine, which is not depicted, and C and D describe sounds, which cannot be determined from a still image and have no visual cues in the picture.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The image shows a musician playing an electric guitar. On the little finger of their fretting hand, there is a cylindrical object known as a guitar slide. This object is used to press against the strings to change the pitch, which is the defining technique of playing slide guitar. \"Steel guitar\" is a term often associated with this playing style. The other options are incorrect: B describes a slot machine, which is not depicted, and C and D describe sounds, which cannot be determined from a still image and have no visual cues in the picture."
+            },
+            "correct_answer": "A",
+            "index": 20,
+            "is_correct": true
+        },
+        "22": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "The image shows a cat with its mouth open, appearing to be in the middle of a loud vocalization. Its eyes are wide and glowing red, and its facial expression is intense. 'Caterwauling' is a term for a harsh, wailing cry made by a cat, which accurately describes the action implied by the cat's posture and expression. This image is a well-known meme from a video where the cat makes a very loud and unusual sound. The other options are incorrect: it is a cat, not a bird (A); there are no musical instruments (C); and while a man might be speaking off-camera (as suggested by the Portuguese subtitles), the central subject and its action is the cat vocalizing (D).",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The image shows a cat with its mouth open, appearing to be in the middle of a loud vocalization. Its eyes are wide and glowing red, and its facial expression is intense. 'Caterwauling' is a term for a harsh, wailing cry made by a cat, which accurately describes the action implied by the cat's posture and expression. This image is a well-known meme from a video where the cat makes a very loud and unusual sound. The other options are incorrect: it is a cat, not a bird (A); there are no musical instruments (C); and while a man might be speaking off-camera (as suggested by the Portuguese subtitles), the central subject and its action is the cat vocalizing (D)."
+            },
+            "correct_answer": "B",
+            "index": 22,
+            "is_correct": true
+        },
+        "24": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "The image clearly depicts a small, fast-moving boat on a body of water. The boat has an outboard motor and is creating a significant wake, indicating speed or acceleration. This matches the description 'motorboat, speedboat acceleration'. The other options are incorrect as there is no tambourine (A), airplane (C), or eagle (D) visible in the image.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The image clearly depicts a small, fast-moving boat on a body of water. The boat has an outboard motor and is creating a significant wake, indicating speed or acceleration. This matches the description 'motorboat, speedboat acceleration'. The other options are incorrect as there is no tambourine (A), airplane (C), or eagle (D) visible in the image."
+            },
+            "correct_answer": "B",
+            "index": 24,
+            "is_correct": true
+        },
+        "32": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "The image clearly depicts a person riding a skateboard on a ramp within a skatepark. The individual is wearing typical skate attire, including loose-fitting pants and skate shoes. The environment, with its concrete ramps and ledges, is characteristic of a skatepark. The other options are incorrect as there are no musical instruments like a bass drum or castanets, nor is there a wind chime visible in the scene.",
+            "original_response": {
+                "answer": "D",
+                "reasoning": "The image clearly depicts a person riding a skateboard on a ramp within a skatepark. The individual is wearing typical skate attire, including loose-fitting pants and skate shoes. The environment, with its concrete ramps and ledges, is characteristic of a skatepark. The other options are incorrect as there are no musical instruments like a bass drum or castanets, nor is there a wind chime visible in the scene."
+            },
+            "correct_answer": "D",
+            "index": 32,
+            "is_correct": true
+        },
+        "33": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "The image clearly shows a person's fingers on a backlit laptop keyboard. The arrangement of the keys (QWERTY) and the presence of a screen above confirm it is a computer. The action depicted is someone pressing the keys, which is typing. The other options are irrelevant to the visual content: A) a didgeridoo is a wind instrument, C) nose blowing is a human action not depicted, and D) a snake is an animal not present in the image.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The image clearly shows a person's fingers on a backlit laptop keyboard. The arrangement of the keys (QWERTY) and the presence of a screen above confirm it is a computer. The action depicted is someone pressing the keys, which is typing. The other options are irrelevant to the visual content: A) a didgeridoo is a wind instrument, C) nose blowing is a human action not depicted, and D) a snake is an animal not present in the image."
+            },
+            "correct_answer": "B",
+            "index": 33,
+            "is_correct": true
+        },
+        "34": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "The image shows a man wearing a kippah (a Jewish skullcap) and a tallit (a prayer shawl). He is holding a curved horn to his lips, which is identifiable as a shofar, a ram's horn used in Jewish religious ceremonies. The act of blowing a shofar is often described as 'playing' it. Therefore, the description 'playing shofar' accurately represents the scene. The other options describe sounds that are not visually represented in the image.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The image shows a man wearing a kippah (a Jewish skullcap) and a tallit (a prayer shawl). He is holding a curved horn to his lips, which is identifiable as a shofar, a ram's horn used in Jewish religious ceremonies. The act of blowing a shofar is often described as 'playing' it. Therefore, the description 'playing shofar' accurately represents the scene. The other options describe sounds that are not visually represented in the image."
+            },
+            "correct_answer": "A",
+            "index": 34,
+            "is_correct": true
+        },
+        "35": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "The image shows a young child with her mouth open, looking at the camera as if she is performing or speaking. Among the given choices, 'child singing' is the most plausible description of this scene. Options A and C are incorrect as there are no musical instruments visible. Option D is incorrect as the subject is a human child, not a bull.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The image shows a young child with her mouth open, looking at the camera as if she is performing or speaking. Among the given choices, 'child singing' is the most plausible description of this scene. Options A and C are incorrect as there are no musical instruments visible. Option D is incorrect as the subject is a human child, not a bull."
+            },
+            "correct_answer": "B",
+            "index": 35,
+            "is_correct": true
+        },
+        "39": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "The image shows two young girls interacting with each other. Their body language, particularly the girl on the left with her mouth open and facing the other girl, strongly suggests they are engaged in a conversation. Therefore, the description 'child speech, kid speaking' is the most accurate representation of the scene. The other options describe sounds that are not visually represented in the image.",
+            "original_response": {
+                "answer": "C",
+                "reasoning": "The image shows two young girls interacting with each other. Their body language, particularly the girl on the left with her mouth open and facing the other girl, strongly suggests they are engaged in a conversation. Therefore, the description 'child speech, kid speaking' is the most accurate representation of the scene. The other options describe sounds that are not visually represented in the image."
+            },
+            "correct_answer": "C",
+            "index": 39,
+            "is_correct": true
+        },
+        "44": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "The image displays three individuals on a dimly lit stage, each under a spotlight and standing on a small, raised platform. Their body postures and bent knees suggest they are in the middle of a dynamic dance performance. These small platforms are often used in tap dancing to amplify the sound of the taps. The visual evidence strongly supports the activity of tap dancing. The other options are auditory descriptions and do not match the visual content of the image.",
+            "original_response": {
+                "answer": "C",
+                "reasoning": "The image displays three individuals on a dimly lit stage, each under a spotlight and standing on a small, raised platform. Their body postures and bent knees suggest they are in the middle of a dynamic dance performance. These small platforms are often used in tap dancing to amplify the sound of the taps. The visual evidence strongly supports the activity of tap dancing. The other options are auditory descriptions and do not match the visual content of the image."
+            },
+            "correct_answer": "C",
+            "index": 44,
+            "is_correct": true
+        },
+        "45": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "The image shows several elephants in a natural habitat, likely a savanna or game reserve, with a safari vehicle nearby. Among the given options, 'elephant trumpeting' is the only sound that is directly and characteristically produced by the animals depicted in the scene. The other sounds (cat purring, chipmunk chirping, didgeridoo playing) are completely unrelated to elephants or the environment shown.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The image shows several elephants in a natural habitat, likely a savanna or game reserve, with a safari vehicle nearby. Among the given options, 'elephant trumpeting' is the only sound that is directly and characteristically produced by the animals depicted in the scene. The other sounds (cat purring, chipmunk chirping, didgeridoo playing) are completely unrelated to elephants or the environment shown."
+            },
+            "correct_answer": "A",
+            "index": 45,
+            "is_correct": true
+        },
+        "49": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "The image clearly shows a red and white fire truck, which is an emergency vehicle. Fire trucks are equipped with sirens that they use when responding to emergencies. Therefore, the description \"fire truck siren\" is the most relevant to the visual content of the image.",
+            "original_response": {
+                "answer": "D",
+                "reasoning": "The image clearly shows a red and white fire truck, which is an emergency vehicle. Fire trucks are equipped with sirens that they use when responding to emergencies. Therefore, the description \"fire truck siren\" is the most relevant to the visual content of the image."
+            },
+            "correct_answer": "D",
+            "index": 49,
+            "is_correct": true
+        },
+        "51": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "The image clearly shows a bird perched on a branch amidst green foliage. The bird's coloration and markings, particularly the blue-grey body and the distinct white patterns on its wings and face, are characteristic of a species of magpie. Of the four options provided, 'magpie calling' is the only one that describes a plausible action related to the subject in the photograph. The other options describe human activities ('playing washboard', 'playing zither') or a human sound ('baby crying'), none of which are depicted in the image.",
+            "original_response": {
+                "answer": "C",
+                "reasoning": "The image clearly shows a bird perched on a branch amidst green foliage. The bird's coloration and markings, particularly the blue-grey body and the distinct white patterns on its wings and face, are characteristic of a species of magpie. Of the four options provided, 'magpie calling' is the only one that describes a plausible action related to the subject in the photograph. The other options describe human activities ('playing washboard', 'playing zither') or a human sound ('baby crying'), none of which are depicted in the image."
+            },
+            "correct_answer": "C",
+            "index": 51,
+            "is_correct": true
+        },
+        "52": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "The image, although dark and of low quality, shows a close-up of a furry animal's face. The visible features, including the shape of the snout and the texture of the fur, are consistent with those of a cat. The cat's mouth is open in a manner typical of hissing, a common defensive or aggressive expression. The other options are incorrect: the subject is an animal, not people (A); it has fur, so it cannot be an alligator or crocodile (B); and it is not a person playing a musical instrument (D).",
+            "original_response": {
+                "answer": "C",
+                "reasoning": "The image, although dark and of low quality, shows a close-up of a furry animal's face. The visible features, including the shape of the snout and the texture of the fur, are consistent with those of a cat. The cat's mouth is open in a manner typical of hissing, a common defensive or aggressive expression. The other options are incorrect: the subject is an animal, not people (A); it has fur, so it cannot be an alligator or crocodile (B); and it is not a person playing a musical instrument (D)."
+            },
+            "correct_answer": "C",
+            "index": 52,
+            "is_correct": true
+        },
+        "53": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "The image shows a person whose hands are positioned in a way that is characteristic of snapping their fingers. The thumb and middle finger of the right hand are brought together, which is the classic motion for a finger snap. The other options are not visually represented in the image; there is no fly, elephant, or typewriter.",
+            "original_response": {
+                "answer": "C",
+                "reasoning": "The image shows a person whose hands are positioned in a way that is characteristic of snapping their fingers. The thumb and middle finger of the right hand are brought together, which is the classic motion for a finger snap. The other options are not visually represented in the image; there is no fly, elephant, or typewriter."
+            },
+            "correct_answer": "C",
+            "index": 53,
+            "is_correct": true
+        },
+        "56": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "The image clearly shows a young person sitting down and playing a musical instrument. This instrument has bellows, straps over the shoulders, and button keyboards on both sides, which are the distinct features of an accordion (specifically, a button accordion or bayan). The other options are incorrect: there are no people visibly cheering, the instrument is not a French horn, and there is no train in the picture.",
+            "original_response": {
+                "answer": "C",
+                "reasoning": "The image clearly shows a young person sitting down and playing a musical instrument. This instrument has bellows, straps over the shoulders, and button keyboards on both sides, which are the distinct features of an accordion (specifically, a button accordion or bayan). The other options are incorrect: there are no people visibly cheering, the instrument is not a French horn, and there is no train in the picture."
+            },
+            "correct_answer": "C",
+            "index": 56,
+            "is_correct": true
+        },
+        "58": {
+            "question": "Look at this image. Which text description best matches what you see? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "The image shows a cylindrical piece of material held in a machine and rotating at high speed. A cutting tool is being used to shape the inside of the cylinder, which is a typical operation performed on a lathe. The other options are completely unrelated to the visual content of the image.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The image shows a cylindrical piece of material held in a machine and rotating at high speed. A cutting tool is being used to shape the inside of the cylinder, which is a typical operation performed on a lathe. The other options are completely unrelated to the visual content of the image."
+            },
+            "correct_answer": "B",
+            "index": 58,
+            "is_correct": true
+        }
+    }
+}

@@ -3,6 +3,7 @@ import re
 import random
 import json
 import numpy as np
+
 def generate_question_vision_audio(text_choices, audio_paths, correct_answer, vision_modality='Image', formula_text="", correct_instance=None, correct_repetition=None):
     """
     Generate a question from vision to text.

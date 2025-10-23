@@ -1,0 +1,248 @@
+{
+    "task_name": "perception/general_audio_text",
+    "score": 55.00000000000001,
+    "correct_count": 11,
+    "all_count": 20,
+    "results": {
+        "0": {
+            "question": "Listen to this audio clip. Which text description best matches the sound you hear? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "The audio clip contains a rapid, guttural, and descending vocalization. This sound is the classic and unmistakable 'gobble' of a turkey. Option A is incorrect because a chipmunk's chirp is much higher-pitched and has a different tonal quality. Options B and C are incorrect as the sound is clearly an animal vocalization, not the sound of a musical instrument or a power tool.",
+            "original_response": {
+                "answer": "D",
+                "reasoning": "The audio clip contains a rapid, guttural, and descending vocalization. This sound is the classic and unmistakable 'gobble' of a turkey. Option A is incorrect because a chipmunk's chirp is much higher-pitched and has a different tonal quality. Options B and C are incorrect as the sound is clearly an animal vocalization, not the sound of a musical instrument or a power tool."
+            },
+            "correct_answer": "A",
+            "index": 0,
+            "is_correct": false
+        },
+        "5": {
+            "question": "Listen to this audio clip. Which text description best matches the sound you hear? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "The sound in the audio clip is a low-pitched, continuous drone with a distinct vibrating quality. This is the characteristic sound of a didgeridoo, an Australian Aboriginal wind instrument. The other options are incorrect. A telephone bell has a high-pitched, intermittent ringing sound. A harpsichord is a keyboard instrument with a plucked, string-like sound. Tympani are large drums that produce a booming, percussive sound that decays, not a sustained drone.",
+            "original_response": {
+                "answer": "D",
+                "reasoning": "The sound in the audio clip is a low-pitched, continuous drone with a distinct vibrating quality. This is the characteristic sound of a didgeridoo, an Australian Aboriginal wind instrument. The other options are incorrect. A telephone bell has a high-pitched, intermittent ringing sound. A harpsichord is a keyboard instrument with a plucked, string-like sound. Tympani are large drums that produce a booming, percussive sound that decays, not a sustained drone."
+            },
+            "correct_answer": "D",
+            "index": 5,
+            "is_correct": true
+        },
+        "8": {
+            "question": "Listen to this audio clip. Which text description best matches the sound you hear? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "The audio clip contains a distinct rhythmic, percussive sound characterized by a metallic scraping or scratching. This sound is produced by an object being rubbed against a corrugated metal surface, which is the exact method of playing a washboard as a musical instrument. The other options are incorrect: a cowbell (A) is struck and produces a clanging or ringing sound; finger snapping (C) creates a sharp, clicking noise; and nose blowing (D) is a biological sound with a completely different quality.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The audio clip contains a distinct rhythmic, percussive sound characterized by a metallic scraping or scratching. This sound is produced by an object being rubbed against a corrugated metal surface, which is the exact method of playing a washboard as a musical instrument. The other options are incorrect: a cowbell (A) is struck and produces a clanging or ringing sound; finger snapping (C) creates a sharp, clicking noise; and nose blowing (D) is a biological sound with a completely different quality."
+            },
+            "correct_answer": "B",
+            "index": 8,
+            "is_correct": true
+        },
+        "17": {
+            "question": "Listen to this audio clip. Which text description best matches the sound you hear? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "The audio features a long, sustained, and powerful blast from a wind instrument. The sound has a raw, brassy, and somewhat wavering quality, which is the characteristic and iconic sound of a shofar, a traditional Jewish horn made from a ram's horn. The sound does not resemble the metallic twang of a slide guitar, the mechanical churning of a car engine starting, or the short, sharp vocalization of a dog barking.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The audio features a long, sustained, and powerful blast from a wind instrument. The sound has a raw, brassy, and somewhat wavering quality, which is the characteristic and iconic sound of a shofar, a traditional Jewish horn made from a ram's horn. The sound does not resemble the metallic twang of a slide guitar, the mechanical churning of a car engine starting, or the short, sharp vocalization of a dog barking."
+            },
+            "correct_answer": "B",
+            "index": 17,
+            "is_correct": true
+        },
+        "20": {
+            "question": "Listen to this audio clip. Which text description best matches the sound you hear? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "The audio clip begins with a synthesized musical flourish, similar to a sound effect from a slot machine or video game, which is then immediately followed by the clear and unmistakable sound of a rooster crowing. Option C is the most accurate description as the crowing is a dominant and easily identifiable component of the sound.",
+            "original_response": {
+                "answer": "C",
+                "reasoning": "The audio clip begins with a synthesized musical flourish, similar to a sound effect from a slot machine or video game, which is then immediately followed by the clear and unmistakable sound of a rooster crowing. Option C is the most accurate description as the crowing is a dominant and easily identifiable component of the sound."
+            },
+            "correct_answer": "A",
+            "index": 20,
+            "is_correct": false
+        },
+        "22": {
+            "question": "Listen to this audio clip. Which text description best matches the sound you hear? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "The audio clip clearly contains a human voice with a low pitch, which is characteristic of a male speaker. Although the words spoken are unintelligible, the cadence and tone are undeniably those of human speech. The sound does not resemble the squawking of a bird, the caterwauling of a cat, or the percussive sound of timbales.",
+            "original_response": {
+                "answer": "D",
+                "reasoning": "The audio clip clearly contains a human voice with a low pitch, which is characteristic of a male speaker. Although the words spoken are unintelligible, the cadence and tone are undeniably those of human speech. The sound does not resemble the squawking of a bird, the caterwauling of a cat, or the percussive sound of timbales."
+            },
+            "correct_answer": "B",
+            "index": 22,
+            "is_correct": false
+        },
+        "24": {
+            "question": "Listen to this audio clip. Which text description best matches the sound you hear? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "The audio clip features the distinct sound of a powerful engine. The sound begins at a lower pitch and volume and then rapidly increases, which is characteristic of acceleration. In the background, there is a sound of water being churned or displaced, which points to a vehicle operating on water. This combination of a revving engine and water sounds perfectly matches the description of a motorboat or speedboat accelerating. The other options are clearly incorrect; the sound is not that of a tambourine, an airplane, or an eagle.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The audio clip features the distinct sound of a powerful engine. The sound begins at a lower pitch and volume and then rapidly increases, which is characteristic of acceleration. In the background, there is a sound of water being churned or displaced, which points to a vehicle operating on water. This combination of a revving engine and water sounds perfectly matches the description of a motorboat or speedboat accelerating. The other options are clearly incorrect; the sound is not that of a tambourine, an airplane, or an eagle."
+            },
+            "correct_answer": "B",
+            "index": 24,
+            "is_correct": true
+        },
+        "32": {
+            "question": "Listen to this audio clip. Which text description best matches the sound you hear? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "The audio clip contains a series of low-pitched, resonant, and rhythmic thumps. This sound is characteristic of a bass drum (or kick drum) being struck repeatedly, forming a beat. The other options are inconsistent with the sound. Wind chimes produce high-pitched, metallic, and usually non-rhythmic tingling sounds. Castanets create sharp, high-pitched clicking sounds. Skateboarding involves the sound of rolling wheels and clattering, which is not what is heard in the clip. Therefore, 'playing bass drum' is the most accurate description.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The audio clip contains a series of low-pitched, resonant, and rhythmic thumps. This sound is characteristic of a bass drum (or kick drum) being struck repeatedly, forming a beat. The other options are inconsistent with the sound. Wind chimes produce high-pitched, metallic, and usually non-rhythmic tingling sounds. Castanets create sharp, high-pitched clicking sounds. Skateboarding involves the sound of rolling wheels and clattering, which is not what is heard in the clip. Therefore, 'playing bass drum' is the most accurate description."
+            },
+            "correct_answer": "D",
+            "index": 32,
+            "is_correct": false
+        },
+        "33": {
+            "question": "Listen to this audio clip. Which text description best matches the sound you hear? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "The audio contains a series of distinct, rapid, clicking sounds. This acoustic signature is characteristic of fingers striking the keys of a computer keyboard. The other options are audibly incorrect: a didgeridoo produces a low, droning sound; nose blowing is a wet, forceful sound; and a snake's rattle is a continuous, dry, buzzing or shaking sound.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The audio contains a series of distinct, rapid, clicking sounds. This acoustic signature is characteristic of fingers striking the keys of a computer keyboard. The other options are audibly incorrect: a didgeridoo produces a low, droning sound; nose blowing is a wet, forceful sound; and a snake's rattle is a continuous, dry, buzzing or shaking sound."
+            },
+            "correct_answer": "B",
+            "index": 33,
+            "is_correct": true
+        },
+        "34": {
+            "question": "Listen to this audio clip. Which text description best matches the sound you hear? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "The audio clip contains the sound of a long, sustained, and resonant musical note with a distinct brassy or horn-like quality. This sound is characteristic of a shofar, an ancient musical horn made from a ram's horn. The other options are clearly incorrect. Fireworks produce loud, percussive bangs, not a sustained musical tone. Disc scratching involves a rhythmic, abrasive sound. Cricket chirping is a high-pitched, repetitive sound. Therefore, the sound heard is best described as the playing of a shofar.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The audio clip contains the sound of a long, sustained, and resonant musical note with a distinct brassy or horn-like quality. This sound is characteristic of a shofar, an ancient musical horn made from a ram's horn. The other options are clearly incorrect. Fireworks produce loud, percussive bangs, not a sustained musical tone. Disc scratching involves a rhythmic, abrasive sound. Cricket chirping is a high-pitched, repetitive sound. Therefore, the sound heard is best described as the playing of a shofar."
+            },
+            "correct_answer": "A",
+            "index": 34,
+            "is_correct": true
+        },
+        "35": {
+            "question": "Listen to this audio clip. Which text description best matches the sound you hear? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "The audio clip features a high-pitched, bowed string instrument. The sound is characterized by a distinct sliding between notes (portamento) and a voice-like, expressive timbre. This is a hallmark of the erhu, a traditional Chinese two-stringed fiddle. Option A is incorrect because a bass guitar is a low-pitched instrument. Option B is incorrect because, while the sound is somewhat vocal, its timbre and the precision of the slides are clearly instrumental, not that of a child's singing voice. Option D is incorrect as the sound is a melodic musical tone, not the deep, guttural bellow of a bull.",
+            "original_response": {
+                "answer": "C",
+                "reasoning": "The audio clip features a high-pitched, bowed string instrument. The sound is characterized by a distinct sliding between notes (portamento) and a voice-like, expressive timbre. This is a hallmark of the erhu, a traditional Chinese two-stringed fiddle. Option A is incorrect because a bass guitar is a low-pitched instrument. Option B is incorrect because, while the sound is somewhat vocal, its timbre and the precision of the slides are clearly instrumental, not that of a child's singing voice. Option D is incorrect as the sound is a melodic musical tone, not the deep, guttural bellow of a bull."
+            },
+            "correct_answer": "B",
+            "index": 35,
+            "is_correct": false
+        },
+        "39": {
+            "question": "Listen to this audio clip. Which text description best matches the sound you hear? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "The audio clip clearly contains a high-pitched human voice forming words, which is characteristic of a young child speaking or singing. Option C, \"child speech, kid speaking,\" is the most accurate description. The sound is not a cough, a mechanical engine noise, or the mooing of cattle.",
+            "original_response": {
+                "answer": "C",
+                "reasoning": "The audio clip clearly contains a high-pitched human voice forming words, which is characteristic of a young child speaking or singing. Option C, \"child speech, kid speaking,\" is the most accurate description. The sound is not a cough, a mechanical engine noise, or the mooing of cattle."
+            },
+            "correct_answer": "C",
+            "index": 39,
+            "is_correct": true
+        },
+        "44": {
+            "question": "Listen to this audio clip. Which text description best matches the sound you hear? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "The audio clip contains a continuous, low-pitched humming and whirring noise. This sound is characteristic of an electric motor and rotating fan blades, which is precisely the sound a bathroom ventilation fan makes while it is running. The other options are audibly incorrect. A telephone bell is a loud, intermittent ringing sound. A cornet is a brass instrument that plays musical tones. Tap dancing consists of rhythmic, percussive sounds. The sound in the audio is a steady mechanical drone, which strongly matches the description of a ventilation fan.",
+            "original_response": {
+                "answer": "D",
+                "reasoning": "The audio clip contains a continuous, low-pitched humming and whirring noise. This sound is characteristic of an electric motor and rotating fan blades, which is precisely the sound a bathroom ventilation fan makes while it is running. The other options are audibly incorrect. A telephone bell is a loud, intermittent ringing sound. A cornet is a brass instrument that plays musical tones. Tap dancing consists of rhythmic, percussive sounds. The sound in the audio is a steady mechanical drone, which strongly matches the description of a ventilation fan."
+            },
+            "correct_answer": "C",
+            "index": 44,
+            "is_correct": false
+        },
+        "45": {
+            "question": "Listen to this audio clip. Which text description best matches the sound you hear? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "The audio features a low-pitched, continuous, and resonant droning sound. This sound is characteristic of a didgeridoo, a wind instrument known for its deep, vibrating tone. The other options do not match the audio. An elephant's trumpet is a loud, high-pitched, brassy call. A cat's purr is a soft, rhythmic rumble. A chipmunk's chirp is a series of short, high-pitched sounds. The sound in the clip is a sustained, low-frequency drone, which is a perfect description of a didgeridoo being played.",
+            "original_response": {
+                "answer": "D",
+                "reasoning": "The audio features a low-pitched, continuous, and resonant droning sound. This sound is characteristic of a didgeridoo, a wind instrument known for its deep, vibrating tone. The other options do not match the audio. An elephant's trumpet is a loud, high-pitched, brassy call. A cat's purr is a soft, rhythmic rumble. A chipmunk's chirp is a series of short, high-pitched sounds. The sound in the clip is a sustained, low-frequency drone, which is a perfect description of a didgeridoo being played."
+            },
+            "correct_answer": "A",
+            "index": 45,
+            "is_correct": false
+        },
+        "49": {
+            "question": "Listen to this audio clip. Which text description best matches the sound you hear? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "The audio clip contains a loud, wailing sound that continuously rises and falls in pitch. This is the characteristic sound of a large mechanical siren, such as a civil defense or air-raid siren, used for widespread public warnings. The sound does not resemble the flushing of a toilet, the musical notes of a violin, or the more rapid and typically electronic wail of a modern fire truck siren.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The audio clip contains a loud, wailing sound that continuously rises and falls in pitch. This is the characteristic sound of a large mechanical siren, such as a civil defense or air-raid siren, used for widespread public warnings. The sound does not resemble the flushing of a toilet, the musical notes of a violin, or the more rapid and typically electronic wail of a modern fire truck siren."
+            },
+            "correct_answer": "D",
+            "index": 49,
+            "is_correct": false
+        },
+        "51": {
+            "question": "Listen to this audio clip. Which text description best matches the sound you hear? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "The audio contains a series of harsh, chattering, and rattling sounds. These are characteristic vocalizations of a bird, not a musical instrument or a human. The specific quality of the rapid, almost mechanical chattering call is a classic sound made by a magpie. A washboard (A) would be a rhythmic scraping sound. A zither (B) is a stringed instrument and would produce musical notes. A baby crying (D) has a completely different tonal quality, typically a wail. Therefore, the sound is best described as a magpie calling.",
+            "original_response": {
+                "answer": "C",
+                "reasoning": "The audio contains a series of harsh, chattering, and rattling sounds. These are characteristic vocalizations of a bird, not a musical instrument or a human. The specific quality of the rapid, almost mechanical chattering call is a classic sound made by a magpie. A washboard (A) would be a rhythmic scraping sound. A zither (B) is a stringed instrument and would produce musical notes. A baby crying (D) has a completely different tonal quality, typically a wail. Therefore, the sound is best described as a magpie calling."
+            },
+            "correct_answer": "C",
+            "index": 51,
+            "is_correct": true
+        },
+        "52": {
+            "question": "Listen to this audio clip. Which text description best matches the sound you hear? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "The audio clip features a sharp, aggressive, and breathy expulsion of air. This sound is highly characteristic of the defensive or warning hiss made by a cat. The sound is not laughter (sniggering), nor does it have the deeper, more guttural quality of an alligator's hiss. It is also clearly an organic animal sound, not the electronic tone of a theremin.",
+            "original_response": {
+                "answer": "C",
+                "reasoning": "The audio clip features a sharp, aggressive, and breathy expulsion of air. This sound is highly characteristic of the defensive or warning hiss made by a cat. The sound is not laughter (sniggering), nor does it have the deeper, more guttural quality of an alligator's hiss. It is also clearly an organic animal sound, not the electronic tone of a theremin."
+            },
+            "correct_answer": "C",
+            "index": 52,
+            "is_correct": true
+        },
+        "53": {
+            "question": "Listen to this audio clip. Which text description best matches the sound you hear? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "The audio consists of a series of rapid, sharp, mechanical clicking sounds. This is the characteristic sound of keys being struck on a manual typewriter. The other options are incorrect: a fly's sound is a continuous buzz, an elephant's trumpet is a loud, biological call, and finger snapping has a different, more organic percussive quality than the metallic sounds heard in the clip.",
+            "original_response": {
+                "answer": "D",
+                "reasoning": "The audio consists of a series of rapid, sharp, mechanical clicking sounds. This is the characteristic sound of keys being struck on a manual typewriter. The other options are incorrect: a fly's sound is a continuous buzz, an elephant's trumpet is a loud, biological call, and finger snapping has a different, more organic percussive quality than the metallic sounds heard in the clip."
+            },
+            "correct_answer": "C",
+            "index": 53,
+            "is_correct": false
+        },
+        "56": {
+            "question": "Listen to this audio clip. Which text description best matches the sound you hear? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "The audio clip features a musical performance. The instrument has a distinct reedy timbre and a method of playing that involves a melody line accompanied by chords and bass notes, which is characteristic of an accordion. The other options are incorrect: there are no sounds of people cheering, the instrument's sound is not that of a brass instrument like a French horn, and it is not a non-melodic sound like a train whistle.",
+            "original_response": {
+                "answer": "C",
+                "reasoning": "The audio clip features a musical performance. The instrument has a distinct reedy timbre and a method of playing that involves a melody line accompanied by chords and bass notes, which is characteristic of an accordion. The other options are incorrect: there are no sounds of people cheering, the instrument's sound is not that of a brass instrument like a French horn, and it is not a non-melodic sound like a train whistle."
+            },
+            "correct_answer": "C",
+            "index": 56,
+            "is_correct": true
+        },
+        "58": {
+            "question": "Listen to this audio clip. Which text description best matches the sound you hear? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "The audio consists of a high-pitched, continuous mechanical whirring sound. This is characteristic of a piece of machinery rotating at a high speed. A lathe, which spins a workpiece, would produce such a sound. The other options are incorrect. A car passing by would have a changing pitch due to the Doppler effect. Playing a double bass would produce low, musical notes. Popping popcorn consists of a series of sharp, intermittent pops, not a sustained whir.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The audio consists of a high-pitched, continuous mechanical whirring sound. This is characteristic of a piece of machinery rotating at a high speed. A lathe, which spins a workpiece, would produce such a sound. The other options are incorrect. A car passing by would have a changing pitch due to the Doppler effect. Playing a double bass would produce low, musical notes. Popping popcorn consists of a series of sharp, intermittent pops, not a sustained whir."
+            },
+            "correct_answer": "B",
+            "index": 58,
+            "is_correct": true
+        }
+    }
+}

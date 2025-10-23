@@ -8,6 +8,9 @@ models/AnyGPT
 models/
 scripts/FluxText/
 
+user_results_old
+user_results
+
 *.png
 *.mp4
 *.wav

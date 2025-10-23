@@ -1,28 +1,35 @@
 #!/bin/bash
-#SBATCH --job-name=VLM_eval   
+#SBATCH --job-name=cpu   
 #SBATCH --output=log/job_%j.out
 #SBATCH --error=log/job_%j.log                        
 #SBATCH --ntasks-per-node=1
-#SBATCH --gpus-per-node=4
+#SBATCH --gpus=4
+#SBATCH --exclude=ccvl14,ccvl30
 
 
 module load conda
-# conda activate /home/xwang378/.conda/envs/omni
+conda activate /home/xwang378/.conda/envs/omni
 # conda activate /home/xwang378/.conda/envs/vita
-conda activate /home/xwang378/.conda/envs/AnyGPT
+# conda activate /home/xwang378/.conda/envs/AnyGPT
+# conda activate /home/xwang378/.conda/envs/panda
+# conda activate /home/xwang378/.conda/envs/vlm
  
 echo "Running on host: $(hostname)"
-echo "CUDA_VISIBLE_DEVICES=$CUDA_VISIBLE_DEVICES"
+# echo "CUDA_VISIBLE_DEVICES=$CUDA_VISIBLE_DEVICES"
 
 export audioBench='/home/xwang378/scratch/2025/AudioBench'
 
 # Configuration
-# MODEL="qwen2.5_omni"
+MODEL="qwen2.5_omni"
 # MODEL="vita"
-MODEL="anygpt"
+# MODEL="gemini-1.5-pro"
+# MODEL="gemini-2.0-flash"
+# MODEL="gemini-2.5-pro"
+# MODEL="anygpt"
+# MODEL="panda"
 # MODEL="echoink"
 # MINI_BENCHMARK="false"
-MINI_BENCHMARK="true"
+MINI_BENCHMARK="false"
 
 # Function to run evaluation
 run_evaluation() {
@@ -36,20 +43,26 @@ run_evaluation() {
     echo "Running: Model=${model}, Task=${task_name}"
     
     if [ "$MINI_BENCHMARK" = "true" ]; then
-        CUDA_VISIBLE_DEVICES=0,1,2,3 python $audioBench/scripts/run.py \
+        python $audioBench/scripts/run.py \
             --model $model \
             --task_name $task_name \
             --sample 297 \
             --mini_benchmark
     else
-        CUDA_VISIBLE_DEVICES=0,1,2,3 python $audioBench/scripts/run.py \
+        python $audioBench/scripts/run.py \
             --model $model \
             --task_name $task_name \
-            --sample 1000
+            --sample 1000 \
+            --reason True
     fi
 }
 
-modalities="audio_vision vision_audio vision_text text_vision text_audio audio_text"
+# modalities="audio_vision vision_audio vision_text text_vision text_audio audio_text"
+# modalities="text_audio audio_text"
+# modalities="text_audio"
+modalities="audio_text"
+# modalities="audio_vision_text"
+# modalities="vision_text"
 # modalities="audio_text text_vision vision_text"
 # modalities="audio_text text_vision text_audio"
 # modalities="vision_text"
@@ -65,10 +78,10 @@ TASKS_TO_RUN=(
     
     # # Spatial tasks
     # "spatial/arrangements"
-    # "spatial/3D_movements"
+    "spatial/3D_movements"
     # "spatial/panaroma"
     
-    # # Speech tasks
+    # Speech tasks
     # "speech/recognition"
     # "speech/translation"
     
@@ -77,11 +90,11 @@ TASKS_TO_RUN=(
     # "temporal/calculation"
     # "temporal/order"
     
-    # External tasks
-    "external/music_genre_classification"
+    # # External tasks
+    # "external/music_genre_classification"
     # "external/emotion_classification"
     # "external/movie_matching"
-    "external/singer_identification"
+    # "external/singer_identification"
 )
 
 # Run evaluations
