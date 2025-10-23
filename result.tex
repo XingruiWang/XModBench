@@ -1,0 +1,73 @@
+\begin{table}[!h]
+\centering
+\caption{Performance comparison of multimodal AI models across different tasks showing cross-modal translation performance across audio, text, and vision modalities. \textbf{Note:} A→T: Audio to Text, A→V: Audio to Vision, T→A: Text to Audio, T→V: Text to Vision, V→A: Vision to Audio, V→T: Vision to Text.}
+\label{tab:multimodal_performance}
+\resizebox{\textwidth}{!}{
+\begin{tabular}{l|cccccc|c|c|cccccc|c|c}
+\toprule
+ & \multicolumn{8}{c|}{\textbf{Overall Average}} & \multicolumn{8}{c}{\textbf{Task 1}} \\
+\cmidrule(lr){2-9} \cmidrule(lr){10-17}
+\textbf{Model} & \textbf{A→T} & \textbf{A→V} & \textbf{T→A} & \textbf{T→V} & \textbf{V→A} & \textbf{V→T} & \textbf{Avg} & \textbf{STD} & \textbf{A→T} & \textbf{A→V} & \textbf{T→A} & \textbf{T→V} & \textbf{V→A} & \textbf{V→T} & \textbf{Avg} & \textbf{STD} \\
+\midrule
+Panda & \perfcell{24.5} & \perfcell{25.0} & \perfcell{23.8} & \perfcell{25.2} & \perfcell{24.5} & \perfcell{25.1} & \perfcell{24.7} & 0.5 & \perfcell{24.5} & \perfcell{24.7} & \perfcell{24.8} & \perfcell{24.5} & \perfcell{24.6} & \perfcell{24.7} & \perfcell{24.6} & 0.1 \\
+Unified Io 2 Xxl & \perfcell{37.4} & \perfcell{25.0} & \perfcell{31.2} & \perfcell{37.8} & \perfcell{26.7} & \perfcell{39.9} & \perfcell{33.0} & 6.3 & \perfcell{55.0} & \perfcell{26.9} & \perfcell{39.0} & \perfcell{64.2} & \perfcell{26.7} & \perfcell{50.2} & \perfcell{43.7} & 15.4 \\
+Unified Io 2 Xl & \perfcell{33.3} & \perfcell{27.0} & \perfcell{27.1} & \perfcell{32.9} & \perfcell{26.5} & \perfcell{37.4} & \perfcell{30.7} & 4.5 & \perfcell{53.3} & \perfcell{27.9} & \perfcell{30.3} & \perfcell{59.1} & \perfcell{27.6} & \perfcell{55.0} & \perfcell{42.2} & 15.0 \\
+Unified Io 2 & \perfcell{28.9} & \perfcell{24.0} & \perfcell{25.4} & \perfcell{32.0} & \perfcell{25.7} & \perfcell{32.7} & \perfcell{28.1} & 3.7 & \perfcell{35.5} & \perfcell{25.3} & \perfcell{26.3} & \perfcell{55.9} & \perfcell{29.1} & \perfcell{44.7} & \perfcell{36.1} & 12.1 \\
+Vita & \perfcell{40.2} & \perfcell{26.0} & \perfcell{29.8} & \perfcell{26.8} & \perfcell{29.9} & \perfcell{59.3} & \perfcell{35.4} & 12.8 & \perfcell{37.1} & \perfcell{25.4} & \perfcell{27.0} & \perfcell{23.7} & \perfcell{26.4} & \perfcell{69.1} & \perfcell{34.8} & 17.5 \\
+VideoLLaMA 2 & \perfcell{48.6} & \perfcell{26.0} & \perfcell{25.7} & \perfcell{26.5} & \perfcell{25.2} & \perfcell{66.8} & \perfcell{36.5} & 17.4 & \textbf{\perfcell{74.7}} & \perfcell{26.6} & \perfcell{28.3} & \perfcell{26.8} & \perfcell{26.5} & \perfcell{91.5} & \perfcell{45.7} & 29.4 \\
+Baichuan Omni 1.5 & \perfcell{47.8} & \textbf{\perfcell{35.8}} & \perfcell{40.5} & \perfcell{56.2} & \perfcell{38.6} & \perfcell{73.0} & \perfcell{48.7} & 14.0 & \perfcell{42.7} & \perfcell{36.3} & \perfcell{45.6} & \perfcell{87.8} & \perfcell{50.3} & \perfcell{90.7} & \perfcell{58.9} & 24.0 \\
+Echoink & \perfcell{64.6} & \perfcell{45.9} & \perfcell{56.4} & \perfcell{60.9} & \perfcell{49.9} & \perfcell{77.6} & \perfcell{59.2} & 11.3 & \perfcell{74.1} & \perfcell{58.5} & \perfcell{69.3} & \perfcell{91.6} & \perfcell{67.7} & \perfcell{93.4} & \perfcell{75.8} & 13.9 \\
+Qwen2.5 Omni & \perfcell{62.0} & \perfcell{48.0} & \perfcell{55.4} & \perfcell{59.6} & \textbf{\perfcell{50.5}} & \perfcell{76.3} & \perfcell{58.6} & 10.1 & \perfcell{72.9} & \perfcell{59.1} & \perfcell{69.2} & \perfcell{91.2} & \perfcell{68.5} & \perfcell{92.0} & \perfcell{75.5} & 13.3 \\
+Gemini 1.5 Pro & \perfcell{52.4} & \perfcell{38.2} & \perfcell{48.6} & \perfcell{70.4} & \perfcell{40.7} & \perfcell{79.9} & \perfcell{55.0} & 16.7 & \perfcell{41.0} & \perfcell{27.9} & \perfcell{45.0} & \perfcell{95.8} & \perfcell{32.1} & \perfcell{95.3} & \perfcell{56.2} & 31.1 \\
+Gemini 2.0 Flash & \perfcell{63.7} & \perfcell{49.0} & \perfcell{52.2} & \perfcell{71.5} & \perfcell{47.6} & \perfcell{85.2} & \perfcell{61.2} & 15.2 & \perfcell{56.8} & \perfcell{45.0} & \perfcell{54.2} & \perfcell{92.7} & \perfcell{55.1} & \perfcell{93.4} & \perfcell{66.2} & 21.2 \\
+Gemini 2.5 Flash & \perfcell{62.6} & \perfcell{51.2} & \perfcell{55.1} & \perfcell{75.7} & \perfcell{51.9} & \perfcell{86.0} & \perfcell{63.7} & 14.2 & \perfcell{52.6} & \perfcell{44.3} & \perfcell{53.4} & \perfcell{95.4} & \perfcell{56.0} & \perfcell{95.0} & \perfcell{66.1} & 22.8 \\
+Gemini 2.5 Pro & \textbf{\perfcell{71.0}} & \textbf{\perfcell{58.9}} & \textbf{\perfcell{64.4}} & \textbf{\perfcell{79.8}} & \perfcell{60.8} & \textbf{\perfcell{88.6}} & \textbf{\perfcell{70.6}} & 11.7 & \perfcell{62.3} & \perfcell{57.4} & \perfcell{68.5} & \textbf{\perfcell{97.1}} & \textbf{\perfcell{72.6}} & \textbf{\perfcell{97.6}} & \textbf{\perfcell{75.9}} & 17.4 \\
+\bottomrule
+\end{tabular}}
+
+\resizebox{\textwidth}{!}{
+\begin{tabular}{l|cccccc|c|c|cccccc|c|c}
+\toprule
+ & \multicolumn{8}{c|}{\textbf{Task 2}} & \multicolumn{8}{c}{\textbf{Task 3}} \\
+\cmidrule(lr){2-9} \cmidrule(lr){10-17}
+\textbf{Model} & \textbf{A→T} & \textbf{A→V} & \textbf{T→A} & \textbf{T→V} & \textbf{V→A} & \textbf{V→T} & \textbf{Avg} & \textbf{STD} & \textbf{A→T} & \textbf{A→V} & \textbf{T→A} & \textbf{T→V} & \textbf{V→A} & \textbf{V→T} & \textbf{Avg} & \textbf{STD} \\
+\midrule
+Panda & \perfcell{25.5} & \perfcell{26.6} & \perfcell{26.0} & \perfcell{27.2} & \perfcell{25.8} & \perfcell{23.1} & \perfcell{25.7} & 1.4 & \perfcell{21.9} & \perfcell{25.3} & \perfcell{24.8} & \perfcell{26.0} & \perfcell{24.5} & \perfcell{23.9} & \perfcell{24.4} & 1.4 \\
+Unified Io 2 Xxl & \perfcell{29.6} & \perfcell{23.6} & \textbf{\perfcell{30.9}} & \perfcell{25.5} & \perfcell{29.5} & \perfcell{30.7} & \perfcell{28.3} & 3.0 & \perfcell{24.3} & \perfcell{27.4} & \perfcell{25.3} & \perfcell{29.6} & \perfcell{25.2} & \perfcell{34.4} & \perfcell{27.7} & 3.8 \\
+Unified Io 2 Xl & \perfcell{24.8} & \perfcell{23.0} & \perfcell{25.8} & \perfcell{26.0} & \perfcell{26.0} & \perfcell{24.5} & \perfcell{25.0} & 1.2 & \perfcell{22.3} & \perfcell{24.5} & \perfcell{28.8} & \perfcell{22.1} & \perfcell{26.0} & \perfcell{32.7} & \perfcell{26.1} & 4.1 \\
+Unified Io 2 & \perfcell{26.0} & \perfcell{20.7} & \perfcell{22.4} & \perfcell{25.0} & \perfcell{23.1} & \perfcell{24.7} & \perfcell{23.6} & 1.9 & \perfcell{22.7} & \perfcell{22.4} & \perfcell{25.1} & \perfcell{24.3} & \perfcell{25.8} & \perfcell{22.4} & \perfcell{23.8} & 1.5 \\
+Vita & \perfcell{42.3} & \perfcell{28.9} & \perfcell{24.6} & \perfcell{30.9} & \perfcell{25.1} & \perfcell{52.2} & \perfcell{34.0} & 11.0 & \perfcell{31.1} & \perfcell{25.1} & \perfcell{26.1} & \perfcell{24.6} & \perfcell{27.6} & \perfcell{41.7} & \perfcell{29.4} & 6.5 \\
+VideoLLaMA 2 & \textbf{\perfcell{43.9}} & \perfcell{27.8} & \perfcell{24.4} & \perfcell{27.5} & \perfcell{25.2} & \perfcell{54.3} & \perfcell{33.9} & 12.3 & \perfcell{31.0} & \perfcell{25.0} & \perfcell{27.7} & \perfcell{25.9} & \perfcell{25.8} & \perfcell{39.8} & \perfcell{29.2} & 5.6 \\
+Baichuan Omni 1.5 & \perfcell{38.1} & \perfcell{28.0} & \perfcell{25.1} & \perfcell{31.7} & \perfcell{25.3} & \perfcell{61.2} & \perfcell{34.9} & 13.8 & \perfcell{27.0} & \perfcell{25.2} & \perfcell{23.9} & \perfcell{26.9} & \perfcell{25.0} & \perfcell{52.2} & \perfcell{30.0} & 10.9 \\
+Echoink & \perfcell{41.3} & \perfcell{27.2} & \perfcell{26.8} & \perfcell{34.0} & \perfcell{28.0} & \perfcell{62.2} & \perfcell{36.6} & 13.7 & \textbf{\perfcell{38.2}} & \perfcell{26.2} & \perfcell{38.6} & \perfcell{31.1} & \perfcell{26.9} & \perfcell{61.6} & \perfcell{37.1} & 13.1 \\
+Qwen2.5 Omni & \perfcell{41.8} & \perfcell{31.2} & \perfcell{26.7} & \perfcell{34.4} & \perfcell{28.6} & \perfcell{67.8} & \perfcell{38.4} & 15.3 & \perfcell{26.9} & \perfcell{28.7} & \perfcell{36.6} & \perfcell{25.6} & \perfcell{25.3} & \perfcell{50.8} & \perfcell{32.3} & 10.0 \\
+Gemini 1.5 Pro & \perfcell{37.2} & \perfcell{31.2} & \perfcell{24.5} & \perfcell{51.4} & \perfcell{23.7} & \perfcell{72.8} & \perfcell{40.1} & 19.0 & \perfcell{37.1} & \perfcell{27.2} & \perfcell{31.0} & \perfcell{47.3} & \perfcell{24.5} & \perfcell{55.7} & \perfcell{37.1} & 12.2 \\
+Gemini 2.0 Flash & \perfcell{45.2} & \textbf{\perfcell{43.1}} & \perfcell{29.2} & \perfcell{56.4} & \perfcell{33.5} & \perfcell{83.0} & \perfcell{48.4} & 20.4 & \perfcell{51.8} & \perfcell{30.8} & \perfcell{38.6} & \perfcell{48.0} & \perfcell{27.4} & \perfcell{72.0} & \perfcell{44.8} & 16.3 \\
+Gemini 2.5 Flash & \perfcell{45.6} & \perfcell{31.4} & \perfcell{30.2} & \perfcell{71.2} & \perfcell{26.7} & \perfcell{83.2} & \perfcell{48.0} & 23.8 & \perfcell{48.8} & \perfcell{39.6} & \perfcell{39.1} & \perfcell{51.4} & \perfcell{38.0} & \perfcell{74.6} & \perfcell{48.6} & 13.9 \\
+Gemini 2.5 Pro & \perfcell{41.0} & \perfcell{32.9} & \perfcell{32.1} & \textbf{\perfcell{75.8}} & \perfcell{30.3} & \textbf{\perfcell{88.3}} & \textbf{\perfcell{50.1}} & 25.4 & \perfcell{76.4} & \textbf{\perfcell{54.4}} & \textbf{\perfcell{57.7}} & \textbf{\perfcell{55.4}} & \textbf{\perfcell{50.6}} & \textbf{\perfcell{70.6}} & \textbf{\perfcell{60.8}} & 10.3 \\
+\bottomrule
+\end{tabular}}
+
+\resizebox{\textwidth}{!}{
+\begin{tabular}{l|cccccc|c|c|cccccc|c|c}
+\toprule
+ & \multicolumn{8}{c|}{\textbf{Task 4}} & \multicolumn{8}{c}{\textbf{Task 5}} \\
+\cmidrule(lr){2-9} \cmidrule(lr){10-17}
+\textbf{Model} & \textbf{A→T} & \textbf{A→V} & \textbf{T→A} & \textbf{T→V} & \textbf{V→A} & \textbf{V→T} & \textbf{Avg} & \textbf{STD} & \textbf{A→T} & \textbf{A→V} & \textbf{T→A} & \textbf{T→V} & \textbf{V→A} & \textbf{V→T} & \textbf{Avg} & \textbf{STD} \\
+\midrule
+Panda & \perfcell{28.0} & \perfcell{24.3} & \perfcell{20.7} & \perfcell{24.7} & \perfcell{24.3} & \perfcell{31.3} & \perfcell{25.5} & 3.6 & \perfcell{22.8} & \perfcell{23.9} & \perfcell{22.6} & \perfcell{23.6} & \perfcell{23.3} & \perfcell{22.6} & \perfcell{23.1} & 0.5 \\
+Unified Io 2 Xxl & \perfcell{39.9} & \perfcell{23.0} & \perfcell{25.5} & \perfcell{30.1} & \perfcell{22.3} & \perfcell{46.6} & \perfcell{31.2} & 9.9 & \perfcell{38.4} & \perfcell{23.9} & \perfcell{35.3} & \perfcell{39.5} & \perfcell{29.7} & \perfcell{37.4} & \perfcell{34.0} & 6.0 \\
+Unified Io 2 Xl & \perfcell{34.4} & \perfcell{31.7} & \perfcell{24.5} & \perfcell{28.8} & \perfcell{23.6} & \perfcell{41.8} & \perfcell{30.8} & 6.8 & \perfcell{31.9} & \perfcell{27.9} & \perfcell{26.2} & \perfcell{28.6} & \perfcell{29.5} & \perfcell{32.9} & \perfcell{29.5} & 2.5 \\
+Unified Io 2 & \perfcell{32.4} & \perfcell{27.5} & \perfcell{27.6} & \perfcell{27.9} & \perfcell{25.2} & \perfcell{41.7} & \perfcell{30.4} & 6.0 & \perfcell{28.2} & \perfcell{24.2} & \perfcell{25.8} & \perfcell{27.1} & \perfcell{25.3} & \perfcell{29.9} & \perfcell{26.8} & 2.1 \\
+Vita & \perfcell{52.2} & \perfcell{26.8} & \perfcell{47.1} & \perfcell{29.9} & \perfcell{47.9} & \perfcell{72.5} & \perfcell{46.1} & 16.6 & \perfcell{38.5} & \perfcell{24.1} & \perfcell{24.2} & \perfcell{24.7} & \perfcell{22.6} & \perfcell{61.2} & \perfcell{32.6} & 15.2 \\
+VideoLLaMA 2 & \perfcell{50.3} & \perfcell{25.2} & \perfcell{24.2} & \perfcell{25.2} & \perfcell{24.1} & \perfcell{71.2} & \perfcell{36.7} & 19.8 & \perfcell{42.9} & \perfcell{25.5} & \perfcell{23.9} & \perfcell{27.0} & \perfcell{24.4} & \perfcell{76.9} & \perfcell{36.8} & 20.9 \\
+Baichuan Omni 1.5 & \perfcell{77.0} & \perfcell{45.7} & \perfcell{65.8} & \perfcell{51.8} & \perfcell{58.7} & \perfcell{77.6} & \perfcell{62.8} & 13.1 & \perfcell{54.3} & \perfcell{43.9} & \perfcell{41.9} & \perfcell{82.9} & \perfcell{33.7} & \perfcell{83.2} & \perfcell{56.7} & 21.5 \\
+Echoink & \perfcell{86.0} & \perfcell{57.4} & \perfcell{74.6} & \perfcell{64.4} & \perfcell{70.1} & \perfcell{87.3} & \perfcell{73.3} & 11.8 & \perfcell{83.3} & \perfcell{60.4} & \perfcell{72.7} & \perfcell{83.6} & \perfcell{56.6} & \perfcell{83.3} & \perfcell{73.3} & 12.3 \\
+Qwen2.5 Omni & \perfcell{85.6} & \perfcell{61.8} & \perfcell{73.6} & \perfcell{64.6} & \perfcell{71.5} & \perfcell{87.5} & \perfcell{74.1} & 10.6 & \perfcell{83.0} & \perfcell{59.2} & \perfcell{70.7} & \perfcell{82.5} & \perfcell{58.6} & \perfcell{83.2} & \perfcell{72.8} & 11.8 \\
+Gemini 1.5 Pro & \perfcell{86.2} & \perfcell{52.4} & \perfcell{72.3} & \perfcell{68.7} & \perfcell{70.7} & \perfcell{85.5} & \perfcell{72.6} & 12.0 & \perfcell{62.3} & \perfcell{52.5} & \perfcell{70.2} & \perfcell{88.8} & \perfcell{52.3} & \perfcell{90.3} & \perfcell{69.4} & 17.0 \\
+Gemini 2.0 Flash & \perfcell{83.6} & \perfcell{57.5} & \perfcell{68.6} & \perfcell{67.3} & \perfcell{60.9} & \perfcell{83.4} & \perfcell{70.2} & 11.1 & \perfcell{81.2} & \perfcell{68.3} & \perfcell{70.5} & \perfcell{93.1} & \perfcell{61.3} & \perfcell{94.2} & \perfcell{78.1} & 13.6 \\
+Gemini 2.5 Flash & \perfcell{84.1} & \textbf{\perfcell{68.3}} & \perfcell{70.9} & \perfcell{66.8} & \perfcell{64.4} & \perfcell{84.4} & \perfcell{73.1} & 8.9 & \perfcell{82.0} & \perfcell{72.2} & \perfcell{81.7} & \perfcell{93.9} & \perfcell{74.5} & \perfcell{92.7} & \perfcell{82.8} & 9.0 \\
+Gemini 2.5 Pro & \textbf{\perfcell{84.9}} & \perfcell{67.5} & \textbf{\perfcell{75.5}} & \textbf{\perfcell{76.1}} & \textbf{\perfcell{65.8}} & \textbf{\perfcell{91.4}} & \textbf{\perfcell{76.8}} & 9.9 & \textbf{\perfcell{90.3}} & \textbf{\perfcell{82.5}} & \textbf{\perfcell{88.2}} & \textbf{\perfcell{94.6}} & \textbf{\perfcell{84.8}} & \textbf{\perfcell{95.1}} & \textbf{\perfcell{89.3}} & 5.1 \\
+\bottomrule
+\end{tabular}}
+\end{table}

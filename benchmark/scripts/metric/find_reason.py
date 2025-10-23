@@ -1,0 +1,1 @@
+# For general_activaties task, find the gemini example that audio vision wrong but audio text correct. List the both question, related image or audio path in condition adn option. and reason and answer of gemnmini

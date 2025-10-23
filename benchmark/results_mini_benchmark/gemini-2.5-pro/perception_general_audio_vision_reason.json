@@ -1,0 +1,248 @@
+{
+    "task_name": "perception/general_audio_vision",
+    "score": 50.0,
+    "correct_count": 10,
+    "all_count": 20,
+    "results": {
+        "0": {
+            "question": "Which image most likely belongs to the object that makes this sound you hear? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "The audio consists of high-pitched, repetitive chirping sounds. These sounds are characteristic of the vocalizations made by chipmunks, often as alarm calls. Image A features a chipmunk, and the text overlay on the image explicitly states 'Chipmunk Chirping Sounds', directly confirming the source of the sound. The other options are incorrect: Image B shows a pedal steel guitar which produces musical notes, Image C shows a chainsaw which makes a loud engine noise, and Image D shows turkeys which make gobbling sounds, none of which match the audio.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The audio consists of high-pitched, repetitive chirping sounds. These sounds are characteristic of the vocalizations made by chipmunks, often as alarm calls. Image A features a chipmunk, and the text overlay on the image explicitly states 'Chipmunk Chirping Sounds', directly confirming the source of the sound. The other options are incorrect: Image B shows a pedal steel guitar which produces musical notes, Image C shows a chainsaw which makes a loud engine noise, and Image D shows turkeys which make gobbling sounds, none of which match the audio."
+            },
+            "correct_answer": "A",
+            "index": 0,
+            "is_correct": true
+        },
+        "5": {
+            "question": "Which image most likely belongs to the object that makes this sound you hear? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "The audio file contains the sound of a very loud, classic telephone ring. Image A shows a device that is explicitly labeled 'Loud Phone Ringer'. This device is designed to produce exactly the kind of sound heard in the audio clip. The other images show musical instruments (a keyboard in B, timpani in C, and a didgeridoo/handpan in D), which produce entirely different types of sounds.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The audio file contains the sound of a very loud, classic telephone ring. Image A shows a device that is explicitly labeled 'Loud Phone Ringer'. This device is designed to produce exactly the kind of sound heard in the audio clip. The other images show musical instruments (a keyboard in B, timpani in C, and a didgeridoo/handpan in D), which produce entirely different types of sounds."
+            },
+            "correct_answer": "D",
+            "index": 5,
+            "is_correct": false
+        },
+        "8": {
+            "question": "Which image most likely belongs to the object that makes this sound you hear? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "The audio clip features a lively folk tune played on an accordion with accompanying percussion. Image B shows a musician in traditional German clothing playing an instrument that combines an accordion with various percussion elements like a washboard and cymbals. This visual directly corresponds to the sounds heard in the audio. The other images are irrelevant: Image A is a cow, Image C shows people in a recording studio (not playing this type of music), and Image D shows a woman sneezing.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The audio clip features a lively folk tune played on an accordion with accompanying percussion. Image B shows a musician in traditional German clothing playing an instrument that combines an accordion with various percussion elements like a washboard and cymbals. This visual directly corresponds to the sounds heard in the audio. The other images are irrelevant: Image A is a cow, Image C shows people in a recording studio (not playing this type of music), and Image D shows a woman sneezing."
+            },
+            "correct_answer": "B",
+            "index": 8,
+            "is_correct": true
+        },
+        "17": {
+            "question": "Which image most likely belongs to the object that makes this sound you hear? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "The audio clip contains the sound of a horn being blown, specifically a long, sustained note. Image B shows a man blowing a shofar, which is an ancient musical horn typically made from a ram's horn. The sound produced by a shofar matches the sound in the audio. Image A is a lap steel guitar, a string instrument. Image C is a model engine, which would produce mechanical sounds. Image D is a dog, which would make animal vocalizations. Therefore, image B is the only plausible source of the sound.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The audio clip contains the sound of a horn being blown, specifically a long, sustained note. Image B shows a man blowing a shofar, which is an ancient musical horn typically made from a ram's horn. The sound produced by a shofar matches the sound in the audio. Image A is a lap steel guitar, a string instrument. Image C is a model engine, which would produce mechanical sounds. Image D is a dog, which would make animal vocalizations. Therefore, image B is the only plausible source of the sound."
+            },
+            "correct_answer": "B",
+            "index": 17,
+            "is_correct": true
+        },
+        "20": {
+            "question": "Which image most likely belongs to the object that makes this sound you hear? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "The audio clip features the distinct sound of a distorted electric guitar playing a musical riff. Image A shows a person playing an electric guitar connected to an amplifier, which is precisely the setup needed to produce such a sound. The other images (B: a slot machine, C: a rooster, D: an owl) depict objects or animals whose sounds do not match the audio.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The audio clip features the distinct sound of a distorted electric guitar playing a musical riff. Image A shows a person playing an electric guitar connected to an amplifier, which is precisely the setup needed to produce such a sound. The other images (B: a slot machine, C: a rooster, D: an owl) depict objects or animals whose sounds do not match the audio."
+            },
+            "correct_answer": "A",
+            "index": 20,
+            "is_correct": true
+        },
+        "22": {
+            "question": "Which image most likely belongs to the object that makes this sound you hear? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "The audio clip contains the sound of a bird singing. Among the given options, only image A shows a bird (a Red-whiskered bulbul in a cage). Image B is a cat, Image C shows percussion instruments (timbales), and Image D is a person. Therefore, the sound most likely belongs to the object in image A.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The audio clip contains the sound of a bird singing. Among the given options, only image A shows a bird (a Red-whiskered bulbul in a cage). Image B is a cat, Image C shows percussion instruments (timbales), and Image D is a person. Therefore, the sound most likely belongs to the object in image A."
+            },
+            "correct_answer": "B",
+            "index": 22,
+            "is_correct": false
+        },
+        "24": {
+            "question": "Which image most likely belongs to the object that makes this sound you hear? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "The audio features a loud, powerful roaring sound that rapidly changes pitch, characteristic of a jet engine during a high-speed fly-by. Image C depicts a fighter jet in the sky, which is the only object among the choices that would produce such a sound. Image A is a tambourine, which jingles. Image B is a small motorboat, which has a much less powerful engine sound. Image D is an eagle, which makes a screeching or chirping sound.",
+            "original_response": {
+                "answer": "C",
+                "reasoning": "The audio features a loud, powerful roaring sound that rapidly changes pitch, characteristic of a jet engine during a high-speed fly-by. Image C depicts a fighter jet in the sky, which is the only object among the choices that would produce such a sound. Image A is a tambourine, which jingles. Image B is a small motorboat, which has a much less powerful engine sound. Image D is an eagle, which makes a screeching or chirping sound."
+            },
+            "correct_answer": "B",
+            "index": 24,
+            "is_correct": false
+        },
+        "32": {
+            "question": "Which image most likely belongs to the object that makes this sound you hear? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "The audio features the distinct, rapid, percussive sound of a bass drum, characteristic of a double kick pedal technique. Image A provides a close-up, low-angle view of a drum set, specifically focusing on the double kick pedals and the bass drum. The image even includes an overlay for a book titled \"Polymetric Double Kick,\" directly referencing the sound being produced. The other images show wind chimes (B), an orchestral percussionist (C), and a skateboarder (D), none of which would create the sound heard in the audio.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The audio features the distinct, rapid, percussive sound of a bass drum, characteristic of a double kick pedal technique. Image A provides a close-up, low-angle view of a drum set, specifically focusing on the double kick pedals and the bass drum. The image even includes an overlay for a book titled \"Polymetric Double Kick,\" directly referencing the sound being produced. The other images show wind chimes (B), an orchestral percussionist (C), and a skateboarder (D), none of which would create the sound heard in the audio."
+            },
+            "correct_answer": "D",
+            "index": 32,
+            "is_correct": false
+        },
+        "33": {
+            "question": "Which image most likely belongs to the object that makes this sound you hear? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "The audio contains a rapid, high-pitched rattling sound. This is the characteristic warning sound produced by a rattlesnake, which it creates by vibrating the interlocking segments of keratin at the end of its tail. Image D shows a rattlesnake, the only animal or object among the options that makes this specific sound. Image A is a didgeridoo, which produces a low drone. Image B is a keyboard, which makes clicking sounds. Image C shows a person blowing their nose, which would sound very different. Therefore, the sound in the audio most closely corresponds to the rattlesnake in image D.",
+            "original_response": {
+                "answer": "D",
+                "reasoning": "The audio contains a rapid, high-pitched rattling sound. This is the characteristic warning sound produced by a rattlesnake, which it creates by vibrating the interlocking segments of keratin at the end of its tail. Image D shows a rattlesnake, the only animal or object among the options that makes this specific sound. Image A is a didgeridoo, which produces a low drone. Image B is a keyboard, which makes clicking sounds. Image C shows a person blowing their nose, which would sound very different. Therefore, the sound in the audio most closely corresponds to the rattlesnake in image D."
+            },
+            "correct_answer": "B",
+            "index": 33,
+            "is_correct": false
+        },
+        "34": {
+            "question": "Which image most likely belongs to the object that makes this sound you hear? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "The audio clip features the distinct sound of a shofar, a traditional Jewish instrument made from a ram's horn. Image A clearly shows a man in religious attire blowing into a shofar. The other options are incorrect: Image B shows fireworks, which would produce explosive sounds. Image C shows DJ equipment, which would produce music or scratching sounds. Image D is a very low-quality image, but it does not depict anything that would make the horn-like sound from the audio.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The audio clip features the distinct sound of a shofar, a traditional Jewish instrument made from a ram's horn. Image A clearly shows a man in religious attire blowing into a shofar. The other options are incorrect: Image B shows fireworks, which would produce explosive sounds. Image C shows DJ equipment, which would produce music or scratching sounds. Image D is a very low-quality image, but it does not depict anything that would make the horn-like sound from the audio."
+            },
+            "correct_answer": "A",
+            "index": 34,
+            "is_correct": true
+        },
+        "35": {
+            "question": "Which image most likely belongs to the object that makes this sound you hear? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "The audio clip contains a high-pitched wailing sound that is clearly a human vocalization. Image A shows a person playing an electric guitar, which produces a musical, instrumental sound. Image C shows a woman playing a haegeum, a stringed instrument, which also has a distinct sound different from the audio. Image D shows two bulls fighting, and the sounds they would make are low-pitched bellows or grunts. Image B shows a young girl, and the high-pitched vocalization in the audio is consistent with a sound a child might make. Therefore, the sound most likely belongs to the person in image B.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The audio clip contains a high-pitched wailing sound that is clearly a human vocalization. Image A shows a person playing an electric guitar, which produces a musical, instrumental sound. Image C shows a woman playing a haegeum, a stringed instrument, which also has a distinct sound different from the audio. Image D shows two bulls fighting, and the sounds they would make are low-pitched bellows or grunts. Image B shows a young girl, and the high-pitched vocalization in the audio is consistent with a sound a child might make. Therefore, the sound most likely belongs to the person in image B."
+            },
+            "correct_answer": "B",
+            "index": 35,
+            "is_correct": true
+        },
+        "39": {
+            "question": "Which image most likely belongs to the object that makes this sound you hear? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "The audio contains the distinct sounds of rhythmic clapping and a child's voice singing a nursery rhyme or chant. This is characteristic of a children's hand-clapping game. Image C depicts two young girls engaged in such a game, with their hands positioned for clapping. Images A (a person being tickled), B (a car), and D (cows in a field) do not match the sounds heard in the audio.",
+            "original_response": {
+                "answer": "C",
+                "reasoning": "The audio contains the distinct sounds of rhythmic clapping and a child's voice singing a nursery rhyme or chant. This is characteristic of a children's hand-clapping game. Image C depicts two young girls engaged in such a game, with their hands positioned for clapping. Images A (a person being tickled), B (a car), and D (cows in a field) do not match the sounds heard in the audio."
+            },
+            "correct_answer": "C",
+            "index": 39,
+            "is_correct": true
+        },
+        "44": {
+            "question": "Which image most likely belongs to the object that makes this sound you hear? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "The audio is a very loud, piercing, and repetitive ringing sound. Image A displays a device labeled \"Loud Phone Ringer,\" which is specifically designed to produce such a sound to alert someone of an incoming call, especially in a noisy environment or for someone with hearing difficulties. The flashing red lights on the device also indicate an active alert, which corresponds with the ringing sound. Image B shows a trumpet, which produces a musical brass sound. Image C shows tap dancers, who would create rhythmic percussive sounds. Image D shows a ceiling vent, which would typically produce a humming or blowing sound, not a loud ring. Therefore, the sound most directly and logically corresponds to the object in Image A.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The audio is a very loud, piercing, and repetitive ringing sound. Image A displays a device labeled \"Loud Phone Ringer,\" which is specifically designed to produce such a sound to alert someone of an incoming call, especially in a noisy environment or for someone with hearing difficulties. The flashing red lights on the device also indicate an active alert, which corresponds with the ringing sound. Image B shows a trumpet, which produces a musical brass sound. Image C shows tap dancers, who would create rhythmic percussive sounds. Image D shows a ceiling vent, which would typically produce a humming or blowing sound, not a loud ring. Therefore, the sound most directly and logically corresponds to the object in Image A."
+            },
+            "correct_answer": "C",
+            "index": 44,
+            "is_correct": false
+        },
+        "45": {
+            "question": "Which image most likely belongs to the object that makes this sound you hear? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "The audio clip features the loud, distinctive trumpeting sound that is characteristic of an elephant. Image A is the only option that shows elephants. Image B depicts a cat, which meows or purrs. Image C shows a chipmunk, which makes chirping sounds. Image D shows a woman playing a didgeridoo, which produces a low, droning musical note. Therefore, the sound in the audio corresponds directly to the animals in Image A.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The audio clip features the loud, distinctive trumpeting sound that is characteristic of an elephant. Image A is the only option that shows elephants. Image B depicts a cat, which meows or purrs. Image C shows a chipmunk, which makes chirping sounds. Image D shows a woman playing a didgeridoo, which produces a low, droning musical note. Therefore, the sound in the audio corresponds directly to the animals in Image A."
+            },
+            "correct_answer": "A",
+            "index": 45,
+            "is_correct": true
+        },
+        "49": {
+            "question": "Which image most likely belongs to the object that makes this sound you hear? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "The audio clip features the unmistakable sound of a civil defense or air raid siren, characterized by a loud, continuous wail that changes in pitch. Image A shows exactly this type of mechanical siren mounted on a pole. The objects in the other images produce different sounds: Image B is a toilet, which makes a flushing sound; Image C is a person playing a violin, which creates music; and Image D is a fire truck, which has a siren, but modern fire truck sirens typically have a different, more electronic tone than the deep mechanical wail heard in the audio. Thus, the sound is a direct match for the object in image A.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The audio clip features the unmistakable sound of a civil defense or air raid siren, characterized by a loud, continuous wail that changes in pitch. Image A shows exactly this type of mechanical siren mounted on a pole. The objects in the other images produce different sounds: Image B is a toilet, which makes a flushing sound; Image C is a person playing a violin, which creates music; and Image D is a fire truck, which has a siren, but modern fire truck sirens typically have a different, more electronic tone than the deep mechanical wail heard in the audio. Thus, the sound is a direct match for the object in image A."
+            },
+            "correct_answer": "D",
+            "index": 49,
+            "is_correct": false
+        },
+        "51": {
+            "question": "Which image most likely belongs to the object that makes this sound you hear? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "The audio contains a series of high-pitched, rapid chirping sounds. This type of vocalization is characteristic of a bird. Image C is the only option that shows a bird. Image A depicts a washboard, which creates a rhythmic scraping sound. Image B shows a zither, a stringed musical instrument. Image D shows a crying baby. None of the other options would produce the chirping sound heard in the audio.",
+            "original_response": {
+                "answer": "C",
+                "reasoning": "The audio contains a series of high-pitched, rapid chirping sounds. This type of vocalization is characteristic of a bird. Image C is the only option that shows a bird. Image A depicts a washboard, which creates a rhythmic scraping sound. Image B shows a zither, a stringed musical instrument. Image D shows a crying baby. None of the other options would produce the chirping sound heard in the audio."
+            },
+            "correct_answer": "C",
+            "index": 51,
+            "is_correct": true
+        },
+        "52": {
+            "question": "Which image most likely belongs to the object that makes this sound you hear? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "The audio features a prominent hissing sound. Image B shows an alligator, an animal that is well-known for producing a hissing sound as a threat or warning. Furthermore, the text overlay on image B explicitly states \"Alligator Hiss,\" directly linking the image to the sound. The other options are incorrect; Image A shows people who are laughing, Image D shows a musical instrument (theremin) that produces a completely different sound, and Image C is too unclear to identify.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The audio features a prominent hissing sound. Image B shows an alligator, an animal that is well-known for producing a hissing sound as a threat or warning. Furthermore, the text overlay on image B explicitly states \"Alligator Hiss,\" directly linking the image to the sound. The other options are incorrect; Image A shows people who are laughing, Image D shows a musical instrument (theremin) that produces a completely different sound, and Image C is too unclear to identify."
+            },
+            "correct_answer": "C",
+            "index": 52,
+            "is_correct": false
+        },
+        "53": {
+            "question": "Which image most likely belongs to the object that makes this sound you hear? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "The audio features the distinct, rapid, rhythmic sound of maracas being shaken, which is a key element in many styles of Latin music. Image A shows a fly, which makes a buzzing sound. Image B shows elephants, which make trumpeting or stomping sounds. Image D shows a person using a typewriter, which produces a mechanical clacking noise. Image C, however, shows a person's hands in a position and motion consistent with playing a handheld percussion instrument like maracas. Therefore, the sound in the audio most likely belongs to the activity depicted in image C.",
+            "original_response": {
+                "answer": "C",
+                "reasoning": "The audio features the distinct, rapid, rhythmic sound of maracas being shaken, which is a key element in many styles of Latin music. Image A shows a fly, which makes a buzzing sound. Image B shows elephants, which make trumpeting or stomping sounds. Image D shows a person using a typewriter, which produces a mechanical clacking noise. Image C, however, shows a person's hands in a position and motion consistent with playing a handheld percussion instrument like maracas. Therefore, the sound in the audio most likely belongs to the activity depicted in image C."
+            },
+            "correct_answer": "C",
+            "index": 53,
+            "is_correct": true
+        },
+        "56": {
+            "question": "Which image most likely belongs to the object that makes this sound you hear? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "The audio clip features the distinct sound of a French horn playing a solo melody. Image B shows a musician playing a French horn on a stage, which directly corresponds to the instrument heard. Image A depicts a football game, which might involve a marching band, but the audio is a clean solo performance, not the sound of a full band in a stadium. Image C shows an accordion, and Image D shows a steam train, neither of which produce the sound heard in the audio clip.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The audio clip features the distinct sound of a French horn playing a solo melody. Image B shows a musician playing a French horn on a stage, which directly corresponds to the instrument heard. Image A depicts a football game, which might involve a marching band, but the audio is a clean solo performance, not the sound of a full band in a stadium. Image C shows an accordion, and Image D shows a steam train, neither of which produce the sound heard in the audio clip."
+            },
+            "correct_answer": "C",
+            "index": 56,
+            "is_correct": false
+        },
+        "58": {
+            "question": "Which image most likely belongs to the object that makes this sound you hear? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "The audio contains the distinct sound of a car passing by at high speed, characterized by a \"whoosh\" noise and the Doppler effect as it moves away. Image A is the only option that depicts a car driving on a road, which would produce this specific sound. Image B shows a lathe, which would make a mechanical whirring or cutting sound. Image C shows a man playing a double bass, which produces musical notes. Image D shows popcorn popping, which would create a series of sharp popping sounds. Therefore, the sound most likely originates from the scene in image A.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The audio contains the distinct sound of a car passing by at high speed, characterized by a \"whoosh\" noise and the Doppler effect as it moves away. Image A is the only option that depicts a car driving on a road, which would produce this specific sound. Image B shows a lathe, which would make a mechanical whirring or cutting sound. Image C shows a man playing a double bass, which produces musical notes. Image D shows popcorn popping, which would create a series of sharp popping sounds. Therefore, the sound most likely originates from the scene in image A."
+            },
+            "correct_answer": "B",
+            "index": 58,
+            "is_correct": false
+        }
+    }
+}

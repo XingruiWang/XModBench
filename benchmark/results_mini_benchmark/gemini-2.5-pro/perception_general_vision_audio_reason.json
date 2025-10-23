@@ -1,0 +1,248 @@
+{
+    "task_name": "perception/general_vision_audio",
+    "score": 70.0,
+    "correct_count": 14,
+    "all_count": 20,
+    "results": {
+        "0": {
+            "question": "Look at this image. Which audio clip is most likely produced by what you see? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "The image clearly shows a chipmunk, and the text overlay explicitly states 'Chipmunk Chirping Sounds'. Audio clip A consists of a series of high-pitched, rapid chirps, which is the characteristic vocalization of a chipmunk. The other audio clips are irrelevant: B is a horn, C is a mechanical noise, and D is a squeaking sound unlike an animal call. Therefore, audio A is the only one that matches the visual content.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The image clearly shows a chipmunk, and the text overlay explicitly states 'Chipmunk Chirping Sounds'. Audio clip A consists of a series of high-pitched, rapid chirps, which is the characteristic vocalization of a chipmunk. The other audio clips are irrelevant: B is a horn, C is a mechanical noise, and D is a squeaking sound unlike an animal call. Therefore, audio A is the only one that matches the visual content."
+            },
+            "correct_answer": "A",
+            "index": 0,
+            "is_correct": true
+        },
+        "5": {
+            "question": "Look at this image. Which audio clip is most likely produced by what you see? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "The image shows two musicians. The person on the right is playing a didgeridoo, a long, wooden wind instrument that produces a low, continuous drone sound. The person on the left is playing a handpan, a steel percussion instrument. Audio clip D features the distinctive buzzing drone of a didgeridoo, which is the most prominent instrument being played. The other audio clips do not match the instruments shown: A is a bell or ringer, B is an accordion, and C is a large drum.",
+            "original_response": {
+                "answer": "D",
+                "reasoning": "The image shows two musicians. The person on the right is playing a didgeridoo, a long, wooden wind instrument that produces a low, continuous drone sound. The person on the left is playing a handpan, a steel percussion instrument. Audio clip D features the distinctive buzzing drone of a didgeridoo, which is the most prominent instrument being played. The other audio clips do not match the instruments shown: A is a bell or ringer, B is an accordion, and C is a large drum."
+            },
+            "correct_answer": "D",
+            "index": 5,
+            "is_correct": true
+        },
+        "8": {
+            "question": "Look at this image. Which audio clip is most likely produced by what you see? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "The image shows a man in traditional German or Austrian attire (lederhosen) playing an accordion and a percussion rig. Audio clip B features lively folk music prominently featuring an accordion, which is a perfect match for the instruments and the cultural context depicted in the image. The other audio clips do not match the scene: A is a triangle, C is finger snapping, and D is a hissing sound.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The image shows a man in traditional German or Austrian attire (lederhosen) playing an accordion and a percussion rig. Audio clip B features lively folk music prominently featuring an accordion, which is a perfect match for the instruments and the cultural context depicted in the image. The other audio clips do not match the scene: A is a triangle, C is finger snapping, and D is a hissing sound."
+            },
+            "correct_answer": "B",
+            "index": 8,
+            "is_correct": true
+        },
+        "17": {
+            "question": "Look at this image. Which audio clip is most likely produced by what you see? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "The image shows a man blowing into a Shofar, a traditional Jewish instrument made from a ram's horn. The sound produced by a Shofar is a powerful, sustained, horn-like blast. Audio clip B perfectly matches this description. Audio clip A is a trumpet, which has a different, more metallic and melodic sound. Audio clip C is machine gun fire, and audio clip D is the sound of someone coughing, both of which are completely unrelated to the object and action in the image.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The image shows a man blowing into a Shofar, a traditional Jewish instrument made from a ram's horn. The sound produced by a Shofar is a powerful, sustained, horn-like blast. Audio clip B perfectly matches this description. Audio clip A is a trumpet, which has a different, more metallic and melodic sound. Audio clip C is machine gun fire, and audio clip D is the sound of someone coughing, both of which are completely unrelated to the object and action in the image."
+            },
+            "correct_answer": "B",
+            "index": 17,
+            "is_correct": true
+        },
+        "20": {
+            "question": "Look at this image. Which audio clip is most likely produced by what you see? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "The image shows a person playing an electric guitar using a slide on their finger. This technique produces a characteristic gliding, wailing sound. Audio clip A features exactly this sound: an electric guitar being played with a slide. The other options are incorrect: B is an electronic sound, possibly a DJ scratching; C is a rooster crowing; and D is a human vocalization.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The image shows a person playing an electric guitar using a slide on their finger. This technique produces a characteristic gliding, wailing sound. Audio clip A features exactly this sound: an electric guitar being played with a slide. The other options are incorrect: B is an electronic sound, possibly a DJ scratching; C is a rooster crowing; and D is a human vocalization."
+            },
+            "correct_answer": "A",
+            "index": 20,
+            "is_correct": true
+        },
+        "22": {
+            "question": "Look at this image. Which audio clip is most likely produced by what you see? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "The image shows a ginger Persian cat from a well-known internet meme. In the original video, the cat makes a very distinct, low-pitched, guttural, and somewhat distorted sound. Audio clip B contains a sound that perfectly matches this unique vocalization. Audio A is a high-pitched squeak, audio C is the sound of tapping on glass, and audio D is a human voice speaking English, none of which correspond to the sound made by the cat in the famous video.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The image shows a ginger Persian cat from a well-known internet meme. In the original video, the cat makes a very distinct, low-pitched, guttural, and somewhat distorted sound. Audio clip B contains a sound that perfectly matches this unique vocalization. Audio A is a high-pitched squeak, audio C is the sound of tapping on glass, and audio D is a human voice speaking English, none of which correspond to the sound made by the cat in the famous video."
+            },
+            "correct_answer": "B",
+            "index": 22,
+            "is_correct": true
+        },
+        "24": {
+            "question": "Look at this image. Which audio clip is most likely produced by what you see? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "The image shows a small motorboat speeding across the water. Audio clip B contains the sound of a motorboat engine, which directly corresponds to the visual information in the image. Audio clip A is a tapping sound, C is a high-pitched engine sound like a jet or race car, and D is a creaking sound. None of these other options match the scene.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The image shows a small motorboat speeding across the water. Audio clip B contains the sound of a motorboat engine, which directly corresponds to the visual information in the image. Audio clip A is a tapping sound, C is a high-pitched engine sound like a jet or race car, and D is a creaking sound. None of these other options match the scene."
+            },
+            "correct_answer": "B",
+            "index": 24,
+            "is_correct": true
+        },
+        "32": {
+            "question": "Look at this image. Which audio clip is most likely produced by what you see? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "The image shows a person on a skateboard performing a grind on a concrete ledge at a skate park. Audio clip B features the sound of skateboard wheels rolling on concrete, followed by the characteristic scraping sound of the metal trucks grinding along an edge. This sound directly matches the action depicted in the image. Audio A is rock music, Audio C is the sound of wind chimes, and Audio D is a mechanical sound, none of which represent the actual sounds produced by skateboarding.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The image shows a person on a skateboard performing a grind on a concrete ledge at a skate park. Audio clip B features the sound of skateboard wheels rolling on concrete, followed by the characteristic scraping sound of the metal trucks grinding along an edge. This sound directly matches the action depicted in the image. Audio A is rock music, Audio C is the sound of wind chimes, and Audio D is a mechanical sound, none of which represent the actual sounds produced by skateboarding."
+            },
+            "correct_answer": "D",
+            "index": 32,
+            "is_correct": false
+        },
+        "33": {
+            "question": "Look at this image. Which audio clip is most likely produced by what you see? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "The image displays a person's hand actively typing on a laptop keyboard. Audio clip B is the distinct sound of keys being pressed on a keyboard. The other audio options are irrelevant to the visual content: A is electronic music, C is the sound of someone blowing their nose, and D sounds like a shaker or maraca. Therefore, the sound of typing in clip B is the most logical match for the action shown in the image.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The image displays a person's hand actively typing on a laptop keyboard. Audio clip B is the distinct sound of keys being pressed on a keyboard. The other audio options are irrelevant to the visual content: A is electronic music, C is the sound of someone blowing their nose, and D sounds like a shaker or maraca. Therefore, the sound of typing in clip B is the most logical match for the action shown in the image."
+            },
+            "correct_answer": "B",
+            "index": 33,
+            "is_correct": true
+        },
+        "34": {
+            "question": "Look at this image. Which audio clip is most likely produced by what you see? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "The image depicts a man in Jewish religious attire, including a yarmulke (skullcap) and a tallit (prayer shawl), blowing a shofar, which is a horn made from a ram's horn used in Jewish ceremonies. Audio clip C features the distinct, powerful sound of a shofar being blown, with its characteristic blasts. The other audio clips are unrelated: A is singing, B is a motorcycle engine, and D is the chirping of crickets.",
+            "original_response": {
+                "answer": "C",
+                "reasoning": "The image depicts a man in Jewish religious attire, including a yarmulke (skullcap) and a tallit (prayer shawl), blowing a shofar, which is a horn made from a ram's horn used in Jewish ceremonies. Audio clip C features the distinct, powerful sound of a shofar being blown, with its characteristic blasts. The other audio clips are unrelated: A is singing, B is a motorcycle engine, and D is the chirping of crickets."
+            },
+            "correct_answer": "A",
+            "index": 34,
+            "is_correct": false
+        },
+        "35": {
+            "question": "Look at this image. Which audio clip is most likely produced by what you see? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "The image shows a young girl who appears to be in the middle of speaking or singing. Audio clip B features the distinct sound of a young girl singing. The age of the voice in the audio clip is consistent with the apparent age of the girl in the photograph. The other audio options are completely incongruous: A is a distorted, heavy electronic sound; C is a slow, somber classical cello piece; and D is a whale call. Therefore, the audio of a girl singing is the only logical match for the visual.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The image shows a young girl who appears to be in the middle of speaking or singing. Audio clip B features the distinct sound of a young girl singing. The age of the voice in the audio clip is consistent with the apparent age of the girl in the photograph. The other audio options are completely incongruous: A is a distorted, heavy electronic sound; C is a slow, somber classical cello piece; and D is a whale call. Therefore, the audio of a girl singing is the only logical match for the visual."
+            },
+            "correct_answer": "B",
+            "index": 35,
+            "is_correct": true
+        },
+        "39": {
+            "question": "Look at this image. Which audio clip is most likely produced by what you see? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "The image depicts two young girls facing each other with their hands in motion, strongly suggesting they are playing a hand-clapping game. Audio clip C features the sound of children singing a rhythmic chant, which is the type of song that typically accompanies such games. Audio A (laughter) is plausible but less specific. Audio B (a car engine) and Audio D (a mooing cow) are completely inconsistent with the indoor scene of children playing.",
+            "original_response": {
+                "answer": "C",
+                "reasoning": "The image depicts two young girls facing each other with their hands in motion, strongly suggesting they are playing a hand-clapping game. Audio clip C features the sound of children singing a rhythmic chant, which is the type of song that typically accompanies such games. Audio A (laughter) is plausible but less specific. Audio B (a car engine) and Audio D (a mooing cow) are completely inconsistent with the indoor scene of children playing."
+            },
+            "correct_answer": "C",
+            "index": 39,
+            "is_correct": true
+        },
+        "44": {
+            "question": "Look at this image. Which audio clip is most likely produced by what you see? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "The image displays three individuals on a stage, each on a small platform, engaged in what appears to be a tap dance performance. Their dynamic poses suggest movement and rhythm. Audio clip C features the distinct percussive and rhythmic sounds of tap shoes striking a surface, which directly corresponds to the visual scene. The other audio clips are not a match: A is a mechanical ticking sound, B is orchestral music, and D is the sound of an engine.",
+            "original_response": {
+                "answer": "C",
+                "reasoning": "The image displays three individuals on a stage, each on a small platform, engaged in what appears to be a tap dance performance. Their dynamic poses suggest movement and rhythm. Audio clip C features the distinct percussive and rhythmic sounds of tap shoes striking a surface, which directly corresponds to the visual scene. The other audio clips are not a match: A is a mechanical ticking sound, B is orchestral music, and D is the sound of an engine."
+            },
+            "correct_answer": "C",
+            "index": 44,
+            "is_correct": true
+        },
+        "45": {
+            "question": "Look at this image. Which audio clip is most likely produced by what you see? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "The image shows several elephants walking in a natural habitat. Audio clip B features a deep, low-frequency rumbling sound, which is a characteristic vocalization made by elephants. The other sounds are less likely: A is a high-pitched screech, C is the chirping of an insect like a cricket, and D is the croaking of frogs. The most direct and fitting sound for the scene depicted is the elephant rumble.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The image shows several elephants walking in a natural habitat. Audio clip B features a deep, low-frequency rumbling sound, which is a characteristic vocalization made by elephants. The other sounds are less likely: A is a high-pitched screech, C is the chirping of an insect like a cricket, and D is the croaking of frogs. The most direct and fitting sound for the scene depicted is the elephant rumble."
+            },
+            "correct_answer": "A",
+            "index": 45,
+            "is_correct": false
+        },
+        "49": {
+            "question": "Look at this image. Which audio clip is most likely produced by what you see? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "The image displays a fire truck with its emergency lights on, indicating it is in operation. The most probable sound associated with an active fire truck is its siren. Audio clips B (a toilet flush) and C (music) are unrelated to the scene. Audio clips A and D are both emergency vehicle sirens. However, audio clip D features a modern, multi-tone electronic siren, which is commonly used on fire trucks like the one pictured. Audio clip A is an older, mechanical-style siren. Given the appearance of the fire truck, the modern electronic siren in D is the most likely and appropriate sound.",
+            "original_response": {
+                "answer": "D",
+                "reasoning": "The image displays a fire truck with its emergency lights on, indicating it is in operation. The most probable sound associated with an active fire truck is its siren. Audio clips B (a toilet flush) and C (music) are unrelated to the scene. Audio clips A and D are both emergency vehicle sirens. However, audio clip D features a modern, multi-tone electronic siren, which is commonly used on fire trucks like the one pictured. Audio clip A is an older, mechanical-style siren. Given the appearance of the fire truck, the modern electronic siren in D is the most likely and appropriate sound."
+            },
+            "correct_answer": "D",
+            "index": 49,
+            "is_correct": true
+        },
+        "51": {
+            "question": "Look at this image. Which audio clip is most likely produced by what you see? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "The image shows a bird, which appears to be a Lidth's Jay, perched in a tree. Analyzing the audio options, A and B are musical pieces (percussion and guitar, respectively), and D is the sound of an elephant trumpeting. Only audio clip C contains the sound of a bird call. The harsh, repetitive calls in clip C are consistent with the vocalizations of a jay, making it the only plausible match for the image.",
+            "original_response": {
+                "answer": "C",
+                "reasoning": "The image shows a bird, which appears to be a Lidth's Jay, perched in a tree. Analyzing the audio options, A and B are musical pieces (percussion and guitar, respectively), and D is the sound of an elephant trumpeting. Only audio clip C contains the sound of a bird call. The harsh, repetitive calls in clip C are consistent with the vocalizations of a jay, making it the only plausible match for the image."
+            },
+            "correct_answer": "C",
+            "index": 51,
+            "is_correct": true
+        },
+        "52": {
+            "question": "Look at this image. Which audio clip is most likely produced by what you see? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "The image, although blurry and dark, shows a close-up of a furry animal that strongly resembles a cat. Audio clip B is a distinct hissing sound. Hissing is a common and characteristic vocalization made by cats, usually when they feel threatened, angry, or defensive. The other audio clips are not sounds produced by a cat: A is human laughter, C is a human 'shushing' sound, and D is instrumental music. Therefore, the hissing sound in clip B is the most logical and likely sound to be produced by the animal in the image.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The image, although blurry and dark, shows a close-up of a furry animal that strongly resembles a cat. Audio clip B is a distinct hissing sound. Hissing is a common and characteristic vocalization made by cats, usually when they feel threatened, angry, or defensive. The other audio clips are not sounds produced by a cat: A is human laughter, C is a human 'shushing' sound, and D is instrumental music. Therefore, the hissing sound in clip B is the most logical and likely sound to be produced by the animal in the image."
+            },
+            "correct_answer": "C",
+            "index": 52,
+            "is_correct": false
+        },
+        "53": {
+            "question": "Look at this image. Which audio clip is most likely produced by what you see? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "The image shows a person whose hands are positioned in the act of snapping their fingers. Audio clip D is the sound of fingers snapping. The other sounds (a buzzing insect in A, a loud screech in B, and drums in C) do not match the visual information provided in the image.",
+            "original_response": {
+                "answer": "D",
+                "reasoning": "The image shows a person whose hands are positioned in the act of snapping their fingers. Audio clip D is the sound of fingers snapping. The other sounds (a buzzing insect in A, a loud screech in B, and drums in C) do not match the visual information provided in the image."
+            },
+            "correct_answer": "C",
+            "index": 53,
+            "is_correct": false
+        },
+        "56": {
+            "question": "Look at this image. Which audio clip is most likely produced by what you see? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "The image shows a person playing a button accordion, a type of free-reed aerophone musical instrument. Audio clip B is the only option that features the characteristic sound of an accordion. Audio clip A is the sound of a crowd cheering, audio clip C is the sound of a bowed string instrument like a cello, and audio clip D is a loud mechanical noise, possibly a machine gun.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The image shows a person playing a button accordion, a type of free-reed aerophone musical instrument. Audio clip B is the only option that features the characteristic sound of an accordion. Audio clip A is the sound of a crowd cheering, audio clip C is the sound of a bowed string instrument like a cello, and audio clip D is a loud mechanical noise, possibly a machine gun."
+            },
+            "correct_answer": "C",
+            "index": 56,
+            "is_correct": false
+        },
+        "58": {
+            "question": "Look at this image. Which audio clip is most likely produced by what you see? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "The image shows a lathe, a type of machine tool used for shaping material. A piece of light-colored material, possibly wood or plastic, is spinning rapidly while a cutting tool carves it. This process would generate a continuous, high-pitched whirring or humming sound from the motor and the spinning workpiece, along with a distinct scraping or shearing sound from the cutting action. Audio clip B features exactly this combination of sounds: a sustained, high-frequency mechanical whir and a scraping noise. Audio A is a short impact sound. Audio C is a low-pitched, intermittent rumbling. Audio D is a crackling sound. Therefore, audio B is the most plausible sound for the activity shown.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The image shows a lathe, a type of machine tool used for shaping material. A piece of light-colored material, possibly wood or plastic, is spinning rapidly while a cutting tool carves it. This process would generate a continuous, high-pitched whirring or humming sound from the motor and the spinning workpiece, along with a distinct scraping or shearing sound from the cutting action. Audio clip B features exactly this combination of sounds: a sustained, high-frequency mechanical whir and a scraping noise. Audio A is a short impact sound. Audio C is a low-pitched, intermittent rumbling. Audio D is a crackling sound. Therefore, audio B is the most plausible sound for the activity shown."
+            },
+            "correct_answer": "B",
+            "index": 58,
+            "is_correct": true
+        }
+    }
+}

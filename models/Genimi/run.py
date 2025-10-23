@@ -8,7 +8,7 @@ from google.genai import types
 from audioBench import AudioBench
 import argparse
 from tqdm import tqdm
-
+import random
 
 API = {}
 with open(f"{os.environ['audioBench']}/.envs", "r") as f:
@@ -16,12 +16,58 @@ with open(f"{os.environ['audioBench']}/.envs", "r") as f:
 for line in env_vars:
     name, value = line.strip().split('=')
     API[name] = value
-client = genai.Client(api_key=API['Google_API_Key'])
+
+api_key = random.choice([API[key] for key in API if key.startswith('Google_API_Key')])
+print(f"Using API key: {api_key}")
+client = genai.Client(api_key=api_key)
 # Read image and audio
 
+
+from pydantic import BaseModel
+
+class AnswerSchema(BaseModel):
+    answer: str
+    reasoning: str
+
+    
 def load_questions(path):
     with open(path, 'r') as f:
         questions = json.load(f)
+    return questions
+
+def load_dual_questions(path_at, path_vt):
+    questions_at = load_questions(path_at)
+    questions_vt = load_questions(path_vt)
+    questions = []
+    for question_at, question_vt in zip(questions_at, questions_vt):
+        question_a = question_at['question']
+        question_v = question_vt['question']
+        
+        response = client.models.generate_content(
+            model="gemini-2.0-flash-lite",
+            # model="gemini-2.5-flash",
+            # model=args.model, # model="gemini-2.0-flash",  # or "gemini-2.5-flash"
+            contents = [
+                "The following is a pair of questions where the first question is about given an audio to find a text option, and the second question is about given a image or video to find an text option. "
+                "Question 1:",
+                question_at['question'],
+                "Question 2:",
+                question_vt['question'],
+                "Please convert this two in one question, which is given an audio and a image or video together to find an text option. \n",
+                "New Question:",
+            ]
+        )
+        question = response.text
+        question = {
+            "question": question,
+            "question_a": question_at['question'],
+            "question_v": question_vt['question'],
+            "conditions_a": question_at['conditions'],
+            "conditions_v": question_vt['conditions'],
+            "options": question_vt['options'],
+            "correct_answer": question_at['correct_answer'],
+        }
+        questions.append(question)
     return questions
 
 def get_question(questions, index):
@@ -61,7 +107,42 @@ def get_question(questions, index):
         "correct_answer": correct_answer
     }
     
+def get_question_audio_vision_text(questions, index):
+    instance = questions[index]
+    
+    question = instance['question']
+    
+    with open(instance['conditions_a']['input'], "rb") as f:
+        condition_byte_a = f.read()
+    with open(instance['conditions_v']['input'], "rb") as f:
+        condition_byte_v = f.read()
 
+    choices = instance['options']
+    choises_type = instance['options']['A']['modality']
+    choises_byte = {}
+    
+    for choice in choices:
+        if choices[choice]['modality'] != 'Text':
+            with open(choices[choice]['input'], "rb") as f:
+                choises_byte[choice] = f.read()
+        else:
+            choises_byte[choice] = choices[choice]['input']
+    
+    choises_paths = [choices[choice]['input'] for choice in choices]
+    correct_answer = instance['correct_answer']
+    
+    return {
+        "question": question,
+        "condition_byte_a": condition_byte_a,
+        "condition_byte_v": condition_byte_v,
+        'condition_modality_a': 'Audio',
+        'condition_modality_v': 'Image',
+        "choices_type": choises_type,
+        "choices_paths": choises_paths,
+        "choices_bytes": choises_byte,
+        "correct_answer": correct_answer
+    }
+    
 def _run_genimi(instance, args):
     
     modality_to_format = {
@@ -113,14 +194,22 @@ def _run_genimi(instance, args):
             choise_data['D'],
             "Give the letter of the correct answer (A, B, C, or D)."
         ]
-        
-        # print(f"Running model: {args.model}")
-        response = client.models.generate_content(
-            model="gemini-2.0-flash",
-            # model="gemini-2.5-flash",
-            # model=args.model, # model="gemini-2.0-flash",  # or "gemini-2.5-flash"
-            contents=contents
-        )
+        if args.model == "gemini-2.0-pro":
+            print(f"Running model: gemini-1.5-pro")
+            response = client.models.generate_content(
+                model='gemini-1.5-pro',
+                # model="gemini-1.5-pro",
+                # model=args.model, # model="gemini-2.0-flash",  # or "gemini-2.5-flash"
+                contents=contents
+            )
+        else:
+            print(f"Running model: {args.model}")
+            response = client.models.generate_content(
+                model=args.model,
+                # model="gemini-1.5-pro",
+                # model=args.model, # model="gemini-2.0-flash",  # or "gemini-2.5-flash"
+                contents=contents
+            )
         
         if response.text.strip().upper() not in ['A', 'B', 'C', 'D']:
             print(f"Response is not a valid answer: {response.text.strip()}. Re-running with reasoning extraction.")
@@ -151,18 +240,22 @@ def _run_genimi(instance, args):
             'Please provide a detailed reasoning and then give the letter of the correct answer (A, B, C, or D) in a json format like this: {\"answer\": \"A\", \"reasoning\": \"...\"}.'
         ]
         
-        # print(f"Running model: {args.model}")
+        print(f"Running model: {args.model}") 
         response = client.models.generate_content(
-            model="gemini-2.0-flash",
+            model=args.model,
             # model="gemini-2.5-flash",
             # model=args.model, # model="gemini-2.0-flash",  # or "gemini-2.5-flash"
-            contents=contents
+            contents=contents,
+            config={
+                    "response_mime_type": "application/json",
+                    "response_schema": AnswerSchema,
+                }
         )
-        
+
         try:
-            output = eval(response.text.strip())
-            answer = output.get('answer', '').strip().upper()
-            reasoning = output.get('reasoning', '').strip()
+            output = response.text
+            answer = response.parsed.answer.strip().upper()
+            reasoning = response.parsed.reasoning.strip()
         
         except Exception as e:
             print(f"Response is not a valid answer: {response.text.strip()}. Re-running with reasoning extraction.")
@@ -185,6 +278,7 @@ def _run_genimi(instance, args):
         }
 
 def run_genimi(questions, index, args):
+    # instance = get_question_audio_vision_text(questions, index)
     instance = get_question(questions, index)
     
     try:
@@ -205,14 +299,29 @@ def run_all_genimi(task_name, questions, args, sample = 100, save_dir = None):
     
     save_result['results'] = {}
     
+    # task_name = task_name.replace('/', '_')
+    task_name2 = task_name.split('_')
+    modality_name = '_'.join(task_name2[-2:])
+    task_name2 = '_'.join(task_name2[:-2])
+    
+    # load hard case
+    hard_case_path = f"/home/xwang378/scratch/2025/AudioBench/benchmark/results/gemini-2.5-pro/hard_case.json"
+    with open(hard_case_path, "r") as f:
+        hard_case = json.load(f)
+    hard_case_ids = [int(id) for id in hard_case[task_name2].keys()]
+    
     if sample > len(questions):
         print(f"Sample is greater than the number of questions, setting sample to {len(questions)}")
         sample = len(questions)
     if sample == -1:
         sample = len(questions)
-        
+
+    
     for i in tqdm(range(sample)):
+        if i not in hard_case_ids[:20]:
+            continue
         response = run_genimi(questions, i, args)
+        original_response = response
         if response is not None:
             all_count += 1
             reasoning = ''
@@ -231,6 +340,7 @@ def run_all_genimi(task_name, questions, args, sample = 100, save_dir = None):
             "question": questions[i]['question'],
             "response": response.strip() if response else None,
             'reasoning': reasoning,
+            'original_response': original_response,
             "correct_answer": questions[i]['correct_answer'],
             "index": i,
             "is_correct": is_correct if response else False
@@ -255,8 +365,14 @@ def main(args):
     audiobench = AudioBench(root_dir=args.root_dir)
 
     task_name = args.task_name
-    task_path = audiobench(task_name)
-    questions = load_questions(task_path)
+    
+    if 'audio_vision_text' in task_name:
+        task_path_at = audiobench(task_name.replace('audio_vision_text', 'audio_text'))
+        task_path_vt = audiobench(task_name.replace('audio_vision_text', 'vision_text'))
+        questions = load_dual_questions(task_path_at, task_path_vt)
+    else:
+        task_path = audiobench(task_name)
+        questions = load_questions(task_path)
 
     run_all_genimi(task_name, questions, args, sample=args.sample, save_dir=args.save_dir)
     
@@ -267,7 +383,7 @@ if __name__ == "__main__":
     parser.add_argument('--task_name', help='Name of the task', default='perception/vggss_audio_vision')
     parser.add_argument('--sample', type=int, help='Number of samples to run', default=1)
     parser.add_argument('--save_dir', help='Directory to save results', default='/home/xwang378/scratch/2025/AudioBench/benchmark/results/')
-    parser.add_argument('--model', help='Model to use for generation', default='gemini-2.5-flash')
+    parser.add_argument('--model', help='Model to use for generation', default='gemini-2.0-flash')
     parser.add_argument('--reason', type=bool, default=False, help='Whether to run the reason script')
     args = parser.parse_args()
     main(args)

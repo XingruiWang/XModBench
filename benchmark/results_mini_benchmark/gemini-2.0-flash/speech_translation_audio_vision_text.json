@@ -1,0 +1,2681 @@
+{
+    "task_name": "speech/translation_audio_vision_text",
+    "score": 99.32659932659934,
+    "correct_count": 295,
+    "all_count": 297,
+    "results": {
+        "0": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 0,
+            "is_correct": true
+        },
+        "1": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A",
+            "correct_answer": "A",
+            "index": 1,
+            "is_correct": true
+        },
+        "2": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 2,
+            "is_correct": true
+        },
+        "3": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D",
+            "correct_answer": "D",
+            "index": 3,
+            "is_correct": true
+        },
+        "4": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 4,
+            "is_correct": true
+        },
+        "5": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 5,
+            "is_correct": true
+        },
+        "6": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 6,
+            "is_correct": true
+        },
+        "7": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 7,
+            "is_correct": true
+        },
+        "8": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 8,
+            "is_correct": true
+        },
+        "9": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 9,
+            "is_correct": true
+        },
+        "10": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 10,
+            "is_correct": true
+        },
+        "11": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A",
+            "correct_answer": "A",
+            "index": 11,
+            "is_correct": true
+        },
+        "12": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A\n",
+            "correct_answer": "A",
+            "index": 12,
+            "is_correct": true
+        },
+        "13": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 13,
+            "is_correct": true
+        },
+        "14": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 14,
+            "is_correct": true
+        },
+        "15": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A\n",
+            "correct_answer": "A",
+            "index": 15,
+            "is_correct": true
+        },
+        "16": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 16,
+            "is_correct": true
+        },
+        "17": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 17,
+            "is_correct": true
+        },
+        "18": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A\n",
+            "correct_answer": "A",
+            "index": 18,
+            "is_correct": true
+        },
+        "19": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 19,
+            "is_correct": true
+        },
+        "20": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 20,
+            "is_correct": true
+        },
+        "21": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 21,
+            "is_correct": true
+        },
+        "22": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 22,
+            "is_correct": true
+        },
+        "23": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 23,
+            "is_correct": true
+        },
+        "24": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 24,
+            "is_correct": true
+        },
+        "25": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B",
+            "correct_answer": "B",
+            "index": 25,
+            "is_correct": true
+        },
+        "26": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A\n",
+            "correct_answer": "A",
+            "index": 26,
+            "is_correct": true
+        },
+        "27": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 27,
+            "is_correct": true
+        },
+        "28": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A\n",
+            "correct_answer": "A",
+            "index": 28,
+            "is_correct": true
+        },
+        "29": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 29,
+            "is_correct": true
+        },
+        "30": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 30,
+            "is_correct": true
+        },
+        "31": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 31,
+            "is_correct": true
+        },
+        "32": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 32,
+            "is_correct": true
+        },
+        "33": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 33,
+            "is_correct": true
+        },
+        "34": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 34,
+            "is_correct": true
+        },
+        "35": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 35,
+            "is_correct": true
+        },
+        "36": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 36,
+            "is_correct": true
+        },
+        "37": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 37,
+            "is_correct": true
+        },
+        "38": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 38,
+            "is_correct": true
+        },
+        "39": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A\n",
+            "correct_answer": "A",
+            "index": 39,
+            "is_correct": true
+        },
+        "40": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A\n",
+            "correct_answer": "A",
+            "index": 40,
+            "is_correct": true
+        },
+        "41": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 41,
+            "is_correct": true
+        },
+        "42": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A\n",
+            "correct_answer": "A",
+            "index": 42,
+            "is_correct": true
+        },
+        "43": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A",
+            "correct_answer": "A",
+            "index": 43,
+            "is_correct": true
+        },
+        "44": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 44,
+            "is_correct": true
+        },
+        "45": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 45,
+            "is_correct": true
+        },
+        "46": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A",
+            "correct_answer": "A",
+            "index": 46,
+            "is_correct": true
+        },
+        "47": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 47,
+            "is_correct": true
+        },
+        "48": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A\n",
+            "correct_answer": "A",
+            "index": 48,
+            "is_correct": true
+        },
+        "49": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 49,
+            "is_correct": true
+        },
+        "50": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A\n",
+            "correct_answer": "A",
+            "index": 50,
+            "is_correct": true
+        },
+        "51": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 51,
+            "is_correct": true
+        },
+        "52": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 52,
+            "is_correct": true
+        },
+        "53": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 53,
+            "is_correct": true
+        },
+        "54": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A\n",
+            "correct_answer": "A",
+            "index": 54,
+            "is_correct": true
+        },
+        "55": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 55,
+            "is_correct": true
+        },
+        "56": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 56,
+            "is_correct": true
+        },
+        "57": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C",
+            "correct_answer": "C",
+            "index": 57,
+            "is_correct": true
+        },
+        "58": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 58,
+            "is_correct": true
+        },
+        "59": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A\n",
+            "correct_answer": "A",
+            "index": 59,
+            "is_correct": true
+        },
+        "60": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C",
+            "correct_answer": "C",
+            "index": 60,
+            "is_correct": true
+        },
+        "61": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A",
+            "correct_answer": "A",
+            "index": 61,
+            "is_correct": true
+        },
+        "62": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 62,
+            "is_correct": true
+        },
+        "63": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 63,
+            "is_correct": true
+        },
+        "64": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A",
+            "correct_answer": "A",
+            "index": 64,
+            "is_correct": true
+        },
+        "65": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 65,
+            "is_correct": true
+        },
+        "66": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 66,
+            "is_correct": true
+        },
+        "67": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A",
+            "correct_answer": "A",
+            "index": 67,
+            "is_correct": true
+        },
+        "68": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 68,
+            "is_correct": true
+        },
+        "69": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 69,
+            "is_correct": true
+        },
+        "70": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 70,
+            "is_correct": true
+        },
+        "71": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 71,
+            "is_correct": true
+        },
+        "72": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 72,
+            "is_correct": true
+        },
+        "73": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 73,
+            "is_correct": true
+        },
+        "74": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A",
+            "correct_answer": "A",
+            "index": 74,
+            "is_correct": true
+        },
+        "75": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 75,
+            "is_correct": true
+        },
+        "76": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 76,
+            "is_correct": true
+        },
+        "77": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 77,
+            "is_correct": true
+        },
+        "78": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D",
+            "correct_answer": "D",
+            "index": 78,
+            "is_correct": true
+        },
+        "79": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 79,
+            "is_correct": true
+        },
+        "80": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 80,
+            "is_correct": true
+        },
+        "81": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 81,
+            "is_correct": true
+        },
+        "82": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 82,
+            "is_correct": true
+        },
+        "83": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 83,
+            "is_correct": true
+        },
+        "84": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A\n",
+            "correct_answer": "A",
+            "index": 84,
+            "is_correct": true
+        },
+        "85": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 85,
+            "is_correct": true
+        },
+        "86": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 86,
+            "is_correct": true
+        },
+        "87": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 87,
+            "is_correct": true
+        },
+        "88": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A\n",
+            "correct_answer": "A",
+            "index": 88,
+            "is_correct": true
+        },
+        "89": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A\n",
+            "correct_answer": "C",
+            "index": 89,
+            "is_correct": false
+        },
+        "90": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A\n",
+            "correct_answer": "A",
+            "index": 90,
+            "is_correct": true
+        },
+        "91": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A\n",
+            "correct_answer": "A",
+            "index": 91,
+            "is_correct": true
+        },
+        "92": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A\n",
+            "correct_answer": "A",
+            "index": 92,
+            "is_correct": true
+        },
+        "93": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 93,
+            "is_correct": true
+        },
+        "94": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 94,
+            "is_correct": true
+        },
+        "95": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D",
+            "correct_answer": "D",
+            "index": 95,
+            "is_correct": true
+        },
+        "96": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 96,
+            "is_correct": true
+        },
+        "97": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 97,
+            "is_correct": true
+        },
+        "98": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A\n",
+            "correct_answer": "A",
+            "index": 98,
+            "is_correct": true
+        },
+        "99": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 99,
+            "is_correct": true
+        },
+        "100": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A\n",
+            "correct_answer": "A",
+            "index": 100,
+            "is_correct": true
+        },
+        "101": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 101,
+            "is_correct": true
+        },
+        "102": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 102,
+            "is_correct": true
+        },
+        "103": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 103,
+            "is_correct": true
+        },
+        "104": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 104,
+            "is_correct": true
+        },
+        "105": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A\n",
+            "correct_answer": "A",
+            "index": 105,
+            "is_correct": true
+        },
+        "106": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A\n",
+            "correct_answer": "A",
+            "index": 106,
+            "is_correct": true
+        },
+        "107": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 107,
+            "is_correct": true
+        },
+        "108": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A",
+            "correct_answer": "A",
+            "index": 108,
+            "is_correct": true
+        },
+        "109": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 109,
+            "is_correct": true
+        },
+        "110": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A\n",
+            "correct_answer": "A",
+            "index": 110,
+            "is_correct": true
+        },
+        "111": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 111,
+            "is_correct": true
+        },
+        "112": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 112,
+            "is_correct": true
+        },
+        "113": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 113,
+            "is_correct": true
+        },
+        "114": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 114,
+            "is_correct": true
+        },
+        "115": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 115,
+            "is_correct": true
+        },
+        "116": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A\n",
+            "correct_answer": "A",
+            "index": 116,
+            "is_correct": true
+        },
+        "117": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B",
+            "correct_answer": "B",
+            "index": 117,
+            "is_correct": true
+        },
+        "118": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A\n",
+            "correct_answer": "A",
+            "index": 118,
+            "is_correct": true
+        },
+        "119": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A",
+            "correct_answer": "A",
+            "index": 119,
+            "is_correct": true
+        },
+        "120": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 120,
+            "is_correct": true
+        },
+        "121": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 121,
+            "is_correct": true
+        },
+        "122": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 122,
+            "is_correct": true
+        },
+        "123": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 123,
+            "is_correct": true
+        },
+        "124": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 124,
+            "is_correct": true
+        },
+        "125": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 125,
+            "is_correct": true
+        },
+        "126": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A\n",
+            "correct_answer": "A",
+            "index": 126,
+            "is_correct": true
+        },
+        "127": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A",
+            "correct_answer": "A",
+            "index": 127,
+            "is_correct": true
+        },
+        "128": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 128,
+            "is_correct": true
+        },
+        "129": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A\n",
+            "correct_answer": "A",
+            "index": 129,
+            "is_correct": true
+        },
+        "130": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D",
+            "correct_answer": "D",
+            "index": 130,
+            "is_correct": true
+        },
+        "131": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 131,
+            "is_correct": true
+        },
+        "132": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 132,
+            "is_correct": true
+        },
+        "133": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 133,
+            "is_correct": true
+        },
+        "134": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 134,
+            "is_correct": true
+        },
+        "135": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 135,
+            "is_correct": true
+        },
+        "136": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 136,
+            "is_correct": true
+        },
+        "137": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A",
+            "correct_answer": "A",
+            "index": 137,
+            "is_correct": true
+        },
+        "138": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 138,
+            "is_correct": true
+        },
+        "139": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A\n",
+            "correct_answer": "A",
+            "index": 139,
+            "is_correct": true
+        },
+        "140": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C",
+            "correct_answer": "C",
+            "index": 140,
+            "is_correct": true
+        },
+        "141": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A\n",
+            "correct_answer": "A",
+            "index": 141,
+            "is_correct": true
+        },
+        "142": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 142,
+            "is_correct": true
+        },
+        "143": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 143,
+            "is_correct": true
+        },
+        "144": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 144,
+            "is_correct": true
+        },
+        "145": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 145,
+            "is_correct": true
+        },
+        "146": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A\n",
+            "correct_answer": "A",
+            "index": 146,
+            "is_correct": true
+        },
+        "147": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A\n",
+            "correct_answer": "A",
+            "index": 147,
+            "is_correct": true
+        },
+        "148": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 148,
+            "is_correct": true
+        },
+        "149": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 149,
+            "is_correct": true
+        },
+        "150": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 150,
+            "is_correct": true
+        },
+        "151": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A\n",
+            "correct_answer": "A",
+            "index": 151,
+            "is_correct": true
+        },
+        "152": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 152,
+            "is_correct": true
+        },
+        "153": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 153,
+            "is_correct": true
+        },
+        "154": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A",
+            "correct_answer": "A",
+            "index": 154,
+            "is_correct": true
+        },
+        "155": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 155,
+            "is_correct": true
+        },
+        "156": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 156,
+            "is_correct": true
+        },
+        "157": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 157,
+            "is_correct": true
+        },
+        "158": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 158,
+            "is_correct": true
+        },
+        "159": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A\n",
+            "correct_answer": "A",
+            "index": 159,
+            "is_correct": true
+        },
+        "160": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 160,
+            "is_correct": true
+        },
+        "161": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 161,
+            "is_correct": true
+        },
+        "162": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 162,
+            "is_correct": true
+        },
+        "163": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 163,
+            "is_correct": true
+        },
+        "164": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 164,
+            "is_correct": true
+        },
+        "165": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 165,
+            "is_correct": true
+        },
+        "166": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 166,
+            "is_correct": true
+        },
+        "167": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 167,
+            "is_correct": true
+        },
+        "168": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 168,
+            "is_correct": true
+        },
+        "169": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 169,
+            "is_correct": true
+        },
+        "170": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A\n",
+            "correct_answer": "A",
+            "index": 170,
+            "is_correct": true
+        },
+        "171": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 171,
+            "is_correct": true
+        },
+        "172": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 172,
+            "is_correct": true
+        },
+        "173": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A\n",
+            "correct_answer": "A",
+            "index": 173,
+            "is_correct": true
+        },
+        "174": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 174,
+            "is_correct": true
+        },
+        "175": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 175,
+            "is_correct": true
+        },
+        "176": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 176,
+            "is_correct": true
+        },
+        "177": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 177,
+            "is_correct": true
+        },
+        "178": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 178,
+            "is_correct": true
+        },
+        "179": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 179,
+            "is_correct": true
+        },
+        "180": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 180,
+            "is_correct": true
+        },
+        "181": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 181,
+            "is_correct": true
+        },
+        "182": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 182,
+            "is_correct": true
+        },
+        "183": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 183,
+            "is_correct": true
+        },
+        "184": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 184,
+            "is_correct": true
+        },
+        "185": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 185,
+            "is_correct": true
+        },
+        "186": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 186,
+            "is_correct": true
+        },
+        "187": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A\n",
+            "correct_answer": "A",
+            "index": 187,
+            "is_correct": true
+        },
+        "188": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 188,
+            "is_correct": true
+        },
+        "189": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A",
+            "correct_answer": "A",
+            "index": 189,
+            "is_correct": true
+        },
+        "190": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A\n",
+            "correct_answer": "A",
+            "index": 190,
+            "is_correct": true
+        },
+        "191": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 191,
+            "is_correct": true
+        },
+        "192": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 192,
+            "is_correct": true
+        },
+        "193": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 193,
+            "is_correct": true
+        },
+        "194": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 194,
+            "is_correct": true
+        },
+        "195": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 195,
+            "is_correct": true
+        },
+        "196": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 196,
+            "is_correct": true
+        },
+        "197": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B",
+            "correct_answer": "B",
+            "index": 197,
+            "is_correct": true
+        },
+        "198": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 198,
+            "is_correct": true
+        },
+        "199": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 199,
+            "is_correct": true
+        },
+        "200": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 200,
+            "is_correct": true
+        },
+        "201": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 201,
+            "is_correct": true
+        },
+        "202": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 202,
+            "is_correct": true
+        },
+        "203": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A\n",
+            "correct_answer": "A",
+            "index": 203,
+            "is_correct": true
+        },
+        "204": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 204,
+            "is_correct": true
+        },
+        "205": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 205,
+            "is_correct": true
+        },
+        "206": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A\n",
+            "correct_answer": "A",
+            "index": 206,
+            "is_correct": true
+        },
+        "207": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 207,
+            "is_correct": true
+        },
+        "208": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 208,
+            "is_correct": true
+        },
+        "209": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A\n",
+            "correct_answer": "A",
+            "index": 209,
+            "is_correct": true
+        },
+        "210": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A\n",
+            "correct_answer": "A",
+            "index": 210,
+            "is_correct": true
+        },
+        "211": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A",
+            "correct_answer": "A",
+            "index": 211,
+            "is_correct": true
+        },
+        "212": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 212,
+            "is_correct": true
+        },
+        "213": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 213,
+            "is_correct": true
+        },
+        "214": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 214,
+            "is_correct": true
+        },
+        "215": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A\n",
+            "correct_answer": "A",
+            "index": 215,
+            "is_correct": true
+        },
+        "216": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A\n",
+            "correct_answer": "A",
+            "index": 216,
+            "is_correct": true
+        },
+        "217": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 217,
+            "is_correct": true
+        },
+        "218": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A",
+            "correct_answer": "A",
+            "index": 218,
+            "is_correct": true
+        },
+        "219": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A\n",
+            "correct_answer": "A",
+            "index": 219,
+            "is_correct": true
+        },
+        "220": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 220,
+            "is_correct": true
+        },
+        "221": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 221,
+            "is_correct": true
+        },
+        "222": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 222,
+            "is_correct": true
+        },
+        "223": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 223,
+            "is_correct": true
+        },
+        "224": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 224,
+            "is_correct": true
+        },
+        "225": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 225,
+            "is_correct": true
+        },
+        "226": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 226,
+            "is_correct": true
+        },
+        "227": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A",
+            "correct_answer": "A",
+            "index": 227,
+            "is_correct": true
+        },
+        "228": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 228,
+            "is_correct": true
+        },
+        "229": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 229,
+            "is_correct": true
+        },
+        "230": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D",
+            "correct_answer": "D",
+            "index": 230,
+            "is_correct": true
+        },
+        "231": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 231,
+            "is_correct": true
+        },
+        "232": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 232,
+            "is_correct": true
+        },
+        "233": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A\n",
+            "correct_answer": "A",
+            "index": 233,
+            "is_correct": true
+        },
+        "234": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 234,
+            "is_correct": true
+        },
+        "235": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 235,
+            "is_correct": true
+        },
+        "236": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 236,
+            "is_correct": true
+        },
+        "237": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 237,
+            "is_correct": true
+        },
+        "238": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 238,
+            "is_correct": true
+        },
+        "239": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 239,
+            "is_correct": true
+        },
+        "240": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 240,
+            "is_correct": true
+        },
+        "241": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 241,
+            "is_correct": true
+        },
+        "242": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 242,
+            "is_correct": true
+        },
+        "243": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 243,
+            "is_correct": true
+        },
+        "244": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 244,
+            "is_correct": true
+        },
+        "245": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A",
+            "correct_answer": "A",
+            "index": 245,
+            "is_correct": true
+        },
+        "246": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 246,
+            "is_correct": true
+        },
+        "247": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 247,
+            "is_correct": true
+        },
+        "248": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 248,
+            "is_correct": true
+        },
+        "249": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C",
+            "correct_answer": "C",
+            "index": 249,
+            "is_correct": true
+        },
+        "250": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 250,
+            "is_correct": true
+        },
+        "251": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 251,
+            "is_correct": true
+        },
+        "252": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 252,
+            "is_correct": true
+        },
+        "253": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 253,
+            "is_correct": true
+        },
+        "254": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 254,
+            "is_correct": true
+        },
+        "255": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 255,
+            "is_correct": true
+        },
+        "256": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A\n",
+            "correct_answer": "A",
+            "index": 256,
+            "is_correct": true
+        },
+        "257": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 257,
+            "is_correct": true
+        },
+        "258": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D",
+            "correct_answer": "D",
+            "index": 258,
+            "is_correct": true
+        },
+        "259": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 259,
+            "is_correct": true
+        },
+        "260": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 260,
+            "is_correct": true
+        },
+        "261": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 261,
+            "is_correct": true
+        },
+        "262": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 262,
+            "is_correct": true
+        },
+        "263": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D",
+            "correct_answer": "D",
+            "index": 263,
+            "is_correct": true
+        },
+        "264": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C",
+            "correct_answer": "C",
+            "index": 264,
+            "is_correct": true
+        },
+        "265": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 265,
+            "is_correct": true
+        },
+        "266": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 266,
+            "is_correct": true
+        },
+        "267": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D",
+            "correct_answer": "D",
+            "index": 267,
+            "is_correct": true
+        },
+        "268": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 268,
+            "is_correct": true
+        },
+        "269": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A",
+            "correct_answer": "C",
+            "index": 269,
+            "is_correct": false
+        },
+        "270": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 270,
+            "is_correct": true
+        },
+        "271": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 271,
+            "is_correct": true
+        },
+        "272": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 272,
+            "is_correct": true
+        },
+        "273": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A\n",
+            "correct_answer": "A",
+            "index": 273,
+            "is_correct": true
+        },
+        "274": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 274,
+            "is_correct": true
+        },
+        "275": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 275,
+            "is_correct": true
+        },
+        "276": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A",
+            "correct_answer": "A",
+            "index": 276,
+            "is_correct": true
+        },
+        "277": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D",
+            "correct_answer": "D",
+            "index": 277,
+            "is_correct": true
+        },
+        "278": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 278,
+            "is_correct": true
+        },
+        "279": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 279,
+            "is_correct": true
+        },
+        "280": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 280,
+            "is_correct": true
+        },
+        "281": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D",
+            "correct_answer": "D",
+            "index": 281,
+            "is_correct": true
+        },
+        "282": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 282,
+            "is_correct": true
+        },
+        "283": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 283,
+            "is_correct": true
+        },
+        "284": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 284,
+            "is_correct": true
+        },
+        "285": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 285,
+            "is_correct": true
+        },
+        "286": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 286,
+            "is_correct": true
+        },
+        "287": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 287,
+            "is_correct": true
+        },
+        "288": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 288,
+            "is_correct": true
+        },
+        "289": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 289,
+            "is_correct": true
+        },
+        "290": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 290,
+            "is_correct": true
+        },
+        "291": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "A",
+            "reasoning": "",
+            "original_response": "A",
+            "correct_answer": "A",
+            "index": 291,
+            "is_correct": true
+        },
+        "292": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 292,
+            "is_correct": true
+        },
+        "293": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "D",
+            "reasoning": "",
+            "original_response": "D\n",
+            "correct_answer": "D",
+            "index": 293,
+            "is_correct": true
+        },
+        "294": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 294,
+            "is_correct": true
+        },
+        "295": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "C",
+            "reasoning": "",
+            "original_response": "C\n",
+            "correct_answer": "C",
+            "index": 295,
+            "is_correct": true
+        },
+        "296": {
+            "question": "You are given an audio recording and an image/video. Both the audio and the visual content (image/video) likely contain information related to a single topic or concept.\n\nWhich of the following text options (A, B, C, or D) is most likely the Chinese translation that *accurately reflects* the combined content of both the audio recording *and* the image/video?\n",
+            "response": "B",
+            "reasoning": "",
+            "original_response": "B\n",
+            "correct_answer": "B",
+            "index": 296,
+            "is_correct": true
+        }
+    }
+}

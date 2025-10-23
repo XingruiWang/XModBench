@@ -1,5 +1,5 @@
 #!/bin/bash
-#SBATCH --job-name=eval        
+#SBATCH --job-name=cpu      
 #SBATCH --output=log/job_%j.out
 #SBATCH --error=log/job_%j.log    
 #SBATCH --ntasks=1                  
@@ -17,7 +17,10 @@ conda activate vlm
 export audioBench='/home/xwang378/scratch/2025/AudioBench'
 
 # Configuration
-MODEL="gemini-2.0-pro"
+# MODEL="gemini-2.0-pro"
+MODEL="gemini-2.5-pro"
+# MODEL="reka"
+MINI_BENCHMARK="false"
 
 # Function to run evaluation
 run_evaluation() {
@@ -30,10 +33,18 @@ run_evaluation() {
     
     echo "Running: Model=${model}, Task=${task_name}"
     
-    python $audioBench/scripts/run.py \
-        --model $model \
-        --task_name $task_name \
-        --sample -1
+    if [ "$MINI_BENCHMARK" = "true" ]; then
+        python $audioBench/scripts/run.py \
+            --model $model \
+            --task_name $task_name \
+            --sample 5 \
+            --mini_benchmark
+    else
+        python $audioBench/scripts/run.py \
+            --model $model \
+            --task_name $task_name \
+            --sample 800
+    fi
 }
 
 
@@ -44,7 +55,7 @@ TASKS_TO_RUN=(
     # "perception/finegrained"
     # "perception/instruments"
     # "perception/instruments_comp"
-    # "perception/natures"
+    "perception/natures"
     
     # # Spatial tasks
     # "spatial/arrangements"
@@ -61,14 +72,16 @@ TASKS_TO_RUN=(
     # "temporal/order"
     
     # # External tasks
-    "external/music_genre_classification"
+    # "external/music_genre_classification"
     # "external/emotion_classification"
-    # "external/movie_matching"
-    # "external/singer_identification"
+#     "external/movie_matching"
+#     "external/singer_identification"
 )
 
 # Run evaluations
-for MODEL in gemini-2.5-pro gemini-2.5-flash gemini-2.0-pro gemini-2.0-flash; do
+# for MODEL in gemini-2.5-pro gemini-2.5-flash gemini-2.0-pro; do
+for MODEL in gemini-2.0-pro; do
+# for MODEL in reka; do
     for task_key in "${TASKS_TO_RUN[@]}"; do
         task=$(echo $task_key | cut -d'/' -f1)
         subtask=$(echo $task_key | cut -d'/' -f2)
