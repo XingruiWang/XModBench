@@ -7,7 +7,8 @@ export audioBench='/home/xwang378/scratch/2025/AudioBench'
 # MODEL="vita"
 # MODEL="echoink"
 # MODEL="anygpt"
-MODEL="gemini-2.5-pro"
+# MODEL="gemini-2.5-pro"
+MODEL="qwen3-omni"
 # MODEL="panda"
 # MODEL="reka"
 # MINI_BENCHMARK="false"
@@ -50,7 +51,7 @@ TASKS_TO_RUN=(
     
     # # Spatial tasks
     # "spatial/arrangements"
-    "spatial/3D_movements"
+    # "spatial/3D_movements"
     # "spatial/panaroma"
     
     # Speech tasks
@@ -58,7 +59,7 @@ TASKS_TO_RUN=(
     # "speech/translation"
     
     # # Temporal tasks
-    "temporal/count"
+    # "temporal/count"
     # "temporal/calculation"
     # "temporal/order"
     
@@ -66,7 +67,7 @@ TASKS_TO_RUN=(
     # "external/music_genre_classification"
     # "external/emotion_classification"
     # "external/movie_matching"
-    "external/singer_identification"
+    # "external/singer_identification"
 )
 
 # Run evaluations

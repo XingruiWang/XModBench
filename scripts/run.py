@@ -14,6 +14,7 @@ def path_to_models(model):
         'gemini': './models/Genimi/run.py',
         # 'gemini': './models/Genimi/run_avt.py',
         'qwen2.5_omni': './models/Qwen2.5-Omni/run.py',
+        'qwen3-omni': './models/Qwen3-Omni/run.py',
         'echoink': './models/EchoInk/run.py',
         'vita': './models/VITA/run.py',
         'anygpt': './models/AnyGPT/run.py',
