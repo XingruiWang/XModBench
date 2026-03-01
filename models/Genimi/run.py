@@ -179,6 +179,7 @@ def _run_genimi(instance, args):
             ),
         else:
             choise_data[choice] = types.Part.from_bytes(data=choices_bytes[choice], mime_type=choices_format_str),
+    assert args.reason is False, "Reasoning is not supported for Genimi model"
     if not args.reason:
         contents = [
             question,
@@ -304,11 +305,11 @@ def run_all_genimi(task_name, questions, args, sample = 100, save_dir = None):
     modality_name = '_'.join(task_name2[-2:])
     task_name2 = '_'.join(task_name2[:-2])
     
-    # load hard case
-    hard_case_path = f"/home/xwang378/scratch/2025/AudioBench/benchmark/results/gemini-2.5-pro/hard_case.json"
-    with open(hard_case_path, "r") as f:
-        hard_case = json.load(f)
-    hard_case_ids = [int(id) for id in hard_case[task_name2].keys()]
+    # # load hard case
+    # hard_case_path = f"/home/xwang378/scratch/2025/AudioBench/benchmark/results/gemini-2.5-pro/hard_case.json"
+    # with open(hard_case_path, "r") as f:
+    #     hard_case = json.load(f)
+    # hard_case_ids = [int(id) for id in hard_case[task_name2].keys()]
     
     if sample > len(questions):
         print(f"Sample is greater than the number of questions, setting sample to {len(questions)}")
@@ -318,8 +319,8 @@ def run_all_genimi(task_name, questions, args, sample = 100, save_dir = None):
 
     
     for i in tqdm(range(sample)):
-        if i not in hard_case_ids[:20]:
-            continue
+        # if i not in hard_case_ids[:20]:
+        #     continue
         response = run_genimi(questions, i, args)
         original_response = response
         if response is not None:
@@ -339,7 +340,7 @@ def run_all_genimi(task_name, questions, args, sample = 100, save_dir = None):
         save_result['results'][i] = {
             "question": questions[i]['question'],
             "response": response.strip() if response else None,
-            'reasoning': reasoning,
+            # 'reasoning': reasoning,
             'original_response': original_response,
             "correct_answer": questions[i]['correct_answer'],
             "index": i,

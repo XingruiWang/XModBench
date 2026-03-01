@@ -1,78 +1,31 @@
 {
     "task_name": "perception/general_audio_text",
-    "score": 80.0,
-    "correct_count": 8,
-    "all_count": 10,
+    "score": 100.0,
+    "correct_count": 3,
+    "all_count": 3,
     "results": {
-        "0": {
-            "question": "Listen to this audio clip. Which text description best matches the sound you hear? Answer with A, B, C, or D",
-            "response": "B",
-            "correct_answer": "A",
-            "index": 0,
-            "is_correct": false
-        },
-        "1": {
-            "question": "Listen to this audio clip. Which text description best matches the sound you hear? Answer with A, B, C, or D",
-            "response": "A",
-            "correct_answer": "A",
-            "index": 1,
-            "is_correct": true
-        },
-        "2": {
-            "question": "Listen to this audio clip. Which text description best matches the sound you hear? Answer with A, B, C, or D",
-            "response": "D",
-            "correct_answer": "D",
-            "index": 2,
-            "is_correct": true
-        },
-        "3": {
+        "51": {
             "question": "Listen to this audio clip. Which text description best matches the sound you hear? Answer with A, B, C, or D",
             "response": "C",
             "correct_answer": "C",
-            "index": 3,
+            "index": 51,
             "is_correct": true
         },
-        "4": {
+        "228": {
             "question": "Listen to this audio clip. Which text description best matches the sound you hear? Answer with A, B, C, or D",
             "response": "C",
             "correct_answer": "C",
-            "index": 4,
+            "index": 228,
             "is_correct": true
         },
-        "5": {
+        "1309": {
             "question": "Listen to this audio clip. Which text description best matches the sound you hear? Answer with A, B, C, or D",
             "response": "D",
             "correct_answer": "D",
-            "index": 5,
-            "is_correct": true
-        },
-        "6": {
-            "question": "Listen to this audio clip. Which text description best matches the sound you hear? Answer with A, B, C, or D",
-            "response": "B",
-            "correct_answer": "B",
-            "index": 6,
-            "is_correct": true
-        },
-        "7": {
-            "question": "Listen to this audio clip. Which text description best matches the sound you hear? Answer with A, B, C, or D",
-            "response": "B",
-            "correct_answer": "B",
-            "index": 7,
-            "is_correct": true
-        },
-        "8": {
-            "question": "Listen to this audio clip. Which text description best matches the sound you hear? Answer with A, B, C, or D",
-            "response": "A",
-            "correct_answer": "B",
-            "index": 8,
-            "is_correct": false
-        },
-        "9": {
-            "question": "Listen to this audio clip. Which text description best matches the sound you hear? Answer with A, B, C, or D",
-            "response": "B",
-            "correct_answer": "B",
-            "index": 9,
+            "index": 1309,
             "is_correct": true
         }
-    }
+    },
+    "format_error_count": 0,
+    "run_error_count": 0
 }

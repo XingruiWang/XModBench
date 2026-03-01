@@ -1,78 +1,31 @@
 {
     "task_name": "perception/finegrained_audio_vision",
-    "score": 60.0,
-    "correct_count": 6,
-    "all_count": 10,
+    "score": 33.33333333333333,
+    "correct_count": 1,
+    "all_count": 3,
     "results": {
-        "0": {
-            "question": "Which image most likely belongs to the object that makes this sound you hear? Answer with A, B, C, or D",
-            "response": "D",
-            "correct_answer": "A",
-            "index": 0,
-            "is_correct": false
-        },
-        "1": {
+        "102": {
             "question": "Which image most likely belongs to the object that makes this sound you hear? Answer with A, B, C, or D",
             "response": "A",
             "correct_answer": "A",
-            "index": 1,
+            "index": 102,
             "is_correct": true
         },
-        "2": {
+        "456": {
             "question": "Which image most likely belongs to the object that makes this sound you hear? Answer with A, B, C, or D",
-            "response": "D",
-            "correct_answer": "D",
-            "index": 2,
-            "is_correct": true
-        },
-        "3": {
-            "question": "Which image most likely belongs to the object that makes this sound you hear? Answer with A, B, C, or D",
-            "response": "C",
+            "response": "A",
             "correct_answer": "C",
-            "index": 3,
-            "is_correct": true
-        },
-        "4": {
-            "question": "Which image most likely belongs to the object that makes this sound you hear? Answer with A, B, C, or D",
-            "response": "C",
-            "correct_answer": "A",
-            "index": 4,
+            "index": 456,
             "is_correct": false
         },
-        "5": {
-            "question": "Which image most likely belongs to the object that makes this sound you hear? Answer with A, B, C, or D",
-            "response": "A",
-            "correct_answer": "D",
-            "index": 5,
-            "is_correct": false
-        },
-        "6": {
-            "question": "Which image most likely belongs to the object that makes this sound you hear? Answer with A, B, C, or D",
-            "response": "A",
-            "correct_answer": "A",
-            "index": 6,
-            "is_correct": true
-        },
-        "7": {
-            "question": "Which image most likely belongs to the object that makes this sound you hear? Answer with A, B, C, or D",
-            "response": "A",
-            "correct_answer": "A",
-            "index": 7,
-            "is_correct": true
-        },
-        "8": {
-            "question": "Which image most likely belongs to the object that makes this sound you hear? Answer with A, B, C, or D",
-            "response": "A",
-            "correct_answer": "B",
-            "index": 8,
-            "is_correct": false
-        },
-        "9": {
+        "2619": {
             "question": "Which image most likely belongs to the object that makes this sound you hear? Answer with A, B, C, or D",
             "response": "D",
-            "correct_answer": "D",
-            "index": 9,
-            "is_correct": true
+            "correct_answer": "A",
+            "index": 2619,
+            "is_correct": false
         }
-    }
+    },
+    "format_error_count": 0,
+    "run_error_count": 0
 }

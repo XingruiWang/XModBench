@@ -1,78 +1,31 @@
 {
     "task_name": "speech/translation_text_vision",
-    "score": 50.0,
-    "correct_count": 5,
-    "all_count": 10,
+    "score": 100.0,
+    "correct_count": 3,
+    "all_count": 3,
     "results": {
-        "0": {
-            "question": "Which image most likely contains the Chinese translation of this English text? Answer the question with A, B, C, or D",
-            "response": "A",
-            "correct_answer": "C",
-            "index": 0,
-            "is_correct": false
-        },
-        "1": {
-            "question": "Which image most likely contains the Chinese translation of this English text? Answer the question with A, B, C, or D",
-            "response": "A",
-            "correct_answer": "A",
-            "index": 1,
-            "is_correct": true
-        },
-        "2": {
+        "25": {
             "question": "Which image most likely contains the Chinese translation of this English text? Answer the question with A, B, C, or D",
             "response": "B",
             "correct_answer": "B",
-            "index": 2,
+            "index": 25,
             "is_correct": true
         },
-        "3": {
-            "question": "Which image most likely contains the Chinese translation of this English text? Answer the question with A, B, C, or D",
-            "response": "D",
-            "correct_answer": "D",
-            "index": 3,
-            "is_correct": true
-        },
-        "4": {
-            "question": "Which image most likely contains the Chinese translation of this English text? Answer the question with A, B, C, or D",
-            "response": "A",
-            "correct_answer": "C",
-            "index": 4,
-            "is_correct": false
-        },
-        "5": {
+        "114": {
             "question": "Which image most likely contains the Chinese translation of this English text? Answer the question with A, B, C, or D",
             "response": "B",
             "correct_answer": "B",
-            "index": 5,
+            "index": 114,
             "is_correct": true
         },
-        "6": {
-            "question": "Which image most likely contains the Chinese translation of this English text? Answer the question with A, B, C, or D",
-            "response": "A",
-            "correct_answer": "D",
-            "index": 6,
-            "is_correct": false
-        },
-        "7": {
-            "question": "Which image most likely contains the Chinese translation of this English text? Answer the question with A, B, C, or D",
-            "response": "C",
-            "correct_answer": "B",
-            "index": 7,
-            "is_correct": false
-        },
-        "8": {
+        "654": {
             "question": "Which image most likely contains the Chinese translation of this English text? Answer the question with A, B, C, or D",
             "response": "D",
             "correct_answer": "D",
-            "index": 8,
+            "index": 654,
             "is_correct": true
-        },
-        "9": {
-            "question": "Which image most likely contains the Chinese translation of this English text? Answer the question with A, B, C, or D",
-            "response": "A",
-            "correct_answer": "B",
-            "index": 9,
-            "is_correct": false
         }
-    }
+    },
+    "format_error_count": 0,
+    "run_error_count": 0
 }

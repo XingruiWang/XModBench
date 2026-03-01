@@ -1,14 +1,29 @@
 #!/bin/bash
-#SBATCH --job-name=cpu   
+#SBATCH --job-name=vlm_eval  
 #SBATCH --output=log/job_%j.out
 #SBATCH --error=log/job_%j.log                        
-#SBATCH --ntasks-per-node=1
-#SBATCH --gpus=4
-#SBATCH --exclude=ccvl14,ccvl30
+#SBATCH --cpus-per-task=8
+#SBATCH --gpus-per-node=4
+#SBATCH --partition=main
+#SBATCH --mem=32G
 
 
+# 在批处理环境中正确初始化conda
 module load conda
-conda activate /home/xwang378/.conda/envs/omni
+
+# 直接source conda的初始化脚本而不依赖.bashrc
+source /home/apps/anaconda3/etc/profile.d/conda.sh
+
+# 验证conda可用
+which conda
+conda --version
+
+# 激活环境
+conda activate /home/xwang378/.conda/envs/qwenomni3
+
+# 验证环境激活成功
+echo "Active environment: $CONDA_DEFAULT_ENV"
+which python 
 # conda activate /home/xwang378/.conda/envs/vita
 # conda activate /home/xwang378/.conda/envs/AnyGPT
 # conda activate /home/xwang378/.conda/envs/panda
@@ -20,7 +35,10 @@ echo "Running on host: $(hostname)"
 export audioBench='/home/xwang378/scratch/2025/AudioBench'
 
 # Configuration
-MODEL="qwen2.5_omni"
+# MODEL="qwen3-omni"
+# MODEL="omnivinci"
+# MODEL="qwen2.5_vl"
+MODEL="internvl3"
 # MODEL="vita"
 # MODEL="gemini-1.5-pro"
 # MODEL="gemini-2.0-flash"
@@ -29,7 +47,7 @@ MODEL="qwen2.5_omni"
 # MODEL="panda"
 # MODEL="echoink"
 # MINI_BENCHMARK="false"
-MINI_BENCHMARK="false"
+MINI_BENCHMARK="true"
 
 # Function to run evaluation
 run_evaluation() {
@@ -57,10 +75,11 @@ run_evaluation() {
     fi
 }
 
-# modalities="audio_vision vision_audio vision_text text_vision text_audio audio_text"
+modalities="audio_vision vision_audio vision_text text_vision text_audio audio_text"
+# modalities="vision_text text_vision"
 # modalities="text_audio audio_text"
 # modalities="text_audio"
-modalities="audio_text"
+# modalities="audio_text"
 # modalities="audio_vision_text"
 # modalities="vision_text"
 # modalities="audio_text text_vision vision_text"
@@ -70,15 +89,15 @@ modalities="audio_text"
 # Main execution - uncomment the tasks you want to run
 TASKS_TO_RUN=(
     # Perception tasks
-    # "perception/general"
-    # "perception/finegrained"
+    "perception/general"
+    "perception/finegrained"
     # "perception/instruments"
     # "perception/instruments_comp"
     # "perception/natures"
     
     # # Spatial tasks
     # "spatial/arrangements"
-    "spatial/3D_movements"
+    # "spatial/3D_movements"
     # "spatial/panaroma"
     
     # Speech tasks

@@ -30,51 +30,73 @@ XModBench is a comprehensive benchmark designed to evaluate the cross-modal capa
 ### Key Features
 
 - **🎯 Multi-Modal Evaluation**: Comprehensive testing across text, vision, and audio modalities
-- **🧩 5 Task Dimensions**: Perception, Spatial, Temporal, Linguistic, and Knowledge tasks
+- **🧩 5 Task Dimensions**: Perception, Spatial, Temporal, Linguistic, and External Knowledge tasks
 - **📊 13 SOTA Models Evaluated**: Including Gemini 2.5 Pro, Qwen2.5-Omni, EchoInk-R1, and more
 - **🔄 Consistency Analysis**: Measures performance stability across different modal configurations
 - **👥 Human Performance Baseline**: Establishes human-level benchmarks for comparison
 
 
-## 🚀 Quick Start
+## 📂 Dataset
 
-### Installation
+The dataset is available on Hugging Face: [RyanWW/XModBench](https://huggingface.co/datasets/RyanWW/XModBench)
 
-```bash
-# Clone the repository
-git clone https://github.com/XingruiWang/XModBench.git
-cd XModBench
+### Task Groups and Subtasks
 
-# Install dependencies
-pip install -r requirements.txt
-```
+| Group | Subtasks | Samples |
+|---|---|---:|
+| Perception | finegrained, general_activities, instruments, instruments_comp, natures | 27,000 |
+| Spatial | 3D_movements, arrangements, panaroma | 7,791 |
+| Speech | recognition, translation | 8,244 |
+| Temporal | calculation, count, order | 9,000 |
+| External Knowledge | emotion_classification, movie_matching, music_genre_classification, singer_identification | 12,300 |
+| **Total** | **17 subtasks** | **64,335** |
 
-## 📂 Dataset Structure
+### Modality Combinations
+
+The benchmark covers all combinations of three modalities — **Audio**, **Vision** (image or video), and **Text** — as condition and answer options:
+
+| Condition → Options | Samples |
+|---|---:|
+| Audio → Vision | 10,720 |
+| Audio → Text | 10,720 |
+| Vision → Audio | 10,725 |
+| Vision → Text | 10,725 |
+| Text → Audio | 10,725 |
+| Text → Vision | 10,720 |
+
+### Repository Structure
 
 ```
 XModBench/
-├── data/
-│   ├── text/
-│   │   ├── perception/
-│   │   ├── spatial/
-│   │   ├── temporal/
-│   │   ├── linguistic/
-│   │   └── knowledge/
-│   ├── vision/
-│   │   └── [same task categories]
-│   └── audio/
-│       └── [same task categories]
-├── models/
-│   └── evaluation_scripts/
-├── results/
-│   └── model_performances/
-└── analysis/
-    └── visualization/
+├── benchmark/
+│   ├── Data/                        # Raw media files (audio, image, video)
+│   │   ├── vggss_audio_bench/       #   VGGSound audio clips
+│   │   ├── landscape_audiobench/    #   Landscape images
+│   │   ├── emotions/                #   Emotion classification media
+│   │   └── ...
+│   ├── tasks/                       # Source QA JSON files, organised by subtask
+│   │   ├── 01_perception/
+│   │   │   ├── finegrained/         #   6 modality-combo JSON files, 1000 instances each
+│   │   │   ├── general_activities/
+│   │   │   ├── instruments/
+│   │   │   ├── instruments_comp/
+│   │   │   └── natures/
+│   │   ├── 02_spatial/
+│   │   ├── 03_speech/
+│   │   ├── 04_temporal/
+│   │   └── 05_Exteral/
+│   └── results/                     # Model evaluation results
+├── models/                          # Model inference scripts
+│   ├── Qwen2.5-Omni/
+│   ├── Genimi/
+│   ├── InternVL/
+│   └── ...
+└── scripts/                         # Helper scripts
 ```
 
+## 🚀 Quick Start
 
-
-### Basic Usage
+### Basic Usage (legacy API-based evaluation)
 
 ```bash
 
@@ -133,6 +155,94 @@ python $audioBench/scripts/run.py \
 
 
 
+### lmms-eval Evaluation (recommended for open-source models)
+
+For systematic, reproducible evaluation of open-source omni-LMMs we use [**lmms-eval**](https://github.com/XingruiWang/lmms-eval), a fork of the lmms-eval framework with XModBench tasks pre-integrated.
+
+> **Note:** Vision has been split into **Image** and **Video** for efficient evaluation — models only need to load the relevant media type per task.
+
+#### 1. Clone and install lmms-eval
+
+```bash
+git clone https://github.com/XingruiWang/lmms-eval.git
+cd lmms-eval
+pip install -e ".[all]"
+```
+
+#### 2. Set the data root and generate JSONL files
+
+```bash
+export XMODBENCH=/path/to/XModBench
+
+python lmms_eval/tasks/xmod_bench/build_data.py \
+    --tasks-root $XMODBENCH/benchmark/tasks \
+    --out-dir    lmms_eval/tasks/xmod_bench/data \
+    --seed 42
+```
+
+This generates 10 JSONL files (one per modality combination) in `lmms_eval/tasks/xmod_bench/data/`.
+
+#### 3. Run a quick test
+
+```bash
+python -m lmms_eval \
+    --model qwen2_5_omni \
+    --model_args pretrained=Qwen/Qwen2.5-Omni-7B \
+    --tasks xmod_bench_image_text \
+    --batch_size 1 \
+    --limit 16
+```
+
+#### 4. Full benchmark with Slurm (all 10 modality combinations in parallel)
+
+```bash
+#!/bin/bash
+#SBATCH --job-name=xmod_bench_qwen2_5_omni
+#SBATCH --array=0-9
+#SBATCH --gres=gpu:1
+#SBATCH --mem=40G
+#SBATCH --cpus-per-task=8
+#SBATCH --time=10:00:00
+#SBATCH --output=logs/xmod_bench/%x_%a.log
+#SBATCH --error=logs/xmod_bench/%x_%a.log
+
+TASKS=(
+    xmod_bench_audio_text    # 10,720 samples
+    xmod_bench_text_audio    # 10,725 samples
+    xmod_bench_audio_image   #  7,689 samples
+    xmod_bench_image_audio   #  7,689 samples
+    xmod_bench_image_text    #  7,689 samples
+    xmod_bench_text_image    #  7,689 samples
+    xmod_bench_audio_video   #  3,031 samples
+    xmod_bench_text_video    #  3,031 samples
+    xmod_bench_video_audio   #  3,036 samples
+    xmod_bench_video_text    #  3,036 samples
+)
+
+TASK=${TASKS[$SLURM_ARRAY_TASK_ID]}
+REPO=/path/to/lmms-eval
+export XMODBENCH=/path/to/XModBench
+
+cd "$REPO"
+source .venv/bin/activate
+
+python -m lmms_eval \
+    --model qwen2_5_omni \
+    --model_args pretrained=Qwen/Qwen2.5-Omni-7B \
+    --tasks "$TASK" \
+    --batch_size 1 \
+    --output_path "$REPO/logs/xmod_bench/results" \
+    --log_samples \
+    --log_samples_suffix "$TASK"
+```
+
+Submit all 10 tasks at once:
+```bash
+sbatch run_xmod_bench.slurm
+```
+
+Evaluation results include overall accuracy and per-group / per-subtask / per-modality-combo breakdowns, logged automatically at the end of each run.
+
 ## 📈 Benchmark Results
 
 ### Overall Performance Comparison
@@ -165,11 +275,11 @@ python $audioBench/scripts/run.py \
 If you use XModBench in your research, please cite our paper:
 
 ```bibtex
-@article{wang2024xmodbench,
+@article{wang2025xmodbench,
   title={XModBench: Benchmarking Cross-Modal Capabilities and Consistency in Omni-Language Models},
-  author={Wang, Xingrui, etc.},
+  author={Wang, Xingrui and others},
   journal={arXiv preprint arXiv:2510.15148},
-  year={2024}
+  year={2025}
 }
 ```
 
@@ -197,7 +307,7 @@ We thank all contributors and the research community for their valuable feedback
 
 ## Todo
 
-- [ ] Release Huggingface data
+- [x] Release Huggingface data
 - [x] Release data processing code
 - [x] Release data evaluation code
 ---

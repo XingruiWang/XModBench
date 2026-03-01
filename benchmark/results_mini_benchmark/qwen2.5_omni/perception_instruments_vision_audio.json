@@ -1,78 +1,31 @@
 {
     "task_name": "perception/instruments_vision_audio",
-    "score": 30.0,
+    "score": 100.0,
     "correct_count": 3,
-    "all_count": 10,
+    "all_count": 3,
     "results": {
-        "0": {
+        "25": {
             "question": "Which sound is most likely made by the object from this image? Answer the question with A, B, C, or D",
             "response": "A",
             "correct_answer": "A",
-            "index": 0,
+            "index": 25,
             "is_correct": true
         },
-        "1": {
+        "114": {
             "question": "Which sound is most likely made by the object from this image? Answer the question with A, B, C, or D",
-            "response": "C",
-            "correct_answer": "A",
-            "index": 1,
-            "is_correct": false
-        },
-        "2": {
-            "question": "Which sound is most likely made by the object from this image? Answer the question with A, B, C, or D",
-            "response": "C",
-            "correct_answer": "C",
-            "index": 2,
+            "response": "B",
+            "correct_answer": "B",
+            "index": 114,
             "is_correct": true
         },
-        "3": {
+        "654": {
             "question": "Which sound is most likely made by the object from this image? Answer the question with A, B, C, or D",
             "response": "C",
             "correct_answer": "C",
-            "index": 3,
+            "index": 654,
             "is_correct": true
-        },
-        "4": {
-            "question": "Which sound is most likely made by the object from this image? Answer the question with A, B, C, or D",
-            "response": "D",
-            "correct_answer": "A",
-            "index": 4,
-            "is_correct": false
-        },
-        "5": {
-            "question": "Which sound is most likely made by the object from this image? Answer the question with A, B, C, or D",
-            "response": "D",
-            "correct_answer": "C",
-            "index": 5,
-            "is_correct": false
-        },
-        "6": {
-            "question": "Which sound is most likely made by the object from this image? Answer the question with A, B, C, or D",
-            "response": "A",
-            "correct_answer": "B",
-            "index": 6,
-            "is_correct": false
-        },
-        "7": {
-            "question": "Which sound is most likely made by the object from this image? Answer the question with A, B, C, or D",
-            "response": "A",
-            "correct_answer": "C",
-            "index": 7,
-            "is_correct": false
-        },
-        "8": {
-            "question": "Which sound is most likely made by the object from this image? Answer the question with A, B, C, or D",
-            "response": "D",
-            "correct_answer": "B",
-            "index": 8,
-            "is_correct": false
-        },
-        "9": {
-            "question": "Which sound is most likely made by the object from this image? Answer the question with A, B, C, or D",
-            "response": "A",
-            "correct_answer": "B",
-            "index": 9,
-            "is_correct": false
         }
-    }
+    },
+    "format_error_count": 0,
+    "run_error_count": 0
 }

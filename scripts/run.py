@@ -14,12 +14,16 @@ def path_to_models(model):
         'gemini': './models/Genimi/run.py',
         # 'gemini': './models/Genimi/run_avt.py',
         'qwen2.5_omni': './models/Qwen2.5-Omni/run.py',
+        'qwen2.5_vl': './models/Qwen2.5-VL/run.py',
         'qwen3-omni': './models/Qwen3-Omni/run.py',
         'echoink': './models/EchoInk/run.py',
         'vita': './models/VITA/run.py',
         'anygpt': './models/AnyGPT/run.py',
         'reka': './models/Reka/run.py',
         'panda': './models/PandaGPT/run.py',
+        'omnivinci': './models/OmniVinci/run.py',
+        'internvl3': './models/InternVL3/run.py',
+        'random': './models/Random/run.py',
     }
     
     return PATH_TO_MODELS.get(prefix, None)
