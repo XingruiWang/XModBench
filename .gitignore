@@ -95,3 +95,7 @@ benchmark/tasks
 # upstream FireRedTTS clone (64GB model weights) — install separately
 scripts/FireRedTTS/
 lite.json
+
+# internal paper analysis scratch (dup _2 variants, .tex, .png outputs).
+# Canonical metrics: lmms-eval summarize.py.
+benchmark/scripts/metric/
