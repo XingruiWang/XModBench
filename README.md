@@ -109,16 +109,17 @@ XModBench/
 │   │   ├── 04_temporal/
 │   │   └── 05_Exteral/
 │   └── results/                     # Model evaluation results
-├── model_runners/                   # ★ per-model eval scripts (run.py …) + index README
-│   ├── Qwen2.5-Omni/  Qwen3-Omni/  OmniVinci/  VITA/  Gemini/  …
-│   └── README.md                    # which files, upstream to install, how to run
+├── models/                          # ★ per-model eval scripts (run.py …)
+│   ├── Qwen2.5-Omni/  Qwen3-Omni/  Qwen2.5-VL/  OmniVinci/  VITA/  …
+│   └── ...                          # upstream weights/impl install separately
 └── scripts/                         # data-processing helpers (process/, download/)
 ```
 
-> **Per-model evaluation code lives in [`model_runners/`](model_runners/)**
-> (12 models). Upstream model weights/implementations are installed
-> separately — see [`model_runners/README.md`](model_runners/README.md).
-> For a turnkey reproducible path use the
+> **Per-model evaluation code lives in [`models/`](models/)** — each
+> `models/<Model>/run.py` loads the benchmark, builds prompts, calls the
+> model and scores. Only the XModBench-side scripts are tracked here; the
+> upstream model weights/implementations are installed separately (see each
+> model's upstream repo). For a turnkey reproducible path use the
 > [lmms-eval port](https://github.com/XingruiWang/lmms-eval).
 
 ## 🚀 Quick Start
