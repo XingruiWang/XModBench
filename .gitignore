@@ -91,3 +91,6 @@ benchmark/tasks
 **/__pycache__/
 *.pyc
 **/Untitled*
+
+# upstream FireRedTTS clone (64GB model weights) — install separately
+scripts/FireRedTTS/
