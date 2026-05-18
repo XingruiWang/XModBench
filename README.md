@@ -109,13 +109,17 @@ XModBench/
 │   │   ├── 04_temporal/
 │   │   └── 05_Exteral/
 │   └── results/                     # Model evaluation results
-├── models/                          # Model inference scripts
-│   ├── Qwen2.5-Omni/
-│   ├── Genimi/
-│   ├── InternVL/
-│   └── ...
-└── scripts/                         # Helper scripts
+├── model_runners/                   # ★ per-model eval scripts (run.py …) + index README
+│   ├── Qwen2.5-Omni/  Qwen3-Omni/  OmniVinci/  VITA/  Gemini/  …
+│   └── README.md                    # which files, upstream to install, how to run
+└── scripts/                         # data-processing helpers (process/, download/)
 ```
+
+> **Per-model evaluation code lives in [`model_runners/`](model_runners/)**
+> (12 models). Upstream model weights/implementations are installed
+> separately — see [`model_runners/README.md`](model_runners/README.md).
+> For a turnkey reproducible path use the
+> [lmms-eval port](https://github.com/XingruiWang/lmms-eval).
 
 ## 🚀 Quick Start
 
