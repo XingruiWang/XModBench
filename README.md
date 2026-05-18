@@ -39,53 +39,49 @@ The dataset is available on Hugging Face: [RyanWW/XModBench](https://huggingface
 
 ### Task Groups and Subtasks
 
-<!-- | Group | Subtasks | Samples |
-|---|---|---:|
-| Perception | finegrained, general_activities, instruments, instruments_comp, natures | 27,000 |
-| Spatial | 3D_movements, arrangements, panaroma | 7,791 |
-| Speech | recognition, translation | 8,244 |
-| Temporal | calculation, count, order | 9,000 |
-| External Knowledge | emotion_classification, movie_matching, music_genre_classification, singer_identification | 12,300 |
-| **Total** | **17 subtasks** | **64,335** | -->
+Counts below reflect the **actual released dataset** ([HF `RyanWW/XModBench`](https://huggingface.co/datasets/RyanWW/XModBench)), summed over the 6 modality configurations.
 
-| Group | Subtask | Samples |
+| Family | Subtask | Samples |
 |---|---|---:|
 | Perception | finegrained | 6,000 |
 | Perception | general_activities | 6,000 |
 | Perception | instruments | 6,000 |
 | Perception | instruments_comp | 3,000 |
-| Perception | natures | 6,000 |
-| **Perception total** | | **27,000** |
+| Perception | natures | 3,000 |
+| **Perception total** | | **24,000** |
 | Spatial | 3D_movements | 2,646 |
 | Spatial | arrangements | 2,790 |
-| Spatial | panaroma | 2,355 |
-| **Spatial total** | | **7,791** |
-| Speech | recognition | 4,032 |
-| Speech | translation | 4,212 |
-| **Speech total** | | **8,244** |
+| Spatial | panaroma | 2,340 |
+| **Spatial total** | | **7,776** |
+| Linguistic | recognition | 4,032 |
+| Linguistic | translation | 4,212 |
+| **Linguistic total** | | **8,244** |
 | Temporal | calculation | 3,000 |
 | Temporal | count | 3,000 |
 | Temporal | order | 3,000 |
 | **Temporal total** | | **9,000** |
-| External | emotion_classification | 4,200 |
-| External | movie_matching | 1,200 |
-| External | music_genre_classification | 6,000 |
-| External | singer_identification | 900 |
-| **External total** | | **12,300** |
-| **Grand total** | | **64,335** |
+| Knowledge | emotion_classification | 4,200 |
+| Knowledge | movie_matching | 1,200 |
+| Knowledge | music_genre_classification | 6,000 |
+| Knowledge | singer_identification | 900 |
+| **Knowledge total** | | **12,300** |
+| **Grand total** | **17 subtasks** | **61,320** |
 
 ### Modality Combinations
 
-The benchmark covers all combinations of three modalities — **Audio**, **Vision** (image or video), and **Text** — as condition and answer options:
+The benchmark covers all six configurations of **Audio**, **Vision** (image or video), and **Text** as condition → answer options. Each configuration has the same 10,220 items (same semantics, permuted modality):
 
 | Condition → Options | Samples |
 |---|---:|
-| Audio → Vision | 10,720 |
-| Audio → Text | 10,720 |
-| Vision → Audio | 10,725 |
-| Vision → Text | 10,725 |
-| Text → Audio | 10,725 |
-| Text → Vision | 10,720 |
+| Audio → Text | 10,220 |
+| Audio → Vision | 10,220 |
+| Text → Audio | 10,220 |
+| Text → Vision | 10,220 |
+| Vision → Audio | 10,220 |
+| Vision → Text | 10,220 |
+| **Total** | **61,320** |
+
+> **XModBench-Lite**: a balanced 6,000-sample subset (5 families × 6 configs × 200) for fast evaluation.
 
 ### Repository Structure
 
