@@ -269,12 +269,42 @@ per-subtask breakdowns; `summarize.py` emits the 17 Level-2 numbers
 
 ## 📈 Benchmark Results
 
-### Overall Performance Comparison
+### Full Benchmark (61,320 samples) — all models from the paper
 
-| Model | Perception | Spatial | Temporal | Linguistic | Knowledge | Average |
-|-------|------------|---------|----------|------------|-----------|---------|
-| **Gemini 2.5 Pro** | 75.9% | 50.1% | 60.8% | 76.8% | 89.3% | 70.6% |
-| **Human Performance** | 91.0% | 89.7% | 88.9% | 93.9% | 93.9% | 91.5% |
+By-configuration accuracy (%) over the six modality directions; **Avg.** is the mean over the six (Table 2 of the paper).
+
+| Model | A→T | A→V | T→A | T→V | V→A | V→T | Avg. |
+|-------|----:|----:|----:|----:|----:|----:|-----:|
+| Gemini 2.5 Pro | 71.0 | 58.9 | 64.4 | 79.8 | 60.8 | 88.6 | **70.6** |
+| Gemini 2.5 Flash | 62.6 | 51.2 | 55.1 | 75.7 | 51.9 | 86.0 | 63.7 |
+| Gemini 2.0 Flash | 63.7 | 49.0 | 52.2 | 71.5 | 47.6 | 85.2 | 61.2 |
+| EchoInk-R1 | 64.6 | 45.9 | 56.4 | 60.9 | 49.9 | 77.6 | 59.2 |
+| Qwen2.5-Omni | 62.0 | 48.0 | 55.4 | 59.6 | 50.5 | 76.3 | 58.6 |
+| Gemini 1.5 Pro | 52.4 | 38.2 | 48.6 | 70.4 | 40.7 | 79.9 | 55.0 |
+| Baichuan-Omni-1.5 | 47.8 | 35.8 | 40.5 | 56.2 | 38.6 | 73.0 | 48.7 |
+| VideoLLaMA 2 | 48.6 | 26.0 | 25.7 | 26.5 | 25.2 | 66.8 | 36.5 |
+| VITA | 40.2 | 26.0 | 29.8 | 26.8 | 29.9 | 59.3 | 35.4 |
+| Unified-IO 2 XXL | 37.4 | 25.0 | 31.2 | 37.8 | 26.7 | 39.9 | 33.0 |
+| Unified-IO 2 XL | 33.3 | 27.0 | 27.1 | 32.9 | 26.5 | 37.4 | 30.7 |
+| Unified-IO 2 | 28.9 | 24.0 | 25.4 | 32.0 | 25.7 | 32.7 | 28.1 |
+| PandaGPT | 24.5 | 25.0 | 23.8 | 25.2 | 24.5 | 25.1 | 24.7 |
+| No Context (random) | 25.1 | 24.3 | 25.4 | 24.8 | 25.3 | 25.7 | 25.1 |
+| _Human_ | 92.4 | 91.5 | 91.1 | 91.8 | 86.4 | 95.6 | _91.5_ |
+
+> Vision-only models are evaluated only on text↔vision configs: **Qwen2.5-VL** 67.4 Avg., **InternVL-3.5** 61.7 Avg. (omitted from the six-way table).
+
+### XModBench-Lite (6,000 samples) — reproduced via lmms-eval
+
+Balanced split (5 families × 6 configs × 200), evaluated through the [lmms-eval port](https://github.com/XingruiWang/lmms-eval) with interleaved-multimedia wrappers.
+
+| Model | A→T | A→V | T→A | T→V | V→A | V→T | Avg. |
+|-------|----:|----:|----:|----:|----:|----:|-----:|
+| Qwen3-Omni-30B | 71.6 | 52.0 | 62.5 | 67.0 | 55.6 | 83.1 | **65.3** |
+| Qwen2.5-Omni-7B | 63.1 | 49.8 | 59.2 | 62.5 | 50.3 | 76.4 | 60.2 |
+| Baichuan-Omni-1.5 | 52.5 | 32.0 | 47.6 | 56.6 | 47.0 | 77.7 | 52.2 |
+| OmniVinci | 62.2 | — | — | — | — | 78.8 | — |
+
+> Qwen2.5-Omni matches its full-set paper numbers within 5 points on every configuration, confirming the port is faithful. Qwen3-Omni post-dates the paper (first reported here). OmniVinci runs on its single-media-condition configs; its 4-option configs hit VILA-internal limits (see [`RESULTS.md`](lmms_eval/tasks/xmod_bench/RESULTS.md) — note: that file lives in the lmms-eval repo). New runs update as they complete.
 
 ### Key Findings
 
