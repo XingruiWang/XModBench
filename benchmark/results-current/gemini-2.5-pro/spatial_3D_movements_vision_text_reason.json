@@ -1,0 +1,248 @@
+{
+    "task_name": "spatial/3D_movements_vision_text",
+    "score": 95.0,
+    "correct_count": 19,
+    "all_count": 20,
+    "results": {
+        "0": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "The video clip shows a street at night. A white car enters the frame from the left side and proceeds to move horizontally across the screen, exiting on the right side. This movement pattern directly corresponds to the description in option B. Option A describes the wrong direction of movement. Option C incorrectly identifies the vehicle as a truck. Option D is incorrect as a car is clearly visible and is the main subject of the action.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The video clip shows a street at night. A white car enters the frame from the left side and proceeds to move horizontally across the screen, exiting on the right side. This movement pattern directly corresponds to the description in option B. Option A describes the wrong direction of movement. Option C incorrectly identifies the vehicle as a truck. Option D is incorrect as a car is clearly visible and is the main subject of the action."
+            },
+            "correct_answer": "B",
+            "index": 0,
+            "is_correct": true
+        },
+        "1": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "The video shows a dark-colored vehicle traveling on a multi-lane road at night. Based on its size, shape, and two distinct headlights, the vehicle is identifiable as a car, not a bus. The car enters the frame from the left side and moves horizontally across the screen, eventually exiting on the right. Therefore, the description of a car moving from left to right accurately captures the events in the clip.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The video shows a dark-colored vehicle traveling on a multi-lane road at night. Based on its size, shape, and two distinct headlights, the vehicle is identifiable as a car, not a bus. The car enters the frame from the left side and moves horizontally across the screen, eventually exiting on the right. Therefore, the description of a car moving from left to right accurately captures the events in the clip."
+            },
+            "correct_answer": "B",
+            "index": 1,
+            "is_correct": true
+        },
+        "2": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "The video clip clearly shows a car entering the scene from the left side of the frame. The car proceeds to move horizontally across the screen towards the right, increasing in apparent size as it gets closer to the camera, before exiting the frame on the right. This matches the description of a car moving from left to right.",
+            "original_response": {
+                "answer": "D",
+                "reasoning": "The video clip clearly shows a car entering the scene from the left side of the frame. The car proceeds to move horizontally across the screen towards the right, increasing in apparent size as it gets closer to the camera, before exiting the frame on the right. This matches the description of a car moving from left to right."
+            },
+            "correct_answer": "D",
+            "index": 2,
+            "is_correct": true
+        },
+        "3": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "The video shows a street scene at night with traffic. At approximately the 00:01 mark, a white van, which can be categorized as a car, enters the frame from the left side. It proceeds to move horizontally across the screen towards the right, eventually exiting the frame around the 00:04 mark. Therefore, the description of a car moving horizontally from left to right accurately captures the primary vehicle action in the clip.",
+            "original_response": {
+                "answer": "D",
+                "reasoning": "The video shows a street scene at night with traffic. At approximately the 00:01 mark, a white van, which can be categorized as a car, enters the frame from the left side. It proceeds to move horizontally across the screen towards the right, eventually exiting the frame around the 00:04 mark. Therefore, the description of a car moving horizontally from left to right accurately captures the primary vehicle action in the clip."
+            },
+            "correct_answer": "D",
+            "index": 3,
+            "is_correct": true
+        },
+        "5": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "The video clip displays a nighttime urban street scene. At timestamp 00:01, a dark-colored car, highlighted by a red box, enters the frame from the right. This car proceeds to move horizontally across the screen from right to left, passing the camera's viewpoint by timestamp 00:03. Therefore, the description of a car moving from right to left accurately reflects the events shown in the video.",
+            "original_response": {
+                "answer": "C",
+                "reasoning": "The video clip displays a nighttime urban street scene. At timestamp 00:01, a dark-colored car, highlighted by a red box, enters the frame from the right. This car proceeds to move horizontally across the screen from right to left, passing the camera's viewpoint by timestamp 00:03. Therefore, the description of a car moving from right to left accurately reflects the events shown in the video."
+            },
+            "correct_answer": "A",
+            "index": 5,
+            "is_correct": false
+        },
+        "6": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "The video shows a two-toned vehicle, which is identifiable as a car (specifically a taxi), entering the frame from the left side. It then travels horizontally across the road and exits on the right side of the frame. Therefore, the description of a car moving from left to right is the most accurate.",
+            "original_response": {
+                "answer": "C",
+                "reasoning": "The video shows a two-toned vehicle, which is identifiable as a car (specifically a taxi), entering the frame from the left side. It then travels horizontally across the road and exits on the right side of the frame. Therefore, the description of a car moving from left to right is the most accurate."
+            },
+            "correct_answer": "C",
+            "index": 6,
+            "is_correct": true
+        },
+        "7": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "The video clip shows several vehicles, including vans and cars, moving along a road at night. The primary and most noticeable movement of the vehicles in the foreground is from the left side of the screen to the right side. Option A accurately describes this observation. Option B is incorrect as multiple vehicles are present. Option C is incorrect because the vehicles appear to be cars and vans, not a bus. Option D is incorrect as the dominant traffic flow shown is from left to right, not right to left.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The video clip shows several vehicles, including vans and cars, moving along a road at night. The primary and most noticeable movement of the vehicles in the foreground is from the left side of the screen to the right side. Option A accurately describes this observation. Option B is incorrect as multiple vehicles are present. Option C is incorrect because the vehicles appear to be cars and vans, not a bus. Option D is incorrect as the dominant traffic flow shown is from left to right, not right to left."
+            },
+            "correct_answer": "A",
+            "index": 7,
+            "is_correct": true
+        },
+        "8": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "The video clip shows a nighttime street scene. A dark-colored car enters the frame from the left side and travels horizontally across the screen to the right. As it gets closer to the camera, its apparent size increases. It passes the camera's position and exits the frame on the right. Therefore, the description of a car moving from left to right accurately reflects the events in the video.",
+            "original_response": {
+                "answer": "D",
+                "reasoning": "The video clip shows a nighttime street scene. A dark-colored car enters the frame from the left side and travels horizontally across the screen to the right. As it gets closer to the camera, its apparent size increases. It passes the camera's position and exits the frame on the right. Therefore, the description of a car moving from left to right accurately reflects the events in the video."
+            },
+            "correct_answer": "D",
+            "index": 8,
+            "is_correct": true
+        },
+        "9": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "The video shows a black car entering the frame from the left side. The vehicle travels horizontally across the scene, moving from the left towards the right. This action is accurately described in option C. Option A incorrectly states the direction of movement. Option B incorrectly identifies the vehicle as a motorbike. Option D is incorrect as a car is clearly visible and in motion.",
+            "original_response": {
+                "answer": "C",
+                "reasoning": "The video shows a black car entering the frame from the left side. The vehicle travels horizontally across the scene, moving from the left towards the right. This action is accurately described in option C. Option A incorrectly states the direction of movement. Option B incorrectly identifies the vehicle as a motorbike. Option D is incorrect as a car is clearly visible and in motion."
+            },
+            "correct_answer": "C",
+            "index": 9,
+            "is_correct": true
+        },
+        "11": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "The video shows a red car entering the scene from the left side of the frame. It then travels horizontally across the road, moving towards the right side of the frame. This directly matches the description of a car moving horizontally from left to right.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The video shows a red car entering the scene from the left side of the frame. It then travels horizontally across the road, moving towards the right side of the frame. This directly matches the description of a car moving horizontally from left to right."
+            },
+            "correct_answer": "A",
+            "index": 11,
+            "is_correct": true
+        },
+        "12": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "The video clip displays a street scene with multiple vehicles. Throughout the duration of the clip, several cars and vans are observed entering the frame from the left side and proceeding to move horizontally across the screen, eventually exiting on the right. This consistent left-to-right movement pattern is the primary action depicted. Option A incorrectly states the direction of movement is right to left. Option B is false, as numerous vehicles are clearly visible. Option D is incorrect because the vehicles shown are cars and vans, not a motorbike. Thus, option C provides the most accurate description of the events in the video.",
+            "original_response": {
+                "answer": "C",
+                "reasoning": "The video clip displays a street scene with multiple vehicles. Throughout the duration of the clip, several cars and vans are observed entering the frame from the left side and proceeding to move horizontally across the screen, eventually exiting on the right. This consistent left-to-right movement pattern is the primary action depicted. Option A incorrectly states the direction of movement is right to left. Option B is false, as numerous vehicles are clearly visible. Option D is incorrect because the vehicles shown are cars and vans, not a motorbike. Thus, option C provides the most accurate description of the events in the video."
+            },
+            "correct_answer": "C",
+            "index": 12,
+            "is_correct": true
+        },
+        "13": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "The video clip shows several cars. The most prominent action involves a grey hatchback followed by a blue hatchback, both entering the frame from the left and moving horizontally across the scene to the right. Other vehicles in the background also follow this general pattern of movement. Therefore, the description of a car moving from left to right is the most accurate.",
+            "original_response": {
+                "answer": "D",
+                "reasoning": "The video clip shows several cars. The most prominent action involves a grey hatchback followed by a blue hatchback, both entering the frame from the left and moving horizontally across the scene to the right. Other vehicles in the background also follow this general pattern of movement. Therefore, the description of a car moving from left to right is the most accurate."
+            },
+            "correct_answer": "D",
+            "index": 13,
+            "is_correct": true
+        },
+        "14": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "The video clip clearly shows a white car entering the frame from the left. This car then travels horizontally across the foreground of the scene, moving from the left side to the right side before exiting the frame. Option A accurately describes this sequence of events. Option B is incorrect because a vehicle is present. Option C is incorrect because the vehicle is a car, not a truck. Option D is incorrect because the car's direction of movement is from left to right, not right to left.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The video clip clearly shows a white car entering the frame from the left. This car then travels horizontally across the foreground of the scene, moving from the left side to the right side before exiting the frame. Option A accurately describes this sequence of events. Option B is incorrect because a vehicle is present. Option C is incorrect because the vehicle is a car, not a truck. Option D is incorrect because the car's direction of movement is from left to right, not right to left."
+            },
+            "correct_answer": "A",
+            "index": 14,
+            "is_correct": true
+        },
+        "15": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "The video shows a red passenger vehicle, which is a type of car, not a truck. This car enters the frame from the left side and moves horizontally across the road, eventually exiting the frame on the right side. Therefore, the description of a car moving from left to right accurately portrays the main action in the clip.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The video shows a red passenger vehicle, which is a type of car, not a truck. This car enters the frame from the left side and moves horizontally across the road, eventually exiting the frame on the right side. Therefore, the description of a car moving from left to right accurately portrays the main action in the clip."
+            },
+            "correct_answer": "A",
+            "index": 15,
+            "is_correct": true
+        },
+        "16": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "The video clip shows a dark-colored vehicle entering the frame from the left side. As the clip progresses, this vehicle, which is identifiable as a car, travels horizontally across the screen towards the right, eventually beginning to exit the frame on the right side. This observation directly corresponds with the description provided in option A.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The video clip shows a dark-colored vehicle entering the frame from the left side. As the clip progresses, this vehicle, which is identifiable as a car, travels horizontally across the screen towards the right, eventually beginning to exit the frame on the right side. This observation directly corresponds with the description provided in option A."
+            },
+            "correct_answer": "A",
+            "index": 16,
+            "is_correct": true
+        },
+        "17": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "The video clip shows an urban street scene at night. A white car enters the frame from the left side of the road and moves horizontally towards the right. It travels across the entire scene before exiting on the right. Therefore, the description of a car moving from left to right accurately reflects the events in the video.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The video clip shows an urban street scene at night. A white car enters the frame from the left side of the road and moves horizontally towards the right. It travels across the entire scene before exiting on the right. Therefore, the description of a car moving from left to right accurately reflects the events in the video."
+            },
+            "correct_answer": "B",
+            "index": 17,
+            "is_correct": true
+        },
+        "18": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "The video shows a night-time street scene. At approximately the 1-second mark, a white car enters the frame from the left side. It proceeds to travel horizontally across the screen, moving from left to right, and exits the frame around the 3-second mark. Therefore, the description of a car moving horizontally from left to right accurately captures the main event in the clip.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The video shows a night-time street scene. At approximately the 1-second mark, a white car enters the frame from the left side. It proceeds to travel horizontally across the screen, moving from left to right, and exits the frame around the 3-second mark. Therefore, the description of a car moving horizontally from left to right accurately captures the main event in the clip."
+            },
+            "correct_answer": "B",
+            "index": 18,
+            "is_correct": true
+        },
+        "19": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "The video clip clearly shows a street scene at night with moving traffic. At the beginning of the clip, a white car enters the frame from the left side. This car then proceeds to drive horizontally across the screen, moving from the left towards the right, and eventually exits the frame on the right side. Other vehicles are also seen moving in the same left-to-right direction. Option A is incorrect as multiple vehicles are present. Option C is incorrect because the main subject is a car, not a bus. Option D is incorrect because the direction of movement is from left to right, not right to left.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The video clip clearly shows a street scene at night with moving traffic. At the beginning of the clip, a white car enters the frame from the left side. This car then proceeds to drive horizontally across the screen, moving from the left towards the right, and eventually exits the frame on the right side. Other vehicles are also seen moving in the same left-to-right direction. Option A is incorrect as multiple vehicles are present. Option C is incorrect because the main subject is a car, not a bus. Option D is incorrect because the direction of movement is from left to right, not right to left."
+            },
+            "correct_answer": "B",
+            "index": 19,
+            "is_correct": true
+        },
+        "20": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "The video clip shows an urban street at night. A light-colored car enters the frame from the left side and moves horizontally across the screen towards the right. As it moves, its position changes from left to right, and its size increases slightly as it gets closer to the camera's viewpoint before exiting the frame. This matches the description of a car moving from left to right.",
+            "original_response": {
+                "answer": "C",
+                "reasoning": "The video clip shows an urban street at night. A light-colored car enters the frame from the left side and moves horizontally across the screen towards the right. As it moves, its position changes from left to right, and its size increases slightly as it gets closer to the camera's viewpoint before exiting the frame. This matches the description of a car moving from left to right."
+            },
+            "correct_answer": "C",
+            "index": 20,
+            "is_correct": true
+        },
+        "21": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "The video clip shows a street scene at night. At approximately the 1-second mark, a dark-colored car enters the frame from the left side. The car then travels horizontally across the screen, moving from left to right for the remainder of the clip. The vehicle is clearly a car, not a motorbike, and it is moving from left to right, making option D the only accurate description.",
+            "original_response": {
+                "answer": "D",
+                "reasoning": "The video clip shows a street scene at night. At approximately the 1-second mark, a dark-colored car enters the frame from the left side. The car then travels horizontally across the screen, moving from left to right for the remainder of the clip. The vehicle is clearly a car, not a motorbike, and it is moving from left to right, making option D the only accurate description."
+            },
+            "correct_answer": "D",
+            "index": 21,
+            "is_correct": true
+        }
+    }
+}

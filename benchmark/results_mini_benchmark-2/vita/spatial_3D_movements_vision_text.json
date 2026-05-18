@@ -1,0 +1,687 @@
+{
+    "task_name": "spatial/3D_movements_vision_text",
+    "score": 55.670103092783506,
+    "correct_count": 54,
+    "all_count": 97,
+    "results": {
+        "0": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 0,
+            "is_correct": true
+        },
+        "1": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 1,
+            "is_correct": false
+        },
+        "2": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 2,
+            "is_correct": true
+        },
+        "3": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 3,
+            "is_correct": true
+        },
+        "4": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 4,
+            "is_correct": false
+        },
+        "5": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 5,
+            "is_correct": false
+        },
+        "6": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 6,
+            "is_correct": true
+        },
+        "7": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 7,
+            "is_correct": false
+        },
+        "8": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 8,
+            "is_correct": false
+        },
+        "9": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 9,
+            "is_correct": true
+        },
+        "10": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 10,
+            "is_correct": false
+        },
+        "11": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 11,
+            "is_correct": false
+        },
+        "12": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 12,
+            "is_correct": true
+        },
+        "13": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 13,
+            "is_correct": true
+        },
+        "14": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 14,
+            "is_correct": false
+        },
+        "15": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 15,
+            "is_correct": false
+        },
+        "16": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 16,
+            "is_correct": false
+        },
+        "17": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 17,
+            "is_correct": true
+        },
+        "18": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 18,
+            "is_correct": true
+        },
+        "19": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 19,
+            "is_correct": false
+        },
+        "20": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 20,
+            "is_correct": true
+        },
+        "21": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 21,
+            "is_correct": true
+        },
+        "22": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 22,
+            "is_correct": true
+        },
+        "23": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 23,
+            "is_correct": true
+        },
+        "24": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 24,
+            "is_correct": false
+        },
+        "25": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 25,
+            "is_correct": true
+        },
+        "26": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 26,
+            "is_correct": false
+        },
+        "27": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 27,
+            "is_correct": false
+        },
+        "28": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 28,
+            "is_correct": false
+        },
+        "29": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 29,
+            "is_correct": true
+        },
+        "30": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 30,
+            "is_correct": true
+        },
+        "31": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 31,
+            "is_correct": false
+        },
+        "32": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 32,
+            "is_correct": false
+        },
+        "33": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 33,
+            "is_correct": true
+        },
+        "34": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 34,
+            "is_correct": false
+        },
+        "35": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 35,
+            "is_correct": true
+        },
+        "36": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 36,
+            "is_correct": false
+        },
+        "37": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 37,
+            "is_correct": true
+        },
+        "38": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 38,
+            "is_correct": true
+        },
+        "39": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 39,
+            "is_correct": false
+        },
+        "40": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 40,
+            "is_correct": true
+        },
+        "41": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 41,
+            "is_correct": false
+        },
+        "42": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 42,
+            "is_correct": false
+        },
+        "43": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 43,
+            "is_correct": true
+        },
+        "44": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 44,
+            "is_correct": false
+        },
+        "45": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 45,
+            "is_correct": true
+        },
+        "46": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 46,
+            "is_correct": true
+        },
+        "47": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 47,
+            "is_correct": true
+        },
+        "48": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 48,
+            "is_correct": true
+        },
+        "49": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 49,
+            "is_correct": true
+        },
+        "50": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 50,
+            "is_correct": true
+        },
+        "51": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 51,
+            "is_correct": true
+        },
+        "52": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 52,
+            "is_correct": true
+        },
+        "53": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 53,
+            "is_correct": true
+        },
+        "54": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 54,
+            "is_correct": false
+        },
+        "55": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 55,
+            "is_correct": false
+        },
+        "56": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 56,
+            "is_correct": true
+        },
+        "57": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 57,
+            "is_correct": false
+        },
+        "58": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 58,
+            "is_correct": true
+        },
+        "59": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 59,
+            "is_correct": true
+        },
+        "60": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 60,
+            "is_correct": true
+        },
+        "61": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 61,
+            "is_correct": false
+        },
+        "62": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 62,
+            "is_correct": true
+        },
+        "63": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 63,
+            "is_correct": true
+        },
+        "64": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 64,
+            "is_correct": false
+        },
+        "65": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 65,
+            "is_correct": false
+        },
+        "66": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 66,
+            "is_correct": true
+        },
+        "67": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 67,
+            "is_correct": true
+        },
+        "68": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 68,
+            "is_correct": false
+        },
+        "69": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 69,
+            "is_correct": true
+        },
+        "70": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 70,
+            "is_correct": true
+        },
+        "71": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 71,
+            "is_correct": false
+        },
+        "72": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 72,
+            "is_correct": true
+        },
+        "73": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 73,
+            "is_correct": false
+        },
+        "74": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 74,
+            "is_correct": false
+        },
+        "75": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 75,
+            "is_correct": false
+        },
+        "76": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 76,
+            "is_correct": true
+        },
+        "77": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 77,
+            "is_correct": false
+        },
+        "78": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 78,
+            "is_correct": true
+        },
+        "79": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 79,
+            "is_correct": true
+        },
+        "80": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 80,
+            "is_correct": true
+        },
+        "81": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 81,
+            "is_correct": false
+        },
+        "82": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 82,
+            "is_correct": false
+        },
+        "83": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 83,
+            "is_correct": true
+        },
+        "84": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 84,
+            "is_correct": true
+        },
+        "85": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 85,
+            "is_correct": false
+        },
+        "86": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 86,
+            "is_correct": false
+        },
+        "87": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 87,
+            "is_correct": true
+        },
+        "88": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 88,
+            "is_correct": true
+        },
+        "89": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 89,
+            "is_correct": false
+        },
+        "90": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 90,
+            "is_correct": false
+        },
+        "91": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 91,
+            "is_correct": true
+        },
+        "92": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 92,
+            "is_correct": true
+        },
+        "93": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 93,
+            "is_correct": false
+        },
+        "94": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 94,
+            "is_correct": true
+        },
+        "95": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 95,
+            "is_correct": false
+        },
+        "96": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 96,
+            "is_correct": true
+        }
+    }
+}

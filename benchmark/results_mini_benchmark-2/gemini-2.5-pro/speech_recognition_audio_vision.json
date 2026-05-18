@@ -1,0 +1,32 @@
+{
+    "task_name": "speech/recognition_audio_vision",
+    "score": 66.66666666666666,
+    "correct_count": 2,
+    "all_count": 3,
+    "results": {
+        "0": {
+            "question": "Which image has text that matches the sentence in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "original_response": "C",
+            "correct_answer": "C",
+            "index": 0,
+            "is_correct": true
+        },
+        "1": {
+            "question": "Which image has text that matches the sentence in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "original_response": "A",
+            "correct_answer": "A",
+            "index": 1,
+            "is_correct": true
+        },
+        "2": {
+            "question": "Which image has text that matches the sentence in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "original_response": "D",
+            "correct_answer": "B",
+            "index": 2,
+            "is_correct": false
+        }
+    }
+}

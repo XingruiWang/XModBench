@@ -1,0 +1,31 @@
+{
+    "task_name": "external/movie_matching_vision_audio",
+    "score": 33.33333333333333,
+    "correct_count": 1,
+    "all_count": 3,
+    "results": {
+        "6": {
+            "question": "Look at this movie poster. Which trailer audio belongs to the same film? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 6,
+            "is_correct": false
+        },
+        "28": {
+            "question": "Look at this movie poster. Which trailer audio belongs to the same film? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 28,
+            "is_correct": true
+        },
+        "163": {
+            "question": "Look at this movie poster. Which trailer audio belongs to the same film? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 163,
+            "is_correct": false
+        }
+    },
+    "format_error_count": 0,
+    "run_error_count": 0
+}

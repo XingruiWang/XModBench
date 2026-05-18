@@ -1,0 +1,32 @@
+{
+    "task_name": "spatial/arrangements_audio_text",
+    "score": 33.33333333333333,
+    "correct_count": 1,
+    "all_count": 3,
+    "results": {
+        "0": {
+            "question": "The audio clip below features multiple instruments arranged from left to right. Pay close attention to how each sound appears in the stereo field. Which text best describes the spatial pattern? Choose A, B, C, or D.",
+            "response": "D",
+            "original_response": "D",
+            "correct_answer": "A",
+            "index": 0,
+            "is_correct": false
+        },
+        "1": {
+            "question": "The audio clip below features multiple instruments arranged from left to right. Pay close attention to how each sound appears in the stereo field. Which text best describes the spatial pattern? Choose A, B, C, or D.",
+            "response": "C",
+            "original_response": "C",
+            "correct_answer": "B",
+            "index": 1,
+            "is_correct": false
+        },
+        "2": {
+            "question": "The audio clip below features multiple instruments arranged from left to right. Pay close attention to how each sound appears in the stereo field. Which text best describes the spatial pattern? Choose A, B, C, or D.",
+            "response": "B",
+            "original_response": "B",
+            "correct_answer": "B",
+            "index": 2,
+            "is_correct": true
+        }
+    }
+}

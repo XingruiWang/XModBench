@@ -1,0 +1,31 @@
+{
+    "task_name": "external/emotion_classification_audio_vision",
+    "score": 0.0,
+    "correct_count": 0,
+    "all_count": 3,
+    "results": {
+        "25": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 25,
+            "is_correct": false
+        },
+        "114": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 114,
+            "is_correct": false
+        },
+        "654": {
+            "question": "Listen carefully to this emotional dialog/speech sample. Pay attention to the speaker's tone of voice and dialog to identify the emotion being conveyed through their speech. Then select the video clip that shows the same emotion. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 654,
+            "is_correct": false
+        }
+    },
+    "format_error_count": 0,
+    "run_error_count": 0
+}

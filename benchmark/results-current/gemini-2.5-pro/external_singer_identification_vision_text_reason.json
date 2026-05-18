@@ -1,0 +1,248 @@
+{
+    "task_name": "external/singer_identification_vision_text",
+    "score": 100.0,
+    "correct_count": 20,
+    "all_count": 20,
+    "results": {
+        "5": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "The man in the photograph is identifiable by his full beard, robust build, and extensive tattoos, including those on his face and hands. This is the characteristic appearance of the American singer-songwriter Teddy Swims. The other options are incorrect: David Tao and The Weeknd have different physical features, and Faye Wong is a female singer.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The man in the photograph is identifiable by his full beard, robust build, and extensive tattoos, including those on his face and hands. This is the characteristic appearance of the American singer-songwriter Teddy Swims. The other options are incorrect: David Tao and The Weeknd have different physical features, and Faye Wong is a female singer."
+            },
+            "correct_answer": "A",
+            "index": 5,
+            "is_correct": true
+        },
+        "9": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "The person in the photograph is a male singer with a prominent beard and extensive tattoos, including on his face and hands. Reviewing the options, Faye Wong and SZA are female artists, so they can be eliminated. Joker Xue is a male artist, but he does not have a beard or tattoos like the person pictured. Teddy Swims is well-known for his signature look, which includes a full beard and numerous tattoos, matching the individual in the image perfectly.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The person in the photograph is a male singer with a prominent beard and extensive tattoos, including on his face and hands. Reviewing the options, Faye Wong and SZA are female artists, so they can be eliminated. Joker Xue is a male artist, but he does not have a beard or tattoos like the person pictured. Teddy Swims is well-known for his signature look, which includes a full beard and numerous tattoos, matching the individual in the image perfectly."
+            },
+            "correct_answer": "B",
+            "index": 9,
+            "is_correct": true
+        },
+        "11": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "The person shown in the image is an East Asian male. By process of elimination, we can rule out the other options. Lady Gaga (A) is a female American singer. Faye Wong (B) is a female Chinese singer. Kendrick Lamar (D) is a male African American rapper. The image is a clear photograph of the Chinese singer-songwriter Joker Xue (\u859b\u4e4b\u8c26), making C the correct answer.",
+            "original_response": {
+                "answer": "C",
+                "reasoning": "The person shown in the image is an East Asian male. By process of elimination, we can rule out the other options. Lady Gaga (A) is a female American singer. Faye Wong (B) is a female Chinese singer. Kendrick Lamar (D) is a male African American rapper. The image is a clear photograph of the Chinese singer-songwriter Joker Xue (\u859b\u4e4b\u8c26), making C the correct answer."
+            },
+            "correct_answer": "C",
+            "index": 11,
+            "is_correct": true
+        },
+        "21": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "The singer in the photograph is an East Asian man performing on stage with a guitar. A visual comparison of the singer's facial features with the provided options reveals a strong resemblance to David Tao, a well-known Taiwanese singer-songwriter. The other options can be eliminated: Harry Styles is a Caucasian singer, and Zhou Shen and Joker Xue have different facial features.",
+            "original_response": {
+                "answer": "D",
+                "reasoning": "The singer in the photograph is an East Asian man performing on stage with a guitar. A visual comparison of the singer's facial features with the provided options reveals a strong resemblance to David Tao, a well-known Taiwanese singer-songwriter. The other options can be eliminated: Harry Styles is a Caucasian singer, and Zhou Shen and Joker Xue have different facial features."
+            },
+            "correct_answer": "D",
+            "index": 21,
+            "is_correct": true
+        },
+        "24": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "The person in the image is a male of East Asian descent. This eliminates Sabrina Carpenter (B), who is a female, and The Weeknd (D), who is of Ethiopian descent. Comparing the facial features of the person in the image to known photos of Eason Chan (A) and Jay Chou (C), the man in the photo is identifiable as Jay Chou, a famous Taiwanese singer, based on his distinct eyes, nose, and overall facial structure.",
+            "original_response": {
+                "answer": "C",
+                "reasoning": "The person in the image is a male of East Asian descent. This eliminates Sabrina Carpenter (B), who is a female, and The Weeknd (D), who is of Ethiopian descent. Comparing the facial features of the person in the image to known photos of Eason Chan (A) and Jay Chou (C), the man in the photo is identifiable as Jay Chou, a famous Taiwanese singer, based on his distinct eyes, nose, and overall facial structure."
+            },
+            "correct_answer": "C",
+            "index": 24,
+            "is_correct": true
+        },
+        "25": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "The person in the photograph is the American singer, songwriter, and actress Lady Gaga. The image shows her at the inauguration of Joe Biden on January 20, 2021, where she performed the U.S. national anthem. Her distinctive facial features, platinum blonde braided hair, and the custom Schiaparelli haute couture outfit with the large golden dove brooch are all clearly recognizable and widely documented from this event. The other options are incorrect as they are different artists with distinct appearances.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The person in the photograph is the American singer, songwriter, and actress Lady Gaga. The image shows her at the inauguration of Joe Biden on January 20, 2021, where she performed the U.S. national anthem. Her distinctive facial features, platinum blonde braided hair, and the custom Schiaparelli haute couture outfit with the large golden dove brooch are all clearly recognizable and widely documented from this event. The other options are incorrect as they are different artists with distinct appearances."
+            },
+            "correct_answer": "B",
+            "index": 25,
+            "is_correct": true
+        },
+        "27": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "The singer in the image is David Tao (\u9676\u5586), a prominent Taiwanese-American singer-songwriter. A comparison of the individual's facial features, hairstyle, and the context of him performing on stage with a guitar strongly matches known images of David Tao. The other options are incorrect: Eason Chan and Joker Xue have different facial structures, and SZA is a female artist.",
+            "original_response": {
+                "answer": "D",
+                "reasoning": "The singer in the image is David Tao (\u9676\u5586), a prominent Taiwanese-American singer-songwriter. A comparison of the individual's facial features, hairstyle, and the context of him performing on stage with a guitar strongly matches known images of David Tao. The other options are incorrect: Eason Chan and Joker Xue have different facial structures, and SZA is a female artist."
+            },
+            "correct_answer": "D",
+            "index": 27,
+            "is_correct": true
+        },
+        "31": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "The image shows a man with a large build, a full beard, and numerous prominent tattoos, including on his face (forehead) and hands. Among the choices provided, this physical description matches the American singer-songwriter Teddy Swims. Bruno Mars and Harry Styles have distinctly different appearances and do not have such extensive facial tattoos. Olivia Rodrigo is a female singer. Therefore, the singer shown in the image is Teddy Swims.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The image shows a man with a large build, a full beard, and numerous prominent tattoos, including on his face (forehead) and hands. Among the choices provided, this physical description matches the American singer-songwriter Teddy Swims. Bruno Mars and Harry Styles have distinctly different appearances and do not have such extensive facial tattoos. Olivia Rodrigo is a female singer. Therefore, the singer shown in the image is Teddy Swims."
+            },
+            "correct_answer": "B",
+            "index": 31,
+            "is_correct": true
+        },
+        "40": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "The image provided shows a woman with distinct facial features, particularly high cheekbones and short black hair. Comparing this image to known photographs of the singers listed, the person is clearly identifiable as Faye Wong, a famous singer from Hong Kong. The other options are incorrect: Teddy Swims and Zhou Shen are male singers, and Sabrina Carpenter is a white, typically blonde-haired singer, none of whom match the person in the photo.",
+            "original_response": {
+                "answer": "C",
+                "reasoning": "The image provided shows a woman with distinct facial features, particularly high cheekbones and short black hair. Comparing this image to known photographs of the singers listed, the person is clearly identifiable as Faye Wong, a famous singer from Hong Kong. The other options are incorrect: Teddy Swims and Zhou Shen are male singers, and Sabrina Carpenter is a white, typically blonde-haired singer, none of whom match the person in the photo."
+            },
+            "correct_answer": "C",
+            "index": 40,
+            "is_correct": true
+        },
+        "45": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "The image displays a middle-aged male singer of East Asian descent. By examining the provided options, we can eliminate the incorrect choices. Sabrina Carpenter (A) is a young American female singer. Bad Bunny (B) is a young Puerto Rican male singer. Faye Wong (D) is a female singer from Hong Kong. The only option that matches the person in the photograph is Eason Chan (C), who is a prominent male singer from Hong Kong. The facial features of the person in the image are a clear match for Eason Chan.",
+            "original_response": {
+                "answer": "C",
+                "reasoning": "The image displays a middle-aged male singer of East Asian descent. By examining the provided options, we can eliminate the incorrect choices. Sabrina Carpenter (A) is a young American female singer. Bad Bunny (B) is a young Puerto Rican male singer. Faye Wong (D) is a female singer from Hong Kong. The only option that matches the person in the photograph is Eason Chan (C), who is a prominent male singer from Hong Kong. The facial features of the person in the image are a clear match for Eason Chan."
+            },
+            "correct_answer": "C",
+            "index": 45,
+            "is_correct": true
+        },
+        "49": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "The person in the image is an East Asian male. Morgan Wallen is a white American country singer, and Ariana Grande is a female American singer, so options B and D are incorrect. Mayday is a Taiwanese band, and the man pictured does not resemble their lead singer, Ashin. The man in the photograph is clearly identifiable as Eason Chan, a very popular and well-known singer from Hong Kong.",
+            "original_response": {
+                "answer": "C",
+                "reasoning": "The person in the image is an East Asian male. Morgan Wallen is a white American country singer, and Ariana Grande is a female American singer, so options B and D are incorrect. Mayday is a Taiwanese band, and the man pictured does not resemble their lead singer, Ashin. The man in the photograph is clearly identifiable as Eason Chan, a very popular and well-known singer from Hong Kong."
+            },
+            "correct_answer": "C",
+            "index": 49,
+            "is_correct": true
+        },
+        "50": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "The singer in the photograph is identified as Chappell Roan. Her distinctive features, including the voluminous curly red hair, theatrical makeup, and the red corset costume, are all characteristic of her stage persona and style, especially during her 'The Rise and Fall of a Midwest Princess' album era. The other options are incorrect: Zhou Shen is a male singer, SZA has a different style and appearance, and while Lady Gaga is known for dramatic outfits, the facial features are clearly not hers.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The singer in the photograph is identified as Chappell Roan. Her distinctive features, including the voluminous curly red hair, theatrical makeup, and the red corset costume, are all characteristic of her stage persona and style, especially during her 'The Rise and Fall of a Midwest Princess' album era. The other options are incorrect: Zhou Shen is a male singer, SZA has a different style and appearance, and while Lady Gaga is known for dramatic outfits, the facial features are clearly not hers."
+            },
+            "correct_answer": "B",
+            "index": 50,
+            "is_correct": true
+        },
+        "55": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "The image shows a female singer of East Asian descent with a distinctive short, black haircut and prominent cheekbones. Options C (Harry Styles) and D (David Tao) can be eliminated as they are male singers. Comparing the remaining options, the singer in the photograph is Faye Wong. Her facial features and iconic pixie haircut are a clear match to numerous photos of her, especially from her concert performances.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The image shows a female singer of East Asian descent with a distinctive short, black haircut and prominent cheekbones. Options C (Harry Styles) and D (David Tao) can be eliminated as they are male singers. Comparing the remaining options, the singer in the photograph is Faye Wong. Her facial features and iconic pixie haircut are a clear match to numerous photos of her, especially from her concert performances."
+            },
+            "correct_answer": "B",
+            "index": 55,
+            "is_correct": true
+        },
+        "59": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "The singer in the photograph is instantly recognizable as Lady Gaga. The image captures her at a specific, high-profile event: the inauguration of U.S. President Joe Biden on January 20, 2021. She is wearing the memorable Schiaparelli haute couture gown with a large golden dove of peace brooch, an outfit that was widely covered by the media. Her distinct facial features, makeup, and hairstyle in the photo are all consistent with her appearance at that event. The other options are incorrect; Teddy Swims is a male singer, Chappell Roan is a different female artist, and Mayday is a Taiwanese band.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The singer in the photograph is instantly recognizable as Lady Gaga. The image captures her at a specific, high-profile event: the inauguration of U.S. President Joe Biden on January 20, 2021. She is wearing the memorable Schiaparelli haute couture gown with a large golden dove of peace brooch, an outfit that was widely covered by the media. Her distinct facial features, makeup, and hairstyle in the photo are all consistent with her appearance at that event. The other options are incorrect; Teddy Swims is a male singer, Chappell Roan is a different female artist, and Mayday is a Taiwanese band."
+            },
+            "correct_answer": "A",
+            "index": 59,
+            "is_correct": true
+        },
+        "66": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "The person in the image is identifiable as the American singer and actress Ariana Grande. Her distinct facial features, including her eye shape, nose, and smile, are a clear match. While her hair is blonde in this picture, which is different from her more common brunette look, she has famously sported blonde hair during different eras of her career. Comparing her features to the options provided, she is clearly not Bruno Mars or Joker Xue, who are both male singers. She is also not Taylor Swift, as their facial structures are distinctly different. Therefore, the singer shown is Ariana Grande.",
+            "original_response": {
+                "answer": "C",
+                "reasoning": "The person in the image is identifiable as the American singer and actress Ariana Grande. Her distinct facial features, including her eye shape, nose, and smile, are a clear match. While her hair is blonde in this picture, which is different from her more common brunette look, she has famously sported blonde hair during different eras of her career. Comparing her features to the options provided, she is clearly not Bruno Mars or Joker Xue, who are both male singers. She is also not Taylor Swift, as their facial structures are distinctly different. Therefore, the singer shown is Ariana Grande."
+            },
+            "correct_answer": "C",
+            "index": 66,
+            "is_correct": true
+        },
+        "69": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "The singer in the image is a woman with voluminous, curly red hair, wearing a theatrical red corset and dramatic makeup. Options A (Teddy Swims) and D (Bad Bunny) can be immediately ruled out as they are male singers. Option C, Taylor Swift, does not match the facial features or the campy, burlesque-style aesthetic of the performer in the photo. The singer's appearance, including the costume, hair, and stage presence, is characteristic of Chappell Roan, who is known for her drag-inspired and theatrical performances.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The singer in the image is a woman with voluminous, curly red hair, wearing a theatrical red corset and dramatic makeup. Options A (Teddy Swims) and D (Bad Bunny) can be immediately ruled out as they are male singers. Option C, Taylor Swift, does not match the facial features or the campy, burlesque-style aesthetic of the performer in the photo. The singer's appearance, including the costume, hair, and stage presence, is characteristic of Chappell Roan, who is known for her drag-inspired and theatrical performances."
+            },
+            "correct_answer": "B",
+            "index": 69,
+            "is_correct": true
+        },
+        "70": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "The singer in the photograph is identified by his distinct features, including a full beard, sunglasses, and numerous tattoos on his face, neck, and hands. These are characteristic features of the American singer and songwriter Teddy Swims. A visual comparison with the other options confirms the mismatch: David Tao and Bruno Mars have different physical appearances and do not have such extensive tattoos, while Faye Wong is a female singer.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The singer in the photograph is identified by his distinct features, including a full beard, sunglasses, and numerous tattoos on his face, neck, and hands. These are characteristic features of the American singer and songwriter Teddy Swims. A visual comparison with the other options confirms the mismatch: David Tao and Bruno Mars have different physical appearances and do not have such extensive tattoos, while Faye Wong is a female singer."
+            },
+            "correct_answer": "B",
+            "index": 70,
+            "is_correct": true
+        },
+        "73": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "The image shows a young East Asian woman. This rules out Taylor Swift (B) and Harry Styles (C), who are not of East Asian descent. When comparing the person in the photo to the remaining options, Faye Wong (A) and G.E.M. (D), the facial features, including the eyes, nose, and overall face shape, are a clear match for the Hong Kong singer-songwriter G.E.M. (Gloria Tang Tsz-kei).",
+            "original_response": {
+                "answer": "D",
+                "reasoning": "The image shows a young East Asian woman. This rules out Taylor Swift (B) and Harry Styles (C), who are not of East Asian descent. When comparing the person in the photo to the remaining options, Faye Wong (A) and G.E.M. (D), the facial features, including the eyes, nose, and overall face shape, are a clear match for the Hong Kong singer-songwriter G.E.M. (Gloria Tang Tsz-kei)."
+            },
+            "correct_answer": "D",
+            "index": 73,
+            "is_correct": true
+        },
+        "76": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "The singer in the photograph is Chappell Roan. This is identifiable by her signature long, voluminous curly red hair and her distinctive, theatrical stage attire. The red corset outfit and dramatic performance style are characteristic of her aesthetic, particularly during her 'The Rise and Fall of a Midwest Princess' tour. The other options are incorrect: Harry Styles is male, and both Faye Wong and G.E.M. are singers of East Asian descent, whose appearances do not match the person in the image.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The singer in the photograph is Chappell Roan. This is identifiable by her signature long, voluminous curly red hair and her distinctive, theatrical stage attire. The red corset outfit and dramatic performance style are characteristic of her aesthetic, particularly during her 'The Rise and Fall of a Midwest Princess' tour. The other options are incorrect: Harry Styles is male, and both Faye Wong and G.E.M. are singers of East Asian descent, whose appearances do not match the person in the image."
+            },
+            "correct_answer": "A",
+            "index": 76,
+            "is_correct": true
+        },
+        "80": {
+            "question": "Look at this photo. Which singer is shown in this image? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "The image shows an East Asian male singer performing on stage. This immediately rules out options B, Olivia Rodrigo, and C, G.E.M., who are both female singers. By comparing the facial features of the man in the photo with the remaining options, it is clear that he is David Tao, a well-known Taiwanese singer-songwriter. His facial structure and hairstyle in the picture are characteristic of his appearance.",
+            "original_response": {
+                "answer": "D",
+                "reasoning": "The image shows an East Asian male singer performing on stage. This immediately rules out options B, Olivia Rodrigo, and C, G.E.M., who are both female singers. By comparing the facial features of the man in the photo with the remaining options, it is clear that he is David Tao, a well-known Taiwanese singer-songwriter. His facial structure and hairstyle in the picture are characteristic of his appearance."
+            },
+            "correct_answer": "D",
+            "index": 80,
+            "is_correct": true
+        }
+    }
+}

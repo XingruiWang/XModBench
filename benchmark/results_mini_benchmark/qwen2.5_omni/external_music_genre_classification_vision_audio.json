@@ -1,0 +1,31 @@
+{
+    "task_name": "external/music_genre_classification_vision_audio",
+    "score": 66.66666666666666,
+    "correct_count": 2,
+    "all_count": 3,
+    "results": {
+        "25": {
+            "question": "Look at this album cover. Which music clip is from the same genre as this cover suggests? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 25,
+            "is_correct": false
+        },
+        "114": {
+            "question": "Look at this album cover. Which music clip is from the same genre as this cover suggests? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 114,
+            "is_correct": true
+        },
+        "654": {
+            "question": "Look at this album cover. Which music clip is from the same genre as this cover suggests? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 654,
+            "is_correct": true
+        }
+    },
+    "format_error_count": 0,
+    "run_error_count": 0
+}

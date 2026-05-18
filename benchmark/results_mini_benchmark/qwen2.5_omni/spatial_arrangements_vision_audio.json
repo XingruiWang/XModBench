@@ -1,0 +1,31 @@
+{
+    "task_name": "spatial/arrangements_vision_audio",
+    "score": 33.33333333333333,
+    "correct_count": 1,
+    "all_count": 3,
+    "results": {
+        "12": {
+            "question": "The image below shows several instruments arranged from left to right. Listen carefully to each audio clip\u2014pay attention to how the sounds are distributed between the left and right channels. Which audio clip best matches the spatial layout shown in the image? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 12,
+            "is_correct": false
+        },
+        "57": {
+            "question": "The image below shows several instruments arranged from left to right. Listen carefully to each audio clip\u2014pay attention to how the sounds are distributed between the left and right channels. Which audio clip best matches the spatial layout shown in the image? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 57,
+            "is_correct": true
+        },
+        "327": {
+            "question": "The image below shows several instruments arranged from left to right. Listen carefully to each audio clip\u2014pay attention to how the sounds are distributed between the left and right channels. Which audio clip best matches the spatial layout shown in the image? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 327,
+            "is_correct": false
+        }
+    },
+    "format_error_count": 0,
+    "run_error_count": 0
+}

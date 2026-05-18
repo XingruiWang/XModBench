@@ -1,0 +1,687 @@
+{
+    "task_name": "speech/recognition_vision_text",
+    "score": 86.5979381443299,
+    "correct_count": 84,
+    "all_count": 97,
+    "results": {
+        "0": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 0,
+            "is_correct": true
+        },
+        "1": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 1,
+            "is_correct": true
+        },
+        "2": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 2,
+            "is_correct": true
+        },
+        "3": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 3,
+            "is_correct": true
+        },
+        "4": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 4,
+            "is_correct": true
+        },
+        "5": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 5,
+            "is_correct": false
+        },
+        "6": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 6,
+            "is_correct": true
+        },
+        "7": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 7,
+            "is_correct": false
+        },
+        "8": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 8,
+            "is_correct": true
+        },
+        "9": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 9,
+            "is_correct": true
+        },
+        "10": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 10,
+            "is_correct": false
+        },
+        "11": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 11,
+            "is_correct": true
+        },
+        "12": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 12,
+            "is_correct": false
+        },
+        "13": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 13,
+            "is_correct": false
+        },
+        "14": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 14,
+            "is_correct": true
+        },
+        "15": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 15,
+            "is_correct": false
+        },
+        "16": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 16,
+            "is_correct": true
+        },
+        "17": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 17,
+            "is_correct": true
+        },
+        "18": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 18,
+            "is_correct": true
+        },
+        "19": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 19,
+            "is_correct": true
+        },
+        "20": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 20,
+            "is_correct": true
+        },
+        "21": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 21,
+            "is_correct": true
+        },
+        "22": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 22,
+            "is_correct": true
+        },
+        "23": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 23,
+            "is_correct": true
+        },
+        "24": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 24,
+            "is_correct": true
+        },
+        "25": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 25,
+            "is_correct": true
+        },
+        "26": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 26,
+            "is_correct": true
+        },
+        "27": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 27,
+            "is_correct": true
+        },
+        "28": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 28,
+            "is_correct": false
+        },
+        "29": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 29,
+            "is_correct": true
+        },
+        "30": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 30,
+            "is_correct": true
+        },
+        "31": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 31,
+            "is_correct": true
+        },
+        "32": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 32,
+            "is_correct": true
+        },
+        "33": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 33,
+            "is_correct": true
+        },
+        "34": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 34,
+            "is_correct": true
+        },
+        "35": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 35,
+            "is_correct": true
+        },
+        "36": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 36,
+            "is_correct": true
+        },
+        "37": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 37,
+            "is_correct": true
+        },
+        "38": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 38,
+            "is_correct": true
+        },
+        "39": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 39,
+            "is_correct": true
+        },
+        "40": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 40,
+            "is_correct": true
+        },
+        "41": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 41,
+            "is_correct": true
+        },
+        "42": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 42,
+            "is_correct": true
+        },
+        "43": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 43,
+            "is_correct": true
+        },
+        "44": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 44,
+            "is_correct": true
+        },
+        "45": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 45,
+            "is_correct": true
+        },
+        "46": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 46,
+            "is_correct": true
+        },
+        "47": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 47,
+            "is_correct": true
+        },
+        "48": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 48,
+            "is_correct": false
+        },
+        "49": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 49,
+            "is_correct": true
+        },
+        "50": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 50,
+            "is_correct": true
+        },
+        "51": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 51,
+            "is_correct": true
+        },
+        "52": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 52,
+            "is_correct": true
+        },
+        "53": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 53,
+            "is_correct": true
+        },
+        "54": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 54,
+            "is_correct": true
+        },
+        "55": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 55,
+            "is_correct": true
+        },
+        "56": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 56,
+            "is_correct": true
+        },
+        "57": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 57,
+            "is_correct": true
+        },
+        "58": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 58,
+            "is_correct": true
+        },
+        "59": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 59,
+            "is_correct": true
+        },
+        "60": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 60,
+            "is_correct": true
+        },
+        "61": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 61,
+            "is_correct": true
+        },
+        "62": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 62,
+            "is_correct": true
+        },
+        "63": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 63,
+            "is_correct": true
+        },
+        "64": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 64,
+            "is_correct": false
+        },
+        "65": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 65,
+            "is_correct": true
+        },
+        "66": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 66,
+            "is_correct": true
+        },
+        "67": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 67,
+            "is_correct": false
+        },
+        "68": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 68,
+            "is_correct": true
+        },
+        "69": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 69,
+            "is_correct": true
+        },
+        "70": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 70,
+            "is_correct": true
+        },
+        "71": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 71,
+            "is_correct": true
+        },
+        "72": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 72,
+            "is_correct": true
+        },
+        "73": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 73,
+            "is_correct": true
+        },
+        "74": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 74,
+            "is_correct": true
+        },
+        "75": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 75,
+            "is_correct": true
+        },
+        "76": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 76,
+            "is_correct": true
+        },
+        "77": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 77,
+            "is_correct": true
+        },
+        "78": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 78,
+            "is_correct": true
+        },
+        "79": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 79,
+            "is_correct": true
+        },
+        "80": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 80,
+            "is_correct": true
+        },
+        "81": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 81,
+            "is_correct": true
+        },
+        "82": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 82,
+            "is_correct": true
+        },
+        "83": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 83,
+            "is_correct": true
+        },
+        "84": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 84,
+            "is_correct": true
+        },
+        "85": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 85,
+            "is_correct": false
+        },
+        "86": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 86,
+            "is_correct": true
+        },
+        "87": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 87,
+            "is_correct": true
+        },
+        "88": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 88,
+            "is_correct": false
+        },
+        "89": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 89,
+            "is_correct": true
+        },
+        "90": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 90,
+            "is_correct": true
+        },
+        "91": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 91,
+            "is_correct": true
+        },
+        "92": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 92,
+            "is_correct": true
+        },
+        "93": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 93,
+            "is_correct": true
+        },
+        "94": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 94,
+            "is_correct": false
+        },
+        "95": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 95,
+            "is_correct": true
+        },
+        "96": {
+            "question": "Which text is most likely to be the same content as shown in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 96,
+            "is_correct": true
+        }
+    }
+}

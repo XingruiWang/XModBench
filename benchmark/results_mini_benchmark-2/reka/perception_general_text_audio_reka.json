@@ -1,0 +1,53 @@
+{
+    "task_name": "perception/general_text_audio",
+    "score": 0.0,
+    "correct_count": 0,
+    "all_count": 5,
+    "results": {
+        "467": {
+            "question": "Based on this description: 'railroad car, train wagon', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_response": "A\n",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 467,
+            "is_correct": false
+        },
+        "569": {
+            "question": "Based on this description: 'baby crying', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_response": "A, B, C, or D (Depending on the audio)\n",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 569,
+            "is_correct": false
+        },
+        "860": {
+            "question": "Based on this description: 'playing oboe', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_response": "D\n",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 860,
+            "is_correct": false
+        },
+        "1292": {
+            "question": "Based on this description: 'hair dryer drying', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_response": "I am unable to provide a final answer choice.\n",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 1292,
+            "is_correct": false
+        },
+        "1627": {
+            "question": "Based on this description: 'playing snare drum', which audio clip best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_response": "This response does not contain the answer choice (A, B, C, or D).\n",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 1627,
+            "is_correct": true
+        }
+    }
+}

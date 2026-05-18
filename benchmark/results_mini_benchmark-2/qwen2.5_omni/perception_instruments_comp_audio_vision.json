@@ -1,0 +1,78 @@
+{
+    "task_name": "perception/instruments_comp_audio_vision",
+    "score": 40.0,
+    "correct_count": 4,
+    "all_count": 10,
+    "results": {
+        "0": {
+            "question": "Which image most likely belongs to the instruments composition that makes this sound you hear? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 0,
+            "is_correct": true
+        },
+        "1": {
+            "question": "Which image most likely belongs to the instruments composition that makes this sound you hear? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 1,
+            "is_correct": true
+        },
+        "2": {
+            "question": "Which image most likely belongs to the instruments composition that makes this sound you hear? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 2,
+            "is_correct": false
+        },
+        "3": {
+            "question": "Which image most likely belongs to the instruments composition that makes this sound you hear? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 3,
+            "is_correct": true
+        },
+        "4": {
+            "question": "Which image most likely belongs to the instruments composition that makes this sound you hear? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 4,
+            "is_correct": false
+        },
+        "5": {
+            "question": "Which image most likely belongs to the instruments composition that makes this sound you hear? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 5,
+            "is_correct": false
+        },
+        "6": {
+            "question": "Which image most likely belongs to the instruments composition that makes this sound you hear? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 6,
+            "is_correct": false
+        },
+        "7": {
+            "question": "Which image most likely belongs to the instruments composition that makes this sound you hear? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 7,
+            "is_correct": false
+        },
+        "8": {
+            "question": "Which image most likely belongs to the instruments composition that makes this sound you hear? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 8,
+            "is_correct": false
+        },
+        "9": {
+            "question": "Which image most likely belongs to the instruments composition that makes this sound you hear? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 9,
+            "is_correct": true
+        }
+    }
+}

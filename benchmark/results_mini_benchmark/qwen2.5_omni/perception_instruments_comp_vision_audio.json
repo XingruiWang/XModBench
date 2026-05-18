@@ -1,0 +1,31 @@
+{
+    "task_name": "perception/instruments_comp_vision_audio",
+    "score": 33.33333333333333,
+    "correct_count": 1,
+    "all_count": 3,
+    "results": {
+        "12": {
+            "question": "Look at this image. Which audio clip is most likely produced by the instruments composition you see? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 12,
+            "is_correct": true
+        },
+        "57": {
+            "question": "Look at this image. Which audio clip is most likely produced by the instruments composition you see? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 57,
+            "is_correct": false
+        },
+        "327": {
+            "question": "Look at this image. Which audio clip is most likely produced by the instruments composition you see? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 327,
+            "is_correct": false
+        }
+    },
+    "format_error_count": 0,
+    "run_error_count": 0
+}

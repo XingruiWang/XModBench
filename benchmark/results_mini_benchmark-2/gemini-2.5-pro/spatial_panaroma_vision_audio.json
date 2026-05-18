@@ -1,0 +1,32 @@
+{
+    "task_name": "spatial/panaroma_vision_audio",
+    "score": 33.33333333333333,
+    "correct_count": 1,
+    "all_count": 3,
+    "results": {
+        "0": {
+            "question": "Watch this panoramic video view with a red bounding box indicating the expected sound-source direction. Which spatial audio clip matches this view? Choose A, B, C, or D.",
+            "response": "A",
+            "original_response": "A",
+            "correct_answer": "A",
+            "index": 0,
+            "is_correct": true
+        },
+        "1": {
+            "question": "Watch this panoramic video view with a red bounding box indicating the expected sound-source direction. Which spatial audio clip matches this view? Choose A, B, C, or D.",
+            "response": "A",
+            "original_response": "A",
+            "correct_answer": "C",
+            "index": 1,
+            "is_correct": false
+        },
+        "2": {
+            "question": "Watch this panoramic video view with a red bounding box indicating the expected sound-source direction. Which spatial audio clip matches this view? Choose A, B, C, or D.",
+            "response": "A",
+            "original_response": "A",
+            "correct_answer": "B",
+            "index": 2,
+            "is_correct": false
+        }
+    }
+}

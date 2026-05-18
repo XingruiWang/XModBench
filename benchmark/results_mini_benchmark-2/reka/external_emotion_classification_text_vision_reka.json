@@ -1,0 +1,53 @@
+{
+    "task_name": "external/emotion_classification_text_vision",
+    "score": 40.0,
+    "correct_count": 2,
+    "all_count": 5,
+    "results": {
+        "236": {
+            "question": "You are given the emotion 'Negative - Anger'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "D",
+            "original_response": " D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 236,
+            "is_correct": true
+        },
+        "240": {
+            "question": "You are given the emotion 'Negative - Anger'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "D",
+            "original_response": " D",
+            "reasoning": "",
+            "correct_answer": "B",
+            "index": 240,
+            "is_correct": false
+        },
+        "396": {
+            "question": "You are given the emotion 'Negative - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "original_response": "B\n",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 396,
+            "is_correct": false
+        },
+        "530": {
+            "question": "You are given the emotion 'Negative - Fear'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "D",
+            "original_response": "D\n",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 530,
+            "is_correct": true
+        },
+        "577": {
+            "question": "You are given the emotion 'Negative - Fear'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "original_response": "B\n",
+            "reasoning": "",
+            "correct_answer": "C",
+            "index": 577,
+            "is_correct": false
+        }
+    }
+}

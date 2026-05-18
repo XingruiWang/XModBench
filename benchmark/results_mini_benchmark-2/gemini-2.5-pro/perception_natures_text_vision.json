@@ -1,0 +1,32 @@
+{
+    "task_name": "perception/natures_text_vision",
+    "score": 66.66666666666666,
+    "correct_count": 2,
+    "all_count": 3,
+    "results": {
+        "0": {
+            "question": "Based on this description: 'splashing_water', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "B",
+            "original_response": "B",
+            "correct_answer": "B",
+            "index": 0,
+            "is_correct": true
+        },
+        "1": {
+            "question": "Based on this description: 'waterfall_burbling', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_response": "C",
+            "correct_answer": "C",
+            "index": 1,
+            "is_correct": true
+        },
+        "2": {
+            "question": "Based on this description: 'thunder', which image best matches the natural scenes described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_response": "D",
+            "correct_answer": "B",
+            "index": 2,
+            "is_correct": false
+        }
+    }
+}

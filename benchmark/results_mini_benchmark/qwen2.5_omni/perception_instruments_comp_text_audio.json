@@ -1,0 +1,31 @@
+{
+    "task_name": "perception/instruments_comp_text_audio",
+    "score": 66.66666666666666,
+    "correct_count": 2,
+    "all_count": 3,
+    "results": {
+        "12": {
+            "question": "Based on this description: 'Trumpet and Violin', which audio clip best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 12,
+            "is_correct": true
+        },
+        "57": {
+            "question": "Based on this description: '2 Flutes, Bassoon, Clarinet, and Oboe', which audio clip best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 57,
+            "is_correct": true
+        },
+        "327": {
+            "question": "Based on this description: 'Clarinet, Trombone, and Tuba', which audio clip best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 327,
+            "is_correct": false
+        }
+    },
+    "format_error_count": 0,
+    "run_error_count": 0
+}

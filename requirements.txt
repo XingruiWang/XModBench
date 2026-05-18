@@ -1,0 +1,37 @@
+# XModBench — base requirements for the evaluation pipeline.
+#
+# This covers data loading, the scripts/run.py runner, metric aggregation,
+# and the common Qwen-Omni path. Individual model backends (OmniVinci/VILA,
+# Baichuan-Omni, VITA, EchoInk, ...) have heavier, conflicting dependency
+# sets — install those in dedicated environments per their model card, or
+# use the pre-integrated lmms-eval port:
+#   https://github.com/XingruiWang/lmms-eval
+
+# --- core ---
+torch>=2.1
+transformers>=4.45
+accelerate
+numpy<2.0
+tqdm
+pydantic
+
+# --- dataset / HF ---
+datasets>=2.19
+huggingface_hub
+
+# --- media I/O ---
+soundfile
+librosa
+Pillow
+decord
+moviepy
+av
+
+# --- Qwen-Omni helper (audio+video preprocessing) ---
+qwen-omni-utils[decord]
+
+# --- optional: Gemini re-evaluation in scripts/run.py ---
+google-genai
+
+# --- optional: interactive demo (app.py) ---
+gradio

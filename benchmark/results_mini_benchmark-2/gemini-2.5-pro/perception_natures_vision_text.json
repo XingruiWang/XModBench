@@ -1,0 +1,32 @@
+{
+    "task_name": "perception/natures_vision_text",
+    "score": 66.66666666666666,
+    "correct_count": 2,
+    "all_count": 3,
+    "results": {
+        "0": {
+            "question": "Look at this image. Which text description best matches the natural scenes you see? Answer with A, B, C, or D",
+            "response": "B",
+            "original_response": "B",
+            "correct_answer": "B",
+            "index": 0,
+            "is_correct": true
+        },
+        "1": {
+            "question": "Look at this image. Which text description best matches the natural scenes you see? Answer with A, B, C, or D",
+            "response": "C",
+            "original_response": "C",
+            "correct_answer": "C",
+            "index": 1,
+            "is_correct": true
+        },
+        "2": {
+            "question": "Look at this image. Which text description best matches the natural scenes you see? Answer with A, B, C, or D",
+            "response": "C",
+            "original_response": "C",
+            "correct_answer": "B",
+            "index": 2,
+            "is_correct": false
+        }
+    }
+}

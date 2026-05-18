@@ -1,0 +1,32 @@
+{
+    "task_name": "spatial/3D_movements_vision_text",
+    "score": 100.0,
+    "correct_count": 3,
+    "all_count": 3,
+    "results": {
+        "0": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "B",
+            "original_response": "B",
+            "correct_answer": "B",
+            "index": 0,
+            "is_correct": true
+        },
+        "1": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "B",
+            "original_response": "B",
+            "correct_answer": "B",
+            "index": 1,
+            "is_correct": true
+        },
+        "2": {
+            "question": "Examine the video clip of the urban street scene. Focus on:\n- Identifying the specific type of vehicle (car, bus, motorbike) or if no vehicle is present\n- Determining the vehicle's movement pattern and direction\n- Observing how the vehicle's size and position change over time\n\nWhich text description most accurately captures what you observed in the video? Choose A, B, C, or D.",
+            "response": "D",
+            "original_response": "D",
+            "correct_answer": "D",
+            "index": 2,
+            "is_correct": true
+        }
+    }
+}

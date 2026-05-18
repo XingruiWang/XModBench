@@ -1,0 +1,248 @@
+{
+    "task_name": "spatial/3D_movements_text_audio",
+    "score": 40.0,
+    "correct_count": 8,
+    "all_count": 20,
+    "results": {
+        "0": {
+            "question": "Read the description of the vehicle movement in the urban scene. It specifies:\n- The vehicle type (car, bus, motorbike, or no vehicle)\n- The direction and pattern of movement\n- The spatial relationship to the observer\n\nBased on this information, predict how this scenario would sound in real 3D space. Which audio clip best represents the described movement with appropriate spatial audio cues? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "The user is asked to identify the audio clip that corresponds to a car moving horizontally from left to right. Audio A features the sound of a car, and through stereo panning, the sound source clearly moves from the left audio channel to the right, perfectly matching the description. Audio B represents a vehicle moving away from the listener. Audio C features a motorbike, not a car, moving from right to left. Audio D is a static ambient recording of general traffic, not a single car passing by.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The user is asked to identify the audio clip that corresponds to a car moving horizontally from left to right. Audio A features the sound of a car, and through stereo panning, the sound source clearly moves from the left audio channel to the right, perfectly matching the description. Audio B represents a vehicle moving away from the listener. Audio C features a motorbike, not a car, moving from right to left. Audio D is a static ambient recording of general traffic, not a single car passing by."
+            },
+            "correct_answer": "B",
+            "index": 0,
+            "is_correct": false
+        },
+        "1": {
+            "question": "Read the description of the vehicle movement in the urban scene. It specifies:\n- The vehicle type (car, bus, motorbike, or no vehicle)\n- The direction and pattern of movement\n- The spatial relationship to the observer\n\nBased on this information, predict how this scenario would sound in real 3D space. Which audio clip best represents the described movement with appropriate spatial audio cues? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "The audio in clip A accurately represents a car moving from left to right. The sound begins in the left stereo channel, pans smoothly across the center, and fades out in the right channel, simulating a pass-by event as described. Clip B features a car moving away from the observer, not across. Clip C is a complex scene with a larger vehicle and other sounds, not a single car passing. Clip D depicts a car moving from right to left, the opposite of the required direction.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The audio in clip A accurately represents a car moving from left to right. The sound begins in the left stereo channel, pans smoothly across the center, and fades out in the right channel, simulating a pass-by event as described. Clip B features a car moving away from the observer, not across. Clip C is a complex scene with a larger vehicle and other sounds, not a single car passing. Clip D depicts a car moving from right to left, the opposite of the required direction."
+            },
+            "correct_answer": "B",
+            "index": 1,
+            "is_correct": false
+        },
+        "2": {
+            "question": "Read the description of the vehicle movement in the urban scene. It specifies:\n- The vehicle type (car, bus, motorbike, or no vehicle)\n- The direction and pattern of movement\n- The spatial relationship to the observer\n\nBased on this information, predict how this scenario would sound in real 3D space. Which audio clip best represents the described movement with appropriate spatial audio cues? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "The audio in clip A accurately represents the description. It features a distinct car engine sound that pans smoothly and clearly from the left audio channel to the right, simulating the horizontal movement of a vehicle passing by the listener. Clip B sounds more like a large truck or bus, not a car. Clips C and D both contain an irrelevant, non-diegetic sound effect (a buzzer), making them unsuitable representations of a real-world scene. While D has a left-to-right whoosh, A provides a more realistic and identifiable car sound with the correct spatial movement.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The audio in clip A accurately represents the description. It features a distinct car engine sound that pans smoothly and clearly from the left audio channel to the right, simulating the horizontal movement of a vehicle passing by the listener. Clip B sounds more like a large truck or bus, not a car. Clips C and D both contain an irrelevant, non-diegetic sound effect (a buzzer), making them unsuitable representations of a real-world scene. While D has a left-to-right whoosh, A provides a more realistic and identifiable car sound with the correct spatial movement."
+            },
+            "correct_answer": "D",
+            "index": 2,
+            "is_correct": false
+        },
+        "3": {
+            "question": "Read the description of the vehicle movement in the urban scene. It specifies:\n- The vehicle type (car, bus, motorbike, or no vehicle)\n- The direction and pattern of movement\n- The spatial relationship to the observer\n\nBased on this information, predict how this scenario would sound in real 3D space. Which audio clip best represents the described movement with appropriate spatial audio cues? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "The provided text describes a car moving from left to right. Audio clip A is the only option that accurately represents this movement with spatial audio. The sound of the car begins in the left channel, pans smoothly across the stereo field to the right channel, and then fades out, perfectly simulating a vehicle passing by the observer from left to right. In contrast, audio B is a short, stationary sound. Audio C depicts a vehicle approaching the listener from the front, as indicated by the increase in volume without significant horizontal panning. Audio D presents a vehicle moving away from the listener, not across the scene from left to right.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The provided text describes a car moving from left to right. Audio clip A is the only option that accurately represents this movement with spatial audio. The sound of the car begins in the left channel, pans smoothly across the stereo field to the right channel, and then fades out, perfectly simulating a vehicle passing by the observer from left to right. In contrast, audio B is a short, stationary sound. Audio C depicts a vehicle approaching the listener from the front, as indicated by the increase in volume without significant horizontal panning. Audio D presents a vehicle moving away from the listener, not across the scene from left to right."
+            },
+            "correct_answer": "D",
+            "index": 3,
+            "is_correct": false
+        },
+        "5": {
+            "question": "Read the description of the vehicle movement in the urban scene. It specifies:\n- The vehicle type (car, bus, motorbike, or no vehicle)\n- The direction and pattern of movement\n- The spatial relationship to the observer\n\nBased on this information, predict how this scenario would sound in real 3D space. Which audio clip best represents the described movement with appropriate spatial audio cues? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "The text describes a car moving horizontally from left to right. Audio clip A perfectly captures this scenario. The sound source is clearly a car, and the stereo panning effect creates a distinct sense of motion, starting in the left channel, moving across the center, and fading out in the right channel. Clip B sounds like a heavier vehicle, possibly a bus. Clip C represents more distant, ambient traffic without a clear pass-by movement. Clip D sounds like a stationary or slowly maneuvering car rather than one moving across the scene.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The text describes a car moving horizontally from left to right. Audio clip A perfectly captures this scenario. The sound source is clearly a car, and the stereo panning effect creates a distinct sense of motion, starting in the left channel, moving across the center, and fading out in the right channel. Clip B sounds like a heavier vehicle, possibly a bus. Clip C represents more distant, ambient traffic without a clear pass-by movement. Clip D sounds like a stationary or slowly maneuvering car rather than one moving across the scene."
+            },
+            "correct_answer": "A",
+            "index": 5,
+            "is_correct": true
+        },
+        "6": {
+            "question": "Read the description of the vehicle movement in the urban scene. It specifies:\n- The vehicle type (car, bus, motorbike, or no vehicle)\n- The direction and pattern of movement\n- The spatial relationship to the observer\n\nBased on this information, predict how this scenario would sound in real 3D space. Which audio clip best represents the described movement with appropriate spatial audio cues? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "The description requires the sound of a car moving horizontally from left to right. Audio clip A is the only one that matches this description. The sound begins in the left audio channel, smoothly pans across the stereo field to the center, and then continues to the right channel before fading, perfectly simulating a vehicle passing in front of the listener from left to right. Audio B is too short and lacks any discernible movement. Audio C depicts movement in the opposite direction (right to left). Audio D represents a car approaching the listener, not moving laterally across the scene.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The description requires the sound of a car moving horizontally from left to right. Audio clip A is the only one that matches this description. The sound begins in the left audio channel, smoothly pans across the stereo field to the center, and then continues to the right channel before fading, perfectly simulating a vehicle passing in front of the listener from left to right. Audio B is too short and lacks any discernible movement. Audio C depicts movement in the opposite direction (right to left). Audio D represents a car approaching the listener, not moving laterally across the scene."
+            },
+            "correct_answer": "C",
+            "index": 6,
+            "is_correct": false
+        },
+        "7": {
+            "question": "Read the description of the vehicle movement in the urban scene. It specifies:\n- The vehicle type (car, bus, motorbike, or no vehicle)\n- The direction and pattern of movement\n- The spatial relationship to the observer\n\nBased on this information, predict how this scenario would sound in real 3D space. Which audio clip best represents the described movement with appropriate spatial audio cues? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "The audio in clip A accurately portrays a car passing by. The sound begins in the left audio channel, smoothly pans across the stereo field to the right channel, and then fades out. This panning effect perfectly matches the described horizontal movement from left to right. Furthermore, the volume dynamics, where the sound gets louder as it approaches the listener's center and then quieter as it recedes, along with a subtle Doppler effect, are classic auditory cues for a vehicle passing across the scene. Clip B is a static ambient scene with no distinct moving vehicle. Clip C sounds like a heavier vehicle, possibly a bus, slowing down rather than passing by. Clip D features a car maneuvering at low speed, not a continuous pass-by.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The audio in clip A accurately portrays a car passing by. The sound begins in the left audio channel, smoothly pans across the stereo field to the right channel, and then fades out. This panning effect perfectly matches the described horizontal movement from left to right. Furthermore, the volume dynamics, where the sound gets louder as it approaches the listener's center and then quieter as it recedes, along with a subtle Doppler effect, are classic auditory cues for a vehicle passing across the scene. Clip B is a static ambient scene with no distinct moving vehicle. Clip C sounds like a heavier vehicle, possibly a bus, slowing down rather than passing by. Clip D features a car maneuvering at low speed, not a continuous pass-by."
+            },
+            "correct_answer": "A",
+            "index": 7,
+            "is_correct": true
+        },
+        "8": {
+            "question": "Read the description of the vehicle movement in the urban scene. It specifies:\n- The vehicle type (car, bus, motorbike, or no vehicle)\n- The direction and pattern of movement\n- The spatial relationship to the observer\n\nBased on this information, predict how this scenario would sound in real 3D space. Which audio clip best represents the described movement with appropriate spatial audio cues? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "The audio in clip A accurately represents the described scenario. It features the distinct sound of a car. The spatial audio correctly simulates the vehicle moving from the left speaker channel, passing through the center, and fading out into the right speaker channel. This left-to-right panning, combined with the volume increase as it approaches and decrease as it recedes, perfectly matches the description of a car moving horizontally across the scene. Clip B is an ambient soundscape with no clear moving source. Clip C features a heavier vehicle, likely a bus or truck, not a car. Clip D depicts the correct vehicle type, but the movement is from right to left, which is the opposite of the direction specified in the text.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The audio in clip A accurately represents the described scenario. It features the distinct sound of a car. The spatial audio correctly simulates the vehicle moving from the left speaker channel, passing through the center, and fading out into the right speaker channel. This left-to-right panning, combined with the volume increase as it approaches and decrease as it recedes, perfectly matches the description of a car moving horizontally across the scene. Clip B is an ambient soundscape with no clear moving source. Clip C features a heavier vehicle, likely a bus or truck, not a car. Clip D depicts the correct vehicle type, but the movement is from right to left, which is the opposite of the direction specified in the text."
+            },
+            "correct_answer": "D",
+            "index": 8,
+            "is_correct": false
+        },
+        "9": {
+            "question": "Read the description of the vehicle movement in the urban scene. It specifies:\n- The vehicle type (car, bus, motorbike, or no vehicle)\n- The direction and pattern of movement\n- The spatial relationship to the observer\n\nBased on this information, predict how this scenario would sound in real 3D space. Which audio clip best represents the described movement with appropriate spatial audio cues? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "The description specifies a car moving from left to right. Audio clip A accurately portrays this with a clear car engine sound that pans from the left stereo channel to the right, simulating a vehicle passing by the listener. Clip B and D feature a motorbike, not a car, and the sound primarily fades away, indicating movement away from the listener rather than across. Clip C features the sound of a larger vehicle, like a bus, and it lacks the distinct horizontal left-to-right movement.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The description specifies a car moving from left to right. Audio clip A accurately portrays this with a clear car engine sound that pans from the left stereo channel to the right, simulating a vehicle passing by the listener. Clip B and D feature a motorbike, not a car, and the sound primarily fades away, indicating movement away from the listener rather than across. Clip C features the sound of a larger vehicle, like a bus, and it lacks the distinct horizontal left-to-right movement."
+            },
+            "correct_answer": "C",
+            "index": 9,
+            "is_correct": false
+        },
+        "11": {
+            "question": "Read the description of the vehicle movement in the urban scene. It specifies:\n- The vehicle type (car, bus, motorbike, or no vehicle)\n- The direction and pattern of movement\n- The spatial relationship to the observer\n\nBased on this information, predict how this scenario would sound in real 3D space. Which audio clip best represents the described movement with appropriate spatial audio cues? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "The text describes a car moving horizontally from left to right. Audio clip A is the only recording that matches this description with appropriate spatial audio. The sound of the car can be heard starting in the left channel, moving across the stereo field to the right channel, and then fading away. This accurately simulates the experience of a car passing in front of the listener. In contrast, audio B sounds like a car moving away from the listener, audio C depicts a car moving from right to left, and audio D is a general ambient traffic soundscape without a clear directional movement of a single vehicle.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The text describes a car moving horizontally from left to right. Audio clip A is the only recording that matches this description with appropriate spatial audio. The sound of the car can be heard starting in the left channel, moving across the stereo field to the right channel, and then fading away. This accurately simulates the experience of a car passing in front of the listener. In contrast, audio B sounds like a car moving away from the listener, audio C depicts a car moving from right to left, and audio D is a general ambient traffic soundscape without a clear directional movement of a single vehicle."
+            },
+            "correct_answer": "A",
+            "index": 11,
+            "is_correct": true
+        },
+        "12": {
+            "question": "Read the description of the vehicle movement in the urban scene. It specifies:\n- The vehicle type (car, bus, motorbike, or no vehicle)\n- The direction and pattern of movement\n- The spatial relationship to the observer\n\nBased on this information, predict how this scenario would sound in real 3D space. Which audio clip best represents the described movement with appropriate spatial audio cues? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "The audio in clip A accurately represents a car moving from left to right. The sound is clearly panned from the left stereo channel to the right, and the volume appropriately increases as the car approaches the center and decreases as it moves away. Clip B lacks clear horizontal motion. Clip C represents a high-speed pass-by with a strong Doppler effect, which is a more specific scenario than the general description provided. Clip D is a complex traffic scene with multiple vehicles, not the single car described.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The audio in clip A accurately represents a car moving from left to right. The sound is clearly panned from the left stereo channel to the right, and the volume appropriately increases as the car approaches the center and decreases as it moves away. Clip B lacks clear horizontal motion. Clip C represents a high-speed pass-by with a strong Doppler effect, which is a more specific scenario than the general description provided. Clip D is a complex traffic scene with multiple vehicles, not the single car described."
+            },
+            "correct_answer": "C",
+            "index": 12,
+            "is_correct": false
+        },
+        "13": {
+            "question": "Read the description of the vehicle movement in the urban scene. It specifies:\n- The vehicle type (car, bus, motorbike, or no vehicle)\n- The direction and pattern of movement\n- The spatial relationship to the observer\n\nBased on this information, predict how this scenario would sound in real 3D space. Which audio clip best represents the described movement with appropriate spatial audio cues? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "Audio clip A accurately portrays the scenario. The sound is identifiable as a car, and the spatial audio clearly pans from the left channel to the right channel, simulating the described horizontal movement. Clip B is a general ambient city soundscape rather than a specific vehicle pass-by. Clip C features a car moving from right to left, the opposite direction. Clip D has the correct left-to-right panning, but the sound is of a much larger vehicle, like a bus or truck, not a car.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "Audio clip A accurately portrays the scenario. The sound is identifiable as a car, and the spatial audio clearly pans from the left channel to the right channel, simulating the described horizontal movement. Clip B is a general ambient city soundscape rather than a specific vehicle pass-by. Clip C features a car moving from right to left, the opposite direction. Clip D has the correct left-to-right panning, but the sound is of a much larger vehicle, like a bus or truck, not a car."
+            },
+            "correct_answer": "D",
+            "index": 13,
+            "is_correct": false
+        },
+        "14": {
+            "question": "Read the description of the vehicle movement in the urban scene. It specifies:\n- The vehicle type (car, bus, motorbike, or no vehicle)\n- The direction and pattern of movement\n- The spatial relationship to the observer\n\nBased on this information, predict how this scenario would sound in real 3D space. Which audio clip best represents the described movement with appropriate spatial audio cues? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "The description specifies a car moving horizontally from left to right. Audio clip A is the only option that accurately portrays this movement through stereo panning. The sound of the car begins in the left channel, moves across the stereo field to the right, and then fades, perfectly simulating a car passing in front of the listener from left to right.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The description specifies a car moving horizontally from left to right. Audio clip A is the only option that accurately portrays this movement through stereo panning. The sound of the car begins in the left channel, moves across the stereo field to the right, and then fades, perfectly simulating a car passing in front of the listener from left to right."
+            },
+            "correct_answer": "A",
+            "index": 14,
+            "is_correct": true
+        },
+        "15": {
+            "question": "Read the description of the vehicle movement in the urban scene. It specifies:\n- The vehicle type (car, bus, motorbike, or no vehicle)\n- The direction and pattern of movement\n- The spatial relationship to the observer\n\nBased on this information, predict how this scenario would sound in real 3D space. Which audio clip best represents the described movement with appropriate spatial audio cues? Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "The description requires the sound of a car that moves horizontally from left to right. This translates to an audio effect where the sound source pans from the left stereo channel to the right. Clip C is the only audio file that demonstrates this specific spatial movement. The car sound is clearly audible starting on the left, moving across the center, and fading out on the right, perfectly matching the scenario. Clip A is a stationary car, Clip B features a car approaching and then receding, and Clip D is a car moving away from the observer.",
+            "original_response": {
+                "answer": "C",
+                "reasoning": "The description requires the sound of a car that moves horizontally from left to right. This translates to an audio effect where the sound source pans from the left stereo channel to the right. Clip C is the only audio file that demonstrates this specific spatial movement. The car sound is clearly audible starting on the left, moving across the center, and fading out on the right, perfectly matching the scenario. Clip A is a stationary car, Clip B features a car approaching and then receding, and Clip D is a car moving away from the observer."
+            },
+            "correct_answer": "A",
+            "index": 15,
+            "is_correct": false
+        },
+        "16": {
+            "question": "Read the description of the vehicle movement in the urban scene. It specifies:\n- The vehicle type (car, bus, motorbike, or no vehicle)\n- The direction and pattern of movement\n- The spatial relationship to the observer\n\nBased on this information, predict how this scenario would sound in real 3D space. Which audio clip best represents the described movement with appropriate spatial audio cues? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "The description specifies a car moving horizontally from left to right. Audio clip A accurately portrays this movement. The sound of a vehicle begins in the left channel, pans across the stereo field to the center, and then fades out in the right channel, simulating a pass-by event. Clip B depicts a car approaching and then moving away, but not with a clear left-to-right trajectory. Clip C sounds more like a bus with prominent brake squeals, not a car in smooth motion. Clip D is a faint, ambient sound with no discernible vehicle or movement.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The description specifies a car moving horizontally from left to right. Audio clip A accurately portrays this movement. The sound of a vehicle begins in the left channel, pans across the stereo field to the center, and then fades out in the right channel, simulating a pass-by event. Clip B depicts a car approaching and then moving away, but not with a clear left-to-right trajectory. Clip C sounds more like a bus with prominent brake squeals, not a car in smooth motion. Clip D is a faint, ambient sound with no discernible vehicle or movement."
+            },
+            "correct_answer": "A",
+            "index": 16,
+            "is_correct": true
+        },
+        "17": {
+            "question": "Read the description of the vehicle movement in the urban scene. It specifies:\n- The vehicle type (car, bus, motorbike, or no vehicle)\n- The direction and pattern of movement\n- The spatial relationship to the observer\n\nBased on this information, predict how this scenario would sound in real 3D space. Which audio clip best represents the described movement with appropriate spatial audio cues? Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "The audio in clip B accurately represents a car passing by. The sound source is clearly a vehicle, and the spatial audio cues match the description perfectly: the sound pans from the left speaker to the right speaker, and there is a noticeable Doppler effect as the car moves across the scene. Clip A contains the sound of footsteps, not a car. Clip C features a relatively static sound with no clear movement. Clip D depicts a vehicle moving from right to left, which is the opposite of the described direction.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The audio in clip B accurately represents a car passing by. The sound source is clearly a vehicle, and the spatial audio cues match the description perfectly: the sound pans from the left speaker to the right speaker, and there is a noticeable Doppler effect as the car moves across the scene. Clip A contains the sound of footsteps, not a car. Clip C features a relatively static sound with no clear movement. Clip D depicts a vehicle moving from right to left, which is the opposite of the described direction."
+            },
+            "correct_answer": "B",
+            "index": 17,
+            "is_correct": true
+        },
+        "18": {
+            "question": "Read the description of the vehicle movement in the urban scene. It specifies:\n- The vehicle type (car, bus, motorbike, or no vehicle)\n- The direction and pattern of movement\n- The spatial relationship to the observer\n\nBased on this information, predict how this scenario would sound in real 3D space. Which audio clip best represents the described movement with appropriate spatial audio cues? Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "The user's description specifies a car moving horizontally from left to right. This requires two key audio features: the sound of a car (engine and tire noise) and a clear stereo panning effect from the left channel to the right channel. Audio B is the only clip that demonstrates both of these characteristics. It presents a clear recording of a car passing by, where the sound source begins in the left ear, travels across the stereo field, and fades out in the right ear, perfectly matching the described movement. Audio A is a squeaking sound, not a car. Audio C is primarily ambient city sounds with no distinct vehicle movement. Audio D features a car, but it sounds like it's starting or maneuvering in a relatively static position, not passing by from left to right.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The user's description specifies a car moving horizontally from left to right. This requires two key audio features: the sound of a car (engine and tire noise) and a clear stereo panning effect from the left channel to the right channel. Audio B is the only clip that demonstrates both of these characteristics. It presents a clear recording of a car passing by, where the sound source begins in the left ear, travels across the stereo field, and fades out in the right ear, perfectly matching the described movement. Audio A is a squeaking sound, not a car. Audio C is primarily ambient city sounds with no distinct vehicle movement. Audio D features a car, but it sounds like it's starting or maneuvering in a relatively static position, not passing by from left to right."
+            },
+            "correct_answer": "B",
+            "index": 18,
+            "is_correct": true
+        },
+        "19": {
+            "question": "Read the description of the vehicle movement in the urban scene. It specifies:\n- The vehicle type (car, bus, motorbike, or no vehicle)\n- The direction and pattern of movement\n- The spatial relationship to the observer\n\nBased on this information, predict how this scenario would sound in real 3D space. Which audio clip best represents the described movement with appropriate spatial audio cues? Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "The text describes a car moving horizontally from left to right. Audio clip B accurately portrays this scenario with clear spatial audio cues. The sound of the car begins in the left channel, smoothly pans across the stereo field to the right channel, and then fades out, simulating a vehicle passing in front of the listener. In contrast, clip A features a stationary car door slam with no movement. Clip C depicts a vehicle moving away from the listener (receding), not horizontally across. Clip D is a general ambient soundscape without a distinct, moving car as the primary subject.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The text describes a car moving horizontally from left to right. Audio clip B accurately portrays this scenario with clear spatial audio cues. The sound of the car begins in the left channel, smoothly pans across the stereo field to the right channel, and then fades out, simulating a vehicle passing in front of the listener. In contrast, clip A features a stationary car door slam with no movement. Clip C depicts a vehicle moving away from the listener (receding), not horizontally across. Clip D is a general ambient soundscape without a distinct, moving car as the primary subject."
+            },
+            "correct_answer": "B",
+            "index": 19,
+            "is_correct": true
+        },
+        "20": {
+            "question": "Read the description of the vehicle movement in the urban scene. It specifies:\n- The vehicle type (car, bus, motorbike, or no vehicle)\n- The direction and pattern of movement\n- The spatial relationship to the observer\n\nBased on this information, predict how this scenario would sound in real 3D space. Which audio clip best represents the described movement with appropriate spatial audio cues? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "The user's request specifies a car moving horizontally from left to right. This movement pattern in 3D audio is simulated by panning the sound from the left audio channel to the right. Clip A accurately portrays this scenario: the car's sound originates in the left channel, grows louder as it crosses the center, and then fades out as it moves into the right channel. Clip B represents a vehicle approaching the listener. Clip C depicts a car moving from right to left, which is the opposite of the described direction. Clip D sounds like a vehicle moving away from the listener.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The user's request specifies a car moving horizontally from left to right. This movement pattern in 3D audio is simulated by panning the sound from the left audio channel to the right. Clip A accurately portrays this scenario: the car's sound originates in the left channel, grows louder as it crosses the center, and then fades out as it moves into the right channel. Clip B represents a vehicle approaching the listener. Clip C depicts a car moving from right to left, which is the opposite of the described direction. Clip D sounds like a vehicle moving away from the listener."
+            },
+            "correct_answer": "C",
+            "index": 20,
+            "is_correct": false
+        },
+        "21": {
+            "question": "Read the description of the vehicle movement in the urban scene. It specifies:\n- The vehicle type (car, bus, motorbike, or no vehicle)\n- The direction and pattern of movement\n- The spatial relationship to the observer\n\nBased on this information, predict how this scenario would sound in real 3D space. Which audio clip best represents the described movement with appropriate spatial audio cues? Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "The user wants to identify the sound of a car moving horizontally from left to right. Audio clip A clearly demonstrates this with its stereo panning. The car's sound originates in the left channel, increases in volume as it passes the center of the stereo field (simulating it being closest to the observer), and then fades out as it moves into the right channel. Clip B is a very short pass-by without clear left-to-right directionality. Clip C represents a car moving away from the observer. Clip D represents a car approaching the observer. Therefore, only clip A matches the described spatial movement.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The user wants to identify the sound of a car moving horizontally from left to right. Audio clip A clearly demonstrates this with its stereo panning. The car's sound originates in the left channel, increases in volume as it passes the center of the stereo field (simulating it being closest to the observer), and then fades out as it moves into the right channel. Clip B is a very short pass-by without clear left-to-right directionality. Clip C represents a car moving away from the observer. Clip D represents a car approaching the observer. Therefore, only clip A matches the described spatial movement."
+            },
+            "correct_answer": "D",
+            "index": 21,
+            "is_correct": false
+        }
+    }
+}

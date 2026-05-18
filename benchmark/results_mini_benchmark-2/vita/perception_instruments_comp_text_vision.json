@@ -1,0 +1,687 @@
+{
+    "task_name": "perception/instruments_comp_text_vision",
+    "score": 18.556701030927837,
+    "correct_count": 18,
+    "all_count": 97,
+    "results": {
+        "0": {
+            "question": "Based on this description: 'Trombone and Trumpet', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 0,
+            "is_correct": false
+        },
+        "1": {
+            "question": "Based on this description: 'Cello and Violin', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 1,
+            "is_correct": true
+        },
+        "2": {
+            "question": "Based on this description: 'Cello, Trumpet, and Violin', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 2,
+            "is_correct": false
+        },
+        "3": {
+            "question": "Based on this description: '2 Trumpets, French Horn, and Trombone', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 3,
+            "is_correct": false
+        },
+        "4": {
+            "question": "Based on this description: 'Cello and Oboe', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 4,
+            "is_correct": false
+        },
+        "5": {
+            "question": "Based on this description: 'Cello, Trumpet, and Violin', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 5,
+            "is_correct": false
+        },
+        "6": {
+            "question": "Based on this description: 'Cello and Oboe', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 6,
+            "is_correct": false
+        },
+        "7": {
+            "question": "Based on this description: '2 Trumpets and Saxophone', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 7,
+            "is_correct": false
+        },
+        "8": {
+            "question": "Based on this description: 'Cello, Trumpet, and Violin', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 8,
+            "is_correct": false
+        },
+        "9": {
+            "question": "Based on this description: '2 Trumpets and Trombone', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 9,
+            "is_correct": false
+        },
+        "10": {
+            "question": "Based on this description: '2 Violins and Viola', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 10,
+            "is_correct": true
+        },
+        "11": {
+            "question": "Based on this description: '2 Flutes', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 11,
+            "is_correct": false
+        },
+        "12": {
+            "question": "Based on this description: 'Trumpet and Violin', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 12,
+            "is_correct": false
+        },
+        "13": {
+            "question": "Based on this description: '2 Flutes, Bassoon, Oboe, and Saxophone', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 13,
+            "is_correct": false
+        },
+        "14": {
+            "question": "Based on this description: '2 Violins, Double Bass, Saxophone, and Viola', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 14,
+            "is_correct": false
+        },
+        "15": {
+            "question": "Based on this description: 'Clarinet, Flute, and Violin', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 15,
+            "is_correct": true
+        },
+        "16": {
+            "question": "Based on this description: '2 Violins, Cello, and Viola', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 16,
+            "is_correct": false
+        },
+        "17": {
+            "question": "Based on this description: 'Flute and Violin', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 17,
+            "is_correct": true
+        },
+        "18": {
+            "question": "Based on this description: '2 Trumpets, French Horn, Trombone, and Tuba', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 18,
+            "is_correct": false
+        },
+        "19": {
+            "question": "Based on this description: 'Clarinet, Flute, Viola, and Violin', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 19,
+            "is_correct": true
+        },
+        "20": {
+            "question": "Based on this description: 'Clarinet, Saxophone, and Tuba', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 20,
+            "is_correct": false
+        },
+        "21": {
+            "question": "Based on this description: 'Cello and Oboe', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 21,
+            "is_correct": false
+        },
+        "22": {
+            "question": "Based on this description: '2 Trumpets, French Horn, Trombone, and Tuba', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 22,
+            "is_correct": false
+        },
+        "23": {
+            "question": "Based on this description: 'Clarinet and Flute', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 23,
+            "is_correct": true
+        },
+        "24": {
+            "question": "Based on this description: '2 Violins, Cello, and Viola', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 24,
+            "is_correct": false
+        },
+        "25": {
+            "question": "Based on this description: 'Trumpet and Violin', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 25,
+            "is_correct": true
+        },
+        "26": {
+            "question": "Based on this description: '2 Trumpets, French Horn, and Trombone', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 26,
+            "is_correct": false
+        },
+        "27": {
+            "question": "Based on this description: 'Flute and Violin', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 27,
+            "is_correct": true
+        },
+        "28": {
+            "question": "Based on this description: 'Clarinet, Flute, and Violin', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 28,
+            "is_correct": false
+        },
+        "29": {
+            "question": "Based on this description: '2 Violins, Cello, and Viola', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 29,
+            "is_correct": false
+        },
+        "30": {
+            "question": "Based on this description: 'Clarinet and Flute', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 30,
+            "is_correct": true
+        },
+        "31": {
+            "question": "Based on this description: '2 Violas, 2 Violins, and Cello', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 31,
+            "is_correct": false
+        },
+        "32": {
+            "question": "Based on this description: '2 Violins', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 32,
+            "is_correct": true
+        },
+        "33": {
+            "question": "Based on this description: '2 Violins, Cello, and Viola', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 33,
+            "is_correct": false
+        },
+        "34": {
+            "question": "Based on this description: '2 Flutes', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 34,
+            "is_correct": false
+        },
+        "35": {
+            "question": "Based on this description: '2 Violins and Viola', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 35,
+            "is_correct": false
+        },
+        "36": {
+            "question": "Based on this description: '2 Violins, Saxophone, and Viola', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 36,
+            "is_correct": false
+        },
+        "37": {
+            "question": "Based on this description: '2 Trumpets', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 37,
+            "is_correct": true
+        },
+        "38": {
+            "question": "Based on this description: '2 Trumpets and Saxophone', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 38,
+            "is_correct": true
+        },
+        "39": {
+            "question": "Based on this description: 'Trumpet and Violin', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 39,
+            "is_correct": false
+        },
+        "40": {
+            "question": "Based on this description: '2 Violas, 2 Violins, and Cello', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 40,
+            "is_correct": false
+        },
+        "41": {
+            "question": "Based on this description: 'Saxophone and Trumpet', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 41,
+            "is_correct": false
+        },
+        "42": {
+            "question": "Based on this description: '2 Trumpets', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 42,
+            "is_correct": false
+        },
+        "43": {
+            "question": "Based on this description: '2 Violins, Cello, and Viola', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 43,
+            "is_correct": false
+        },
+        "44": {
+            "question": "Based on this description: '2 Flutes and Clarinet', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 44,
+            "is_correct": false
+        },
+        "45": {
+            "question": "Based on this description: '2 Flutes, Bassoon, Oboe, and Saxophone', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 45,
+            "is_correct": false
+        },
+        "46": {
+            "question": "Based on this description: '2 Violins, Double Bass, Saxophone, and Viola', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 46,
+            "is_correct": false
+        },
+        "47": {
+            "question": "Based on this description: 'Cello, Clarinet, and Violin', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 47,
+            "is_correct": false
+        },
+        "48": {
+            "question": "Based on this description: '2 Trumpets and Trombone', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 48,
+            "is_correct": false
+        },
+        "49": {
+            "question": "Based on this description: 'Saxophone, Trombone, and Tuba', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 49,
+            "is_correct": false
+        },
+        "50": {
+            "question": "Based on this description: 'Trombone and Trumpet', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 50,
+            "is_correct": false
+        },
+        "51": {
+            "question": "Based on this description: '2 Trumpets, French Horn, Trombone, and Tuba', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 51,
+            "is_correct": true
+        },
+        "52": {
+            "question": "Based on this description: 'Cello and Oboe', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 52,
+            "is_correct": true
+        },
+        "53": {
+            "question": "Based on this description: 'Flute and Violin', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 53,
+            "is_correct": true
+        },
+        "54": {
+            "question": "Based on this description: '2 Saxophones', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 54,
+            "is_correct": false
+        },
+        "55": {
+            "question": "Based on this description: '2 Trumpets, French Horn, and Trombone', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 55,
+            "is_correct": false
+        },
+        "56": {
+            "question": "Based on this description: 'Trumpet and Violin', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 56,
+            "is_correct": false
+        },
+        "57": {
+            "question": "Based on this description: '2 Flutes, Bassoon, Clarinet, and Oboe', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 57,
+            "is_correct": false
+        },
+        "58": {
+            "question": "Based on this description: '2 Violins, Cello, Double Bass, and Viola', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 58,
+            "is_correct": false
+        },
+        "59": {
+            "question": "Based on this description: 'Bassoon, Clarinet, Flute, and Oboe', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 59,
+            "is_correct": false
+        },
+        "60": {
+            "question": "Based on this description: '2 Violins and Viola', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 60,
+            "is_correct": false
+        },
+        "61": {
+            "question": "Based on this description: '2 Flutes, Oboe, and Saxophone', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 61,
+            "is_correct": false
+        },
+        "62": {
+            "question": "Based on this description: 'Saxophone and Trumpet', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 62,
+            "is_correct": false
+        },
+        "63": {
+            "question": "Based on this description: 'Clarinet, Flute, and Violin', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 63,
+            "is_correct": false
+        },
+        "64": {
+            "question": "Based on this description: '2 Violins, Cello, and Viola', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 64,
+            "is_correct": false
+        },
+        "65": {
+            "question": "Based on this description: 'Clarinet, Saxophone, and Tuba', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 65,
+            "is_correct": false
+        },
+        "66": {
+            "question": "Based on this description: 'Bassoon, Clarinet, Flute, and Oboe', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 66,
+            "is_correct": false
+        },
+        "67": {
+            "question": "Based on this description: 'Cello and Oboe', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 67,
+            "is_correct": false
+        },
+        "68": {
+            "question": "Based on this description: 'Clarinet, Trombone, and Tuba', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 68,
+            "is_correct": false
+        },
+        "69": {
+            "question": "Based on this description: 'Clarinet, Flute, and Violin', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 69,
+            "is_correct": false
+        },
+        "70": {
+            "question": "Based on this description: '2 Violins, Double Bass, and Viola', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 70,
+            "is_correct": false
+        },
+        "71": {
+            "question": "Based on this description: '2 Violins, Cello, and Viola', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 71,
+            "is_correct": false
+        },
+        "72": {
+            "question": "Based on this description: '2 Flutes', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 72,
+            "is_correct": false
+        },
+        "73": {
+            "question": "Based on this description: 'Flute and Violin', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 73,
+            "is_correct": false
+        },
+        "74": {
+            "question": "Based on this description: '2 Violins and Viola', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 74,
+            "is_correct": false
+        },
+        "75": {
+            "question": "Based on this description: '2 Violins, Cello, and Viola', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 75,
+            "is_correct": true
+        },
+        "76": {
+            "question": "Based on this description: '2 Violins, Cello, and Viola', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 76,
+            "is_correct": false
+        },
+        "77": {
+            "question": "Based on this description: 'Clarinet, Saxophone, and Tuba', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 77,
+            "is_correct": false
+        },
+        "78": {
+            "question": "Based on this description: '2 Violins and Viola', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 78,
+            "is_correct": false
+        },
+        "79": {
+            "question": "Based on this description: 'Clarinet and Flute', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 79,
+            "is_correct": false
+        },
+        "80": {
+            "question": "Based on this description: '2 Violins', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 80,
+            "is_correct": false
+        },
+        "81": {
+            "question": "Based on this description: '2 Violins, Cello, and Viola', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 81,
+            "is_correct": false
+        },
+        "82": {
+            "question": "Based on this description: '2 Violins, Cello, and Viola', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 82,
+            "is_correct": false
+        },
+        "83": {
+            "question": "Based on this description: 'Cello and Oboe', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 83,
+            "is_correct": false
+        },
+        "84": {
+            "question": "Based on this description: '2 Flutes, Bassoon, Oboe, and Saxophone', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 84,
+            "is_correct": false
+        },
+        "85": {
+            "question": "Based on this description: 'Cello and Oboe', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 85,
+            "is_correct": false
+        },
+        "86": {
+            "question": "Based on this description: '2 Violins, Cello, and Viola', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 86,
+            "is_correct": true
+        },
+        "87": {
+            "question": "Based on this description: 'Saxophone, Trombone, and Tuba', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 87,
+            "is_correct": false
+        },
+        "88": {
+            "question": "Based on this description: 'Cello and Violin', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 88,
+            "is_correct": false
+        },
+        "89": {
+            "question": "Based on this description: 'Bassoon, Clarinet, Flute, and Oboe', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 89,
+            "is_correct": false
+        },
+        "90": {
+            "question": "Based on this description: '2 Violins', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 90,
+            "is_correct": false
+        },
+        "91": {
+            "question": "Based on this description: 'Clarinet, Flute, Viola, and Violin', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 91,
+            "is_correct": true
+        },
+        "92": {
+            "question": "Based on this description: 'Trombone and Trumpet', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 92,
+            "is_correct": false
+        },
+        "93": {
+            "question": "Based on this description: 'Saxophone, Trombone, and Tuba', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 93,
+            "is_correct": false
+        },
+        "94": {
+            "question": "Based on this description: '2 Flutes, Bassoon, Oboe, and Saxophone', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 94,
+            "is_correct": false
+        },
+        "95": {
+            "question": "Based on this description: 'Trumpet and Violin', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 95,
+            "is_correct": false
+        },
+        "96": {
+            "question": "Based on this description: 'Cello, Clarinet, and Violin', which image best matches the instruments composition described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 96,
+            "is_correct": false
+        }
+    }
+}

@@ -1,0 +1,687 @@
+{
+    "task_name": "external/emotion_classification_vision_text",
+    "score": 42.2680412371134,
+    "correct_count": 41,
+    "all_count": 97,
+    "results": {
+        "0": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 0,
+            "is_correct": false
+        },
+        "1": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 1,
+            "is_correct": false
+        },
+        "2": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 2,
+            "is_correct": true
+        },
+        "3": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 3,
+            "is_correct": true
+        },
+        "4": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 4,
+            "is_correct": false
+        },
+        "5": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 5,
+            "is_correct": true
+        },
+        "6": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 6,
+            "is_correct": true
+        },
+        "7": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 7,
+            "is_correct": false
+        },
+        "8": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 8,
+            "is_correct": true
+        },
+        "9": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 9,
+            "is_correct": false
+        },
+        "10": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 10,
+            "is_correct": false
+        },
+        "11": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 11,
+            "is_correct": false
+        },
+        "12": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 12,
+            "is_correct": false
+        },
+        "13": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 13,
+            "is_correct": false
+        },
+        "14": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 14,
+            "is_correct": true
+        },
+        "15": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 15,
+            "is_correct": false
+        },
+        "16": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 16,
+            "is_correct": false
+        },
+        "17": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 17,
+            "is_correct": false
+        },
+        "18": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 18,
+            "is_correct": false
+        },
+        "19": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 19,
+            "is_correct": true
+        },
+        "20": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 20,
+            "is_correct": false
+        },
+        "21": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 21,
+            "is_correct": false
+        },
+        "22": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 22,
+            "is_correct": false
+        },
+        "23": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 23,
+            "is_correct": false
+        },
+        "24": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 24,
+            "is_correct": false
+        },
+        "25": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 25,
+            "is_correct": false
+        },
+        "26": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 26,
+            "is_correct": true
+        },
+        "27": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 27,
+            "is_correct": false
+        },
+        "28": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 28,
+            "is_correct": true
+        },
+        "29": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 29,
+            "is_correct": true
+        },
+        "30": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 30,
+            "is_correct": true
+        },
+        "31": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 31,
+            "is_correct": true
+        },
+        "32": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 32,
+            "is_correct": false
+        },
+        "33": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 33,
+            "is_correct": true
+        },
+        "34": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 34,
+            "is_correct": false
+        },
+        "35": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 35,
+            "is_correct": true
+        },
+        "36": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 36,
+            "is_correct": false
+        },
+        "37": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 37,
+            "is_correct": false
+        },
+        "38": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 38,
+            "is_correct": false
+        },
+        "39": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 39,
+            "is_correct": true
+        },
+        "40": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 40,
+            "is_correct": true
+        },
+        "41": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 41,
+            "is_correct": true
+        },
+        "42": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 42,
+            "is_correct": false
+        },
+        "43": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 43,
+            "is_correct": false
+        },
+        "44": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 44,
+            "is_correct": true
+        },
+        "45": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 45,
+            "is_correct": false
+        },
+        "46": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 46,
+            "is_correct": false
+        },
+        "47": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 47,
+            "is_correct": false
+        },
+        "48": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 48,
+            "is_correct": false
+        },
+        "49": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 49,
+            "is_correct": true
+        },
+        "50": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 50,
+            "is_correct": false
+        },
+        "51": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 51,
+            "is_correct": true
+        },
+        "52": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 52,
+            "is_correct": false
+        },
+        "53": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 53,
+            "is_correct": false
+        },
+        "54": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 54,
+            "is_correct": true
+        },
+        "55": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 55,
+            "is_correct": false
+        },
+        "56": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 56,
+            "is_correct": true
+        },
+        "57": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 57,
+            "is_correct": false
+        },
+        "58": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 58,
+            "is_correct": false
+        },
+        "59": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 59,
+            "is_correct": true
+        },
+        "60": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 60,
+            "is_correct": true
+        },
+        "61": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 61,
+            "is_correct": false
+        },
+        "62": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 62,
+            "is_correct": true
+        },
+        "63": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 63,
+            "is_correct": true
+        },
+        "64": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 64,
+            "is_correct": false
+        },
+        "65": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 65,
+            "is_correct": false
+        },
+        "66": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 66,
+            "is_correct": false
+        },
+        "67": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 67,
+            "is_correct": true
+        },
+        "68": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 68,
+            "is_correct": false
+        },
+        "69": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 69,
+            "is_correct": false
+        },
+        "70": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 70,
+            "is_correct": true
+        },
+        "71": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 71,
+            "is_correct": false
+        },
+        "72": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 72,
+            "is_correct": true
+        },
+        "73": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 73,
+            "is_correct": false
+        },
+        "74": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 74,
+            "is_correct": false
+        },
+        "75": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 75,
+            "is_correct": false
+        },
+        "76": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 76,
+            "is_correct": true
+        },
+        "77": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 77,
+            "is_correct": false
+        },
+        "78": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 78,
+            "is_correct": true
+        },
+        "79": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 79,
+            "is_correct": true
+        },
+        "80": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 80,
+            "is_correct": true
+        },
+        "81": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 81,
+            "is_correct": false
+        },
+        "82": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 82,
+            "is_correct": false
+        },
+        "83": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 83,
+            "is_correct": false
+        },
+        "84": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 84,
+            "is_correct": true
+        },
+        "85": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 85,
+            "is_correct": true
+        },
+        "86": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 86,
+            "is_correct": false
+        },
+        "87": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 87,
+            "is_correct": false
+        },
+        "88": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 88,
+            "is_correct": false
+        },
+        "89": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 89,
+            "is_correct": true
+        },
+        "90": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 90,
+            "is_correct": false
+        },
+        "91": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 91,
+            "is_correct": true
+        },
+        "92": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 92,
+            "is_correct": true
+        },
+        "93": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 93,
+            "is_correct": true
+        },
+        "94": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 94,
+            "is_correct": true
+        },
+        "95": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 95,
+            "is_correct": true
+        },
+        "96": {
+            "question": "Watch the video clip and the dialog transcript and identify which emotion is being displayed. Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 96,
+            "is_correct": false
+        }
+    }
+}

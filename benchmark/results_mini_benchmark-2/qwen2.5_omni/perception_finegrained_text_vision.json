@@ -1,0 +1,78 @@
+{
+    "task_name": "perception/finegrained_text_vision",
+    "score": 100.0,
+    "correct_count": 10,
+    "all_count": 10,
+    "results": {
+        "0": {
+            "question": "Based on this description: 'chipmunk chirping', which image best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 0,
+            "is_correct": true
+        },
+        "1": {
+            "question": "Based on this description: 'dog howling', which image best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 1,
+            "is_correct": true
+        },
+        "2": {
+            "question": "Based on this description: 'lions growling', which image best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 2,
+            "is_correct": true
+        },
+        "3": {
+            "question": "Based on this description: 'cricket chirping', which image best matches what is described? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 3,
+            "is_correct": true
+        },
+        "4": {
+            "question": "Based on this description: 'otter growling', which image best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 4,
+            "is_correct": true
+        },
+        "5": {
+            "question": "Based on this description: 'snake rattling', which image best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 5,
+            "is_correct": true
+        },
+        "6": {
+            "question": "Based on this description: 'horse clip-clop', which image best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 6,
+            "is_correct": true
+        },
+        "7": {
+            "question": "Based on this description: 'donkey, ass braying', which image best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 7,
+            "is_correct": true
+        },
+        "8": {
+            "question": "Based on this description: 'otter growling', which image best matches what is described? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 8,
+            "is_correct": true
+        },
+        "9": {
+            "question": "Based on this description: 'owl hooting', which image best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 9,
+            "is_correct": true
+        }
+    }
+}

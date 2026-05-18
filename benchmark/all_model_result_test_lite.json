@@ -1,0 +1,327 @@
+{
+  "random": {
+    "perception": {
+      "general": {
+        "audio_vision": 26.0,
+        "vision_audio": 26.0,
+        "vision_text": 26.0,
+        "text_vision": 22.0,
+        "text_audio": 28.000000000000004,
+        "audio_text": 18.0
+      },
+      "finegrained": {
+        "audio_vision": 16.0,
+        "vision_audio": 42.0,
+        "vision_text": 30.0,
+        "text_vision": 30.0,
+        "text_audio": 38.0,
+        "audio_text": 38.0
+      },
+      "instruments": {
+        "audio_vision": 26.0,
+        "vision_audio": 30.0,
+        "vision_text": 26.0,
+        "text_vision": 34.0,
+        "text_audio": 24.0,
+        "audio_text": 20.0
+      },
+      "instruments_comp": {
+        "audio_vision": 18.0,
+        "vision_audio": 24.0,
+        "vision_text": 20.0,
+        "text_vision": 24.0,
+        "text_audio": 24.0,
+        "audio_text": 20.0
+      },
+      "natures": {
+        "audio_vision": 26.0,
+        "vision_audio": 22.0,
+        "vision_text": 24.0,
+        "text_vision": 28.000000000000004,
+        "text_audio": 34.0,
+        "audio_text": 32.0
+      }
+    },
+    "spatial": {
+      "arrangements": {
+        "audio_vision": 22.0,
+        "vision_audio": 28.000000000000004,
+        "vision_text": 18.0,
+        "text_vision": 24.0,
+        "text_audio": 22.0,
+        "audio_text": 18.0
+      },
+      "3D_movements": {
+        "audio_vision": 26.0,
+        "vision_audio": 20.0,
+        "vision_text": 14.000000000000002,
+        "text_vision": 36.0,
+        "text_audio": 20.0,
+        "audio_text": 30.0
+      },
+      "panaroma": {
+        "audio_vision": 30.0,
+        "vision_audio": 28.000000000000004,
+        "vision_text": 18.0,
+        "text_vision": 36.0,
+        "text_audio": 16.0,
+        "audio_text": 18.0
+      }
+    },
+    "speech": {
+      "recognition": {
+        "audio_vision": 18.0,
+        "vision_audio": 14.000000000000002,
+        "vision_text": 20.0,
+        "text_vision": 22.0,
+        "text_audio": 18.0,
+        "audio_text": 30.0
+      },
+      "translation": {
+        "audio_vision": 26.0,
+        "vision_audio": 16.0,
+        "vision_text": 42.0,
+        "text_vision": 18.0,
+        "text_audio": 24.0,
+        "audio_text": 26.0
+      }
+    },
+    "external": {
+      "emotion_classification": {
+        "audio_vision": 44.0,
+        "vision_audio": 26.0,
+        "vision_text": 32.0,
+        "text_vision": 30.0,
+        "text_audio": 16.0,
+        "audio_text": 24.0
+      },
+      "music_genre_classification": {
+        "audio_vision": 16.0,
+        "vision_audio": 36.0,
+        "vision_text": 20.0,
+        "text_vision": 18.0,
+        "text_audio": 26.0,
+        "audio_text": 22.0
+      },
+      "movie_matching": {
+        "audio_vision": 20.0,
+        "vision_audio": 28.000000000000004,
+        "vision_text": 28.000000000000004,
+        "text_vision": 26.0,
+        "text_audio": 14.000000000000002,
+        "audio_text": 16.0
+      },
+      "singer_identification": {
+        "audio_vision": 16.0,
+        "vision_audio": 14.000000000000002,
+        "vision_text": 28.000000000000004,
+        "text_vision": 24.0,
+        "text_audio": 24.0,
+        "audio_text": 20.0
+      }
+    },
+    "temporal": {
+      "count": {
+        "audio_vision": 26.0,
+        "vision_audio": 30.0,
+        "vision_text": 34.0,
+        "text_vision": 20.0,
+        "text_audio": 20.0,
+        "audio_text": 20.0
+      },
+      "calculation": {
+        "audio_vision": 20.0,
+        "vision_audio": 26.0,
+        "vision_text": 22.0,
+        "text_vision": 16.0,
+        "text_audio": 14.000000000000002,
+        "audio_text": 36.0
+      },
+      "order": {
+        "audio_vision": 16.0,
+        "vision_audio": 32.0,
+        "vision_text": 28.000000000000004,
+        "text_vision": 26.0,
+        "text_audio": 24.0,
+        "audio_text": 20.0
+      }
+    }
+  },
+  "gemini-2.0-flash": {
+    "perception": {
+      "general": {
+        "audio_vision": 76.0,
+        "vision_audio": 90.0,
+        "vision_text": 96.0,
+        "text_vision": 98.0,
+        "text_audio": 76.0,
+        "audio_text": 84.0
+      },
+      "finegrained": {
+        "audio_vision": 46.0,
+        "vision_audio": 64.0,
+        "vision_text": 90.0,
+        "text_vision": 100.0,
+        "text_audio": 56.00000000000001,
+        "audio_text": 56.00000000000001
+      },
+      "instruments": {
+        "audio_vision": 28.000000000000004,
+        "vision_audio": 38.0,
+        "vision_text": 96.0,
+        "text_vision": 98.0,
+        "text_audio": 36.0,
+        "audio_text": 50.0
+      },
+      "instruments_comp": {
+        "audio_vision": 14.000000000000002,
+        "vision_audio": 36.0,
+        "vision_text": 100.0,
+        "text_vision": 96.0,
+        "text_audio": 34.0,
+        "audio_text": 42.0
+      },
+      "natures": {
+        "audio_vision": 60.0,
+        "vision_audio": 56.00000000000001,
+        "vision_text": 84.0,
+        "text_vision": 84.0,
+        "text_audio": 42.0,
+        "audio_text": 56.00000000000001
+      }
+    },
+    "spatial": {
+      "arrangements": {
+        "audio_vision": 32.0,
+        "vision_audio": 30.0,
+        "vision_text": 90.0,
+        "text_vision": 70.0,
+        "text_audio": 28.000000000000004,
+        "audio_text": 28.000000000000004
+      },
+      "3D_movements": {
+        "audio_vision": 66.0,
+        "vision_audio": 50.0,
+        "vision_text": 100.0,
+        "text_vision": 66.0,
+        "text_audio": 48.0,
+        "audio_text": 74.0
+      },
+      "panaroma": {
+        "audio_vision": 36.0,
+        "vision_audio": 28.000000000000004,
+        "vision_text": 64.0,
+        "text_vision": 26.0,
+        "text_audio": 20.0,
+        "audio_text": 24.0
+      }
+    },
+    "speech": {
+      "recognition": {
+        "audio_vision": 68.0,
+        "vision_audio": 66.0,
+        "vision_text": 100.0,
+        "text_vision": 64.0,
+        "text_audio": 72.0,
+        "audio_text": 92.0
+      },
+      "translation": {
+        "audio_vision": 72.0,
+        "vision_audio": 78.0,
+        "vision_text": 100.0,
+        "text_vision": 68.0,
+        "text_audio": 76.0,
+        "audio_text": 96.0
+      }
+    },
+    "external": {
+      "emotion_classification": {
+        "audio_vision": 40.0,
+        "vision_audio": 48.0,
+        "vision_text": 60.0,
+        "text_vision": 57.99999999999999,
+        "text_audio": 50.0,
+        "audio_text": 52.0
+      },
+      "music_genre_classification": {
+        "audio_vision": 57.99999999999999,
+        "vision_audio": 76.0,
+        "vision_text": 86.0,
+        "text_vision": 82.0,
+        "text_audio": 92.0,
+        "audio_text": 92.0
+      },
+      "movie_matching": {
+        "audio_vision": 78.0,
+        "vision_audio": 82.0,
+        "vision_text": 96.0,
+        "text_vision": 98.0,
+        "text_audio": 82.0,
+        "audio_text": 92.0
+      },
+      "singer_identification": {
+        "audio_vision": 56.00000000000001,
+        "vision_audio": 34.0,
+        "vision_text": 100.0,
+        "text_vision": 96.0,
+        "text_audio": 56.00000000000001,
+        "audio_text": 62.0
+      }
+    },
+    "temporal": {
+      "count": {
+        "audio_vision": 32.0,
+        "vision_audio": 32.0,
+        "vision_text": 62.0,
+        "text_vision": 26.0,
+        "text_audio": 26.0,
+        "audio_text": 46.0
+      },
+      "calculation": {
+        "audio_vision": 30.0,
+        "vision_audio": 28.000000000000004,
+        "vision_text": 60.0,
+        "text_vision": 22.0,
+        "text_audio": 18.0,
+        "audio_text": 60.0
+      },
+      "order": {
+        "audio_vision": 32.0,
+        "vision_audio": 36.0,
+        "vision_text": 98.0,
+        "text_vision": 70.0,
+        "text_audio": 62.0,
+        "audio_text": 44.0
+      }
+    }
+  },
+  "gemini-1.5-pro": {
+    "perception": {
+      "general": {},
+      "finegrained": {},
+      "instruments": {},
+      "instruments_comp": {},
+      "natures": {}
+    },
+    "spatial": {
+      "arrangements": {},
+      "3D_movements": {},
+      "panaroma": {}
+    },
+    "speech": {
+      "recognition": {},
+      "translation": {}
+    },
+    "external": {
+      "emotion_classification": {},
+      "music_genre_classification": {},
+      "movie_matching": {},
+      "singer_identification": {}
+    },
+    "temporal": {
+      "count": {},
+      "calculation": {},
+      "order": {}
+    }
+  }
+}

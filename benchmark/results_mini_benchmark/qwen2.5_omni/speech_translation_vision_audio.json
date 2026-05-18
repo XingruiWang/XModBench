@@ -1,0 +1,31 @@
+{
+    "task_name": "speech/translation_vision_audio",
+    "score": 100.0,
+    "correct_count": 3,
+    "all_count": 3,
+    "results": {
+        "25": {
+            "question": "Which audio most likely speaks the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 25,
+            "is_correct": true
+        },
+        "114": {
+            "question": "Which audio most likely speaks the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 114,
+            "is_correct": true
+        },
+        "654": {
+            "question": "Which audio most likely speaks the Chinese translation of the text in this image? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 654,
+            "is_correct": true
+        }
+    },
+    "format_error_count": 0,
+    "run_error_count": 0
+}

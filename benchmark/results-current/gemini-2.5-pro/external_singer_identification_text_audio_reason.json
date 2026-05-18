@@ -1,0 +1,248 @@
+{
+    "task_name": "external/singer_identification_text_audio",
+    "score": 75.0,
+    "correct_count": 15,
+    "all_count": 20,
+    "results": {
+        "5": {
+            "question": "Based on the singer name 'Teddy Swims', which song is performed by this artist? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "The singer in clip A has a powerful, raspy, and soulful voice, which is the signature vocal style of Teddy Swims. The song performed is his hit 'Lose Control'. The vocalists in the other clips have distinctly different voices, with clips B and C being sung in Mandarin and clip D being the song 'Blinding Lights' by The Weeknd.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The singer in clip A has a powerful, raspy, and soulful voice, which is the signature vocal style of Teddy Swims. The song performed is his hit 'Lose Control'. The vocalists in the other clips have distinctly different voices, with clips B and C being sung in Mandarin and clip D being the song 'Blinding Lights' by The Weeknd."
+            },
+            "correct_answer": "A",
+            "index": 5,
+            "is_correct": true
+        },
+        "9": {
+            "question": "Based on the singer name 'Teddy Swims', which song is performed by this artist? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "The singer in option B has a soulful, raspy voice, which is the signature vocal style of Teddy Swims. The song's genre is also consistent with his music. Option A is a song in Mandarin. Option C is an instrumental track with no vocals. Option D is the song 'Kill Bill' by SZA, a female artist.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The singer in option B has a soulful, raspy voice, which is the signature vocal style of Teddy Swims. The song's genre is also consistent with his music. Option A is a song in Mandarin. Option C is an instrumental track with no vocals. Option D is the song 'Kill Bill' by SZA, a female artist."
+            },
+            "correct_answer": "B",
+            "index": 9,
+            "is_correct": true
+        },
+        "11": {
+            "question": "Based on the singer name 'Joker Xue', which song is performed by this artist? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "Joker Xue is a male Chinese singer known for his Mandopop ballads. Clip A is an English-language pop song by a female artist. Clip B is a Mandarin ballad sung by a female artist. Clip D is an English-language hip-hop song. Clip C is the only option that features a male vocalist singing a ballad in Mandarin, and the vocal style is characteristic of Joker Xue.",
+            "original_response": {
+                "answer": "C",
+                "reasoning": "Joker Xue is a male Chinese singer known for his Mandopop ballads. Clip A is an English-language pop song by a female artist. Clip B is a Mandarin ballad sung by a female artist. Clip D is an English-language hip-hop song. Clip C is the only option that features a male vocalist singing a ballad in Mandarin, and the vocal style is characteristic of Joker Xue."
+            },
+            "correct_answer": "C",
+            "index": 11,
+            "is_correct": true
+        },
+        "21": {
+            "question": "Based on the singer name 'David Tao', which song is performed by this artist? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "Clip A is the song '\u8d64\u4f36' (Ch\u00ec L\u00edng) by HITA. Clip B is the song '\u9ed1\u8272\u67f3\u4e01' (Black Tangerine) by David Tao. Clip C is the song 'Falling' by Harry Styles. Clip D is the song 'Melody' by David Tao. Both B and D are performed by David Tao. We have selected D as the correct answer. The song 'Melody' is one of his most famous R&B ballads, released on his 2002 album 'Black Tangerine', and the voice and musical style are unmistakably his.",
+            "original_response": {
+                "answer": "D",
+                "reasoning": "Clip A is the song '\u8d64\u4f36' (Ch\u00ec L\u00edng) by HITA. Clip B is the song '\u9ed1\u8272\u67f3\u4e01' (Black Tangerine) by David Tao. Clip C is the song 'Falling' by Harry Styles. Clip D is the song 'Melody' by David Tao. Both B and D are performed by David Tao. We have selected D as the correct answer. The song 'Melody' is one of his most famous R&B ballads, released on his 2002 album 'Black Tangerine', and the voice and musical style are unmistakably his."
+            },
+            "correct_answer": "D",
+            "index": 21,
+            "is_correct": true
+        },
+        "24": {
+            "question": "Based on the singer name 'Jay Chou', which song is performed by this artist? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "The song in option C is \"All the Way North\" (\u4e00\u8def\u5411\u5317), which is a famous song by the Taiwanese singer Jay Chou. The distinctive vocal style, the Mandarin lyrics, and the piano-led melody are all hallmarks of his music. The other options are incorrect: Option A is a Cantonese song, Option B is an English pop song by Miley Cyrus, and Option D is an English R&B song by The Weeknd.",
+            "original_response": {
+                "answer": "C",
+                "reasoning": "The song in option C is \"All the Way North\" (\u4e00\u8def\u5411\u5317), which is a famous song by the Taiwanese singer Jay Chou. The distinctive vocal style, the Mandarin lyrics, and the piano-led melody are all hallmarks of his music. The other options are incorrect: Option A is a Cantonese song, Option B is an English pop song by Miley Cyrus, and Option D is an English R&B song by The Weeknd."
+            },
+            "correct_answer": "C",
+            "index": 24,
+            "is_correct": true
+        },
+        "25": {
+            "question": "Based on the singer name 'Lady Gaga', which song is performed by this artist? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "The song in option A is 'Happier Than Ever' by Billie Eilish. The song in option C is 'Save Your Tears' by The Weeknd. The song in option D is 'Kill Bill' by SZA. The audio clip in option B is from the song 'Stupid Love' by Lady Gaga, which is evident from its signature electronic dance-pop sound and theatrical production style.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The song in option A is 'Happier Than Ever' by Billie Eilish. The song in option C is 'Save Your Tears' by The Weeknd. The song in option D is 'Kill Bill' by SZA. The audio clip in option B is from the song 'Stupid Love' by Lady Gaga, which is evident from its signature electronic dance-pop sound and theatrical production style."
+            },
+            "correct_answer": "B",
+            "index": 25,
+            "is_correct": true
+        },
+        "27": {
+            "question": "Based on the singer name 'David Tao', which song is performed by this artist? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "The song in option A is '\u627e\u81ea\u5df1' (Find Myself), a signature R&B/Funk track by the artist David Tao. The voice and musical style are unmistakably his. Option B is the English song 'Kill Bill' by SZA. Option C is '\u6f14\u5458' (Actor) performed by Joker Xue. Option D is '\u6b7b\u4e86\u90fd\u8981\u611b' (Love You Even If I Die) sung by Shin. Therefore, A is the correct answer.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The song in option A is '\u627e\u81ea\u5df1' (Find Myself), a signature R&B/Funk track by the artist David Tao. The voice and musical style are unmistakably his. Option B is the English song 'Kill Bill' by SZA. Option C is '\u6f14\u5458' (Actor) performed by Joker Xue. Option D is '\u6b7b\u4e86\u90fd\u8981\u611b' (Love You Even If I Die) sung by Shin. Therefore, A is the correct answer."
+            },
+            "correct_answer": "D",
+            "index": 27,
+            "is_correct": false
+        },
+        "31": {
+            "question": "Based on the singer name 'Teddy Swims', which song is performed by this artist? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "The song in option A is 'Broke' by Teddy Swims. The vocalist's powerful, raspy, and soulful singing style is a distinct characteristic of Teddy Swims. Option B is 'When My Train Pulls In' by Gary Clark Jr. Option C is the famous song 'Watermelon Sugar' by Harry Styles. Option D features a female vocalist and is the song 'traitor' by Olivia Rodrigo. Therefore, A is the only song performed by Teddy Swims.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The song in option A is 'Broke' by Teddy Swims. The vocalist's powerful, raspy, and soulful singing style is a distinct characteristic of Teddy Swims. Option B is 'When My Train Pulls In' by Gary Clark Jr. Option C is the famous song 'Watermelon Sugar' by Harry Styles. Option D features a female vocalist and is the song 'traitor' by Olivia Rodrigo. Therefore, A is the only song performed by Teddy Swims."
+            },
+            "correct_answer": "B",
+            "index": 31,
+            "is_correct": false
+        },
+        "40": {
+            "question": "Based on the singer name 'Faye Wong', which song is performed by this artist? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "The song in clip C is \"\u5bb9\u6613\u53d7\u50b7\u7684\u5973\u4eba\" (Woman Easily Hurt), one of Faye Wong's most famous and career-defining Cantopop ballads from 1992. The vocal performance and style are unmistakably hers. While clip B, the song \"Eyes on Me\", is also performed by Faye Wong, clip C represents the core Cantopop genre that made her a superstar. Clip A is a male blues-rock singer, and clip D is a different female artist singing in English with a funk-pop style.",
+            "original_response": {
+                "answer": "C",
+                "reasoning": "The song in clip C is \"\u5bb9\u6613\u53d7\u50b7\u7684\u5973\u4eba\" (Woman Easily Hurt), one of Faye Wong's most famous and career-defining Cantopop ballads from 1992. The vocal performance and style are unmistakably hers. While clip B, the song \"Eyes on Me\", is also performed by Faye Wong, clip C represents the core Cantopop genre that made her a superstar. Clip A is a male blues-rock singer, and clip D is a different female artist singing in English with a funk-pop style."
+            },
+            "correct_answer": "C",
+            "index": 40,
+            "is_correct": true
+        },
+        "45": {
+            "question": "Based on the singer name 'Eason Chan', which song is performed by this artist? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "Eason Chan is a famous Hong Kong singer who primarily performs in Cantonese and Mandarin. Song A is an English pop song by a female artist. Song B is a Spanish reggaeton track. Song C is a funk instrumental piece. Song D is a Mandarin pop ballad sung by a male vocalist whose voice is identifiable as Eason Chan's. Specifically, the song is '\u5b64\u52c7\u8005' (Lone Warrior), a major hit performed by Eason Chan.",
+            "original_response": {
+                "answer": "D",
+                "reasoning": "Eason Chan is a famous Hong Kong singer who primarily performs in Cantonese and Mandarin. Song A is an English pop song by a female artist. Song B is a Spanish reggaeton track. Song C is a funk instrumental piece. Song D is a Mandarin pop ballad sung by a male vocalist whose voice is identifiable as Eason Chan's. Specifically, the song is '\u5b64\u52c7\u8005' (Lone Warrior), a major hit performed by Eason Chan."
+            },
+            "correct_answer": "C",
+            "index": 45,
+            "is_correct": false
+        },
+        "49": {
+            "question": "Based on the singer name 'Eason Chan', which song is performed by this artist? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "The singer in question is Eason Chan, a famous Cantopop and Mandopop artist from Hong Kong. By analyzing the audio clips, we can identify his work. Clip A features a male vocalist singing a dramatic power ballad in Mandarin Chinese. The voice, emotional delivery, and musical style are all characteristic of Eason Chan. The song is his famous hit '\u6d6e\u8a87' (Exaggerated). Clip B is a modern American country song. Clip C is an instrumental funk track. Clip D contains female vocals and spoken dialogue. Therefore, only Clip A is performed by Eason Chan.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The singer in question is Eason Chan, a famous Cantopop and Mandopop artist from Hong Kong. By analyzing the audio clips, we can identify his work. Clip A features a male vocalist singing a dramatic power ballad in Mandarin Chinese. The voice, emotional delivery, and musical style are all characteristic of Eason Chan. The song is his famous hit '\u6d6e\u8a87' (Exaggerated). Clip B is a modern American country song. Clip C is an instrumental funk track. Clip D contains female vocals and spoken dialogue. Therefore, only Clip A is performed by Eason Chan."
+            },
+            "correct_answer": "C",
+            "index": 49,
+            "is_correct": false
+        },
+        "50": {
+            "question": "Based on the singer name 'Chappell Roan', which song is performed by this artist? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "The song in clip B is 'Pink Pony Club' by Chappell Roan. Her distinctive voice and synth-pop musical style are clearly identifiable in this track. Clip A is a song sung in Mandarin, and clip C features a male vocalist, ruling them out as options.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The song in clip B is 'Pink Pony Club' by Chappell Roan. Her distinctive voice and synth-pop musical style are clearly identifiable in this track. Clip A is a song sung in Mandarin, and clip C features a male vocalist, ruling them out as options."
+            },
+            "correct_answer": "B",
+            "index": 50,
+            "is_correct": true
+        },
+        "55": {
+            "question": "Based on the singer name 'Faye Wong', which song is performed by this artist? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "Upon analyzing the audio clips, options C and D can be immediately disqualified as they are sung by male vocalists. Faye Wong is a female artist. Comparing the remaining options, the vocalist in clip B has the distinct, ethereal, and iconic voice that is characteristic of Faye Wong. The song is her famous hit, \"Red Bean\" (\u7ea2\u8c46). The singer in clip A, while also a female pop singer, does not possess the unique vocal timbre of Faye Wong.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "Upon analyzing the audio clips, options C and D can be immediately disqualified as they are sung by male vocalists. Faye Wong is a female artist. Comparing the remaining options, the vocalist in clip B has the distinct, ethereal, and iconic voice that is characteristic of Faye Wong. The song is her famous hit, \"Red Bean\" (\u7ea2\u8c46). The singer in clip A, while also a female pop singer, does not possess the unique vocal timbre of Faye Wong."
+            },
+            "correct_answer": "B",
+            "index": 55,
+            "is_correct": true
+        },
+        "59": {
+            "question": "Based on the singer name 'Lady Gaga', which song is performed by this artist? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "Clip A is the song 'Bad Romance' by Lady Gaga. It is one of her most famous songs, easily identifiable by the iconic 'Rah, rah-ah-ah-ah' intro and the distinct electro-pop sound. The other options are incorrect: Clip B features a male vocalist, Clip C is a song by a different female artist, and Clip D is a song sung in Mandarin by a male artist.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "Clip A is the song 'Bad Romance' by Lady Gaga. It is one of her most famous songs, easily identifiable by the iconic 'Rah, rah-ah-ah-ah' intro and the distinct electro-pop sound. The other options are incorrect: Clip B features a male vocalist, Clip C is a song by a different female artist, and Clip D is a song sung in Mandarin by a male artist."
+            },
+            "correct_answer": "A",
+            "index": 59,
+            "is_correct": true
+        },
+        "66": {
+            "question": "Based on the singer name 'Ariana Grande', which song is performed by this artist? Answer with A, B, C, or D",
+            "response": "C",
+            "reasoning": "The audio in option C is a spoken interlude from the song 'pete davidson' by Ariana Grande, featured on her 2018 album 'Sweetener'. The clip features a conversation between Ariana Grande and her grandmother, Marjorie 'Nonna' Grande. Option A is 'Grenade' by Bruno Mars. Option B is 'Bad Blood' by Taylor Swift. Option D is a song sung in Mandarin Chinese by Li Ronghao.",
+            "original_response": {
+                "answer": "C",
+                "reasoning": "The audio in option C is a spoken interlude from the song 'pete davidson' by Ariana Grande, featured on her 2018 album 'Sweetener'. The clip features a conversation between Ariana Grande and her grandmother, Marjorie 'Nonna' Grande. Option A is 'Grenade' by Bruno Mars. Option B is 'Bad Blood' by Taylor Swift. Option D is a song sung in Mandarin Chinese by Li Ronghao."
+            },
+            "correct_answer": "C",
+            "index": 66,
+            "is_correct": true
+        },
+        "69": {
+            "question": "Based on the singer name 'Chappell Roan', which song is performed by this artist? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "The song in option B is \"Hot to Go!\" performed by Chappell Roan. The musical style, which is a blend of synth-pop and pop-rock, along with the distinct female vocals, are characteristic of the artist. Option A is \"Smokin Out The Window\" by Silk Sonic. Option C is \"Style\" by Taylor Swift. Option D is \"Todo de Ti\" by Rauw Alejandro.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The song in option B is \"Hot to Go!\" performed by Chappell Roan. The musical style, which is a blend of synth-pop and pop-rock, along with the distinct female vocals, are characteristic of the artist. Option A is \"Smokin Out The Window\" by Silk Sonic. Option C is \"Style\" by Taylor Swift. Option D is \"Todo de Ti\" by Rauw Alejandro."
+            },
+            "correct_answer": "B",
+            "index": 69,
+            "is_correct": true
+        },
+        "70": {
+            "question": "Based on the singer name 'Teddy Swims', which song is performed by this artist? Answer with A, B, C, or D",
+            "response": "B",
+            "reasoning": "The singer in clip B has a soulful, powerful, and slightly raspy voice, which is characteristic of Teddy Swims. The song performed is his hit 'Lose Control'. Clip A and Clip D are sung in Mandarin, and Clip D features a female vocalist, so they can be ruled out. Clip C is the song 'Grenade' by Bruno Mars, and the voice is clearly identifiable as his, not Teddy Swims.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The singer in clip B has a soulful, powerful, and slightly raspy voice, which is characteristic of Teddy Swims. The song performed is his hit 'Lose Control'. Clip A and Clip D are sung in Mandarin, and Clip D features a female vocalist, so they can be ruled out. Clip C is the song 'Grenade' by Bruno Mars, and the voice is clearly identifiable as his, not Teddy Swims."
+            },
+            "correct_answer": "B",
+            "index": 70,
+            "is_correct": true
+        },
+        "73": {
+            "question": "Based on the singer name 'G.E.M.', which song is performed by this artist? Answer with A, B, C, or D",
+            "response": "D",
+            "reasoning": "The artist G.E.M. is a Chinese singer known for her powerful vocals in Mandopop. Clip A is an orchestral piece. Clip B is 'You Belong With Me' by Taylor Swift. Clip C is 'Watermelon Sugar' by Harry Styles. Clip D features a powerful female vocalist singing a Mandopop song, which is consistent with G.E.M.'s style. The song is 'Light Years Away' (\u5149\u5e74\u4e4b\u5916) by G.E.M.",
+            "original_response": {
+                "answer": "D",
+                "reasoning": "The artist G.E.M. is a Chinese singer known for her powerful vocals in Mandopop. Clip A is an orchestral piece. Clip B is 'You Belong With Me' by Taylor Swift. Clip C is 'Watermelon Sugar' by Harry Styles. Clip D features a powerful female vocalist singing a Mandopop song, which is consistent with G.E.M.'s style. The song is 'Light Years Away' (\u5149\u5e74\u4e4b\u5916) by G.E.M."
+            },
+            "correct_answer": "D",
+            "index": 73,
+            "is_correct": true
+        },
+        "76": {
+            "question": "Based on the singer name 'Chappell Roan', which song is performed by this artist? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "The song in option A is \"Casual\" by Chappell Roan. Her distinct vocal style and the synth-pop production are characteristic of her music. Option B is \"Blinding Lights\" by The Weeknd, who is a male artist. Options C and D are both songs sung in Mandarin Chinese, which is not the language Chappell Roan performs in.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The song in option A is \"Casual\" by Chappell Roan. Her distinct vocal style and the synth-pop production are characteristic of her music. Option B is \"Blinding Lights\" by The Weeknd, who is a male artist. Options C and D are both songs sung in Mandarin Chinese, which is not the language Chappell Roan performs in."
+            },
+            "correct_answer": "A",
+            "index": 76,
+            "is_correct": true
+        },
+        "80": {
+            "question": "Based on the singer name 'David Tao', which song is performed by this artist? Answer with A, B, C, or D",
+            "response": "A",
+            "reasoning": "The song in option A is '\u611b, \u5f88\u7c21\u55ae' (Love is Very Simple), which is one of David Tao's most famous songs. The voice and R&B musical style are characteristic of his work. Option B is 'vampire' by Olivia Rodrigo. Option C is '\u611b\u7684\u4e3b\u6253\u6b4c' by Elva Hsiao. Option D is '\u90a3\u9996\u6b4c' by JJ Lin. Therefore, A is the only song performed by David Tao.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The song in option A is '\u611b, \u5f88\u7c21\u55ae' (Love is Very Simple), which is one of David Tao's most famous songs. The voice and R&B musical style are characteristic of his work. Option B is 'vampire' by Olivia Rodrigo. Option C is '\u611b\u7684\u4e3b\u6253\u6b4c' by Elva Hsiao. Option D is '\u90a3\u9996\u6b4c' by JJ Lin. Therefore, A is the only song performed by David Tao."
+            },
+            "correct_answer": "D",
+            "index": 80,
+            "is_correct": false
+        }
+    }
+}

@@ -1,0 +1,53 @@
+{
+    "task_name": "perception/general_text_vision",
+    "score": 80.0,
+    "correct_count": 4,
+    "all_count": 5,
+    "results": {
+        "100": {
+            "question": "Based on this description: 'people sniggering', which image best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_response": "A\n",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 100,
+            "is_correct": true
+        },
+        "199": {
+            "question": "Based on this description: 'beat boxing', which image best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_response": "A\n",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 199,
+            "is_correct": true
+        },
+        "1078": {
+            "question": "Based on this description: 'mynah bird singing', which image best matches what is described? Answer with A, B, C, or D",
+            "response": "C",
+            "original_response": "C\n",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 1078,
+            "is_correct": false
+        },
+        "1580": {
+            "question": "Based on this description: 'slot machine', which image best matches what is described? Answer with A, B, C, or D",
+            "response": "A",
+            "original_response": "A\n",
+            "reasoning": "",
+            "correct_answer": "A",
+            "index": 1580,
+            "is_correct": true
+        },
+        "1838": {
+            "question": "Based on this description: 'electric shaver, electric razor shaving', which image best matches what is described? Answer with A, B, C, or D",
+            "response": "D",
+            "original_response": " D",
+            "reasoning": "",
+            "correct_answer": "D",
+            "index": 1838,
+            "is_correct": true
+        }
+    }
+}

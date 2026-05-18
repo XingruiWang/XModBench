@@ -1,0 +1,31 @@
+{
+    "task_name": "spatial/3D_movements_audio_text",
+    "score": 66.66666666666666,
+    "correct_count": 2,
+    "all_count": 3,
+    "results": {
+        "12": {
+            "question": "Listen to the spatial audio from the urban street scene. Analyze:\n- The vehicle engine sound characteristics to identify the vehicle type (car, bus, motorbike)\n- The audio's directional movement (left-to-right, right-to-left, approaching, receding)\n- Volume and frequency changes that indicate distance and movement\n- Whether any vehicle sound is present at all\n\nWhich text description best matches your audio analysis? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 12,
+            "is_correct": false
+        },
+        "57": {
+            "question": "Listen to the spatial audio from the urban street scene. Analyze:\n- The vehicle engine sound characteristics to identify the vehicle type (car, bus, motorbike)\n- The audio's directional movement (left-to-right, right-to-left, approaching, receding)\n- Volume and frequency changes that indicate distance and movement\n- Whether any vehicle sound is present at all\n\nWhich text description best matches your audio analysis? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 57,
+            "is_correct": true
+        },
+        "327": {
+            "question": "Listen to the spatial audio from the urban street scene. Analyze:\n- The vehicle engine sound characteristics to identify the vehicle type (car, bus, motorbike)\n- The audio's directional movement (left-to-right, right-to-left, approaching, receding)\n- Volume and frequency changes that indicate distance and movement\n- Whether any vehicle sound is present at all\n\nWhich text description best matches your audio analysis? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 327,
+            "is_correct": true
+        }
+    },
+    "format_error_count": 0,
+    "run_error_count": 0
+}

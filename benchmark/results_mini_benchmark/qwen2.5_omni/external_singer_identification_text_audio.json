@@ -1,0 +1,31 @@
+{
+    "task_name": "external/singer_identification_text_audio",
+    "score": 66.66666666666666,
+    "correct_count": 2,
+    "all_count": 3,
+    "results": {
+        "6": {
+            "question": "Based on the singer name 'Morgan Wallen', which song is performed by this artist? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 6,
+            "is_correct": true
+        },
+        "28": {
+            "question": "Based on the singer name 'Billie Eilish', which song is performed by this artist? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 28,
+            "is_correct": true
+        },
+        "70": {
+            "question": "Based on the singer name 'Teddy Swims', which song is performed by this artist? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 70,
+            "is_correct": false
+        }
+    },
+    "format_error_count": 0,
+    "run_error_count": 0
+}

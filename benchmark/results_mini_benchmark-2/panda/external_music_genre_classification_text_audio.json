@@ -1,0 +1,2088 @@
+{
+    "task_name": "external/music_genre_classification_text_audio",
+    "score": 21.885521885521886,
+    "correct_count": 65,
+    "all_count": 297,
+    "error_count": 0,
+    "results": {
+        "0": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 0,
+            "is_correct": false
+        },
+        "1": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 1,
+            "is_correct": false
+        },
+        "2": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 2,
+            "is_correct": false
+        },
+        "3": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 3,
+            "is_correct": false
+        },
+        "4": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 4,
+            "is_correct": true
+        },
+        "5": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 5,
+            "is_correct": false
+        },
+        "6": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 6,
+            "is_correct": true
+        },
+        "7": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 7,
+            "is_correct": false
+        },
+        "8": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 8,
+            "is_correct": false
+        },
+        "9": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 9,
+            "is_correct": false
+        },
+        "10": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 10,
+            "is_correct": false
+        },
+        "11": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 11,
+            "is_correct": true
+        },
+        "12": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 12,
+            "is_correct": false
+        },
+        "13": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 13,
+            "is_correct": false
+        },
+        "14": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 14,
+            "is_correct": false
+        },
+        "15": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 15,
+            "is_correct": false
+        },
+        "16": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 16,
+            "is_correct": true
+        },
+        "17": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 17,
+            "is_correct": false
+        },
+        "18": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 18,
+            "is_correct": true
+        },
+        "19": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 19,
+            "is_correct": true
+        },
+        "20": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 20,
+            "is_correct": false
+        },
+        "21": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 21,
+            "is_correct": false
+        },
+        "22": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 22,
+            "is_correct": true
+        },
+        "23": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 23,
+            "is_correct": false
+        },
+        "24": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 24,
+            "is_correct": false
+        },
+        "25": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 25,
+            "is_correct": false
+        },
+        "26": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 26,
+            "is_correct": true
+        },
+        "27": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 27,
+            "is_correct": false
+        },
+        "28": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 28,
+            "is_correct": true
+        },
+        "29": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 29,
+            "is_correct": false
+        },
+        "30": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 30,
+            "is_correct": false
+        },
+        "31": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 31,
+            "is_correct": false
+        },
+        "32": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 32,
+            "is_correct": true
+        },
+        "33": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 33,
+            "is_correct": false
+        },
+        "34": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 34,
+            "is_correct": false
+        },
+        "35": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 35,
+            "is_correct": false
+        },
+        "36": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 36,
+            "is_correct": false
+        },
+        "37": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 37,
+            "is_correct": false
+        },
+        "38": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 38,
+            "is_correct": false
+        },
+        "39": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 39,
+            "is_correct": false
+        },
+        "40": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 40,
+            "is_correct": false
+        },
+        "41": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 41,
+            "is_correct": false
+        },
+        "42": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 42,
+            "is_correct": false
+        },
+        "43": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 43,
+            "is_correct": false
+        },
+        "44": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 44,
+            "is_correct": true
+        },
+        "45": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 45,
+            "is_correct": false
+        },
+        "46": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 46,
+            "is_correct": true
+        },
+        "47": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 47,
+            "is_correct": false
+        },
+        "48": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 48,
+            "is_correct": false
+        },
+        "49": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 49,
+            "is_correct": false
+        },
+        "50": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 50,
+            "is_correct": false
+        },
+        "51": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 51,
+            "is_correct": true
+        },
+        "52": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 52,
+            "is_correct": true
+        },
+        "53": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 53,
+            "is_correct": false
+        },
+        "54": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 54,
+            "is_correct": false
+        },
+        "55": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 55,
+            "is_correct": false
+        },
+        "56": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 56,
+            "is_correct": false
+        },
+        "57": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 57,
+            "is_correct": false
+        },
+        "58": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 58,
+            "is_correct": false
+        },
+        "59": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 59,
+            "is_correct": false
+        },
+        "60": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 60,
+            "is_correct": false
+        },
+        "61": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 61,
+            "is_correct": false
+        },
+        "62": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 62,
+            "is_correct": false
+        },
+        "63": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 63,
+            "is_correct": false
+        },
+        "64": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 64,
+            "is_correct": true
+        },
+        "65": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 65,
+            "is_correct": true
+        },
+        "66": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 66,
+            "is_correct": false
+        },
+        "67": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 67,
+            "is_correct": false
+        },
+        "68": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 68,
+            "is_correct": false
+        },
+        "69": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 69,
+            "is_correct": false
+        },
+        "70": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 70,
+            "is_correct": false
+        },
+        "71": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 71,
+            "is_correct": false
+        },
+        "72": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 72,
+            "is_correct": false
+        },
+        "73": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 73,
+            "is_correct": false
+        },
+        "74": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 74,
+            "is_correct": false
+        },
+        "75": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 75,
+            "is_correct": false
+        },
+        "76": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 76,
+            "is_correct": false
+        },
+        "77": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 77,
+            "is_correct": false
+        },
+        "78": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 78,
+            "is_correct": true
+        },
+        "79": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 79,
+            "is_correct": true
+        },
+        "80": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 80,
+            "is_correct": true
+        },
+        "81": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 81,
+            "is_correct": false
+        },
+        "82": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 82,
+            "is_correct": false
+        },
+        "83": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 83,
+            "is_correct": true
+        },
+        "84": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 84,
+            "is_correct": false
+        },
+        "85": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 85,
+            "is_correct": false
+        },
+        "86": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 86,
+            "is_correct": true
+        },
+        "87": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 87,
+            "is_correct": false
+        },
+        "88": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 88,
+            "is_correct": false
+        },
+        "89": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 89,
+            "is_correct": false
+        },
+        "90": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 90,
+            "is_correct": false
+        },
+        "91": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 91,
+            "is_correct": false
+        },
+        "92": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 92,
+            "is_correct": false
+        },
+        "93": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 93,
+            "is_correct": false
+        },
+        "94": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 94,
+            "is_correct": false
+        },
+        "95": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 95,
+            "is_correct": false
+        },
+        "96": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 96,
+            "is_correct": true
+        },
+        "97": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 97,
+            "is_correct": true
+        },
+        "98": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 98,
+            "is_correct": false
+        },
+        "99": {
+            "question": "Based on the music genre 'pop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 99,
+            "is_correct": false
+        },
+        "100": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 100,
+            "is_correct": false
+        },
+        "101": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 101,
+            "is_correct": false
+        },
+        "102": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 102,
+            "is_correct": false
+        },
+        "103": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 103,
+            "is_correct": false
+        },
+        "104": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 104,
+            "is_correct": true
+        },
+        "105": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 105,
+            "is_correct": false
+        },
+        "106": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 106,
+            "is_correct": false
+        },
+        "107": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 107,
+            "is_correct": false
+        },
+        "108": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 108,
+            "is_correct": false
+        },
+        "109": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 109,
+            "is_correct": false
+        },
+        "110": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 110,
+            "is_correct": false
+        },
+        "111": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 111,
+            "is_correct": false
+        },
+        "112": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 112,
+            "is_correct": false
+        },
+        "113": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 113,
+            "is_correct": true
+        },
+        "114": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 114,
+            "is_correct": false
+        },
+        "115": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 115,
+            "is_correct": false
+        },
+        "116": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 116,
+            "is_correct": false
+        },
+        "117": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 117,
+            "is_correct": false
+        },
+        "118": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 118,
+            "is_correct": true
+        },
+        "119": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 119,
+            "is_correct": false
+        },
+        "120": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 120,
+            "is_correct": false
+        },
+        "121": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 121,
+            "is_correct": false
+        },
+        "122": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 122,
+            "is_correct": true
+        },
+        "123": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 123,
+            "is_correct": false
+        },
+        "124": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 124,
+            "is_correct": false
+        },
+        "125": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 125,
+            "is_correct": false
+        },
+        "126": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 126,
+            "is_correct": false
+        },
+        "127": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 127,
+            "is_correct": true
+        },
+        "128": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 128,
+            "is_correct": false
+        },
+        "129": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 129,
+            "is_correct": false
+        },
+        "130": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 130,
+            "is_correct": false
+        },
+        "131": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 131,
+            "is_correct": false
+        },
+        "132": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 132,
+            "is_correct": true
+        },
+        "133": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 133,
+            "is_correct": false
+        },
+        "134": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 134,
+            "is_correct": false
+        },
+        "135": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 135,
+            "is_correct": false
+        },
+        "136": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 136,
+            "is_correct": true
+        },
+        "137": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 137,
+            "is_correct": false
+        },
+        "138": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 138,
+            "is_correct": false
+        },
+        "139": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 139,
+            "is_correct": false
+        },
+        "140": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 140,
+            "is_correct": true
+        },
+        "141": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 141,
+            "is_correct": false
+        },
+        "142": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 142,
+            "is_correct": false
+        },
+        "143": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 143,
+            "is_correct": false
+        },
+        "144": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 144,
+            "is_correct": false
+        },
+        "145": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 145,
+            "is_correct": false
+        },
+        "146": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 146,
+            "is_correct": true
+        },
+        "147": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 147,
+            "is_correct": false
+        },
+        "148": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 148,
+            "is_correct": false
+        },
+        "149": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 149,
+            "is_correct": false
+        },
+        "150": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 150,
+            "is_correct": false
+        },
+        "151": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 151,
+            "is_correct": false
+        },
+        "152": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 152,
+            "is_correct": true
+        },
+        "153": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 153,
+            "is_correct": false
+        },
+        "154": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 154,
+            "is_correct": false
+        },
+        "155": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 155,
+            "is_correct": false
+        },
+        "156": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 156,
+            "is_correct": false
+        },
+        "157": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 157,
+            "is_correct": false
+        },
+        "158": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 158,
+            "is_correct": true
+        },
+        "159": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 159,
+            "is_correct": false
+        },
+        "160": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 160,
+            "is_correct": false
+        },
+        "161": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 161,
+            "is_correct": true
+        },
+        "162": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 162,
+            "is_correct": false
+        },
+        "163": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 163,
+            "is_correct": false
+        },
+        "164": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 164,
+            "is_correct": false
+        },
+        "165": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 165,
+            "is_correct": false
+        },
+        "166": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 166,
+            "is_correct": false
+        },
+        "167": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 167,
+            "is_correct": true
+        },
+        "168": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 168,
+            "is_correct": false
+        },
+        "169": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 169,
+            "is_correct": false
+        },
+        "170": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 170,
+            "is_correct": false
+        },
+        "171": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 171,
+            "is_correct": true
+        },
+        "172": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 172,
+            "is_correct": false
+        },
+        "173": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 173,
+            "is_correct": false
+        },
+        "174": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 174,
+            "is_correct": true
+        },
+        "175": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 175,
+            "is_correct": false
+        },
+        "176": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 176,
+            "is_correct": false
+        },
+        "177": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 177,
+            "is_correct": false
+        },
+        "178": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 178,
+            "is_correct": true
+        },
+        "179": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 179,
+            "is_correct": true
+        },
+        "180": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 180,
+            "is_correct": false
+        },
+        "181": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 181,
+            "is_correct": false
+        },
+        "182": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 182,
+            "is_correct": true
+        },
+        "183": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 183,
+            "is_correct": false
+        },
+        "184": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 184,
+            "is_correct": false
+        },
+        "185": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 185,
+            "is_correct": false
+        },
+        "186": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 186,
+            "is_correct": false
+        },
+        "187": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 187,
+            "is_correct": true
+        },
+        "188": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 188,
+            "is_correct": false
+        },
+        "189": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 189,
+            "is_correct": false
+        },
+        "190": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 190,
+            "is_correct": true
+        },
+        "191": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 191,
+            "is_correct": false
+        },
+        "192": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 192,
+            "is_correct": false
+        },
+        "193": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 193,
+            "is_correct": false
+        },
+        "194": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 194,
+            "is_correct": true
+        },
+        "195": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 195,
+            "is_correct": true
+        },
+        "196": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 196,
+            "is_correct": false
+        },
+        "197": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 197,
+            "is_correct": false
+        },
+        "198": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 198,
+            "is_correct": false
+        },
+        "199": {
+            "question": "Based on the music genre 'jazz', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 199,
+            "is_correct": false
+        },
+        "200": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 200,
+            "is_correct": false
+        },
+        "201": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 201,
+            "is_correct": false
+        },
+        "202": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 202,
+            "is_correct": false
+        },
+        "203": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 203,
+            "is_correct": false
+        },
+        "204": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 204,
+            "is_correct": true
+        },
+        "205": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 205,
+            "is_correct": false
+        },
+        "206": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 206,
+            "is_correct": true
+        },
+        "207": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 207,
+            "is_correct": false
+        },
+        "208": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 208,
+            "is_correct": false
+        },
+        "209": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 209,
+            "is_correct": true
+        },
+        "210": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 210,
+            "is_correct": false
+        },
+        "211": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 211,
+            "is_correct": false
+        },
+        "212": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 212,
+            "is_correct": true
+        },
+        "213": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 213,
+            "is_correct": false
+        },
+        "214": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 214,
+            "is_correct": false
+        },
+        "215": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 215,
+            "is_correct": false
+        },
+        "216": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 216,
+            "is_correct": false
+        },
+        "217": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 217,
+            "is_correct": false
+        },
+        "218": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 218,
+            "is_correct": false
+        },
+        "219": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 219,
+            "is_correct": false
+        },
+        "220": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 220,
+            "is_correct": false
+        },
+        "221": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 221,
+            "is_correct": false
+        },
+        "222": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 222,
+            "is_correct": false
+        },
+        "223": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 223,
+            "is_correct": false
+        },
+        "224": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 224,
+            "is_correct": true
+        },
+        "225": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 225,
+            "is_correct": false
+        },
+        "226": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 226,
+            "is_correct": false
+        },
+        "227": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 227,
+            "is_correct": false
+        },
+        "228": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 228,
+            "is_correct": true
+        },
+        "229": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 229,
+            "is_correct": false
+        },
+        "230": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 230,
+            "is_correct": false
+        },
+        "231": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 231,
+            "is_correct": false
+        },
+        "232": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 232,
+            "is_correct": false
+        },
+        "233": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 233,
+            "is_correct": true
+        },
+        "234": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 234,
+            "is_correct": false
+        },
+        "235": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 235,
+            "is_correct": false
+        },
+        "236": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 236,
+            "is_correct": false
+        },
+        "237": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 237,
+            "is_correct": false
+        },
+        "238": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 238,
+            "is_correct": false
+        },
+        "239": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 239,
+            "is_correct": false
+        },
+        "240": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 240,
+            "is_correct": false
+        },
+        "241": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 241,
+            "is_correct": true
+        },
+        "242": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 242,
+            "is_correct": false
+        },
+        "243": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 243,
+            "is_correct": false
+        },
+        "244": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 244,
+            "is_correct": false
+        },
+        "245": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 245,
+            "is_correct": false
+        },
+        "246": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 246,
+            "is_correct": true
+        },
+        "247": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 247,
+            "is_correct": false
+        },
+        "248": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 248,
+            "is_correct": true
+        },
+        "249": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 249,
+            "is_correct": false
+        },
+        "250": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 250,
+            "is_correct": false
+        },
+        "251": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 251,
+            "is_correct": false
+        },
+        "252": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 252,
+            "is_correct": false
+        },
+        "253": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 253,
+            "is_correct": false
+        },
+        "254": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 254,
+            "is_correct": false
+        },
+        "255": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 255,
+            "is_correct": false
+        },
+        "256": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 256,
+            "is_correct": false
+        },
+        "257": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 257,
+            "is_correct": true
+        },
+        "258": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 258,
+            "is_correct": false
+        },
+        "259": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 259,
+            "is_correct": false
+        },
+        "260": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 260,
+            "is_correct": false
+        },
+        "261": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 261,
+            "is_correct": false
+        },
+        "262": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 262,
+            "is_correct": false
+        },
+        "263": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 263,
+            "is_correct": false
+        },
+        "264": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 264,
+            "is_correct": false
+        },
+        "265": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 265,
+            "is_correct": false
+        },
+        "266": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 266,
+            "is_correct": false
+        },
+        "267": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 267,
+            "is_correct": false
+        },
+        "268": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 268,
+            "is_correct": false
+        },
+        "269": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 269,
+            "is_correct": false
+        },
+        "270": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 270,
+            "is_correct": true
+        },
+        "271": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 271,
+            "is_correct": false
+        },
+        "272": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 272,
+            "is_correct": false
+        },
+        "273": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 273,
+            "is_correct": false
+        },
+        "274": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 274,
+            "is_correct": true
+        },
+        "275": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 275,
+            "is_correct": false
+        },
+        "276": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 276,
+            "is_correct": false
+        },
+        "277": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 277,
+            "is_correct": false
+        },
+        "278": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 278,
+            "is_correct": true
+        },
+        "279": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 279,
+            "is_correct": false
+        },
+        "280": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 280,
+            "is_correct": false
+        },
+        "281": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 281,
+            "is_correct": false
+        },
+        "282": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 282,
+            "is_correct": false
+        },
+        "283": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 283,
+            "is_correct": true
+        },
+        "284": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 284,
+            "is_correct": false
+        },
+        "285": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 285,
+            "is_correct": false
+        },
+        "286": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 286,
+            "is_correct": false
+        },
+        "287": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 287,
+            "is_correct": true
+        },
+        "288": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 288,
+            "is_correct": false
+        },
+        "289": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 289,
+            "is_correct": true
+        },
+        "290": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 290,
+            "is_correct": true
+        },
+        "291": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 291,
+            "is_correct": false
+        },
+        "292": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 292,
+            "is_correct": true
+        },
+        "293": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 293,
+            "is_correct": false
+        },
+        "294": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 294,
+            "is_correct": false
+        },
+        "295": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 295,
+            "is_correct": false
+        },
+        "296": {
+            "question": "Based on the music genre 'hiphop', which audio clip is from this genre? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 296,
+            "is_correct": true
+        }
+    }
+}

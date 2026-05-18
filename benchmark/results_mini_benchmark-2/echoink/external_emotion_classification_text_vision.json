@@ -1,0 +1,2089 @@
+{
+    "task_name": "external/emotion_classification_text_vision",
+    "score": 57.23905723905723,
+    "correct_count": 170,
+    "all_count": 297,
+    "results": {
+        "0": {
+            "question": "You are given the emotion 'Positive - Joy'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 0,
+            "is_correct": false
+        },
+        "1": {
+            "question": "You are given the emotion 'Positive - Joy'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 1,
+            "is_correct": true
+        },
+        "3": {
+            "question": "You are given the emotion 'Positive - Joy'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 3,
+            "is_correct": true
+        },
+        "6": {
+            "question": "You are given the emotion 'Positive - Joy'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 6,
+            "is_correct": true
+        },
+        "7": {
+            "question": "You are given the emotion 'Positive - Joy'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 7,
+            "is_correct": true
+        },
+        "11": {
+            "question": "You are given the emotion 'Positive - Joy'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 11,
+            "is_correct": true
+        },
+        "16": {
+            "question": "You are given the emotion 'Positive - Joy'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 16,
+            "is_correct": false
+        },
+        "19": {
+            "question": "You are given the emotion 'Positive - Joy'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 19,
+            "is_correct": true
+        },
+        "21": {
+            "question": "You are given the emotion 'Positive - Joy'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 21,
+            "is_correct": true
+        },
+        "25": {
+            "question": "You are given the emotion 'Positive - Joy'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 25,
+            "is_correct": true
+        },
+        "27": {
+            "question": "You are given the emotion 'Positive - Joy'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 27,
+            "is_correct": false
+        },
+        "29": {
+            "question": "You are given the emotion 'Positive - Joy'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 29,
+            "is_correct": true
+        },
+        "30": {
+            "question": "You are given the emotion 'Positive - Joy'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 30,
+            "is_correct": true
+        },
+        "31": {
+            "question": "You are given the emotion 'Positive - Joy'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 31,
+            "is_correct": true
+        },
+        "32": {
+            "question": "You are given the emotion 'Positive - Joy'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 32,
+            "is_correct": true
+        },
+        "34": {
+            "question": "You are given the emotion 'Positive - Joy'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 34,
+            "is_correct": false
+        },
+        "36": {
+            "question": "You are given the emotion 'Positive - Joy'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 36,
+            "is_correct": false
+        },
+        "38": {
+            "question": "You are given the emotion 'Positive - Joy'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 38,
+            "is_correct": false
+        },
+        "44": {
+            "question": "You are given the emotion 'Positive - Joy'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 44,
+            "is_correct": true
+        },
+        "46": {
+            "question": "You are given the emotion 'Positive - Joy'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 46,
+            "is_correct": true
+        },
+        "47": {
+            "question": "You are given the emotion 'Positive - Joy'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 47,
+            "is_correct": true
+        },
+        "48": {
+            "question": "You are given the emotion 'Positive - Joy'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 48,
+            "is_correct": false
+        },
+        "49": {
+            "question": "You are given the emotion 'Positive - Joy'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 49,
+            "is_correct": false
+        },
+        "50": {
+            "question": "You are given the emotion 'Positive - Joy'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 50,
+            "is_correct": true
+        },
+        "55": {
+            "question": "You are given the emotion 'Positive - Joy'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 55,
+            "is_correct": true
+        },
+        "57": {
+            "question": "You are given the emotion 'Positive - Joy'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 57,
+            "is_correct": false
+        },
+        "59": {
+            "question": "You are given the emotion 'Positive - Joy'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 59,
+            "is_correct": true
+        },
+        "60": {
+            "question": "You are given the emotion 'Positive - Joy'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 60,
+            "is_correct": false
+        },
+        "65": {
+            "question": "You are given the emotion 'Positive - Joy'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 65,
+            "is_correct": false
+        },
+        "67": {
+            "question": "You are given the emotion 'Positive - Joy'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 67,
+            "is_correct": true
+        },
+        "70": {
+            "question": "You are given the emotion 'Positive - Joy'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 70,
+            "is_correct": true
+        },
+        "71": {
+            "question": "You are given the emotion 'Positive - Joy'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 71,
+            "is_correct": false
+        },
+        "72": {
+            "question": "You are given the emotion 'Positive - Joy'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 72,
+            "is_correct": true
+        },
+        "73": {
+            "question": "You are given the emotion 'Positive - Joy'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 73,
+            "is_correct": true
+        },
+        "79": {
+            "question": "You are given the emotion 'Positive - Joy'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 79,
+            "is_correct": true
+        },
+        "80": {
+            "question": "You are given the emotion 'Positive - Joy'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 80,
+            "is_correct": true
+        },
+        "81": {
+            "question": "You are given the emotion 'Positive - Joy'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 81,
+            "is_correct": false
+        },
+        "84": {
+            "question": "You are given the emotion 'Positive - Joy'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 84,
+            "is_correct": false
+        },
+        "85": {
+            "question": "You are given the emotion 'Positive - Joy'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 85,
+            "is_correct": true
+        },
+        "87": {
+            "question": "You are given the emotion 'Positive - Joy'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 87,
+            "is_correct": true
+        },
+        "89": {
+            "question": "You are given the emotion 'Positive - Joy'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 89,
+            "is_correct": true
+        },
+        "93": {
+            "question": "You are given the emotion 'Positive - Joy'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 93,
+            "is_correct": true
+        },
+        "94": {
+            "question": "You are given the emotion 'Positive - Joy'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 94,
+            "is_correct": true
+        },
+        "95": {
+            "question": "You are given the emotion 'Positive - Joy'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 95,
+            "is_correct": true
+        },
+        "97": {
+            "question": "You are given the emotion 'Positive - Joy'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 97,
+            "is_correct": true
+        },
+        "98": {
+            "question": "You are given the emotion 'Positive - Joy'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 98,
+            "is_correct": true
+        },
+        "99": {
+            "question": "You are given the emotion 'Positive - Joy'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 99,
+            "is_correct": false
+        },
+        "103": {
+            "question": "You are given the emotion 'Positive - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 103,
+            "is_correct": false
+        },
+        "104": {
+            "question": "You are given the emotion 'Positive - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 104,
+            "is_correct": true
+        },
+        "108": {
+            "question": "You are given the emotion 'Positive - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 108,
+            "is_correct": false
+        },
+        "109": {
+            "question": "You are given the emotion 'Positive - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 109,
+            "is_correct": false
+        },
+        "111": {
+            "question": "You are given the emotion 'Positive - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 111,
+            "is_correct": true
+        },
+        "112": {
+            "question": "You are given the emotion 'Positive - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 112,
+            "is_correct": true
+        },
+        "114": {
+            "question": "You are given the emotion 'Positive - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 114,
+            "is_correct": true
+        },
+        "117": {
+            "question": "You are given the emotion 'Positive - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 117,
+            "is_correct": false
+        },
+        "121": {
+            "question": "You are given the emotion 'Positive - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 121,
+            "is_correct": false
+        },
+        "123": {
+            "question": "You are given the emotion 'Positive - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 123,
+            "is_correct": false
+        },
+        "124": {
+            "question": "You are given the emotion 'Positive - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 124,
+            "is_correct": true
+        },
+        "127": {
+            "question": "You are given the emotion 'Positive - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 127,
+            "is_correct": true
+        },
+        "128": {
+            "question": "You are given the emotion 'Positive - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 128,
+            "is_correct": true
+        },
+        "131": {
+            "question": "You are given the emotion 'Positive - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 131,
+            "is_correct": false
+        },
+        "135": {
+            "question": "You are given the emotion 'Positive - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 135,
+            "is_correct": true
+        },
+        "141": {
+            "question": "You are given the emotion 'Positive - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 141,
+            "is_correct": true
+        },
+        "142": {
+            "question": "You are given the emotion 'Positive - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 142,
+            "is_correct": true
+        },
+        "146": {
+            "question": "You are given the emotion 'Positive - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 146,
+            "is_correct": false
+        },
+        "151": {
+            "question": "You are given the emotion 'Positive - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 151,
+            "is_correct": true
+        },
+        "156": {
+            "question": "You are given the emotion 'Positive - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 156,
+            "is_correct": false
+        },
+        "159": {
+            "question": "You are given the emotion 'Positive - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 159,
+            "is_correct": true
+        },
+        "161": {
+            "question": "You are given the emotion 'Positive - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 161,
+            "is_correct": false
+        },
+        "163": {
+            "question": "You are given the emotion 'Positive - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 163,
+            "is_correct": false
+        },
+        "165": {
+            "question": "You are given the emotion 'Positive - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 165,
+            "is_correct": false
+        },
+        "166": {
+            "question": "You are given the emotion 'Positive - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 166,
+            "is_correct": false
+        },
+        "167": {
+            "question": "You are given the emotion 'Positive - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 167,
+            "is_correct": true
+        },
+        "169": {
+            "question": "You are given the emotion 'Positive - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 169,
+            "is_correct": true
+        },
+        "173": {
+            "question": "You are given the emotion 'Positive - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 173,
+            "is_correct": false
+        },
+        "175": {
+            "question": "You are given the emotion 'Positive - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 175,
+            "is_correct": false
+        },
+        "181": {
+            "question": "You are given the emotion 'Positive - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 181,
+            "is_correct": false
+        },
+        "182": {
+            "question": "You are given the emotion 'Positive - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 182,
+            "is_correct": false
+        },
+        "194": {
+            "question": "You are given the emotion 'Positive - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 194,
+            "is_correct": true
+        },
+        "196": {
+            "question": "You are given the emotion 'Positive - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 196,
+            "is_correct": false
+        },
+        "199": {
+            "question": "You are given the emotion 'Positive - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 199,
+            "is_correct": true
+        },
+        "203": {
+            "question": "You are given the emotion 'Negative - Anger'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 203,
+            "is_correct": true
+        },
+        "205": {
+            "question": "You are given the emotion 'Negative - Anger'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 205,
+            "is_correct": false
+        },
+        "206": {
+            "question": "You are given the emotion 'Negative - Anger'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 206,
+            "is_correct": false
+        },
+        "208": {
+            "question": "You are given the emotion 'Negative - Anger'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 208,
+            "is_correct": false
+        },
+        "210": {
+            "question": "You are given the emotion 'Negative - Anger'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 210,
+            "is_correct": true
+        },
+        "214": {
+            "question": "You are given the emotion 'Negative - Anger'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 214,
+            "is_correct": false
+        },
+        "216": {
+            "question": "You are given the emotion 'Negative - Anger'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 216,
+            "is_correct": false
+        },
+        "217": {
+            "question": "You are given the emotion 'Negative - Anger'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 217,
+            "is_correct": true
+        },
+        "220": {
+            "question": "You are given the emotion 'Negative - Anger'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 220,
+            "is_correct": true
+        },
+        "223": {
+            "question": "You are given the emotion 'Negative - Anger'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 223,
+            "is_correct": true
+        },
+        "224": {
+            "question": "You are given the emotion 'Negative - Anger'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 224,
+            "is_correct": false
+        },
+        "225": {
+            "question": "You are given the emotion 'Negative - Anger'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 225,
+            "is_correct": true
+        },
+        "226": {
+            "question": "You are given the emotion 'Negative - Anger'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 226,
+            "is_correct": true
+        },
+        "228": {
+            "question": "You are given the emotion 'Negative - Anger'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 228,
+            "is_correct": true
+        },
+        "229": {
+            "question": "You are given the emotion 'Negative - Anger'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 229,
+            "is_correct": true
+        },
+        "230": {
+            "question": "You are given the emotion 'Negative - Anger'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 230,
+            "is_correct": true
+        },
+        "232": {
+            "question": "You are given the emotion 'Negative - Anger'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 232,
+            "is_correct": false
+        },
+        "233": {
+            "question": "You are given the emotion 'Negative - Anger'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 233,
+            "is_correct": false
+        },
+        "234": {
+            "question": "You are given the emotion 'Negative - Anger'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 234,
+            "is_correct": false
+        },
+        "235": {
+            "question": "You are given the emotion 'Negative - Anger'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 235,
+            "is_correct": false
+        },
+        "236": {
+            "question": "You are given the emotion 'Negative - Anger'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 236,
+            "is_correct": false
+        },
+        "238": {
+            "question": "You are given the emotion 'Negative - Anger'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 238,
+            "is_correct": true
+        },
+        "239": {
+            "question": "You are given the emotion 'Negative - Anger'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 239,
+            "is_correct": true
+        },
+        "242": {
+            "question": "You are given the emotion 'Negative - Anger'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 242,
+            "is_correct": false
+        },
+        "245": {
+            "question": "You are given the emotion 'Negative - Anger'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 245,
+            "is_correct": true
+        },
+        "246": {
+            "question": "You are given the emotion 'Negative - Anger'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 246,
+            "is_correct": true
+        },
+        "248": {
+            "question": "You are given the emotion 'Negative - Anger'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 248,
+            "is_correct": true
+        },
+        "249": {
+            "question": "You are given the emotion 'Negative - Anger'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 249,
+            "is_correct": false
+        },
+        "250": {
+            "question": "You are given the emotion 'Negative - Anger'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 250,
+            "is_correct": false
+        },
+        "252": {
+            "question": "You are given the emotion 'Negative - Anger'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 252,
+            "is_correct": false
+        },
+        "253": {
+            "question": "You are given the emotion 'Negative - Anger'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 253,
+            "is_correct": true
+        },
+        "257": {
+            "question": "You are given the emotion 'Negative - Anger'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 257,
+            "is_correct": true
+        },
+        "263": {
+            "question": "You are given the emotion 'Negative - Anger'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 263,
+            "is_correct": true
+        },
+        "269": {
+            "question": "You are given the emotion 'Negative - Anger'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 269,
+            "is_correct": false
+        },
+        "270": {
+            "question": "You are given the emotion 'Negative - Anger'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 270,
+            "is_correct": false
+        },
+        "271": {
+            "question": "You are given the emotion 'Negative - Anger'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "B",
+            "index": 271,
+            "is_correct": false
+        },
+        "273": {
+            "question": "You are given the emotion 'Negative - Anger'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 273,
+            "is_correct": true
+        },
+        "274": {
+            "question": "You are given the emotion 'Negative - Anger'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 274,
+            "is_correct": false
+        },
+        "276": {
+            "question": "You are given the emotion 'Negative - Anger'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 276,
+            "is_correct": false
+        },
+        "277": {
+            "question": "You are given the emotion 'Negative - Anger'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 277,
+            "is_correct": true
+        },
+        "281": {
+            "question": "You are given the emotion 'Negative - Anger'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 281,
+            "is_correct": true
+        },
+        "284": {
+            "question": "You are given the emotion 'Negative - Anger'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 284,
+            "is_correct": true
+        },
+        "292": {
+            "question": "You are given the emotion 'Negative - Anger'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 292,
+            "is_correct": false
+        },
+        "295": {
+            "question": "You are given the emotion 'Negative - Anger'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 295,
+            "is_correct": false
+        },
+        "296": {
+            "question": "You are given the emotion 'Negative - Anger'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 296,
+            "is_correct": false
+        },
+        "300": {
+            "question": "You are given the emotion 'Negative - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 300,
+            "is_correct": true
+        },
+        "305": {
+            "question": "You are given the emotion 'Negative - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 305,
+            "is_correct": true
+        },
+        "314": {
+            "question": "You are given the emotion 'Negative - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 314,
+            "is_correct": false
+        },
+        "319": {
+            "question": "You are given the emotion 'Negative - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 319,
+            "is_correct": false
+        },
+        "322": {
+            "question": "You are given the emotion 'Negative - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 322,
+            "is_correct": true
+        },
+        "323": {
+            "question": "You are given the emotion 'Negative - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 323,
+            "is_correct": true
+        },
+        "330": {
+            "question": "You are given the emotion 'Negative - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 330,
+            "is_correct": false
+        },
+        "331": {
+            "question": "You are given the emotion 'Negative - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 331,
+            "is_correct": false
+        },
+        "332": {
+            "question": "You are given the emotion 'Negative - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 332,
+            "is_correct": false
+        },
+        "333": {
+            "question": "You are given the emotion 'Negative - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 333,
+            "is_correct": true
+        },
+        "334": {
+            "question": "You are given the emotion 'Negative - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 334,
+            "is_correct": false
+        },
+        "337": {
+            "question": "You are given the emotion 'Negative - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 337,
+            "is_correct": false
+        },
+        "338": {
+            "question": "You are given the emotion 'Negative - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 338,
+            "is_correct": false
+        },
+        "342": {
+            "question": "You are given the emotion 'Negative - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 342,
+            "is_correct": false
+        },
+        "344": {
+            "question": "You are given the emotion 'Negative - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 344,
+            "is_correct": false
+        },
+        "346": {
+            "question": "You are given the emotion 'Negative - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 346,
+            "is_correct": true
+        },
+        "348": {
+            "question": "You are given the emotion 'Negative - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 348,
+            "is_correct": true
+        },
+        "352": {
+            "question": "You are given the emotion 'Negative - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 352,
+            "is_correct": false
+        },
+        "356": {
+            "question": "You are given the emotion 'Negative - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 356,
+            "is_correct": true
+        },
+        "363": {
+            "question": "You are given the emotion 'Negative - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 363,
+            "is_correct": true
+        },
+        "367": {
+            "question": "You are given the emotion 'Negative - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 367,
+            "is_correct": true
+        },
+        "370": {
+            "question": "You are given the emotion 'Negative - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 370,
+            "is_correct": true
+        },
+        "371": {
+            "question": "You are given the emotion 'Negative - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 371,
+            "is_correct": false
+        },
+        "372": {
+            "question": "You are given the emotion 'Negative - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 372,
+            "is_correct": false
+        },
+        "373": {
+            "question": "You are given the emotion 'Negative - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 373,
+            "is_correct": false
+        },
+        "374": {
+            "question": "You are given the emotion 'Negative - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 374,
+            "is_correct": false
+        },
+        "376": {
+            "question": "You are given the emotion 'Negative - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 376,
+            "is_correct": false
+        },
+        "379": {
+            "question": "You are given the emotion 'Negative - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 379,
+            "is_correct": true
+        },
+        "382": {
+            "question": "You are given the emotion 'Negative - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 382,
+            "is_correct": true
+        },
+        "385": {
+            "question": "You are given the emotion 'Negative - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 385,
+            "is_correct": false
+        },
+        "387": {
+            "question": "You are given the emotion 'Negative - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 387,
+            "is_correct": true
+        },
+        "388": {
+            "question": "You are given the emotion 'Negative - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 388,
+            "is_correct": true
+        },
+        "389": {
+            "question": "You are given the emotion 'Negative - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 389,
+            "is_correct": false
+        },
+        "390": {
+            "question": "You are given the emotion 'Negative - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 390,
+            "is_correct": false
+        },
+        "394": {
+            "question": "You are given the emotion 'Negative - Surprise'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 394,
+            "is_correct": true
+        },
+        "401": {
+            "question": "You are given the emotion 'Negative - Disgust'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 401,
+            "is_correct": false
+        },
+        "405": {
+            "question": "You are given the emotion 'Negative - Disgust'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 405,
+            "is_correct": true
+        },
+        "408": {
+            "question": "You are given the emotion 'Negative - Disgust'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 408,
+            "is_correct": false
+        },
+        "409": {
+            "question": "You are given the emotion 'Negative - Disgust'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 409,
+            "is_correct": true
+        },
+        "410": {
+            "question": "You are given the emotion 'Negative - Disgust'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 410,
+            "is_correct": true
+        },
+        "413": {
+            "question": "You are given the emotion 'Negative - Disgust'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 413,
+            "is_correct": false
+        },
+        "421": {
+            "question": "You are given the emotion 'Negative - Disgust'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 421,
+            "is_correct": true
+        },
+        "422": {
+            "question": "You are given the emotion 'Negative - Disgust'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 422,
+            "is_correct": false
+        },
+        "428": {
+            "question": "You are given the emotion 'Negative - Disgust'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 428,
+            "is_correct": true
+        },
+        "429": {
+            "question": "You are given the emotion 'Negative - Disgust'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 429,
+            "is_correct": true
+        },
+        "432": {
+            "question": "You are given the emotion 'Negative - Disgust'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 432,
+            "is_correct": true
+        },
+        "433": {
+            "question": "You are given the emotion 'Negative - Disgust'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 433,
+            "is_correct": true
+        },
+        "434": {
+            "question": "You are given the emotion 'Negative - Disgust'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 434,
+            "is_correct": true
+        },
+        "438": {
+            "question": "You are given the emotion 'Negative - Disgust'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 438,
+            "is_correct": false
+        },
+        "440": {
+            "question": "You are given the emotion 'Negative - Disgust'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 440,
+            "is_correct": false
+        },
+        "441": {
+            "question": "You are given the emotion 'Negative - Disgust'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 441,
+            "is_correct": true
+        },
+        "442": {
+            "question": "You are given the emotion 'Negative - Disgust'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 442,
+            "is_correct": false
+        },
+        "445": {
+            "question": "You are given the emotion 'Negative - Disgust'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 445,
+            "is_correct": true
+        },
+        "447": {
+            "question": "You are given the emotion 'Negative - Disgust'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 447,
+            "is_correct": true
+        },
+        "448": {
+            "question": "You are given the emotion 'Negative - Disgust'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 448,
+            "is_correct": true
+        },
+        "451": {
+            "question": "You are given the emotion 'Negative - Disgust'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 451,
+            "is_correct": false
+        },
+        "456": {
+            "question": "You are given the emotion 'Negative - Disgust'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 456,
+            "is_correct": true
+        },
+        "459": {
+            "question": "You are given the emotion 'Negative - Disgust'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 459,
+            "is_correct": false
+        },
+        "460": {
+            "question": "You are given the emotion 'Negative - Disgust'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 460,
+            "is_correct": true
+        },
+        "462": {
+            "question": "You are given the emotion 'Negative - Disgust'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 462,
+            "is_correct": true
+        },
+        "463": {
+            "question": "You are given the emotion 'Negative - Disgust'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 463,
+            "is_correct": true
+        },
+        "464": {
+            "question": "You are given the emotion 'Negative - Disgust'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 464,
+            "is_correct": false
+        },
+        "469": {
+            "question": "You are given the emotion 'Negative - Disgust'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 469,
+            "is_correct": false
+        },
+        "470": {
+            "question": "You are given the emotion 'Negative - Disgust'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 470,
+            "is_correct": false
+        },
+        "473": {
+            "question": "You are given the emotion 'Negative - Disgust'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 473,
+            "is_correct": true
+        },
+        "478": {
+            "question": "You are given the emotion 'Negative - Disgust'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 478,
+            "is_correct": true
+        },
+        "479": {
+            "question": "You are given the emotion 'Negative - Disgust'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 479,
+            "is_correct": false
+        },
+        "485": {
+            "question": "You are given the emotion 'Negative - Disgust'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 485,
+            "is_correct": true
+        },
+        "486": {
+            "question": "You are given the emotion 'Negative - Disgust'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 486,
+            "is_correct": false
+        },
+        "487": {
+            "question": "You are given the emotion 'Negative - Disgust'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 487,
+            "is_correct": false
+        },
+        "489": {
+            "question": "You are given the emotion 'Negative - Disgust'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 489,
+            "is_correct": true
+        },
+        "491": {
+            "question": "You are given the emotion 'Negative - Disgust'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 491,
+            "is_correct": true
+        },
+        "497": {
+            "question": "You are given the emotion 'Negative - Disgust'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 497,
+            "is_correct": false
+        },
+        "498": {
+            "question": "You are given the emotion 'Negative - Disgust'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 498,
+            "is_correct": true
+        },
+        "499": {
+            "question": "You are given the emotion 'Negative - Disgust'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 499,
+            "is_correct": false
+        },
+        "500": {
+            "question": "You are given the emotion 'Negative - Fear'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 500,
+            "is_correct": false
+        },
+        "502": {
+            "question": "You are given the emotion 'Negative - Fear'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 502,
+            "is_correct": true
+        },
+        "503": {
+            "question": "You are given the emotion 'Negative - Fear'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 503,
+            "is_correct": false
+        },
+        "505": {
+            "question": "You are given the emotion 'Negative - Fear'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 505,
+            "is_correct": false
+        },
+        "511": {
+            "question": "You are given the emotion 'Negative - Fear'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 511,
+            "is_correct": false
+        },
+        "512": {
+            "question": "You are given the emotion 'Negative - Fear'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 512,
+            "is_correct": true
+        },
+        "514": {
+            "question": "You are given the emotion 'Negative - Fear'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 514,
+            "is_correct": true
+        },
+        "517": {
+            "question": "You are given the emotion 'Negative - Fear'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 517,
+            "is_correct": true
+        },
+        "519": {
+            "question": "You are given the emotion 'Negative - Fear'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 519,
+            "is_correct": false
+        },
+        "521": {
+            "question": "You are given the emotion 'Negative - Fear'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 521,
+            "is_correct": false
+        },
+        "523": {
+            "question": "You are given the emotion 'Negative - Fear'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 523,
+            "is_correct": true
+        },
+        "528": {
+            "question": "You are given the emotion 'Negative - Fear'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 528,
+            "is_correct": false
+        },
+        "529": {
+            "question": "You are given the emotion 'Negative - Fear'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 529,
+            "is_correct": false
+        },
+        "532": {
+            "question": "You are given the emotion 'Negative - Fear'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 532,
+            "is_correct": false
+        },
+        "533": {
+            "question": "You are given the emotion 'Negative - Fear'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 533,
+            "is_correct": false
+        },
+        "540": {
+            "question": "You are given the emotion 'Negative - Fear'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 540,
+            "is_correct": true
+        },
+        "541": {
+            "question": "You are given the emotion 'Negative - Fear'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 541,
+            "is_correct": true
+        },
+        "543": {
+            "question": "You are given the emotion 'Negative - Fear'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 543,
+            "is_correct": true
+        },
+        "546": {
+            "question": "You are given the emotion 'Negative - Fear'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 546,
+            "is_correct": false
+        },
+        "547": {
+            "question": "You are given the emotion 'Negative - Fear'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 547,
+            "is_correct": true
+        },
+        "549": {
+            "question": "You are given the emotion 'Negative - Fear'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 549,
+            "is_correct": false
+        },
+        "551": {
+            "question": "You are given the emotion 'Negative - Fear'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 551,
+            "is_correct": true
+        },
+        "552": {
+            "question": "You are given the emotion 'Negative - Fear'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 552,
+            "is_correct": false
+        },
+        "558": {
+            "question": "You are given the emotion 'Negative - Fear'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 558,
+            "is_correct": true
+        },
+        "563": {
+            "question": "You are given the emotion 'Negative - Fear'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 563,
+            "is_correct": true
+        },
+        "565": {
+            "question": "You are given the emotion 'Negative - Fear'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 565,
+            "is_correct": false
+        },
+        "566": {
+            "question": "You are given the emotion 'Negative - Fear'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 566,
+            "is_correct": false
+        },
+        "567": {
+            "question": "You are given the emotion 'Negative - Fear'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 567,
+            "is_correct": false
+        },
+        "570": {
+            "question": "You are given the emotion 'Negative - Fear'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 570,
+            "is_correct": false
+        },
+        "574": {
+            "question": "You are given the emotion 'Negative - Fear'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 574,
+            "is_correct": false
+        },
+        "576": {
+            "question": "You are given the emotion 'Negative - Fear'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 576,
+            "is_correct": true
+        },
+        "579": {
+            "question": "You are given the emotion 'Negative - Fear'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 579,
+            "is_correct": true
+        },
+        "580": {
+            "question": "You are given the emotion 'Negative - Fear'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 580,
+            "is_correct": true
+        },
+        "582": {
+            "question": "You are given the emotion 'Negative - Fear'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 582,
+            "is_correct": false
+        },
+        "584": {
+            "question": "You are given the emotion 'Negative - Fear'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 584,
+            "is_correct": true
+        },
+        "585": {
+            "question": "You are given the emotion 'Negative - Fear'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 585,
+            "is_correct": true
+        },
+        "590": {
+            "question": "You are given the emotion 'Negative - Fear'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 590,
+            "is_correct": false
+        },
+        "591": {
+            "question": "You are given the emotion 'Negative - Fear'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 591,
+            "is_correct": true
+        },
+        "592": {
+            "question": "You are given the emotion 'Negative - Fear'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 592,
+            "is_correct": true
+        },
+        "593": {
+            "question": "You are given the emotion 'Negative - Fear'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 593,
+            "is_correct": true
+        },
+        "597": {
+            "question": "You are given the emotion 'Negative - Fear'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 597,
+            "is_correct": true
+        },
+        "598": {
+            "question": "You are given the emotion 'Negative - Fear'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 598,
+            "is_correct": false
+        },
+        "599": {
+            "question": "You are given the emotion 'Negative - Fear'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 599,
+            "is_correct": true
+        },
+        "603": {
+            "question": "You are given the emotion 'Negative - Sadness'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "D",
+            "index": 603,
+            "is_correct": false
+        },
+        "604": {
+            "question": "You are given the emotion 'Negative - Sadness'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 604,
+            "is_correct": true
+        },
+        "606": {
+            "question": "You are given the emotion 'Negative - Sadness'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 606,
+            "is_correct": false
+        },
+        "607": {
+            "question": "You are given the emotion 'Negative - Sadness'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 607,
+            "is_correct": true
+        },
+        "608": {
+            "question": "You are given the emotion 'Negative - Sadness'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 608,
+            "is_correct": true
+        },
+        "612": {
+            "question": "You are given the emotion 'Negative - Sadness'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "A",
+            "index": 612,
+            "is_correct": false
+        },
+        "615": {
+            "question": "You are given the emotion 'Negative - Sadness'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 615,
+            "is_correct": true
+        },
+        "616": {
+            "question": "You are given the emotion 'Negative - Sadness'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 616,
+            "is_correct": true
+        },
+        "617": {
+            "question": "You are given the emotion 'Negative - Sadness'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 617,
+            "is_correct": true
+        },
+        "618": {
+            "question": "You are given the emotion 'Negative - Sadness'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 618,
+            "is_correct": true
+        },
+        "623": {
+            "question": "You are given the emotion 'Negative - Sadness'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "B",
+            "index": 623,
+            "is_correct": false
+        },
+        "626": {
+            "question": "You are given the emotion 'Negative - Sadness'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 626,
+            "is_correct": true
+        },
+        "631": {
+            "question": "You are given the emotion 'Negative - Sadness'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 631,
+            "is_correct": true
+        },
+        "632": {
+            "question": "You are given the emotion 'Negative - Sadness'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 632,
+            "is_correct": false
+        },
+        "633": {
+            "question": "You are given the emotion 'Negative - Sadness'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 633,
+            "is_correct": true
+        },
+        "638": {
+            "question": "You are given the emotion 'Negative - Sadness'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 638,
+            "is_correct": true
+        },
+        "641": {
+            "question": "You are given the emotion 'Negative - Sadness'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 641,
+            "is_correct": true
+        },
+        "643": {
+            "question": "You are given the emotion 'Negative - Sadness'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 643,
+            "is_correct": true
+        },
+        "644": {
+            "question": "You are given the emotion 'Negative - Sadness'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 644,
+            "is_correct": true
+        },
+        "645": {
+            "question": "You are given the emotion 'Negative - Sadness'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 645,
+            "is_correct": true
+        },
+        "646": {
+            "question": "You are given the emotion 'Negative - Sadness'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 646,
+            "is_correct": true
+        },
+        "647": {
+            "question": "You are given the emotion 'Negative - Sadness'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "A",
+            "index": 647,
+            "is_correct": false
+        },
+        "649": {
+            "question": "You are given the emotion 'Negative - Sadness'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 649,
+            "is_correct": true
+        },
+        "651": {
+            "question": "You are given the emotion 'Negative - Sadness'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 651,
+            "is_correct": true
+        },
+        "652": {
+            "question": "You are given the emotion 'Negative - Sadness'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 652,
+            "is_correct": true
+        },
+        "653": {
+            "question": "You are given the emotion 'Negative - Sadness'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 653,
+            "is_correct": false
+        },
+        "654": {
+            "question": "You are given the emotion 'Negative - Sadness'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 654,
+            "is_correct": true
+        },
+        "658": {
+            "question": "You are given the emotion 'Negative - Sadness'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 658,
+            "is_correct": true
+        },
+        "660": {
+            "question": "You are given the emotion 'Negative - Sadness'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 660,
+            "is_correct": false
+        },
+        "663": {
+            "question": "You are given the emotion 'Negative - Sadness'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 663,
+            "is_correct": true
+        },
+        "664": {
+            "question": "You are given the emotion 'Negative - Sadness'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "D",
+            "index": 664,
+            "is_correct": false
+        },
+        "665": {
+            "question": "You are given the emotion 'Negative - Sadness'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 665,
+            "is_correct": true
+        },
+        "666": {
+            "question": "You are given the emotion 'Negative - Sadness'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 666,
+            "is_correct": true
+        },
+        "667": {
+            "question": "You are given the emotion 'Negative - Sadness'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 667,
+            "is_correct": true
+        },
+        "668": {
+            "question": "You are given the emotion 'Negative - Sadness'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 668,
+            "is_correct": true
+        },
+        "669": {
+            "question": "You are given the emotion 'Negative - Sadness'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 669,
+            "is_correct": true
+        },
+        "671": {
+            "question": "You are given the emotion 'Negative - Sadness'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 671,
+            "is_correct": true
+        },
+        "674": {
+            "question": "You are given the emotion 'Negative - Sadness'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 674,
+            "is_correct": true
+        },
+        "676": {
+            "question": "You are given the emotion 'Negative - Sadness'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 676,
+            "is_correct": true
+        },
+        "678": {
+            "question": "You are given the emotion 'Negative - Sadness'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 678,
+            "is_correct": true
+        },
+        "679": {
+            "question": "You are given the emotion 'Negative - Sadness'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "C",
+            "index": 679,
+            "is_correct": false
+        },
+        "680": {
+            "question": "You are given the emotion 'Negative - Sadness'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 680,
+            "is_correct": true
+        },
+        "683": {
+            "question": "You are given the emotion 'Negative - Sadness'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 683,
+            "is_correct": false
+        },
+        "686": {
+            "question": "You are given the emotion 'Negative - Sadness'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "D",
+            "index": 686,
+            "is_correct": false
+        },
+        "687": {
+            "question": "You are given the emotion 'Negative - Sadness'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 687,
+            "is_correct": true
+        },
+        "688": {
+            "question": "You are given the emotion 'Negative - Sadness'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 688,
+            "is_correct": true
+        },
+        "691": {
+            "question": "You are given the emotion 'Negative - Sadness'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 691,
+            "is_correct": false
+        },
+        "692": {
+            "question": "You are given the emotion 'Negative - Sadness'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 692,
+            "is_correct": true
+        },
+        "693": {
+            "question": "You are given the emotion 'Negative - Sadness'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "B",
+            "correct_answer": "A",
+            "index": 693,
+            "is_correct": false
+        },
+        "695": {
+            "question": "You are given the emotion 'Negative - Sadness'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 695,
+            "is_correct": true
+        },
+        "696": {
+            "question": "You are given the emotion 'Negative - Sadness'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 696,
+            "is_correct": true
+        },
+        "697": {
+            "question": "You are given the emotion 'Negative - Sadness'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 697,
+            "is_correct": true
+        },
+        "698": {
+            "question": "You are given the emotion 'Negative - Sadness'. Which video clip best demonstrates this emotional state through the facial expression and dialog transcript? Choose A, B, C, or D.",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 698,
+            "is_correct": true
+        }
+    },
+    "format_error_count": 0,
+    "run_error_count": 0
+}

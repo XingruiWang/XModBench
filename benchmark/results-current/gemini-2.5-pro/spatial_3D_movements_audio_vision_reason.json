@@ -1,0 +1,248 @@
+{
+    "task_name": "spatial/3D_movements_audio_vision",
+    "score": 35.0,
+    "correct_count": 7,
+    "all_count": 20,
+    "results": {
+        "0": {
+            "question": "Listen carefully to the spatial audio clip from an urban street scene. Pay attention to:\n- The type of vehicle sound (car, bus, motorbike, or no vehicle)\n- The direction of movement (left-to-right, right-to-left, approaching, or receding)\n- The spatial positioning and distance changes\n\nBased on these audio cues, select the video that best matches the vehicle type and movement pattern you heard. Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "The audio clip features the sound of a car. The spatial audio cues indicate that the car is moving from the left side to the right side, starting somewhat distant, passing in front, and then receding to the right. Video B is the only option that shows a car moving in this left-to-right direction. Video A shows a car moving from right-to-left. Video C shows a truck, which does not match the engine sound. Video D shows a distant car moving from right-to-left. Therefore, Video B is the best match for the audio.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The audio clip features the sound of a car. The spatial audio cues indicate that the car is moving from the left side to the right side, starting somewhat distant, passing in front, and then receding to the right. Video B is the only option that shows a car moving in this left-to-right direction. Video A shows a car moving from right-to-left. Video C shows a truck, which does not match the engine sound. Video D shows a distant car moving from right-to-left. Therefore, Video B is the best match for the audio."
+            },
+            "correct_answer": "B",
+            "index": 0,
+            "is_correct": true
+        },
+        "1": {
+            "question": "Listen carefully to the spatial audio clip from an urban street scene. Pay attention to:\n- The type of vehicle sound (car, bus, motorbike, or no vehicle)\n- The direction of movement (left-to-right, right-to-left, approaching, or receding)\n- The spatial positioning and distance changes\n\nBased on these audio cues, select the video that best matches the vehicle type and movement pattern you heard. Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "The audio clip features the sound of a single car passing by. The sound originates from the right, increases in volume as it moves towards the center, and then fades as it continues to the left. This indicates a clear right-to-left movement pattern. Video B is the only option that accurately depicts this scenario: a single car traveling from the right side of the frame to the left.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The audio clip features the sound of a single car passing by. The sound originates from the right, increases in volume as it moves towards the center, and then fades as it continues to the left. This indicates a clear right-to-left movement pattern. Video B is the only option that accurately depicts this scenario: a single car traveling from the right side of the frame to the left."
+            },
+            "correct_answer": "B",
+            "index": 1,
+            "is_correct": true
+        },
+        "2": {
+            "question": "Listen carefully to the spatial audio clip from an urban street scene. Pay attention to:\n- The type of vehicle sound (car, bus, motorbike, or no vehicle)\n- The direction of movement (left-to-right, right-to-left, approaching, or receding)\n- The spatial positioning and distance changes\n\nBased on these audio cues, select the video that best matches the vehicle type and movement pattern you heard. Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "The audio clip features the sound of a single car passing by quickly. The sound pans distinctly from the right channel to the left channel, indicating a right-to-left movement. The sound starts relatively quiet, swells as it passes the listener's position, and then recedes. Video A is the only option that shows a car moving quickly from right to left, closely matching the auditory cues. Video B shows a truck moving from left to right. Video C is a static scene with no prominent vehicle movement. Video D shows a car approaching from the center and then passing.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The audio clip features the sound of a single car passing by quickly. The sound pans distinctly from the right channel to the left channel, indicating a right-to-left movement. The sound starts relatively quiet, swells as it passes the listener's position, and then recedes. Video A is the only option that shows a car moving quickly from right to left, closely matching the auditory cues. Video B shows a truck moving from left to right. Video C is a static scene with no prominent vehicle movement. Video D shows a car approaching from the center and then passing."
+            },
+            "correct_answer": "D",
+            "index": 2,
+            "is_correct": false
+        },
+        "3": {
+            "question": "Listen carefully to the spatial audio clip from an urban street scene. Pay attention to:\n- The type of vehicle sound (car, bus, motorbike, or no vehicle)\n- The direction of movement (left-to-right, right-to-left, approaching, or receding)\n- The spatial positioning and distance changes\n\nBased on these audio cues, select the video that best matches the vehicle type and movement pattern you heard. Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "The audio clip features the distinct, low-pitched rumble of a large vehicle, consistent with a bus. The sound pans clearly from the left channel to the right channel, indicating a left-to-right movement as it passes by. Video B is the only option that shows a bus moving from left to right across the frame, which perfectly aligns with the audio cues.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The audio clip features the distinct, low-pitched rumble of a large vehicle, consistent with a bus. The sound pans clearly from the left channel to the right channel, indicating a left-to-right movement as it passes by. Video B is the only option that shows a bus moving from left to right across the frame, which perfectly aligns with the audio cues."
+            },
+            "correct_answer": "D",
+            "index": 3,
+            "is_correct": false
+        },
+        "5": {
+            "question": "Listen carefully to the spatial audio clip from an urban street scene. Pay attention to:\n- The type of vehicle sound (car, bus, motorbike, or no vehicle)\n- The direction of movement (left-to-right, right-to-left, approaching, or receding)\n- The spatial positioning and distance changes\n\nBased on these audio cues, select the video that best matches the vehicle type and movement pattern you heard. Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "The audio clip features the distinct high-pitched sound of a motorbike engine. The sound pans from the right channel to the left, indicating a right-to-left movement. Video B is the only option that shows a motorbike moving from right to left across the screen, which perfectly matches the audio cues.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The audio clip features the distinct high-pitched sound of a motorbike engine. The sound pans from the right channel to the left, indicating a right-to-left movement. Video B is the only option that shows a motorbike moving from right to left across the screen, which perfectly matches the audio cues."
+            },
+            "correct_answer": "A",
+            "index": 5,
+            "is_correct": false
+        },
+        "6": {
+            "question": "Listen carefully to the spatial audio clip from an urban street scene. Pay attention to:\n- The type of vehicle sound (car, bus, motorbike, or no vehicle)\n- The direction of movement (left-to-right, right-to-left, approaching, or receding)\n- The spatial positioning and distance changes\n\nBased on these audio cues, select the video that best matches the vehicle type and movement pattern you heard. Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "The audio clip features the sound of a single car passing by quickly from left to right. The sound starts on the left, pans across to the right, and recedes, indicating a close pass-by. Video C is the only option that shows a car moving from left to right in this manner. Video A shows a truck, not a car. Video B has no moving vehicles. Video D shows a distant car moving from right to left, which contradicts the audio's direction and proximity.",
+            "original_response": {
+                "answer": "C",
+                "reasoning": "The audio clip features the sound of a single car passing by quickly from left to right. The sound starts on the left, pans across to the right, and recedes, indicating a close pass-by. Video C is the only option that shows a car moving from left to right in this manner. Video A shows a truck, not a car. Video B has no moving vehicles. Video D shows a distant car moving from right to left, which contradicts the audio's direction and proximity."
+            },
+            "correct_answer": "C",
+            "index": 6,
+            "is_correct": true
+        },
+        "7": {
+            "question": "Listen carefully to the spatial audio clip from an urban street scene. Pay attention to:\n- The type of vehicle sound (car, bus, motorbike, or no vehicle)\n- The direction of movement (left-to-right, right-to-left, approaching, or receding)\n- The spatial positioning and distance changes\n\nBased on these audio cues, select the video that best matches the vehicle type and movement pattern you heard. Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "The audio clip features the sound of two cars passing. The first car moves from right to left, starting somewhat distant, passing in front, and then receding to the left. A second, similar car follows the same right-to-left path. Video D is the only option that shows cars moving from right to left across the scene, matching the spatial audio cues precisely. Video A shows vehicles moving from left to right. Video C features a bus, which has a distinctly different engine sound. Video B has no significant vehicle movement that matches the audio.",
+            "original_response": {
+                "answer": "D",
+                "reasoning": "The audio clip features the sound of two cars passing. The first car moves from right to left, starting somewhat distant, passing in front, and then receding to the left. A second, similar car follows the same right-to-left path. Video D is the only option that shows cars moving from right to left across the scene, matching the spatial audio cues precisely. Video A shows vehicles moving from left to right. Video C features a bus, which has a distinctly different engine sound. Video B has no significant vehicle movement that matches the audio."
+            },
+            "correct_answer": "A",
+            "index": 7,
+            "is_correct": false
+        },
+        "8": {
+            "question": "Listen carefully to the spatial audio clip from an urban street scene. Pay attention to:\n- The type of vehicle sound (car, bus, motorbike, or no vehicle)\n- The direction of movement (left-to-right, right-to-left, approaching, or receding)\n- The spatial positioning and distance changes\n\nBased on these audio cues, select the video that best matches the vehicle type and movement pattern you heard. Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "The audio clip features the sound of a single car approaching from the left, passing in front of the listener, and then receding to the right. The sound profile matches that of a car engine. Video D is the only option that visually corresponds to this auditory event, showing a car moving from left to right across the scene.",
+            "original_response": {
+                "answer": "D",
+                "reasoning": "The audio clip features the sound of a single car approaching from the left, passing in front of the listener, and then receding to the right. The sound profile matches that of a car engine. Video D is the only option that visually corresponds to this auditory event, showing a car moving from left to right across the scene."
+            },
+            "correct_answer": "D",
+            "index": 8,
+            "is_correct": true
+        },
+        "9": {
+            "question": "Listen carefully to the spatial audio clip from an urban street scene. Pay attention to:\n- The type of vehicle sound (car, bus, motorbike, or no vehicle)\n- The direction of movement (left-to-right, right-to-left, approaching, or receding)\n- The spatial positioning and distance changes\n\nBased on these audio cues, select the video that best matches the vehicle type and movement pattern you heard. Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "The audio clip features the sound of a car passing by. The spatial audio cues clearly indicate that the vehicle is moving from the right to the left. When analyzing the videos, Video A is the only one that shows a car moving in a right-to-left direction, consistent with the audio. Video B shows a motorbike moving left-to-right. Video C shows a car moving left-to-right. Video D has no moving vehicles. Therefore, Video A is the correct match.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The audio clip features the sound of a car passing by. The spatial audio cues clearly indicate that the vehicle is moving from the right to the left. When analyzing the videos, Video A is the only one that shows a car moving in a right-to-left direction, consistent with the audio. Video B shows a motorbike moving left-to-right. Video C shows a car moving left-to-right. Video D has no moving vehicles. Therefore, Video A is the correct match."
+            },
+            "correct_answer": "C",
+            "index": 9,
+            "is_correct": false
+        },
+        "11": {
+            "question": "Listen carefully to the spatial audio clip from an urban street scene. Pay attention to:\n- The type of vehicle sound (car, bus, motorbike, or no vehicle)\n- The direction of movement (left-to-right, right-to-left, approaching, or receding)\n- The spatial positioning and distance changes\n\nBased on these audio cues, select the video that best matches the vehicle type and movement pattern you heard. Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "The audio clip features the distinct high-pitched engine sound of a motorbike. The sound pans from the left channel to the right channel, indicating a left-to-right movement. Video D is the only option that shows a motorbike moving from left to right across the scene, which perfectly aligns with the auditory information.",
+            "original_response": {
+                "answer": "D",
+                "reasoning": "The audio clip features the distinct high-pitched engine sound of a motorbike. The sound pans from the left channel to the right channel, indicating a left-to-right movement. Video D is the only option that shows a motorbike moving from left to right across the scene, which perfectly aligns with the auditory information."
+            },
+            "correct_answer": "A",
+            "index": 11,
+            "is_correct": false
+        },
+        "12": {
+            "question": "Listen carefully to the spatial audio clip from an urban street scene. Pay attention to:\n- The type of vehicle sound (car, bus, motorbike, or no vehicle)\n- The direction of movement (left-to-right, right-to-left, approaching, or receding)\n- The spatial positioning and distance changes\n\nBased on these audio cues, select the video that best matches the vehicle type and movement pattern you heard. Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "The audio clip features the distinct sound of a motorbike engine. The sound pans from the right channel to the left channel, indicating a right-to-left movement. The vehicle approaches, passes by, and then recedes. Video D is the only option that visually depicts a motorbike moving from right to left, perfectly matching the auditory cues of both vehicle type and spatial movement.",
+            "original_response": {
+                "answer": "D",
+                "reasoning": "The audio clip features the distinct sound of a motorbike engine. The sound pans from the right channel to the left channel, indicating a right-to-left movement. The vehicle approaches, passes by, and then recedes. Video D is the only option that visually depicts a motorbike moving from right to left, perfectly matching the auditory cues of both vehicle type and spatial movement."
+            },
+            "correct_answer": "C",
+            "index": 12,
+            "is_correct": false
+        },
+        "13": {
+            "question": "Listen carefully to the spatial audio clip from an urban street scene. Pay attention to:\n- The type of vehicle sound (car, bus, motorbike, or no vehicle)\n- The direction of movement (left-to-right, right-to-left, approaching, or receding)\n- The spatial positioning and distance changes\n\nBased on these audio cues, select the video that best matches the vehicle type and movement pattern you heard. Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "The audio clip features the sound of a single car passing by. The spatial audio cues clearly indicate that the vehicle is moving from the right side to the left side. Video C is the only option that shows a car moving from right to left across the scene, perfectly matching the auditory experience.",
+            "original_response": {
+                "answer": "C",
+                "reasoning": "The audio clip features the sound of a single car passing by. The spatial audio cues clearly indicate that the vehicle is moving from the right side to the left side. Video C is the only option that shows a car moving from right to left across the scene, perfectly matching the auditory experience."
+            },
+            "correct_answer": "D",
+            "index": 13,
+            "is_correct": false
+        },
+        "14": {
+            "question": "Listen carefully to the spatial audio clip from an urban street scene. Pay attention to:\n- The type of vehicle sound (car, bus, motorbike, or no vehicle)\n- The direction of movement (left-to-right, right-to-left, approaching, or receding)\n- The spatial positioning and distance changes\n\nBased on these audio cues, select the video that best matches the vehicle type and movement pattern you heard. Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "The audio clip features the distinct sound of a car passing from left to right. The sound begins on the left, grows louder as it moves across the stereo field, and then recedes into the distance on the right. Video A perfectly matches this auditory experience, showing a white car entering from the left, passing directly in front of the camera, and exiting to the right. The other videos do not match: Video B shows distant traffic with no prominent pass-by, Video C shows a truck (which would produce a different, lower-pitched engine sound), and Video D lacks any significant vehicle movement that aligns with the audio.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The audio clip features the distinct sound of a car passing from left to right. The sound begins on the left, grows louder as it moves across the stereo field, and then recedes into the distance on the right. Video A perfectly matches this auditory experience, showing a white car entering from the left, passing directly in front of the camera, and exiting to the right. The other videos do not match: Video B shows distant traffic with no prominent pass-by, Video C shows a truck (which would produce a different, lower-pitched engine sound), and Video D lacks any significant vehicle movement that aligns with the audio."
+            },
+            "correct_answer": "A",
+            "index": 14,
+            "is_correct": true
+        },
+        "15": {
+            "question": "Listen carefully to the spatial audio clip from an urban street scene. Pay attention to:\n- The type of vehicle sound (car, bus, motorbike, or no vehicle)\n- The direction of movement (left-to-right, right-to-left, approaching, or receding)\n- The spatial positioning and distance changes\n\nBased on these audio cues, select the video that best matches the vehicle type and movement pattern you heard. Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "The audio clip features the sound of a car passing by. The sound originates from the left, travels across the stereo field to the right, and then recedes. Video A is the only option that depicts a car moving from left to right, perfectly matching the auditory cues of vehicle type and direction of movement.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The audio clip features the sound of a car passing by. The sound originates from the left, travels across the stereo field to the right, and then recedes. Video A is the only option that depicts a car moving from left to right, perfectly matching the auditory cues of vehicle type and direction of movement."
+            },
+            "correct_answer": "A",
+            "index": 15,
+            "is_correct": true
+        },
+        "16": {
+            "question": "Listen carefully to the spatial audio clip from an urban street scene. Pay attention to:\n- The type of vehicle sound (car, bus, motorbike, or no vehicle)\n- The direction of movement (left-to-right, right-to-left, approaching, or receding)\n- The spatial positioning and distance changes\n\nBased on these audio cues, select the video that best matches the vehicle type and movement pattern you heard. Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "The audio clip features the distinct low-frequency rumble of a large vehicle, such as a bus or tram, moving from left to right. The sound starts in the left channel, grows louder as it passes the center, and then fades away into the right channel. Video A is the only option that visually matches this auditory event, showing a large, dark-colored bus or tram moving from left to right across the frame. The other videos do not feature a large vehicle with this specific movement pattern.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The audio clip features the distinct low-frequency rumble of a large vehicle, such as a bus or tram, moving from left to right. The sound starts in the left channel, grows louder as it passes the center, and then fades away into the right channel. Video A is the only option that visually matches this auditory event, showing a large, dark-colored bus or tram moving from left to right across the frame. The other videos do not feature a large vehicle with this specific movement pattern."
+            },
+            "correct_answer": "A",
+            "index": 16,
+            "is_correct": true
+        },
+        "17": {
+            "question": "Listen carefully to the spatial audio clip from an urban street scene. Pay attention to:\n- The type of vehicle sound (car, bus, motorbike, or no vehicle)\n- The direction of movement (left-to-right, right-to-left, approaching, or receding)\n- The spatial positioning and distance changes\n\nBased on these audio cues, select the video that best matches the vehicle type and movement pattern you heard. Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "The audio clip features the distinct high-pitched engine sound of a motorbike. The sound pans clearly from left to right, indicating the vehicle is passing by in that direction. The volume increases as the motorbike approaches the center and then decreases as it recedes. Video D is the only option that shows a motorbike moving from left to right across the frame, perfectly matching the auditory cues.",
+            "original_response": {
+                "answer": "D",
+                "reasoning": "The audio clip features the distinct high-pitched engine sound of a motorbike. The sound pans clearly from left to right, indicating the vehicle is passing by in that direction. The volume increases as the motorbike approaches the center and then decreases as it recedes. Video D is the only option that shows a motorbike moving from left to right across the frame, perfectly matching the auditory cues."
+            },
+            "correct_answer": "B",
+            "index": 17,
+            "is_correct": false
+        },
+        "18": {
+            "question": "Listen carefully to the spatial audio clip from an urban street scene. Pay attention to:\n- The type of vehicle sound (car, bus, motorbike, or no vehicle)\n- The direction of movement (left-to-right, right-to-left, approaching, or receding)\n- The spatial positioning and distance changes\n\nBased on these audio cues, select the video that best matches the vehicle type and movement pattern you heard. Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "The audio clip features the sound of a single car moving from the right side to the left side. The sound starts on the right, increases in volume as it passes the listener's central position, and then fades away to the left. Video A is the only option that visually depicts this exact scenario: a single car enters the frame from the right and travels across to the left. Videos B and D show vehicles moving from left-to-right, which contradicts the audio. Video C shows a static scene with no prominent vehicle movement.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The audio clip features the sound of a single car moving from the right side to the left side. The sound starts on the right, increases in volume as it passes the listener's central position, and then fades away to the left. Video A is the only option that visually depicts this exact scenario: a single car enters the frame from the right and travels across to the left. Videos B and D show vehicles moving from left-to-right, which contradicts the audio. Video C shows a static scene with no prominent vehicle movement."
+            },
+            "correct_answer": "B",
+            "index": 18,
+            "is_correct": false
+        },
+        "19": {
+            "question": "Listen carefully to the spatial audio clip from an urban street scene. Pay attention to:\n- The type of vehicle sound (car, bus, motorbike, or no vehicle)\n- The direction of movement (left-to-right, right-to-left, approaching, or receding)\n- The spatial positioning and distance changes\n\nBased on these audio cues, select the video that best matches the vehicle type and movement pattern you heard. Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "The audio clip features the deep, rumbling engine sound characteristic of a large vehicle, such as a bus. The sound clearly pans from the left to the right, indicating a vehicle passing in that direction. Video C is the only option that shows a large bus moving from left to right, perfectly matching the auditory evidence in terms of both vehicle type and direction of movement.",
+            "original_response": {
+                "answer": "C",
+                "reasoning": "The audio clip features the deep, rumbling engine sound characteristic of a large vehicle, such as a bus. The sound clearly pans from the left to the right, indicating a vehicle passing in that direction. Video C is the only option that shows a large bus moving from left to right, perfectly matching the auditory evidence in terms of both vehicle type and direction of movement."
+            },
+            "correct_answer": "B",
+            "index": 19,
+            "is_correct": false
+        },
+        "20": {
+            "question": "Listen carefully to the spatial audio clip from an urban street scene. Pay attention to:\n- The type of vehicle sound (car, bus, motorbike, or no vehicle)\n- The direction of movement (left-to-right, right-to-left, approaching, or receding)\n- The spatial positioning and distance changes\n\nBased on these audio cues, select the video that best matches the vehicle type and movement pattern you heard. Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "The audio clip features the distinct high-pitched engine sound of a motorbike. The spatial cues clearly indicate that the vehicle is moving from left to right, passing in front of the listener. Video B is the only option that shows a motorbike moving from left to right, perfectly matching both the vehicle type and its direction of travel as heard in the audio.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The audio clip features the distinct high-pitched engine sound of a motorbike. The spatial cues clearly indicate that the vehicle is moving from left to right, passing in front of the listener. Video B is the only option that shows a motorbike moving from left to right, perfectly matching both the vehicle type and its direction of travel as heard in the audio."
+            },
+            "correct_answer": "C",
+            "index": 20,
+            "is_correct": false
+        },
+        "21": {
+            "question": "Listen carefully to the spatial audio clip from an urban street scene. Pay attention to:\n- The type of vehicle sound (car, bus, motorbike, or no vehicle)\n- The direction of movement (left-to-right, right-to-left, approaching, or receding)\n- The spatial positioning and distance changes\n\nBased on these audio cues, select the video that best matches the vehicle type and movement pattern you heard. Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "The audio clip features the distinct high-pitched engine sound of a motorbike. The sound pans from left to right, indicating a vehicle passing by in that direction. Analyzing the videos, Video B is the only one that shows a motorbike moving from left to right, perfectly matching both the vehicle type and the direction of movement heard in the audio.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The audio clip features the distinct high-pitched engine sound of a motorbike. The sound pans from left to right, indicating a vehicle passing by in that direction. Analyzing the videos, Video B is the only one that shows a motorbike moving from left to right, perfectly matching both the vehicle type and the direction of movement heard in the audio."
+            },
+            "correct_answer": "D",
+            "index": 21,
+            "is_correct": false
+        }
+    }
+}

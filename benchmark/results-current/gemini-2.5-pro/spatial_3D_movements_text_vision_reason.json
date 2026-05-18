@@ -1,0 +1,248 @@
+{
+    "task_name": "spatial/3D_movements_text_vision",
+    "score": 65.0,
+    "correct_count": 13,
+    "all_count": 20,
+    "results": {
+        "0": {
+            "question": "Read the text description of the urban street scene, which specifies:\n- The type of vehicle involved (or absence of vehicles)\n- The movement direction and pattern\n- The spatial trajectory through the scene\n\nBased on this description, identify which video clip visually demonstrates the described scenario. Look for matching vehicle type and movement pattern. Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "The user requested a video showing a car moving horizontally from left to right. Clip A clearly shows a taxi, which is a type of car, entering from the left side of the frame and moving horizontally across the scene to the right. Clip B shows a car moving from right to left and towards the camera. Clip C shows a truck, not a car, moving from left to right. Clip D shows a car in the background moving from right to left. Therefore, Clip A is the only video that accurately matches the description.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The user requested a video showing a car moving horizontally from left to right. Clip A clearly shows a taxi, which is a type of car, entering from the left side of the frame and moving horizontally across the scene to the right. Clip B shows a car moving from right to left and towards the camera. Clip C shows a truck, not a car, moving from left to right. Clip D shows a car in the background moving from right to left. Therefore, Clip A is the only video that accurately matches the description."
+            },
+            "correct_answer": "B",
+            "index": 0,
+            "is_correct": false
+        },
+        "1": {
+            "question": "Read the text description of the urban street scene, which specifies:\n- The type of vehicle involved (or absence of vehicles)\n- The movement direction and pattern\n- The spatial trajectory through the scene\n\nBased on this description, identify which video clip visually demonstrates the described scenario. Look for matching vehicle type and movement pattern. Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "The user's request is to find a video clip showing a car moving horizontally from left to right. Clip A clearly depicts several cars, including a prominent white station wagon, entering the frame from the left and driving horizontally across the scene to the right. Clip B shows a car approaching and then moving past the camera, not in a purely horizontal trajectory. Clip C features a bus, not a car, moving diagonally away from the camera. Clip D shows a car moving from right to left, which is the opposite direction of what is described. Therefore, Clip A is the only video that accurately matches the description.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The user's request is to find a video clip showing a car moving horizontally from left to right. Clip A clearly depicts several cars, including a prominent white station wagon, entering the frame from the left and driving horizontally across the scene to the right. Clip B shows a car approaching and then moving past the camera, not in a purely horizontal trajectory. Clip C features a bus, not a car, moving diagonally away from the camera. Clip D shows a car moving from right to left, which is the opposite direction of what is described. Therefore, Clip A is the only video that accurately matches the description."
+            },
+            "correct_answer": "B",
+            "index": 1,
+            "is_correct": false
+        },
+        "2": {
+            "question": "Read the text description of the urban street scene, which specifies:\n- The type of vehicle involved (or absence of vehicles)\n- The movement direction and pattern\n- The spatial trajectory through the scene\n\nBased on this description, identify which video clip visually demonstrates the described scenario. Look for matching vehicle type and movement pattern. Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "The text describes a car moving horizontally from left to right. Video A shows a silver car entering the frame from the left and driving horizontally across the scene to the right. Video B shows a truck, not a car, moving in this direction. Video C is a static scene with no moving vehicles. Video D shows a car moving towards the camera and then turning, which is not a simple horizontal left-to-right movement.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The text describes a car moving horizontally from left to right. Video A shows a silver car entering the frame from the left and driving horizontally across the scene to the right. Video B shows a truck, not a car, moving in this direction. Video C is a static scene with no moving vehicles. Video D shows a car moving towards the camera and then turning, which is not a simple horizontal left-to-right movement."
+            },
+            "correct_answer": "D",
+            "index": 2,
+            "is_correct": false
+        },
+        "3": {
+            "question": "Read the text description of the urban street scene, which specifies:\n- The type of vehicle involved (or absence of vehicles)\n- The movement direction and pattern\n- The spatial trajectory through the scene\n\nBased on this description, identify which video clip visually demonstrates the described scenario. Look for matching vehicle type and movement pattern. Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "The user wants to find the video clip that shows a car moving horizontally from left to right. Clip A shows a dark-colored sedan entering the frame from the left and moving horizontally across the scene to the right. Clip B shows a bus, not a car. Clip C shows vehicles moving from right to left. Clip D shows some cars moving from left to right in the background, but the movement in Clip A is clearer and a more direct match to the description.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The user wants to find the video clip that shows a car moving horizontally from left to right. Clip A shows a dark-colored sedan entering the frame from the left and moving horizontally across the scene to the right. Clip B shows a bus, not a car. Clip C shows vehicles moving from right to left. Clip D shows some cars moving from left to right in the background, but the movement in Clip A is clearer and a more direct match to the description."
+            },
+            "correct_answer": "D",
+            "index": 3,
+            "is_correct": false
+        },
+        "5": {
+            "question": "Read the text description of the urban street scene, which specifies:\n- The type of vehicle involved (or absence of vehicles)\n- The movement direction and pattern\n- The spatial trajectory through the scene\n\nBased on this description, identify which video clip visually demonstrates the described scenario. Look for matching vehicle type and movement pattern. Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "The user's request is to find a video clip showing a car moving horizontally from left to right across the scene. Clip A clearly depicts a dark-colored car entering the frame from the left and driving horizontally across the road to the right. Clip B shows vehicles moving from right to left. Clip C shows a car that is initially present and then moves away from the camera, not across the scene horizontally. Clip D does not feature a car moving across the scene in the described manner; the main motion is from pedestrians.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The user's request is to find a video clip showing a car moving horizontally from left to right across the scene. Clip A clearly depicts a dark-colored car entering the frame from the left and driving horizontally across the road to the right. Clip B shows vehicles moving from right to left. Clip C shows a car that is initially present and then moves away from the camera, not across the scene horizontally. Clip D does not feature a car moving across the scene in the described manner; the main motion is from pedestrians."
+            },
+            "correct_answer": "A",
+            "index": 5,
+            "is_correct": true
+        },
+        "6": {
+            "question": "Read the text description of the urban street scene, which specifies:\n- The type of vehicle involved (or absence of vehicles)\n- The movement direction and pattern\n- The spatial trajectory through the scene\n\nBased on this description, identify which video clip visually demonstrates the described scenario. Look for matching vehicle type and movement pattern. Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "The user requested a video showing a car moving horizontally from left to right. In clip C, a taxi (a type of car) enters from the left side of the frame, travels horizontally across the road, and exits on the right side. Clip A shows a truck moving in this direction, not a car. Clip B has no moving vehicles. Clip D has a car moving in the background, but it is distant and not the primary focus of the scene.",
+            "original_response": {
+                "answer": "C",
+                "reasoning": "The user requested a video showing a car moving horizontally from left to right. In clip C, a taxi (a type of car) enters from the left side of the frame, travels horizontally across the road, and exits on the right side. Clip A shows a truck moving in this direction, not a car. Clip B has no moving vehicles. Clip D has a car moving in the background, but it is distant and not the primary focus of the scene."
+            },
+            "correct_answer": "C",
+            "index": 6,
+            "is_correct": true
+        },
+        "7": {
+            "question": "Read the text description of the urban street scene, which specifies:\n- The type of vehicle involved (or absence of vehicles)\n- The movement direction and pattern\n- The spatial trajectory through the scene\n\nBased on this description, identify which video clip visually demonstrates the described scenario. Look for matching vehicle type and movement pattern. Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "The user's description is 'A car moving horizontally from left to right across the scene.' Clip A shows a night scene where multiple vehicles, including cars and vans, move horizontally from the left side of the frame to the right side. This perfectly matches the described vehicle type and movement pattern. Clip B shows distant traffic, but no primary subject car moves across the scene. Clip C shows a bus, not a car. Clip D shows cars turning at an intersection, not moving in a straight horizontal line across the scene.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The user's description is 'A car moving horizontally from left to right across the scene.' Clip A shows a night scene where multiple vehicles, including cars and vans, move horizontally from the left side of the frame to the right side. This perfectly matches the described vehicle type and movement pattern. Clip B shows distant traffic, but no primary subject car moves across the scene. Clip C shows a bus, not a car. Clip D shows cars turning at an intersection, not moving in a straight horizontal line across the scene."
+            },
+            "correct_answer": "A",
+            "index": 7,
+            "is_correct": true
+        },
+        "8": {
+            "question": "Read the text description of the urban street scene, which specifies:\n- The type of vehicle involved (or absence of vehicles)\n- The movement direction and pattern\n- The spatial trajectory through the scene\n\nBased on this description, identify which video clip visually demonstrates the described scenario. Look for matching vehicle type and movement pattern. Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "The user wants to find a video clip showing a car moving horizontally from left to right. Video A shows a car moving horizontally across the scene, which matches the vehicle type and movement pattern. However, the direction is from right to left, which contradicts the prompt. Video B is a static scene with no moving cars. Video C shows a motorcycle moving from left to right, followed by a car moving in the same direction, but the view is partially obscured. Video D shows cars moving towards the camera, not horizontally across the scene. Comparing the options, Video A provides the clearest, most unobstructed view of a car traversing the scene horizontally. The discrepancy in direction (right-to-left instead of left-to-right) is likely an error in the text description, as it is otherwise the best example of the described action among the choices.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The user wants to find a video clip showing a car moving horizontally from left to right. Video A shows a car moving horizontally across the scene, which matches the vehicle type and movement pattern. However, the direction is from right to left, which contradicts the prompt. Video B is a static scene with no moving cars. Video C shows a motorcycle moving from left to right, followed by a car moving in the same direction, but the view is partially obscured. Video D shows cars moving towards the camera, not horizontally across the scene. Comparing the options, Video A provides the clearest, most unobstructed view of a car traversing the scene horizontally. The discrepancy in direction (right-to-left instead of left-to-right) is likely an error in the text description, as it is otherwise the best example of the described action among the choices."
+            },
+            "correct_answer": "D",
+            "index": 8,
+            "is_correct": false
+        },
+        "9": {
+            "question": "Read the text description of the urban street scene, which specifies:\n- The type of vehicle involved (or absence of vehicles)\n- The movement direction and pattern\n- The spatial trajectory through the scene\n\nBased on this description, identify which video clip visually demonstrates the described scenario. Look for matching vehicle type and movement pattern. Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "The user requested a video showing a car moving horizontally from left to right. Clip A shows vehicles moving in the opposite direction, from right to left. Clip B shows a motorcycle moving from left to right, but the prompt specifies a car. Clip D is a static scene with no moving vehicles. Clip C correctly shows a car entering the scene from the left and moving horizontally to the right.",
+            "original_response": {
+                "answer": "C",
+                "reasoning": "The user requested a video showing a car moving horizontally from left to right. Clip A shows vehicles moving in the opposite direction, from right to left. Clip B shows a motorcycle moving from left to right, but the prompt specifies a car. Clip D is a static scene with no moving vehicles. Clip C correctly shows a car entering the scene from the left and moving horizontally to the right."
+            },
+            "correct_answer": "C",
+            "index": 9,
+            "is_correct": true
+        },
+        "11": {
+            "question": "Read the text description of the urban street scene, which specifies:\n- The type of vehicle involved (or absence of vehicles)\n- The movement direction and pattern\n- The spatial trajectory through the scene\n\nBased on this description, identify which video clip visually demonstrates the described scenario. Look for matching vehicle type and movement pattern. Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "The text describes a car moving horizontally from left to right across the scene. Video A clearly shows a red car entering from the left side of the frame and proceeding horizontally to the right. Video B shows a distant car moving left to right, but it's not the primary action. Video C shows a car moving from right to left, the opposite direction. Video D shows a motorcycle, not a car, moving from left to right.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The text describes a car moving horizontally from left to right across the scene. Video A clearly shows a red car entering from the left side of the frame and proceeding horizontally to the right. Video B shows a distant car moving left to right, but it's not the primary action. Video C shows a car moving from right to left, the opposite direction. Video D shows a motorcycle, not a car, moving from left to right."
+            },
+            "correct_answer": "A",
+            "index": 11,
+            "is_correct": true
+        },
+        "12": {
+            "question": "Read the text description of the urban street scene, which specifies:\n- The type of vehicle involved (or absence of vehicles)\n- The movement direction and pattern\n- The spatial trajectory through the scene\n\nBased on this description, identify which video clip visually demonstrates the described scenario. Look for matching vehicle type and movement pattern. Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "The user wants to find the video that shows 'A car moving horizontally from left to right across the scene.' Let's analyze the options. Clip B has no moving vehicles. Clip C shows multiple vehicles moving horizontally, but from right to left. Clip D shows vehicles moving from left to right, but their trajectory is clearly diagonal, not horizontal. Clip A shows a single red car moving in a perfectly horizontal line across the scene. However, its direction is from right to left, which contradicts the prompt. Despite this contradiction in direction, Clip A provides the best visual match for the terms 'A car' and 'moving horizontally'. The other clips either have the wrong direction (C), the wrong trajectory (D), or no movement at all (B). It is most plausible that the direction in the prompt ('left to right') is a mistake, as Clip A is a perfect match in all other aspects (a single car, moving perfectly horizontally).",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The user wants to find the video that shows 'A car moving horizontally from left to right across the scene.' Let's analyze the options. Clip B has no moving vehicles. Clip C shows multiple vehicles moving horizontally, but from right to left. Clip D shows vehicles moving from left to right, but their trajectory is clearly diagonal, not horizontal. Clip A shows a single red car moving in a perfectly horizontal line across the scene. However, its direction is from right to left, which contradicts the prompt. Despite this contradiction in direction, Clip A provides the best visual match for the terms 'A car' and 'moving horizontally'. The other clips either have the wrong direction (C), the wrong trajectory (D), or no movement at all (B). It is most plausible that the direction in the prompt ('left to right') is a mistake, as Clip A is a perfect match in all other aspects (a single car, moving perfectly horizontally)."
+            },
+            "correct_answer": "C",
+            "index": 12,
+            "is_correct": false
+        },
+        "13": {
+            "question": "Read the text description of the urban street scene, which specifies:\n- The type of vehicle involved (or absence of vehicles)\n- The movement direction and pattern\n- The spatial trajectory through the scene\n\nBased on this description, identify which video clip visually demonstrates the described scenario. Look for matching vehicle type and movement pattern. Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "The text describes a car moving horizontally from left to right. Clip D shows a blue car entering the frame from the left and driving horizontally across the scene until it exits on the right. Clip A features a jogger moving right-to-left. Clip B shows a bus moving away from the camera. Clip C shows a car moving from right to left. Therefore, Clip D is the only one that matches the description.",
+            "original_response": {
+                "answer": "D",
+                "reasoning": "The text describes a car moving horizontally from left to right. Clip D shows a blue car entering the frame from the left and driving horizontally across the scene until it exits on the right. Clip A features a jogger moving right-to-left. Clip B shows a bus moving away from the camera. Clip C shows a car moving from right to left. Therefore, Clip D is the only one that matches the description."
+            },
+            "correct_answer": "D",
+            "index": 13,
+            "is_correct": true
+        },
+        "14": {
+            "question": "Read the text description of the urban street scene, which specifies:\n- The type of vehicle involved (or absence of vehicles)\n- The movement direction and pattern\n- The spatial trajectory through the scene\n\nBased on this description, identify which video clip visually demonstrates the described scenario. Look for matching vehicle type and movement pattern. Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "The user's description specifies a car moving horizontally from left to right across the scene. Video A clearly shows a white car entering the frame from the left, traveling horizontally across the road, and exiting on the right, which perfectly matches the description. In contrast, Video B shows no prominent vehicle movement. Video C shows a truck moving from left to right, which is the wrong vehicle type. Video D does not feature any moving vehicles.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The user's description specifies a car moving horizontally from left to right across the scene. Video A clearly shows a white car entering the frame from the left, traveling horizontally across the road, and exiting on the right, which perfectly matches the description. In contrast, Video B shows no prominent vehicle movement. Video C shows a truck moving from left to right, which is the wrong vehicle type. Video D does not feature any moving vehicles."
+            },
+            "correct_answer": "A",
+            "index": 14,
+            "is_correct": true
+        },
+        "15": {
+            "question": "Read the text description of the urban street scene, which specifies:\n- The type of vehicle involved (or absence of vehicles)\n- The movement direction and pattern\n- The spatial trajectory through the scene\n\nBased on this description, identify which video clip visually demonstrates the described scenario. Look for matching vehicle type and movement pattern. Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "The text describes a car moving horizontally from left to right. Video A clearly shows a red car entering the frame from the left and moving horizontally across the road until it exits on the right. Video B also shows a car moving from left to right, but its view is partially obstructed by a tree. Video C shows trucks, not cars, moving. Video D shows no moving vehicles. Therefore, Video A is the best and clearest match for the description.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The text describes a car moving horizontally from left to right. Video A clearly shows a red car entering the frame from the left and moving horizontally across the road until it exits on the right. Video B also shows a car moving from left to right, but its view is partially obstructed by a tree. Video C shows trucks, not cars, moving. Video D shows no moving vehicles. Therefore, Video A is the best and clearest match for the description."
+            },
+            "correct_answer": "A",
+            "index": 15,
+            "is_correct": true
+        },
+        "16": {
+            "question": "Read the text description of the urban street scene, which specifies:\n- The type of vehicle involved (or absence of vehicles)\n- The movement direction and pattern\n- The spatial trajectory through the scene\n\nBased on this description, identify which video clip visually demonstrates the described scenario. Look for matching vehicle type and movement pattern. Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "The user wants to find a video showing a car moving horizontally from left to right. Video A clearly shows a dark-colored car entering the frame from the left and moving in a straight, horizontal path across the screen until it exits on the right. Video B shows multiple vehicles, but none are the primary focus moving across the entire scene. Video C shows cars in the distant background, not as the main subject crossing the scene. Video D focuses on pedestrians, with background traffic that does not feature a single car moving clearly across the frame.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The user wants to find a video showing a car moving horizontally from left to right. Video A clearly shows a dark-colored car entering the frame from the left and moving in a straight, horizontal path across the screen until it exits on the right. Video B shows multiple vehicles, but none are the primary focus moving across the entire scene. Video C shows cars in the distant background, not as the main subject crossing the scene. Video D focuses on pedestrians, with background traffic that does not feature a single car moving clearly across the frame."
+            },
+            "correct_answer": "A",
+            "index": 16,
+            "is_correct": true
+        },
+        "17": {
+            "question": "Read the text description of the urban street scene, which specifies:\n- The type of vehicle involved (or absence of vehicles)\n- The movement direction and pattern\n- The spatial trajectory through the scene\n\nBased on this description, identify which video clip visually demonstrates the described scenario. Look for matching vehicle type and movement pattern. Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "The text describes a car moving horizontally from left to right across the scene. Clip B is the only one that shows this exact motion. A white car enters the frame from the left and travels straight across to the right, exiting the frame. In contrast, Clip A shows traffic moving towards and away from the camera. Clip C shows a car making a turn. Clip D shows a motorcycle moving diagonally away from the camera.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The text describes a car moving horizontally from left to right across the scene. Clip B is the only one that shows this exact motion. A white car enters the frame from the left and travels straight across to the right, exiting the frame. In contrast, Clip A shows traffic moving towards and away from the camera. Clip C shows a car making a turn. Clip D shows a motorcycle moving diagonally away from the camera."
+            },
+            "correct_answer": "B",
+            "index": 17,
+            "is_correct": true
+        },
+        "18": {
+            "question": "Read the text description of the urban street scene, which specifies:\n- The type of vehicle involved (or absence of vehicles)\n- The movement direction and pattern\n- The spatial trajectory through the scene\n\nBased on this description, identify which video clip visually demonstrates the described scenario. Look for matching vehicle type and movement pattern. Choose A, B, C, or D.",
+            "response": "A",
+            "reasoning": "The text describes a car moving horizontally from left to right. Video A shows a silver car appearing from behind a tree on the left side of the scene, moving horizontally across the road in the background, and then exiting the frame on the right. Video B shows cars moving from left to right, but their trajectory is diagonal towards the camera, not horizontal across the scene. Video C shows a parked car and a cyclist, but no car moves from left to right. Video D shows trucks moving from left to right, not a car. Therefore, Video A is the only clip that accurately depicts the described scenario.",
+            "original_response": {
+                "answer": "A",
+                "reasoning": "The text describes a car moving horizontally from left to right. Video A shows a silver car appearing from behind a tree on the left side of the scene, moving horizontally across the road in the background, and then exiting the frame on the right. Video B shows cars moving from left to right, but their trajectory is diagonal towards the camera, not horizontal across the scene. Video C shows a parked car and a cyclist, but no car moves from left to right. Video D shows trucks moving from left to right, not a car. Therefore, Video A is the only clip that accurately depicts the described scenario."
+            },
+            "correct_answer": "B",
+            "index": 18,
+            "is_correct": false
+        },
+        "19": {
+            "question": "Read the text description of the urban street scene, which specifies:\n- The type of vehicle involved (or absence of vehicles)\n- The movement direction and pattern\n- The spatial trajectory through the scene\n\nBased on this description, identify which video clip visually demonstrates the described scenario. Look for matching vehicle type and movement pattern. Choose A, B, C, or D.",
+            "response": "B",
+            "reasoning": "The user's description is 'A car moving horizontally from left to right across the scene.' Video B clearly shows several cars driving horizontally across the screen from left to right. Video A is a static shot with no moving cars. Video C shows a bus, not a car. Video D shows a car moving in the background, but the action is much clearer and more central in video B.",
+            "original_response": {
+                "answer": "B",
+                "reasoning": "The user's description is 'A car moving horizontally from left to right across the scene.' Video B clearly shows several cars driving horizontally across the screen from left to right. Video A is a static shot with no moving cars. Video C shows a bus, not a car. Video D shows a car moving in the background, but the action is much clearer and more central in video B."
+            },
+            "correct_answer": "B",
+            "index": 19,
+            "is_correct": true
+        },
+        "20": {
+            "question": "Read the text description of the urban street scene, which specifies:\n- The type of vehicle involved (or absence of vehicles)\n- The movement direction and pattern\n- The spatial trajectory through the scene\n\nBased on this description, identify which video clip visually demonstrates the described scenario. Look for matching vehicle type and movement pattern. Choose A, B, C, or D.",
+            "response": "C",
+            "reasoning": "The user's description specifies a car moving horizontally from left to right. In clip A, a car moves from right to left. In clip B, a motorcycle, not a car, moves from left to right. In clip D, cars are moving from right to left. Clip C is the only video that accurately depicts cars moving horizontally from left to right across the scene.",
+            "original_response": {
+                "answer": "C",
+                "reasoning": "The user's description specifies a car moving horizontally from left to right. In clip A, a car moves from right to left. In clip B, a motorcycle, not a car, moves from left to right. In clip D, cars are moving from right to left. Clip C is the only video that accurately depicts cars moving horizontally from left to right across the scene."
+            },
+            "correct_answer": "C",
+            "index": 20,
+            "is_correct": true
+        },
+        "21": {
+            "question": "Read the text description of the urban street scene, which specifies:\n- The type of vehicle involved (or absence of vehicles)\n- The movement direction and pattern\n- The spatial trajectory through the scene\n\nBased on this description, identify which video clip visually demonstrates the described scenario. Look for matching vehicle type and movement pattern. Choose A, B, C, or D.",
+            "response": "D",
+            "reasoning": "The user described a car moving horizontally from left to right. In clip A, the cars are moving from right to left. In clip B, while a car moves from left to right, the scene is somewhat blurry. In clip C, the cars are moving diagonally away from the camera. Clip D clearly shows a dark car entering the frame from the left and moving horizontally across the scene to the right, which perfectly matches the description.",
+            "original_response": {
+                "answer": "D",
+                "reasoning": "The user described a car moving horizontally from left to right. In clip A, the cars are moving from right to left. In clip B, while a car moves from left to right, the scene is somewhat blurry. In clip C, the cars are moving diagonally away from the camera. Clip D clearly shows a dark car entering the frame from the left and moving horizontally across the scene to the right, which perfectly matches the description."
+            },
+            "correct_answer": "D",
+            "index": 21,
+            "is_correct": true
+        }
+    }
+}

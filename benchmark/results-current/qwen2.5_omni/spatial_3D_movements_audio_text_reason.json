@@ -1,0 +1,50 @@
+{
+    "task_name": "spatial/3D_movements_audio_text",
+    "score": 100.0,
+    "correct_count": 5,
+    "all_count": 5,
+    "results": {
+        "2": {
+            "question": "Listen to the spatial audio from the urban street scene. Analyze:\n- The vehicle engine sound characteristics to identify the vehicle type (car, bus, motorbike)\n- The audio's directional movement (left-to-right, right-to-left, approaching, receding)\n- Volume and frequency changes that indicate distance and movement\n- Whether any vehicle sound is present at all\n\nWhich text description best matches your audio analysis? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 2,
+            "is_correct": true,
+            "reasoning": "The audio has a vehicle engine sound that is consistent with a car. The sound seems to be moving horizontally from left to right, which is indicated by the volume changes and the way the sound fades in and out as it moves across the scene. There are no other vehicle sounds present to suggest a different type of vehicle or multiple vehicles."
+        },
+        "3": {
+            "question": "Listen to the spatial audio from the urban street scene. Analyze:\n- The vehicle engine sound characteristics to identify the vehicle type (car, bus, motorbike)\n- The audio's directional movement (left-to-right, right-to-left, approaching, receding)\n- Volume and frequency changes that indicate distance and movement\n- Whether any vehicle sound is present at all\n\nWhich text description best matches your audio analysis? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 3,
+            "is_correct": true,
+            "reasoning": "The audio has a vehicle engine sound that is consistent with a car. The sound seems to be moving horizontally from left to right, as the volume and frequency changes suggest it's getting closer and then moving away. There are no other vehicle sounds present in the scene."
+        },
+        "6": {
+            "question": "Listen to the spatial audio from the urban street scene. Analyze:\n- The vehicle engine sound characteristics to identify the vehicle type (car, bus, motorbike)\n- The audio's directional movement (left-to-right, right-to-left, approaching, receding)\n- Volume and frequency changes that indicate distance and movement\n- Whether any vehicle sound is present at all\n\nWhich text description best matches your audio analysis? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 6,
+            "is_correct": true,
+            "reasoning": "The audio has a vehicle engine sound that is consistent with a car. The sound seems to be moving horizontally from left to right, which is indicated by the continuous presence of the engine sound throughout the audio. There are no other vehicle sounds to suggest a truck or a bus. The sound doesn't seem to be receding or approaching, so it's not moving towards or away from the listener. The volume and frequency changes are not enough to determine the exact distance, but the overall movement is horizontal from left to right."
+        },
+        "8": {
+            "question": "Listen to the spatial audio from the urban street scene. Analyze:\n- The vehicle engine sound characteristics to identify the vehicle type (car, bus, motorbike)\n- The audio's directional movement (left-to-right, right-to-left, approaching, receding)\n- Volume and frequency changes that indicate distance and movement\n- Whether any vehicle sound is present at all\n\nWhich text description best matches your audio analysis? Choose A, B, C, or D.",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 8,
+            "is_correct": true,
+            "reasoning": "The audio has a vehicle engine sound that is consistent with a car. The sound seems to be moving horizontally from left to right across the scene, which is indicated by the volume and frequency changes that suggest the car is moving closer to the listener and then moving away. There are no other vehicle sounds present in the audio."
+        },
+        "9": {
+            "question": "Listen to the spatial audio from the urban street scene. Analyze:\n- The vehicle engine sound characteristics to identify the vehicle type (car, bus, motorbike)\n- The audio's directional movement (left-to-right, right-to-left, approaching, receding)\n- Volume and frequency changes that indicate distance and movement\n- Whether any vehicle sound is present at all\n\nWhich text description best matches your audio analysis? Choose A, B, C, or D.",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 9,
+            "is_correct": true,
+            "reasoning": "The audio has a vehicle engine sound that is consistent with a car. The sound seems to be moving horizontally from left to right, which is indicated by the direction of the sound. The volume and frequency changes suggest the car is moving closer to the listener, then moving away, which is typical of a car passing by in an urban street scene."
+        }
+    },
+    "format_error_count": 0,
+    "run_error_count": 0
+}

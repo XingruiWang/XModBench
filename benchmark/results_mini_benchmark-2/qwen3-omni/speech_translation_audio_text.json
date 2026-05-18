@@ -1,0 +1,2090 @@
+{
+    "task_name": "speech/translation_audio_text",
+    "model": "qwen3_omni_instruct",
+    "score": 98.31649831649831,
+    "correct_count": 292,
+    "all_count": 297,
+    "results": {
+        "0": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 0,
+            "is_correct": true
+        },
+        "1": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 1,
+            "is_correct": true
+        },
+        "3": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 3,
+            "is_correct": true
+        },
+        "6": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 6,
+            "is_correct": true
+        },
+        "7": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 7,
+            "is_correct": true
+        },
+        "11": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 11,
+            "is_correct": true
+        },
+        "16": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 16,
+            "is_correct": true
+        },
+        "19": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 19,
+            "is_correct": true
+        },
+        "21": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 21,
+            "is_correct": true
+        },
+        "25": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 25,
+            "is_correct": true
+        },
+        "27": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 27,
+            "is_correct": true
+        },
+        "29": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 29,
+            "is_correct": true
+        },
+        "30": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 30,
+            "is_correct": true
+        },
+        "31": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 31,
+            "is_correct": true
+        },
+        "32": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 32,
+            "is_correct": true
+        },
+        "36": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 36,
+            "is_correct": true
+        },
+        "38": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 38,
+            "is_correct": true
+        },
+        "44": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 44,
+            "is_correct": true
+        },
+        "46": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 46,
+            "is_correct": true
+        },
+        "47": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 47,
+            "is_correct": true
+        },
+        "48": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 48,
+            "is_correct": true
+        },
+        "49": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 49,
+            "is_correct": true
+        },
+        "50": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 50,
+            "is_correct": true
+        },
+        "55": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 55,
+            "is_correct": true
+        },
+        "57": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 57,
+            "is_correct": true
+        },
+        "59": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 59,
+            "is_correct": true
+        },
+        "60": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 60,
+            "is_correct": true
+        },
+        "65": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 65,
+            "is_correct": true
+        },
+        "67": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 67,
+            "is_correct": true
+        },
+        "69": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 69,
+            "is_correct": true
+        },
+        "70": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "C",
+            "index": 70,
+            "is_correct": false
+        },
+        "71": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 71,
+            "is_correct": true
+        },
+        "72": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 72,
+            "is_correct": true
+        },
+        "73": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 73,
+            "is_correct": true
+        },
+        "79": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 79,
+            "is_correct": true
+        },
+        "80": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 80,
+            "is_correct": true
+        },
+        "81": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 81,
+            "is_correct": true
+        },
+        "84": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 84,
+            "is_correct": true
+        },
+        "85": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 85,
+            "is_correct": true
+        },
+        "87": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 87,
+            "is_correct": true
+        },
+        "89": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 89,
+            "is_correct": false
+        },
+        "93": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 93,
+            "is_correct": true
+        },
+        "94": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 94,
+            "is_correct": true
+        },
+        "95": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 95,
+            "is_correct": true
+        },
+        "97": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 97,
+            "is_correct": true
+        },
+        "98": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 98,
+            "is_correct": true
+        },
+        "99": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 99,
+            "is_correct": true
+        },
+        "103": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 103,
+            "is_correct": true
+        },
+        "104": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 104,
+            "is_correct": true
+        },
+        "108": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 108,
+            "is_correct": true
+        },
+        "109": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 109,
+            "is_correct": true
+        },
+        "111": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 111,
+            "is_correct": true
+        },
+        "112": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 112,
+            "is_correct": true
+        },
+        "114": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 114,
+            "is_correct": true
+        },
+        "117": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 117,
+            "is_correct": true
+        },
+        "121": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 121,
+            "is_correct": true
+        },
+        "123": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 123,
+            "is_correct": true
+        },
+        "124": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 124,
+            "is_correct": true
+        },
+        "127": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 127,
+            "is_correct": true
+        },
+        "128": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 128,
+            "is_correct": true
+        },
+        "131": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 131,
+            "is_correct": true
+        },
+        "135": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 135,
+            "is_correct": true
+        },
+        "141": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 141,
+            "is_correct": true
+        },
+        "142": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 142,
+            "is_correct": true
+        },
+        "146": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 146,
+            "is_correct": true
+        },
+        "151": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 151,
+            "is_correct": true
+        },
+        "156": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 156,
+            "is_correct": true
+        },
+        "159": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 159,
+            "is_correct": true
+        },
+        "161": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 161,
+            "is_correct": true
+        },
+        "163": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 163,
+            "is_correct": true
+        },
+        "165": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 165,
+            "is_correct": true
+        },
+        "166": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 166,
+            "is_correct": true
+        },
+        "167": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 167,
+            "is_correct": true
+        },
+        "169": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 169,
+            "is_correct": true
+        },
+        "173": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 173,
+            "is_correct": true
+        },
+        "175": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 175,
+            "is_correct": true
+        },
+        "181": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 181,
+            "is_correct": true
+        },
+        "182": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 182,
+            "is_correct": true
+        },
+        "194": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 194,
+            "is_correct": true
+        },
+        "196": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 196,
+            "is_correct": true
+        },
+        "199": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 199,
+            "is_correct": true
+        },
+        "203": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 203,
+            "is_correct": true
+        },
+        "205": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 205,
+            "is_correct": true
+        },
+        "206": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 206,
+            "is_correct": true
+        },
+        "208": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 208,
+            "is_correct": true
+        },
+        "210": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 210,
+            "is_correct": true
+        },
+        "214": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 214,
+            "is_correct": true
+        },
+        "216": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 216,
+            "is_correct": true
+        },
+        "217": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 217,
+            "is_correct": true
+        },
+        "220": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 220,
+            "is_correct": true
+        },
+        "223": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 223,
+            "is_correct": true
+        },
+        "224": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 224,
+            "is_correct": true
+        },
+        "225": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 225,
+            "is_correct": true
+        },
+        "226": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 226,
+            "is_correct": true
+        },
+        "228": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 228,
+            "is_correct": true
+        },
+        "229": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 229,
+            "is_correct": true
+        },
+        "230": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 230,
+            "is_correct": true
+        },
+        "232": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 232,
+            "is_correct": true
+        },
+        "233": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 233,
+            "is_correct": true
+        },
+        "234": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 234,
+            "is_correct": true
+        },
+        "235": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 235,
+            "is_correct": true
+        },
+        "236": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 236,
+            "is_correct": true
+        },
+        "238": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 238,
+            "is_correct": true
+        },
+        "239": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 239,
+            "is_correct": true
+        },
+        "242": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 242,
+            "is_correct": true
+        },
+        "245": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 245,
+            "is_correct": true
+        },
+        "246": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 246,
+            "is_correct": true
+        },
+        "248": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 248,
+            "is_correct": true
+        },
+        "249": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 249,
+            "is_correct": true
+        },
+        "250": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 250,
+            "is_correct": true
+        },
+        "252": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 252,
+            "is_correct": true
+        },
+        "253": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 253,
+            "is_correct": true
+        },
+        "257": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 257,
+            "is_correct": true
+        },
+        "263": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 263,
+            "is_correct": true
+        },
+        "269": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 269,
+            "is_correct": false
+        },
+        "270": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 270,
+            "is_correct": true
+        },
+        "271": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 271,
+            "is_correct": true
+        },
+        "273": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 273,
+            "is_correct": true
+        },
+        "274": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 274,
+            "is_correct": true
+        },
+        "276": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 276,
+            "is_correct": true
+        },
+        "281": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 281,
+            "is_correct": true
+        },
+        "284": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 284,
+            "is_correct": true
+        },
+        "292": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 292,
+            "is_correct": true
+        },
+        "295": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 295,
+            "is_correct": true
+        },
+        "296": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 296,
+            "is_correct": true
+        },
+        "300": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 300,
+            "is_correct": true
+        },
+        "305": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 305,
+            "is_correct": true
+        },
+        "314": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 314,
+            "is_correct": true
+        },
+        "319": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 319,
+            "is_correct": true
+        },
+        "322": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 322,
+            "is_correct": true
+        },
+        "323": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 323,
+            "is_correct": true
+        },
+        "330": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 330,
+            "is_correct": true
+        },
+        "331": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 331,
+            "is_correct": true
+        },
+        "332": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 332,
+            "is_correct": true
+        },
+        "333": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 333,
+            "is_correct": true
+        },
+        "334": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 334,
+            "is_correct": true
+        },
+        "337": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 337,
+            "is_correct": true
+        },
+        "338": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 338,
+            "is_correct": true
+        },
+        "342": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 342,
+            "is_correct": true
+        },
+        "344": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 344,
+            "is_correct": true
+        },
+        "346": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 346,
+            "is_correct": true
+        },
+        "348": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 348,
+            "is_correct": true
+        },
+        "352": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 352,
+            "is_correct": true
+        },
+        "356": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 356,
+            "is_correct": true
+        },
+        "363": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 363,
+            "is_correct": true
+        },
+        "367": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 367,
+            "is_correct": true
+        },
+        "370": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 370,
+            "is_correct": true
+        },
+        "371": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 371,
+            "is_correct": true
+        },
+        "372": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 372,
+            "is_correct": true
+        },
+        "373": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 373,
+            "is_correct": true
+        },
+        "374": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 374,
+            "is_correct": true
+        },
+        "376": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 376,
+            "is_correct": true
+        },
+        "379": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 379,
+            "is_correct": true
+        },
+        "382": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 382,
+            "is_correct": true
+        },
+        "385": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 385,
+            "is_correct": true
+        },
+        "387": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 387,
+            "is_correct": true
+        },
+        "388": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 388,
+            "is_correct": true
+        },
+        "389": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 389,
+            "is_correct": true
+        },
+        "390": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 390,
+            "is_correct": true
+        },
+        "394": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 394,
+            "is_correct": true
+        },
+        "401": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 401,
+            "is_correct": true
+        },
+        "405": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 405,
+            "is_correct": true
+        },
+        "408": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 408,
+            "is_correct": true
+        },
+        "409": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 409,
+            "is_correct": true
+        },
+        "410": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 410,
+            "is_correct": true
+        },
+        "413": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 413,
+            "is_correct": true
+        },
+        "422": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 422,
+            "is_correct": true
+        },
+        "423": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 423,
+            "is_correct": true
+        },
+        "428": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 428,
+            "is_correct": true
+        },
+        "429": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 429,
+            "is_correct": true
+        },
+        "432": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 432,
+            "is_correct": true
+        },
+        "433": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 433,
+            "is_correct": true
+        },
+        "434": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 434,
+            "is_correct": true
+        },
+        "438": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 438,
+            "is_correct": true
+        },
+        "440": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 440,
+            "is_correct": true
+        },
+        "441": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 441,
+            "is_correct": true
+        },
+        "442": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 442,
+            "is_correct": true
+        },
+        "445": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 445,
+            "is_correct": true
+        },
+        "447": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 447,
+            "is_correct": true
+        },
+        "448": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 448,
+            "is_correct": true
+        },
+        "451": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 451,
+            "is_correct": true
+        },
+        "457": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 457,
+            "is_correct": true
+        },
+        "459": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "C",
+            "index": 459,
+            "is_correct": false
+        },
+        "461": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 461,
+            "is_correct": true
+        },
+        "462": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 462,
+            "is_correct": true
+        },
+        "463": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 463,
+            "is_correct": true
+        },
+        "464": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 464,
+            "is_correct": true
+        },
+        "465": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 465,
+            "is_correct": true
+        },
+        "469": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 469,
+            "is_correct": true
+        },
+        "470": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 470,
+            "is_correct": true
+        },
+        "471": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 471,
+            "is_correct": true
+        },
+        "473": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 473,
+            "is_correct": true
+        },
+        "478": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 478,
+            "is_correct": true
+        },
+        "479": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 479,
+            "is_correct": true
+        },
+        "480": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 480,
+            "is_correct": true
+        },
+        "486": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 486,
+            "is_correct": true
+        },
+        "487": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 487,
+            "is_correct": true
+        },
+        "488": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 488,
+            "is_correct": true
+        },
+        "490": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 490,
+            "is_correct": true
+        },
+        "492": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 492,
+            "is_correct": true
+        },
+        "497": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 497,
+            "is_correct": true
+        },
+        "499": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 499,
+            "is_correct": true
+        },
+        "500": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 500,
+            "is_correct": true
+        },
+        "501": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 501,
+            "is_correct": true
+        },
+        "503": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 503,
+            "is_correct": true
+        },
+        "504": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 504,
+            "is_correct": true
+        },
+        "505": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 505,
+            "is_correct": true
+        },
+        "510": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 510,
+            "is_correct": true
+        },
+        "511": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 511,
+            "is_correct": true
+        },
+        "512": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 512,
+            "is_correct": true
+        },
+        "515": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 515,
+            "is_correct": true
+        },
+        "517": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 517,
+            "is_correct": true
+        },
+        "519": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 519,
+            "is_correct": true
+        },
+        "521": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 521,
+            "is_correct": true
+        },
+        "529": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 529,
+            "is_correct": true
+        },
+        "530": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 530,
+            "is_correct": true
+        },
+        "533": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 533,
+            "is_correct": true
+        },
+        "534": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 534,
+            "is_correct": true
+        },
+        "541": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 541,
+            "is_correct": true
+        },
+        "543": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 543,
+            "is_correct": true
+        },
+        "546": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 546,
+            "is_correct": true
+        },
+        "548": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 548,
+            "is_correct": true
+        },
+        "549": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 549,
+            "is_correct": true
+        },
+        "551": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 551,
+            "is_correct": true
+        },
+        "553": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 553,
+            "is_correct": true
+        },
+        "558": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 558,
+            "is_correct": true
+        },
+        "559": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 559,
+            "is_correct": true
+        },
+        "565": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 565,
+            "is_correct": true
+        },
+        "566": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 566,
+            "is_correct": true
+        },
+        "568": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 568,
+            "is_correct": true
+        },
+        "570": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 570,
+            "is_correct": true
+        },
+        "574": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 574,
+            "is_correct": true
+        },
+        "576": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 576,
+            "is_correct": true
+        },
+        "580": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 580,
+            "is_correct": true
+        },
+        "583": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 583,
+            "is_correct": true
+        },
+        "585": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 585,
+            "is_correct": true
+        },
+        "586": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 586,
+            "is_correct": true
+        },
+        "591": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 591,
+            "is_correct": true
+        },
+        "592": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 592,
+            "is_correct": true
+        },
+        "593": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 593,
+            "is_correct": true
+        },
+        "594": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 594,
+            "is_correct": true
+        },
+        "598": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 598,
+            "is_correct": true
+        },
+        "599": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 599,
+            "is_correct": true
+        },
+        "600": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 600,
+            "is_correct": true
+        },
+        "603": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 603,
+            "is_correct": true
+        },
+        "604": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 604,
+            "is_correct": true
+        },
+        "606": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 606,
+            "is_correct": true
+        },
+        "607": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 607,
+            "is_correct": true
+        },
+        "608": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 608,
+            "is_correct": true
+        },
+        "609": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 609,
+            "is_correct": true
+        },
+        "613": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 613,
+            "is_correct": true
+        },
+        "616": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 616,
+            "is_correct": true
+        },
+        "618": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 618,
+            "is_correct": true
+        },
+        "623": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 623,
+            "is_correct": true
+        },
+        "627": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 627,
+            "is_correct": true
+        },
+        "632": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 632,
+            "is_correct": true
+        },
+        "633": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 633,
+            "is_correct": true
+        },
+        "634": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 634,
+            "is_correct": true
+        },
+        "639": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 639,
+            "is_correct": true
+        },
+        "642": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 642,
+            "is_correct": true
+        },
+        "643": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 643,
+            "is_correct": true
+        },
+        "644": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 644,
+            "is_correct": true
+        },
+        "645": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 645,
+            "is_correct": true
+        },
+        "646": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 646,
+            "is_correct": true
+        },
+        "648": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 648,
+            "is_correct": true
+        },
+        "650": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 650,
+            "is_correct": true
+        },
+        "652": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 652,
+            "is_correct": true
+        },
+        "653": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 653,
+            "is_correct": true
+        },
+        "654": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 654,
+            "is_correct": true
+        },
+        "657": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 657,
+            "is_correct": true
+        },
+        "659": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 659,
+            "is_correct": true
+        },
+        "661": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 661,
+            "is_correct": true
+        },
+        "664": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 664,
+            "is_correct": true
+        },
+        "665": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 665,
+            "is_correct": true
+        },
+        "667": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 667,
+            "is_correct": true
+        },
+        "668": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 668,
+            "is_correct": true
+        },
+        "669": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 669,
+            "is_correct": true
+        },
+        "670": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 670,
+            "is_correct": true
+        },
+        "672": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 672,
+            "is_correct": true
+        },
+        "675": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 675,
+            "is_correct": true
+        },
+        "678": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 678,
+            "is_correct": true
+        },
+        "679": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 679,
+            "is_correct": true
+        },
+        "680": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 680,
+            "is_correct": true
+        },
+        "681": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 681,
+            "is_correct": true
+        },
+        "682": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 682,
+            "is_correct": true
+        },
+        "684": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 684,
+            "is_correct": true
+        },
+        "687": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 687,
+            "is_correct": true
+        },
+        "688": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 688,
+            "is_correct": true
+        },
+        "689": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 689,
+            "is_correct": true
+        },
+        "692": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 692,
+            "is_correct": true
+        },
+        "693": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 693,
+            "is_correct": true
+        },
+        "694": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 694,
+            "is_correct": true
+        },
+        "695": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 695,
+            "is_correct": true
+        },
+        "697": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 697,
+            "is_correct": true
+        },
+        "698": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 698,
+            "is_correct": true
+        },
+        "699": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 699,
+            "is_correct": true
+        },
+        "700": {
+            "question": "Which text most likely contains the Chinese translation of the content in this audio? Answer the question with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 700,
+            "is_correct": false
+        }
+    },
+    "format_error_count": 0,
+    "run_error_count": 0
+}

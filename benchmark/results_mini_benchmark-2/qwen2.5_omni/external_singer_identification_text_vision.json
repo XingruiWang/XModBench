@@ -1,0 +1,78 @@
+{
+    "task_name": "external/singer_identification_text_vision",
+    "score": 90.0,
+    "correct_count": 9,
+    "all_count": 10,
+    "results": {
+        "0": {
+            "question": "Based on the singer name 'JJ Lin', which photo shows this artist? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 0,
+            "is_correct": true
+        },
+        "1": {
+            "question": "Based on the singer name 'Bad Bunny', which photo shows this artist? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 1,
+            "is_correct": true
+        },
+        "2": {
+            "question": "Based on the singer name 'Taylor Swift', which photo shows this artist? Answer with A, B, C, or D",
+            "response": "D",
+            "correct_answer": "D",
+            "index": 2,
+            "is_correct": true
+        },
+        "3": {
+            "question": "Based on the singer name 'Sabrina Carpenter', which photo shows this artist? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 3,
+            "is_correct": true
+        },
+        "4": {
+            "question": "Based on the singer name 'The Weeknd', which photo shows this artist? Answer with A, B, C, or D",
+            "response": "C",
+            "correct_answer": "C",
+            "index": 4,
+            "is_correct": true
+        },
+        "5": {
+            "question": "Based on the singer name 'Teddy Swims', which photo shows this artist? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 5,
+            "is_correct": true
+        },
+        "6": {
+            "question": "Based on the singer name 'Morgan Wallen', which photo shows this artist? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 6,
+            "is_correct": true
+        },
+        "7": {
+            "question": "Based on the singer name 'Morgan Wallen', which photo shows this artist? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "A",
+            "index": 7,
+            "is_correct": true
+        },
+        "8": {
+            "question": "Based on the singer name 'The Weeknd', which photo shows this artist? Answer with A, B, C, or D",
+            "response": "B",
+            "correct_answer": "B",
+            "index": 8,
+            "is_correct": true
+        },
+        "9": {
+            "question": "Based on the singer name 'Teddy Swims', which photo shows this artist? Answer with A, B, C, or D",
+            "response": "A",
+            "correct_answer": "B",
+            "index": 9,
+            "is_correct": false
+        }
+    }
+}
