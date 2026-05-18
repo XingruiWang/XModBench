@@ -70,3 +70,24 @@ dist/
 
 # Ignore specific files
 secret_config.py
+
+# --- repo hygiene (XModBench published artifact) ---
+# Unverified / backup / mini result dumps — NOT the canonical results.
+# Verified numbers live on the project website leaderboard and
+# HF RyanWW/XModBench/eval_logs/.
+benchmark/results-bkup/
+benchmark/results-current/
+benchmark/results_mini_benchmark/
+benchmark/results_mini_benchmark-2/
+benchmark/all_model_result*.json
+# Broken local symlinks (pointed at absolute scratch paths)
+benchmark/scripts/process/5_Exteral/posters
+benchmark/scripts/process/5_Exteral/singers_data
+benchmark/scripts/process/5_Exteral/singers_data_processed
+benchmark/scripts/process/5_Exteral/trailer_clips
+benchmark/scripts/process/5_Exteral/trailer_videos
+benchmark/tasks
+# junk
+**/__pycache__/
+*.pyc
+**/Untitled*
