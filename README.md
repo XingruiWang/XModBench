@@ -1,27 +1,24 @@
-<h1 align="center">
-XModBench: Benchmarking Cross-Modal Capabilities and Consistency in Omni-Language Models
-</h1>
+<h1 align="center">XModBench</h1>
 
 <p align="center">
-  <img src="https://xingruiwang.github.io/projects/XModBench/static/images/teaser.png" width="90%" alt="XModBench teaser">
+  <b>Benchmarking Cross-Modal Capabilities and Consistency in Omni-Language Models</b>
 </p>
 
 <p align="center">
-  <a href="https://arxiv.org/abs/2510.15148">
-    <img src="https://img.shields.io/badge/Arxiv-Paper-b31b1b.svg" alt="Paper">
-  </a>
-  <a href="https://xingruiwang.github.io/projects/XModBench/">
-    <img src="https://img.shields.io/badge/Website-Page-0a7aca?logo=globe&logoColor=white" alt="Website">
-  </a>
-  <a href="https://huggingface.co/datasets/RyanWW/XModBench">
-    <img src="https://img.shields.io/badge/Huggingface-Dataset-FFD21E?logo=huggingface" alt="Dataset">
-  </a>
-<a href="https://github.com/XingruiWang/XModBench">
-  <img src="https://img.shields.io/badge/Github-Code-181717?logo=github&logoColor=white" alt="GitHub Repo">
-</a>
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT">
-  </a>
+  <a href="https://iclr.cc/Conferences/2026"><img src="https://img.shields.io/badge/ICLR-2026-8e44ad.svg" alt="ICLR 2026"></a>
+  <a href="https://arxiv.org/abs/2510.15148"><img src="https://img.shields.io/badge/Arxiv-2510.15148-b31b1b.svg" alt="Paper"></a>
+  <a href="https://xingruiwang.github.io/projects/XModBench/"><img src="https://img.shields.io/badge/Website-Page-0a7aca?logo=globe&logoColor=white" alt="Website"></a>
+  <a href="https://huggingface.co/datasets/RyanWW/XModBench"><img src="https://img.shields.io/badge/HuggingFace-Dataset-FFD21E?logo=huggingface" alt="Dataset"></a>
+  <a href="https://github.com/XingruiWang/XModBench"><img src="https://img.shields.io/badge/GitHub-Code-181717?logo=github&logoColor=white" alt="GitHub Repo"></a>
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT"></a>
+</p>
+
+<p align="center">
+  <img src="https://xingruiwang.github.io/projects/XModBench/static/images/teaser.png" width="92%" alt="XModBench teaser">
+</p>
+
+<p align="center">
+  <i>🎉 Accepted at <b>ICLR 2026</b></i>
 </p>
 
 
@@ -42,14 +39,40 @@ The dataset is available on Hugging Face: [RyanWW/XModBench](https://huggingface
 
 ### Task Groups and Subtasks
 
-| Group | Subtasks | Samples |
+<!-- | Group | Subtasks | Samples |
 |---|---|---:|
 | Perception | finegrained, general_activities, instruments, instruments_comp, natures | 27,000 |
 | Spatial | 3D_movements, arrangements, panaroma | 7,791 |
 | Speech | recognition, translation | 8,244 |
 | Temporal | calculation, count, order | 9,000 |
 | External Knowledge | emotion_classification, movie_matching, music_genre_classification, singer_identification | 12,300 |
-| **Total** | **17 subtasks** | **64,335** |
+| **Total** | **17 subtasks** | **64,335** | -->
+
+| Group | Subtask | Samples |
+|---|---|---:|
+| Perception | finegrained | 6,000 |
+| Perception | general_activities | 6,000 |
+| Perception | instruments | 6,000 |
+| Perception | instruments_comp | 3,000 |
+| Perception | natures | 6,000 |
+| **Perception total** | | **27,000** |
+| Spatial | 3D_movements | 2,646 |
+| Spatial | arrangements | 2,790 |
+| Spatial | panaroma | 2,355 |
+| **Spatial total** | | **7,791** |
+| Speech | recognition | 4,032 |
+| Speech | translation | 4,212 |
+| **Speech total** | | **8,244** |
+| Temporal | calculation | 3,000 |
+| Temporal | count | 3,000 |
+| Temporal | order | 3,000 |
+| **Temporal total** | | **9,000** |
+| External | emotion_classification | 4,200 |
+| External | movie_matching | 1,200 |
+| External | music_genre_classification | 6,000 |
+| External | singer_identification | 900 |
+| **External total** | | **12,300** |
+| **Grand total** | | **64,335** |
 
 ### Modality Combinations
 
@@ -155,13 +178,13 @@ python $audioBench/scripts/run.py \
 
 
 
-### lmms-eval Evaluation (recommended for open-source models)
+## 🔁 Reproduce with lmms-eval
 
-For systematic, reproducible evaluation of open-source omni-LMMs we use [**lmms-eval**](https://github.com/XingruiWang/lmms-eval), a fork of the lmms-eval framework with XModBench tasks pre-integrated.
+We provide a fully reproducible evaluation path through [**lmms-eval**](https://github.com/XingruiWang/lmms-eval) (fork with XModBench tasks pre-integrated). The dataset is auto-downloaded from the [HF Hub](https://huggingface.co/datasets/RyanWW/XModBench) — no manual data prep.
 
-> **Note:** Vision has been split into **Image** and **Video** for efficient evaluation — models only need to load the relevant media type per task.
+> **Why dedicated model wrappers?** Each XModBench item places media in **both** the question stem **and every answer option** (up to 5 media per item). lmms-eval's *simple* model interface only attaches one media object per request, so omni models would silently see just the first media. We therefore add chat-style `*_interleave` wrappers that feed the full interleaved prompt to the model. **No upstream model file is modified.**
 
-#### 1. Clone and install lmms-eval
+### 1. Install
 
 ```bash
 git clone https://github.com/XingruiWang/lmms-eval.git
@@ -169,79 +192,80 @@ cd lmms-eval
 pip install -e ".[all]"
 ```
 
-#### 2. Set the data root and generate JSONL files
-
-```bash
-export XMODBENCH=/path/to/XModBench
-
-python lmms_eval/tasks/xmod_bench/build_data.py \
-    --tasks-root $XMODBENCH/benchmark/tasks \
-    --out-dir    lmms_eval/tasks/xmod_bench/data \
-    --seed 42
-```
-
-This generates 10 JSONL files (one per modality combination) in `lmms_eval/tasks/xmod_bench/data/`.
-
-#### 3. Run a quick test
+### 2. Quick test (single config, 8 samples)
 
 ```bash
 python -m lmms_eval \
-    --model qwen2_5_omni \
-    --model_args pretrained=Qwen/Qwen2.5-Omni-7B \
-    --tasks xmod_bench_image_text \
-    --batch_size 1 \
-    --limit 16
+    --model qwen2_5_omni_interleave \
+    --model_args pretrained=Qwen/Qwen2.5-Omni-7B,device_map=auto,attn_implementation=flash_attention_2 \
+    --tasks xmod_bench_lite_a2t \
+    --batch_size 1 --limit 8 --log_samples \
+    --output_path logs/debug
 ```
 
-#### 4. Full benchmark with Slurm (all 10 modality combinations in parallel)
+### 3. XModBench-Lite — 6,000 samples (5 families × 6 configs × 200)
+
+`submit_lite.sh` launches all 6 modality configs with a resource-aware GPU
+profile (no-video configs on 1 GPU, video configs on 4) so the full sweep
+fits one QoS allocation:
 
 ```bash
-#!/bin/bash
-#SBATCH --job-name=xmod_bench_qwen2_5_omni
-#SBATCH --array=0-9
-#SBATCH --gres=gpu:1
-#SBATCH --mem=40G
-#SBATCH --cpus-per-task=8
-#SBATCH --time=10:00:00
-#SBATCH --output=logs/xmod_bench/%x_%a.log
-#SBATCH --error=logs/xmod_bench/%x_%a.log
+# Qwen2.5-Omni-7B
+./submit_lite.sh qwen2_5_omni_interleave Qwen/Qwen2.5-Omni-7B qwenomni3
 
-TASKS=(
-    xmod_bench_audio_text    # 10,720 samples
-    xmod_bench_text_audio    # 10,725 samples
-    xmod_bench_audio_image   #  7,689 samples
-    xmod_bench_image_audio   #  7,689 samples
-    xmod_bench_image_text    #  7,689 samples
-    xmod_bench_text_image    #  7,689 samples
-    xmod_bench_audio_video   #  3,031 samples
-    xmod_bench_text_video    #  3,031 samples
-    xmod_bench_video_audio   #  3,036 samples
-    xmod_bench_video_text    #  3,036 samples
-)
+# Qwen3-Omni-30B-A3B (MoE; all configs need 4 GPU)
+LIGHT_GRES=gpu:a5000:4 HEAVY_GRES=gpu:a5000:4 \
+  ./submit_lite.sh qwen3_omni_interleave Qwen/Qwen3-Omni-30B-A3B-Instruct qwenomni3 \
+  device_map=auto,attn_implementation=flash_attention_2
 
-TASK=${TASKS[$SLURM_ARRAY_TASK_ID]}
-REPO=/path/to/lmms-eval
-export XMODBENCH=/path/to/XModBench
+# Level-2 metrics (by-config / by-family / disparity / imbalance)
+python lmms_eval/tasks/xmod_bench/summarize.py \
+    --logs logs/xmod_bench_lite/results_qwen2_5_omni_interleave/
+```
 
-cd "$REPO"
-source .venv/bin/activate
+### 4. Full benchmark — 61,320 samples (10 modality combinations)
+
+```bash
+TASKS=(xmod_bench_audio_text xmod_bench_text_audio \
+       xmod_bench_audio_image xmod_bench_image_audio \
+       xmod_bench_image_text xmod_bench_text_image \
+       xmod_bench_audio_video xmod_bench_text_video \
+       xmod_bench_video_audio xmod_bench_video_text)
 
 python -m lmms_eval \
-    --model qwen2_5_omni \
-    --model_args pretrained=Qwen/Qwen2.5-Omni-7B \
-    --tasks "$TASK" \
-    --batch_size 1 \
-    --output_path "$REPO/logs/xmod_bench/results" \
-    --log_samples \
-    --log_samples_suffix "$TASK"
+    --model qwen2_5_omni_interleave \
+    --model_args pretrained=Qwen/Qwen2.5-Omni-7B,device_map=auto,attn_implementation=flash_attention_2 \
+    --tasks "${TASKS[$SLURM_ARRAY_TASK_ID]}" \
+    --batch_size 1 --log_samples \
+    --output_path logs/xmod_bench_full/results
 ```
 
-Submit all 10 tasks at once:
-```bash
-sbatch run_xmod_bench.slurm
-```
+### Reproduction results (Qwen series)
 
-Evaluation results include overall accuracy and per-group / per-subtask / per-modality-combo breakdowns, logged automatically at the end of each run.
+By-config accuracy on **XModBench-Lite** via lmms-eval, vs. the paper's
+full-set numbers (Table 2). Δ = Lite − paper.
+
+| Config | Qwen2.5-Omni (Lite) | paper (full) | Δ | Qwen3-Omni (Lite) |
+|--------|--------------------:|-------------:|----:|------------------:|
+| Audio → Text   | 63.1 | 62.0 | **+1.1** | 71.6 |
+| Audio → Vision | 49.8 | 48.0 | **+1.8** | 52.0 |
+| Text → Audio   | 59.2 | 55.4 | **+3.8** | 62.5 |
+| Text → Vision  | 62.5 | 59.6 | **+2.9** | 67.0 |
+| Vision → Audio | 50.3 | 50.5 | **−0.2** | 55.6 |
+| Vision → Text  | 76.4 | 76.3 | **+0.1** | 83.1 |
+
+- **Qwen2.5-Omni reproduces the paper within |Δ| < 5 on all 6 configurations**
+  on the lightweight 6k Lite split — confirming the lmms-eval port is faithful.
+- **Qwen3-Omni** (released after the paper) is reported here for the first
+  time, using the identical wrapper/code path.
+- Full-set (61,320-sample) lmms-eval runs use the same wrappers via the
+  Section 4 command; numbers are updated in
+  [`lmms_eval/tasks/xmod_bench/RESULTS.md`](https://github.com/XingruiWang/lmms-eval/blob/feat/xmod-bench/lmms_eval/tasks/xmod_bench/RESULTS.md)
+  as runs complete.
+
+Per-run logs include overall accuracy plus per-config / per-family /
+per-subtask breakdowns; `summarize.py` emits the 17 Level-2 numbers
+(6 by-config, 5 by-family, 3 modality-disparity, 3 directional-imbalance).
 
 ## 📈 Benchmark Results
 
