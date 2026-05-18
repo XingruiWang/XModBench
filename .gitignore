@@ -94,3 +94,4 @@ benchmark/tasks
 
 # upstream FireRedTTS clone (64GB model weights) — install separately
 scripts/FireRedTTS/
+lite.json
