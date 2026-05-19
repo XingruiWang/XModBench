@@ -120,7 +120,7 @@ XModBench/
 
 ## 🚀 Quick Start
 
-### Basic Usage (legacy API-based evaluation)
+### Basic Usage (legacy evaluation sctipt)
 
 ```bash
 
