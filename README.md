@@ -224,7 +224,7 @@ python lmms_eval/tasks/xmod_bench/summarize.py \
     --logs logs/xmod_bench_lite/results_qwen2_5_omni_interleave/
 ```
 
-### 4. Full benchmark — 61,320 samples (10 modality combinations)
+### 4. Full benchmark — 61,320 samples 
 
 ```bash
 TASKS=(xmod_bench_audio_text xmod_bench_text_audio \
